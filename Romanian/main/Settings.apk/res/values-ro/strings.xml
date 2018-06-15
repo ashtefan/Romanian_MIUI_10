@@ -2949,7 +2949,6 @@ Selectaţi sistemul de operare de mai jos:"</string>
     <string name="notification_channels_other">Altele</string>
     <string name="notification_content_block_summary">Nu arăta niciodată notificări în umbră sau pe dispozitivele periferice</string>
     <string name="notification_content_block_title">Arată notificări</string>
-    <string name="notification_header_divider_symbol_with_spaces">" • "</string>
     <string name="notification_importance_blocked">Nu arăta niciodată notificări</string>
     <string name="notification_importance_default">Redă un sunet</string>
     <string name="notification_importance_default_title">Ridicată</string>
@@ -4330,7 +4329,6 @@ Acest lucru este posibil datorită unui certificat de încredere instalat pe dis
     <string name="status_bar_settings_all_app_display_loading">Doar o secundă…</string>
     <string name="status_bar_settings_app_notification_preferences">Setări aplicație</string>
     <string name="status_bar_settings_basic_settings">Setări de bază</string>
-    <string name="status_bar_settings_carrier_sim">"SIM %1$s: "</string>
     <string name="status_bar_settings_custom_carrier">Editați numele operatorului</string>
     <string name="status_bar_settings_custom_wifi_name">Editaţi numele Wi-Fi</string>
     <string name="status_bar_settings_enable_notification">Afişare notificări</string>

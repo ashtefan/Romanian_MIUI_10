@@ -437,7 +437,6 @@ Utilizați doar încărcătorul furnizat de producător."</string>
     <string name="launch_defaults_some">Unele aplicații implicite setate</string>
     <string name="legacy_dhcp_client_summary">Utilizați clientul DHCP din Lollipop în locul noului client Android DHCP.</string>
     <string name="legacy_vpn_name">VPN</string>
-    <string name="list_delimeter">", "</string>
     <string name="lland">L Land</string>
     <string name="loading_desktop">Doar o secundă…</string>
     <string name="local_backup_password_summary_change">Atingeți pentru a modifica sau elimina parola pentru copiile complete de rezervă</string>
@@ -496,7 +495,6 @@ Pentru mai multe informații, contactați administratorul."</string>
     <string name="monitoring_description_personal_profile_named_vpn">Profilul dvs. personal este conectat la %1$s, care vă poate monitoriza activitatea în rețea, inclusiv emailurile, aplicațiile și site-urile web.</string>
     <string name="monitoring_description_two_named_vpns">"Sunteți conectat la %1$s și %2$s, care vă poate monitoriza activitatea în rețea, inclusiv emailurile, aplicațiile și site-urile web."</string>
     <string name="monitoring_description_vpn_settings">Setări Open VPN</string>
-    <string name="monitoring_description_vpn_settings_separator">" "</string>
     <string name="monitoring_subtitle_ca_certificate">Certificate CA</string>
     <string name="monitoring_subtitle_network_logging">Jurnalizare rețea</string>
     <string name="monitoring_subtitle_vpn">VPN</string>
@@ -565,12 +563,8 @@ Pentru mai multe informații, contactați administratorul."</string>
     <string name="pointer_location_summary">Afișează atingerile ecranului</string>
     <string name="power_charging_duration">%1$s - %2$s până la încărcarea completă</string>
     <string name="power_charging_duration_ac">%1$s - %2$s până la încărcarea completă la CA</string>
-    <string name="power_charging_duration_ac_short">%1$s - %2$s</string>
-    <string name="power_charging_duration_short">%1$s - %2$s</string>
     <string name="power_charging_duration_usb">%1$s - %2$s până la încărcarea completă prin USB</string>
-    <string name="power_charging_duration_usb_short">%1$s - %2$s</string>
     <string name="power_charging_duration_wireless">%1$s - %2$s până la încărcarea completă fără fir</string>
-    <string name="power_charging_duration_wireless_short">%1$s - %2$s</string>
     <string name="power_discharging_duration">%1$s - aprox. %2$s rămas</string>
     <string name="power_discharging_duration_short">%1$s - %2$s rămas</string>
     <string name="power_remaining_charging_duration_only">%1$s rămas până la încărcarea completă</string>
@@ -597,7 +591,6 @@ Pentru mai multe informații, contactați administratorul."</string>
     <string name="quick_settings_disclosure_vpns">Dispozitiv conectat la VPNs</string>
     <string name="quick_settings_done">Terminat</string>
     <string name="quick_settings_more_settings">Setări suplimentare</string>
-    <string name="quick_settings_tiles">implicit</string>
     <string name="quick_settings_wifi_detail_empty_text">Nicio rețea Wi-Fi disponibilă</string>
     <string name="quick_settings_wifi_label">Wi-Fi</string>
     <string name="quick_settings_wifi_nearby">Selectați o rețea din apropiere</string>
@@ -710,7 +703,6 @@ d MMMM"</string>
     <string name="status_bar_network_flow_limit">"   Limita lunară: %1$s   "</string>
     <string name="status_bar_network_flow_purchase">"   Achiziţionaţi >"</string>
     <string name="status_bar_network_flow_today">Astăzi: %1$s</string>
-    <string name="status_bar_network_name_separator">|</string>
     <string name="status_bar_no_recent_apps">Nu există aplicaţii recente</string>
     <string name="status_bar_notification_inspect_item_title">Informaţii despre aplicaţie</string>
     <string name="status_bar_recent_guide_all">"Glisaţi în sus pentru a închide
