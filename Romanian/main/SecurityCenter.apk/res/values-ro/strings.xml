@@ -167,6 +167,7 @@
     <string name="app_manager_defaults_setting">Aplicații implicite</string>
     <string name="app_manager_details_electric_title">Acumulator</string>
     <string name="app_manager_details_storage_title">Stocare</string>
+    <string name="app_manager_details_title">Informații despre aplicație</string>
     <string name="app_manager_details_traffic_title">Utilizare date</string>
     <string name="app_manager_disable">"Nu permite"</string>
     <string name="app_manager_disable_dlg_text">Dacă dezactivați această aplicație, este posibil să fie afectată și funcționarea altor aplicații.</string>

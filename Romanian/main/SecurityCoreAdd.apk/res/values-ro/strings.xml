@@ -15,8 +15,10 @@ această opțiune va fi activată în mod automat în spațiul secundar."</strin
     <string name="appData">Aplicații instalate</string>
     <string name="app_name">Componentă de bază de securitate</string>
     <string name="back">Înapoi</string>
+    <string name="bind_device">Adaugă dispozitive</string>
     <string name="can_not_delete_when_calling">"Nu se pot șterge Spațiile de lucru în timpul unui apel"</string>
     <string name="can_not_switch_when_calling">"Nu se pot comuta Spațiile de lucru în timpul unui apel"</string>
+    <string name="can_not_switch_when_green_kid_active">Comutarea la Spațiul secundar este restricționată de către controlul parental</string>
     <string name="cancelClosePassword">"Nu opri"</string>
     <string name="cancel_button">Renunțați</string>
     <string name="changePassword">Modificați parola</string>
@@ -101,6 +103,7 @@ pentru a le putea vedea în orice moment"</string>
     <string name="go_on_import">Importați</string>
     <string name="gpg_message">Crearea aplicațiilor duale necesită serviciile Google Play. Creați o dublură pentru serviciile Google Play?</string>
     <string name="gpg_title">Aplicație dublată pentru Google Play</string>
+    <string name="green_guard">Controale parentale</string>
     <string name="guide_contact_sub_title_desc">"Contactele adăugate în Spațiul Secundar vor fi private.
 Mesajele vor fi vizibile doar în Spațiul Secundar."</string>
     <string name="guide_contact_suc_sub_title_desc">Doar contactele și mesajele private vor fi vizibile în Spațiul Secundar</string>
@@ -321,7 +324,7 @@ pentru a accesa Spațiul secundar din Blocarea ecranului"</string>
     <string name="switching_files">Se mută fișierele…</string>
     <string name="switching_photos">Se mută fotografiile…</string>
     <string name="temporary_no_set">Nu acum</string>
-    <string name="this_function_can_not_use_in_second_space">Această funcție poate fi utilizată doar în Spațiul principal</string>
+    <string name="this_function_can_not_use_in_second_space">Această caracteristică poate fi utilizată doar în Spațiul principal</string>
     <string name="title_choose_app_status">Selectați tipul aplicațiilor</string>
     <string name="title_switch_file">Ștergeți aceste fișiere?</string>
     <string name="title_switch_photo">Ștergeți aceste fotografii?</string>
