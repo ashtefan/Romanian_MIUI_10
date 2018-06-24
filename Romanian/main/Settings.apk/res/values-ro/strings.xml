@@ -2691,6 +2691,11 @@ Sunt alți utilizatori pe acest dispozitiv.
     <string name="miui_allow_vibrate">Vibrații</string>
     <string name="miui_data_usage_menu_metered">Hotspot-uri mobile</string>
     <string name="miui_experience_optimization">Activați optimizarea MIUI</string>
+    <string name="miui_lab_ai_cloud_closed">"Preîncărcarea AI nu este încă disponibilă."</string>
+    <string name="miui_lab_ai_preload_desc">Preîncărcarea AI crește viteza de lansare a aplicațiilor</string>
+    <string name="miui_lab_ai_preload_title">Preîncărcare AI</string>
+    <string name="miui_lab_drive_mode_desc">Utilizați controlul vocal și ascultați mesajele WeChat</string>
+    <string name="miui_lab_drive_mode_title">Mod În Mașină</string>
     <string name="miui_lab_feature_applied">Aplicat</string>
     <string name="miui_lab_feature_off">Oprit</string>
     <string name="miui_lab_feature_on">Pornit</string>
@@ -4576,6 +4581,12 @@ Luați în calcul utilizarea unui ^1 mai rapid pentru o mai bună performanță.
     <string name="summary_range_verbal_combination">%1$s la %2$s</string>
     <string name="summary_two_lines_placeholder">" 
  "</string>
+    <string name="super_resolution_access_title">Aplicații accesibile</string>
+    <string name="super_resolution_desc">Face imaginile mai clare utilizând un algoritm AI</string>
+    <string name="super_resolution_maintain">"Super rezoluția nu este disponibilă încă."</string>
+    <string name="super_resolution_no_app_tips">Descărcați mai întâi WeChat și Toutiao.</string>
+    <string name="super_resolution_reboot_tips">Această caracteristică permite ca imaginile blurate din WeChat și Toutiao să fie mai clare. Lansați din nou aplicațiile după ce activați această funcție.</string>
+    <string name="super_resolution_title">Super rezoluție</string>
     <string name="supl_not_set">&lt;Nu este setat&gt;</string>
     <string name="supplicant_state_label">Stare supplicant:</string>
     <string name="support_account_picker_add_account">Adăugați un cont</string>

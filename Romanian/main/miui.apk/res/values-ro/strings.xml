@@ -14,6 +14,7 @@
     <string name="afternoon">PM</string>
     <string name="am">AM</string>
     <string name="birthday">Zi de naştere</string>
+    <string name="cancel_description">Renunțați</string>
     <string name="check_phone_error_title">Sincronizare oprită</string>
     <string name="check_phone_io_error">Nu se poate conecta la rețea</string>
     <string name="chinese_day_1">初一</string>
@@ -88,6 +89,7 @@
     <string name="chinese_symbol_animals_tiger">虎</string>
     <string name="clearable_edittext_clear_description">Goliți</string>
     <string name="close">Închideţi</string>
+    <string name="confirm_description">Confirmați</string>
     <string name="copyright">Drepturi de autor</string>
     <string name="country_name_ac">AC</string>
     <string name="country_name_ad">AD</string>
@@ -325,7 +327,9 @@
     <string name="date_picker_label_year" />
     <string name="date_time_done">OK</string>
     <string name="date_time_picker_dialog_title">Setaţi data şi ora</string>
+    <string name="delete_description">Ștergeți</string>
     <string name="deselect_all">Deselectaţi</string>
+    <string name="deselect_all_description">Deselectați tot</string>
     <string name="early_morning">AM</string>
     <string name="earthly_branches_chen">辰</string>
     <string name="earthly_branches_chou">丑</string>
@@ -481,6 +485,7 @@
     <string name="search_input_description">Căutați</string>
     <string name="search_mode_button_back_description">Înapoi</string>
     <string name="select_all">Selectaţi tot</string>
+    <string name="select_all_description">Selectați tot</string>
     <string name="select_item">Selectare elemente</string>
     <string name="send">Trimiteţi</string>
     <string name="send_sms_for_sync_notice">Operatorul dvs. poate percepe o taxă pentru un mesaj SMS utilizat pentru a activa acest serviciu.</string>
