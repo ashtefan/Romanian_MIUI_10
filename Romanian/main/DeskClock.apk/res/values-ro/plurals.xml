@@ -16,6 +16,10 @@
         <item quantity="other">Ștergeți fusurile orare selectate?</item>
         <item quantity="one">Ștergeți acest fus orar?</item>
     </plurals>
+    <plurals name="second">
+        <item quantity="other">%d secunde</item>
+        <item quantity="one">%d secundă</item>
+    </plurals>
     <plurals name="snooze_message">
         <item quantity="other">Amânaţi pentru %d minute</item>
         <item quantity="one">Amânaţi pentru %d minut</item>
