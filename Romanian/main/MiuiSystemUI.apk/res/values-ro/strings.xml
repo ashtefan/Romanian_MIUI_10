@@ -248,6 +248,7 @@ Sample Rate"</string>
     <string name="daltonizer_mode_protanomaly">Protanomalie (roșu-verde)</string>
     <string name="daltonizer_mode_tritanomaly">Tritanomalie (albastru-galben)</string>
     <string name="daltonizer_type_overridden">Suprascris de către %1$s</string>
+    <string name="data_connection_no_internet">Neconectat la internet</string>
     <string name="data_usage_disabled_dialog">Aţi atins limita specificată pentru utilizarea datelor.
     
 Dacă reactivaţi datele, puteţi fi taxat de către operator.</string>
@@ -511,9 +512,11 @@ Pentru mai multe informații, contactați administratorul."</string>
     <string name="no_notification_tips">Nicio notificare</string>
     <string name="no_weather_description">Obțineți informații despre starea vremii &gt;</string>
     <string name="not_support_multi_window">"Aplicația curentă nu suportă modul Ecran scindat"</string>
+    <string name="notification_channel_screenbutton">Butoane</string>
     <string name="notification_group_overflow_indicator">+%s</string>
     <string name="notification_group_title_text">%1$s (%2$s)</string>
     <string name="notification_header_title">Notificări</string>
+    <string name="notification_hidden_by_policy_text">Conținut ascuns</string>
     <string name="notification_hidden_text">Aveți un mesaj nou</string>
     <string name="notification_low_battery_action_btn">Activați</string>
     <string name="notification_low_battery_need_charge">Acumulatorul este descărcat. Conectați încărcătorul.</string>
@@ -596,6 +599,10 @@ Pentru mai multe informații, contactați administratorul."</string>
     <string name="quick_settings_done">Terminat</string>
     <string name="quick_settings_dual_location_label">GPS dual</string>
     <string name="quick_settings_more_settings">Setări suplimentare</string>
+    <string name="quick_settings_night_secondary_label_on_at">Pornește la %s</string>
+    <string name="quick_settings_night_secondary_label_on_at_sunset">Pornește la răsărit</string>
+    <string name="quick_settings_night_secondary_label_until_sunrise">Până la apus</string>
+    <string name="quick_settings_secondary_label_until">Până la %s</string>
     <string name="quick_settings_wifi_detail_empty_text">Nicio rețea Wi-Fi disponibilă</string>
     <string name="quick_settings_wifi_label">Wi-Fi</string>
     <string name="quick_settings_wifi_nearby">Selectați o rețea din apropiere</string>
@@ -870,4 +877,6 @@ Glisaţi în jos pentru a bloca"</string>
     <string name="wifi_verbose_logging">Activați Wi-Fi Verbose Logging</string>
     <string name="wifi_verbose_logging_summary">Crește nivelul Wi-Fi logging level, arată RSSI pentru fiecare SSID din lista rețelelor Wi-Fi</string>
     <string name="window_animation_scale_title">Scală fereastră animație</string>
+    <string name="zen_alarms_introduction">"Nu veți mai fi deranjat de sunete și vibrații, cu excepția alarmei. Veți auzi în continuare orice veți dori să redați inclusiv muzica, videoclipurile și jocurile."</string>
+    <string name="zen_priority_introduction">"Nu veți mai fi deranjat de sunete și vibrații, cu excepția alarmei, memento-urilor, evenimentelor și apelanților pe care i-ați specificat. Veți auzi în continuare orice veți dori să redați inclusiv muzica, videoclipurile și jocurile."</string>
 </resources>
