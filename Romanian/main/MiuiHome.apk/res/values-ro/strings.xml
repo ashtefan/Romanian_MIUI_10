@@ -58,6 +58,7 @@
     <string name="aqi_quality_index_light_pollution">Atenţie</string>
     <string name="aqi_quality_index_moderate">Moderat</string>
     <string name="aqi_quality_index_unhealthy">Nesănătos</string>
+    <string name="backup_fail">"Nu s-a putut face o copie de rezervă pentru lansatorul de sistem"</string>
     <string name="bad_wallpaper_source_prompt">"Imposibil de încărcat imaginea de fundal"</string>
     <string name="buffering">Încărcare memorie tampon…</string>
     <string name="cancel_action">Anulaţi</string>
@@ -173,6 +174,7 @@
     <string name="guide_install_app_title">Căutați și instalaţi aplicaţia?</string>
     <string name="guide_tips_editing_mode">Atingeți și mențineți apăsat pentru a plasa un widget pe ecran</string>
     <string name="home_screen">Ecranul principal</string>
+    <string name="icon_reorganize_channel">Aranjați iconițele</string>
     <string name="image_too_small_message">"Imaginea originală nu este destul de mare"</string>
     <string name="install">Instalaţi</string>
     <string name="invalid_contact_shortcut">Contact nevalid</string>
@@ -218,6 +220,7 @@
     <string name="normal_wallpaper">Imagine de fundal</string>
     <string name="notification_installed">Instalat cu succes</string>
     <string name="notification_open_button">Deschideți</string>
+    <string name="notification_reset_title">Iconițele au fost aranjate cu succes</string>
     <string name="online_wallpaper">On-line</string>
     <string name="out_of_space">Nu mai este loc pe acest ecran</string>
     <string name="permdesc_install_shortcut">Permite unei aplicaţii să adauge comenzi rapide fără intervenţia utilizatorului.</string>
@@ -249,6 +252,7 @@
     <string name="preferences_general_title">Setări adiţionale</string>
     <string name="preferences_title">Setări lansator de sistem</string>
     <string name="process" />
+    <string name="quick_app">Aplicații rapide</string>
     <string name="recommend_apk_size_and_desc">%1$d MB | %2$s</string>
     <string name="recommend_apps_default_title">Gol</string>
     <string name="recommend_apps_no_data">Nu există date</string>
@@ -257,7 +261,11 @@
     <string name="recommend_apps_switch_title">Aplicaţii promovate</string>
     <string name="recommend_apps_tips">"Această caracteristică trebuie să se conecteze la internet pentru a funcţiona în mod normal. Pentru a dezactiva opţiunea, atingeți numele acestui dosar."</string>
     <string name="recommend_loading">Încărcare</string>
+    <string name="reset_description_first_time">Puteți restaura dispunerea %1$s în 2 ore</string>
+    <string name="reset_description_others">Puteți restaura dispunerea %1$s</string>
+    <string name="reset_fail">"Nu s-a putut restaura"</string>
     <string name="reset_scene_prompt">Ecranul va fi resetat la aspectul prestabilit.</string>
+    <string name="reset_title">Restaurați</string>
     <string name="screen_locked_toast">Dispunerea ecranului principal este blocată</string>
     <string name="screen_number">Ecranul %d</string>
     <string name="select_all">Selectaţi tot</string>
