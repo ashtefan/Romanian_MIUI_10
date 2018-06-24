@@ -113,14 +113,19 @@
     <string name="dual_camera_lens_covered_toast">Lentilele sunt acoperite.</string>
     <string name="dual_camera_lowlight_toast">"Se pare că iluminarea este prea slabă".</string>
     <string name="dual_camera_too_close_toast">Camera este prea aproape de obiect.</string>
-    <string name="dual_camera_use_hint">"Modul stereo vă ajută să blurați fundalul.
-    
-Obiectul nu trebuie să fie mai departe de 2 metri"</string>
+    <string name="dual_camera_use_hint">"Obiectul nu trebuie să fie mai departe de 2 metri"</string>
+    <string name="edit_chin">Bărbie</string>
     <string name="edit_eye_large">Ochi mari</string>
     <string name="edit_face_ruddy">Rumen</string>
     <string name="edit_face_slender">Subţire</string>
+    <string name="edit_lips">Buze</string>
+    <string name="edit_neck">Gât</string>
+    <string name="edit_nose">Nas</string>
+   <string name="edit_risorius">Risorius</string>
     <string name="edit_skin_smooth">Neted</string>
     <string name="edit_skin_white">Ton</string>
+    <string name="edit_slim_nose">Nas</string>
+    <string name="edit_smile">Zâmbet</string>
     <string name="error_fail_to_start_audio_capture">Nu se poate porni înregistrarea vocală. Microfonul poate fi utilizat de o altă aplicaţie.</string>
     <string name="face_analyze_info">Vârsta: %2$s (%1$s)</string>
     <string name="face_analyze_info_female">Femeie</string>
@@ -154,9 +159,7 @@ Obiectul nu trebuie să fie mai departe de 2 metri"</string>
     <string name="front_camera_hint_text_place">"Realizarea de selfie-uri este mai facilă
 dacă rotiți telefonul"</string>
     <string name="front_camera_hint_text_rotate">Rotiți telefonul</string>
-    <string name="groupshot_mode_use_hint">"Vor fi realizate mai multe fotografii pentru a selecta cele mai reușite
-expresii faciale într-o singură fotografie"</string>
-
+    <string name="hibernate_hint">Atingeți ecranul pentru a reporni Camera</string>
     <string name="hine_hht">"În lumină redusă, camera va face mai multe fotografii
 și apoi va crea una cu minim de zgomot."</string>
     <string name="hint_device_water_mark">Amprenta va fi adăugată în mod automat în fotografie.</string>
@@ -188,6 +191,7 @@ expresii faciale într-o singură fotografie"</string>
     <string name="pano_how_to_use_prompt_start">Atingeți săgeata pentru a comuta direcția și începeți să mișcați telefonul încet.</string>
     <string name="pano_how_to_use_prompt_to_move">Mutați dispozitivul încet</string>
     <string name="path_settings">Aplicații de sistem/Cameră/Setări</string>
+    <string name="popup_tip_3d_beauty_intro_text">Înfrumusețare 3D</string>
     <string name="portait_effect_entry_blackwhite">Alb-negru</string>
     <string name="portait_effect_entry_cool">Mint</string>
     <string name="portait_effect_entry_fairytale">Copilărie</string>
@@ -495,6 +499,10 @@ pentru a scoate în evidență chipul persoanei."</string>
     <string name="pref_skin_beautify_slim_title">Zvelt</string>
     <string name="pref_skin_beautify_smooth_title">Skin</string>
     <string name="pref_video_captrue_ability_title">Captare imagini în timpul filmării</string>
+    <string name="pref_video_encoder_default">h264</string>
+    <string name="pref_video_encoder_entry_h264">H.264 Compatibilitate ridicată</string>
+    <string name="pref_video_encoder_entry_h265">H.265 Performanță ridicată</string>
+    <string name="pref_video_encoder_title">Codare video</string>
     <string name="pref_video_focusmode_entry_auto">Atingere</string>
     <string name="pref_video_focusmode_entry_continuous">CAF</string>
     <string name="pref_video_focusmode_title">Mod focalizare</string>

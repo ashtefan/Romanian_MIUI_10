@@ -50,7 +50,6 @@ Actualizaţi acum?"</string>
     <string name="account_settings_notify_summary">Afişare notificare la primirea unui e-mail</string>
     <string name="account_settings_param">Setări cont</string>
     <string name="account_settings_policies">Politici de securitate</string>
-    <string name="account_settings_preference_add_account">Adăugați un cont de e-mail</string>
     <string name="account_settings_preference_att_save_path">Locația implicită pentru atașamente</string>
     <string name="account_settings_preference_head_icon">Fotografii de profil</string>
     <string name="account_settings_preference_notify">Notifică</string>
@@ -90,6 +89,7 @@ Actualizaţi acum?"</string>
     <string name="account_setup_exchange_certificate_title">Certificat client</string>
     <string name="account_setup_exchange_device_id_label">ID dispozitiv mobil</string>
     <string name="account_setup_exchange_no_certificate">Niciunul</string>
+    <string name="account_setup_failed_auth_required">"Metodele de autentificare nu sunt suportate de către server."</string>
     <string name="account_setup_failed_certificate_inaccessible">Certificat nevalid sau inaccesibil.</string>
     <string name="account_setup_failed_certificate_required">Este necesar un certificat de client. Vă conectaţi la server cu un certificat de client?</string>
     <string name="account_setup_failed_check_credentials_message">Serverul a returnat un mesaj de eroare. Verificaţi numele de utilizator şi parola şi încercaţi din nou.</string>
@@ -559,6 +559,7 @@ Actualizaţi acum?"</string>
     <string name="login139">Conectare prin China Mobile</string>
     <string name="login_failed_ticker">Conectarea la %s a eşuat</string>
     <string name="login_failed_title">Nu s-a putut conecta</string>
+    <string name="login_mail">Conectare la Mail</string>
     <string name="login_support_tip_text">Suportă autentificarea în toate conturile de e-mail frecvent utilizate</string>
     <string name="long_press_to_select_tip">Atingeți și mențineți apăsat pentru a selecta o conversație, apoi atingeţi pentru a selecta mai multe.</string>
     <string name="long_string">luuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuung</string>
@@ -569,7 +570,6 @@ Actualizaţi acum?"</string>
     <string name="mail_header_network_not_available">Nu aveți o conexiune la rețea.</string>
     <string name="mailbox_list_account_selector_combined_view">Toate conturile de e-mail</string>
     <string name="mailbox_name_display_ad">Reclame</string>
-    <string name="mailbox_name_display_add_account">Adăugați un cont de e-mail</string>
     <string name="mailbox_name_display_circular">Notificări</string>
     <string name="mailbox_name_display_drafts">Mesaje nefinalizate</string>
     <string name="mailbox_name_display_inbox">Mesaje primite</string>
@@ -679,6 +679,7 @@ Actualizaţi acum?"</string>
     <string name="multiple_new_message_notification_item"><b>%1$s</b> %2$s</string>
     <string name="mute">Suprimaţi</string>
     <string name="navigation_menu">Meniu de navigare</string>
+    <string name="need_get_qq_mail">Este necesar QQ Mail</string>
     <string name="network_error">Nicio conexiune</string>
     <string name="network_invaild">"Nu s-a putut conecta la rețea"</string>
     <string name="network_not_available">"Nu se poate conecta la rețea"</string>
@@ -727,6 +728,10 @@ Actualizaţi acum?"</string>
     <string name="open_external_storage_and_calendar_permission">Permiteți accesul aplicației de E-mail la stocare și la informațiile calendarului din Setări</string>
     <string name="open_external_storage_and_contacts_and_calendar_permission">Permiteți accesul aplicației de E-mail la stocare, contacte și informațiile calendarului din Setări</string>
     <string name="open_external_storage_and_contacts_permission">Permiteți accesul aplicației de E-mail la stocare și la contacte din Setări</string>
+  <string name="open_notification_kingagent">Deschideți notificarea punctului de înmormântare??</string>
+    <string name="optimization_suggestion">Sugestie de optimizare</string>
+    <string name="others_mail">Altul</string>
+    <string name="others_mail_des">(Suportă mai mult de 60.000 de E-mailuri)</string>
     <string name="outbox_alert_button_no_resend">"Nu trimite"</string>
     <string name="outbox_alert_button_resend">Retrimiteţi</string>
     <string name="outbox_alert_certificate_error">Contactați administratorul de sistem și actualizaţi certificatul.</string>
@@ -849,6 +854,9 @@ pentru a primi notificări despre plăți și călătorii"</string>
     <string name="push_wps_confirm_message">Încercaţi să utilizaţi WPS Office pentru a deschide acest atașament.</string>
     <string name="push_wps_confirm_title">Încercaţi WPS Office</string>
     <string name="push_wps_no_response_app">Nu a fost găsită nicio aplicație pentru a gestiona această acţiune</string>
+    <string name="qq_authorization_help_get">Ajută-mă să-l obțin</string>
+    <string name="qq_authorization_know">Înțelegere cod de autorizare</string>
+    <string name="qq_authorization_tips">Nicio sugestie în plus</string>
     <string name="qq_auto_login_failed_cpy_pass_success">Copiat cu succes. Reveniți la pagina de autentificare și lipiți codul în câmpul parolă</string>
     <string name="qq_auto_login_failed_dialog_message">Copiați codul de verificare, apăsați \"Introduceți numele de utilizator și parola pentru autentificare\" în pagina de autentificare și lipiți codul în câmpul parolă.</string>
     <string name="qq_auto_login_failed_dialog_positive_label">Copiați codul</string>
@@ -862,6 +870,7 @@ pentru a primi notificări despre plăți și călătorii"</string>
     <string name="qq_login_webview">Conectare la QQ Email din browser, atingeți conectare cu parolă.</string>
     <string name="qq_next_generation_auth_toast">Activați protecția prin parolă din browser</string>
     <string name="qq_uthentication_failed">"Nu s-a putut verifica contul; vă rugăm conectați-vă din nou"</string>
+    <string name="qq_verify_code">(Este necesar Codul de Verificare QQ)</string>
     <string name="qq_webview_loading">Doar o secundă…</string>
     <string name="questionnair_body_invisibility">"Mesajele nu sunt afișate"</string>
     <string name="questionnair_confirm_delete">Ștergeți contul?</string>
@@ -961,7 +970,7 @@ pentru a primi notificări despre plăți și călătorii"</string>
     <string name="saved">Salvat,  %s</string>
     <string name="saving">Salvare…</string>
     <string name="sdcard_cannot_use">Cardul SD nu poate fi utilizat</string>
-    <string name="search_bar_text">Căutați mesaje și contacte</string>
+    <string name="search_bar_text">Căutați după expeditor sau după contacte</string>
     <string name="search_hint">Căutare e-mail</string>
     <string name="search_result">"Rezultate "</string>
     <string name="search_tabs_name_all">Toate</string>
@@ -1061,6 +1070,7 @@ pentru a primi notificări despre plăți și călătorii"</string>
     <string name="tablet">tabletă</string>
     <string name="tap_to_configure">Atingeţi pentru a configura.</string>
     <string name="tap_to_enable_sync">Atingeți pentru a activa.</string>
+    <string name="title_activity_about">Despre</string>
     <string name="to_heading">"Către: "</string>
     <string name="toast_bar_fail_synchronization">Nu se poate conecta la rețea</string>
     <string name="toast_bar_insufficient_memory_space">"Nu se pot primi mesaje noi. Spaţiul de stocare este insuficient."</string>
@@ -1102,9 +1112,8 @@ Eliminați contul?"</string>
     <string name="unread_string">conversație necitită</string>
     <string name="unzip_file_failed">Nu s-a putut dezarhiva fişierul</string>
     <string name="update_date_format_templete">HH:mm, dd MMMM</string>
-    <string name="update_to_wps_mail">Bucurați-vă de mai multe opțiuni cu WPS-mail</string>
     <string name="updated_at">Actualizat la %1$s</string>
-    <string name="upload_log">Încărcare jurnale</string>
+    <string name="upload_log">Trimiteți jurnalele</string>
     <string name="upload_log_failed">"Trimiterea jurnalelor a eşuat"</string>
     <string name="upload_log_no">Anulaţi</string>
     <string name="upload_log_success">"Jurnale trimise cu succes. Vom reveni cu un răspuns în curând"</string>
@@ -1118,6 +1127,8 @@ Eliminați contul?"</string>
     <string name="veiled_alternate_text" />
     <string name="veiled_alternate_text_unknown_person" />
     <string name="veiled_summary_unknown_person" />
+    <string name="verify_code">Verificați Codul</string>
+    <string name="version_string">Versiune: %s</string>
     <string name="via_domain">prin %1$s</string>
     <string name="view_more_conversations">Vizualizaţi mai multe conversaţii</string>
     <string name="wait_for_manual_sync_body">"Acest cont nu este configurat pentru sincronizare automată.
@@ -1134,6 +1145,7 @@ Atingeţi \"Sincronizaţi acum\" pentru a sincroniza e-mailurile, sau modificaţ
     <string name="widget_other_views">Altele</string>
     <string name="wipe_account_fail_description">Permiteți</string>
     <string name="wipe_account_fail_title">"Nu s-au putut șterge informațiile personale"</string>
+    <string name="wps_title">WPS Mail</string>
     <string name="wrong_password">Parola introdusă este incorectă</string>
     <string name="yes">Da</string>
     <string name="you_are_in_mobile_network">Utilizați datele mobile pentru a încărca jurnalele cu erori?</string>
