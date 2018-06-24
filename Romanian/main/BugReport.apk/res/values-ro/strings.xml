@@ -302,6 +302,7 @@
     <string name="toast_feedback_submitting">Trimitere…</string>
     <string name="toast_feedbackservice_in_submit">Manipulare feedback precedent…</string>
     <string name="toast_fill_brackets">Din raportul dvs. lipsesc câteva informaţii</string>
+    <string name="toast_loading_app_id">Obținere informații…</string>
     <string name="toast_log_not_exists">"Jurnalul solicitat a fost șters sau nu există"</string>
     <string name="toast_log_too_large">"Nu se poate încărca. Fișierul este prea mare."</string>
     <string name="toast_module_required">Selectați elementul</string>

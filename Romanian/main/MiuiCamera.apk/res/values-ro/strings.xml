@@ -1,6 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="access_sd_fail">"Nu se poate accesa stocarea USB."</string>
+    <string name="accessibility_ai_scene_off">AI camera este oprită</string>
+    <string name="accessibility_ai_scene_on">AI camera este pornită</string>
     <string name="accessibility_audio_shutter_bg">Fundal audio la declanșare</string>
     <string name="accessibility_back_preview_status">Previzualizare cameră posterioară</string>
     <string name="accessibility_beauty_panel_closed">Meniul de înfrumusețare este ascuns</string>

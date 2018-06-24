@@ -4701,7 +4701,8 @@ O abordare Google asupra sincronizării datelor, care vă permite accesul la age
     <string name="toast_lockscreen_glogin_empty_password">Introduceţi parola</string>
     <string name="toast_need_login">Conectaţi-vă la contul dvs. Mi</string>
     <string name="total">Nu deranjați</string>
-    <string name="total_info">Redu la tăcere sunetele și dezactivează vibrațiile, exceptând alarma</string>
+    <string name="total_info">Redu la tăcere sunetele %1$s, exceptând alarma</string>
+    <string name="total_info_sub">și dezactivează vibrațiile</string>
     <string name="total_memory">Memorie în total</string>
     <string name="total_size">%s (Total)</string>
     <string name="total_size_label">Total</string>

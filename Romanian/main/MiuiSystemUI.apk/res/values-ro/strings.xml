@@ -570,6 +570,10 @@ Pentru mai multe informații, contactați administratorul."</string>
     <string name="power_remaining_charging_duration_only">%1$s rămas până la încărcarea completă</string>
     <string name="power_remaining_duration_only">Aprox. %1$s rămas</string>
     <string name="power_remaining_duration_only_short">%1$s rămas</string>
+    <string name="prompt_danger">Pericol</string>
+    <string name="prompt_detecting">Se detectează</string>
+    <string name="prompt_safe">Sigur</string>
+    <string name="prompt_unknown">Necunoscut</string>
     <string name="quick_settings_bluetooth_detail_empty_text">Niciun dispozitiv asociat disponibil</string>
     <string name="quick_settings_bluetooth_label">Bluetooth</string>
     <string name="quick_settings_connect_success">Conectat</string>
@@ -590,6 +594,7 @@ Pentru mai multe informații, contactați administratorul."</string>
     <string name="quick_settings_disclosure_personal_profile_named_vpn">Profil Personal conectat la %1$s</string>
     <string name="quick_settings_disclosure_vpns">Dispozitiv conectat la VPNs</string>
     <string name="quick_settings_done">Terminat</string>
+    <string name="quick_settings_dual_location_label">GPS dual</string>
     <string name="quick_settings_more_settings">Setări suplimentare</string>
     <string name="quick_settings_wifi_detail_empty_text">Nicio rețea Wi-Fi disponibilă</string>
     <string name="quick_settings_wifi_label">Wi-Fi</string>
@@ -715,7 +720,7 @@ Glisaţi în jos pentru a bloca"</string>
     <string name="status_bar_recent_remove_item_title">Eliminați din listă</string>
     <string name="status_bar_recording_back">Reveniţi la înregistrare</string>
     <string name="status_bar_recording_pause">Înregistrare întreruptă</string>
-    <string name="status_bar_safepay_risk">Plată riscantă</string>
+    <string name="status_bar_safepay_risk">Risc de plată detectat</string>
     <string name="status_bar_safepay_safe">Nu a fost găsit niciun risc pentru plată</string>
     <string name="status_bar_safepay_scanning">Verificare mediu de plată…</string>
     <string name="status_bar_safepay_unknown">"Nu s-a putut verifica mediul de plată"</string>

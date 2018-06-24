@@ -321,6 +321,7 @@ pentru a accesa Spațiul secundar din Blocarea ecranului"</string>
     <string name="switching_files">Se mută fișierele…</string>
     <string name="switching_photos">Se mută fotografiile…</string>
     <string name="temporary_no_set">Nu acum</string>
+    <string name="this_function_can_not_use_in_second_space">Această funcție poate fi utilizată doar în Spațiul principal</string>
     <string name="title_choose_app_status">Selectați tipul aplicațiilor</string>
     <string name="title_switch_file">Ștergeți aceste fișiere?</string>
     <string name="title_switch_photo">Ștergeți aceste fotografii?</string>

@@ -13,6 +13,10 @@
         <item>Telefon</item>
         <item>Tabletă</item>
     </string-array>
+    <string-array name="pref_navscreen_layoutstate_choices">
+        <item>Vizualizare verticală</item>
+        <item>Vizualizare orizontală</item>
+    </string-array>
     <string-array name="pref_text_zoom_choices">
         <item>Foarte mic</item>
         <item>Mic</item>

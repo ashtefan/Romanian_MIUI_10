@@ -45,7 +45,9 @@
     <string name="action_menu_useful_page_added">Adăugat în pagina de start</string>
     <string name="action_menu_user_center">Profil</string>
     <string name="action_modify_bookmark">Modificați semnul de carte</string>
+    <string name="action_one_touch">Accesați notificările</string>
     <string name="action_put_in_search_box">Puneți %s în căsuța de căutare</string>
+    <string name="action_skip">Omiteți</string>
     <string name="adblock_force_updating_rules_toast">Se actualizează filtrul pentru reclame</string>
     <string name="adblock_notification">%d anunţuri blocate</string>
     <string name="adblock_rules_not_updated_toast">"Nu s-a putut actualiza"</string>
@@ -132,6 +134,7 @@
     <string name="cancel">Anulaţi</string>
     <string name="cancle_sync_cloud_tabs">Opriți sincronizarea</string>
     <string name="cannot_download">Puteţi descărca numai de la adrese URL care încep cu „http” sau „https”</string>
+    <string name="cast_video">Proiectați videoclipul</string>
     <string name="check_security_tip_privacy_policy">Politica de confidențialitate</string>
     <string name="check_security_tip_user_agreement">Acordul utilizatorului</string>
     <string name="choosertitle_sharevia">Distribuiţi prin</string>
@@ -278,6 +281,7 @@ pentru a vedea filele deschise pe alte dispozitive"</string>
     <string name="enable_geolocation_confirm_message">Oprirea serviciilor de localizare va afecta recomandările pe care le primiți.</string>
     <string name="enter_developer_mode">Intraţi în modul dezvoltator</string>
     <string name="enter_incongnito_mode">Intraţi în modul incognito</string>
+    <string name="enter_infoflow_guide">Glisați în sus pentru a vedea noutățile</string>
     <string name="enter_the_group_name">Vă rugăm introduceți numele grupului</string>
     <string name="enter_the_password">Vă rugăm introduceți parola</string>
     <string name="enter_the_user_name">Vă rugăm introduceți numele de utilizator</string>
@@ -338,8 +342,10 @@ pentru a vedea filele deschise pe alte dispozitive"</string>
     <string name="homepage_more_sites">Mai multe site-uri web</string>
     <string name="homepage_search_hint">Căutaţi</string>
     <string name="homepage_top_card_menu">Top</string>
+    <string name="hot_words_item_ads_mark">Reclame</string>
     <string name="ignore_add_pwa_dialog_today">"Nu arăta astăzi"</string>
     <string name="in_secureaccess">Browser comutat la modul sigur</string>
+    <string name="info_flow_description">Info canal</string>
     <string name="isReplacePage">Fișierul există deja, îl înlocuiți?</string>
     <string name="is_first_history_item">Acesta este primul element din istoric</string>
     <string name="is_first_tab">Aceasta este prima filă</string>

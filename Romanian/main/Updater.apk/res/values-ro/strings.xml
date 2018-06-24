@@ -275,6 +275,7 @@ http://zhushou.xiaomi.com"</string>
   <string name="stable">stabil</string>
     <string name="space_not_enough_title">Nu există suficient spațiu de stocare</string>
     <string name="stable_build">Stabil</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="submit">Trimiteţi</string>
     <string name="submit_fail">Trimitere eşuată</string>
     <string name="submit_progress">Trimitere…</string>
