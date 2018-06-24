@@ -904,13 +904,19 @@ Sample Rate"</string>
     <string name="bootloader_apply_step_5">Asigurați-vă că știți să utilizați modul Fastboot înainte de a îl activa.</string>
     <string name="bootloader_apply_title">Avertisment important!</string>
     <string name="bootloader_device_bind_already">Adăugat cu succes. Contul Mi este asociat acum cu acest dispozitiv.</string>
+    <string name="bootloader_device_bind_exceed_sim_limit">"Nu se mai pot adăuga conturi pe această cartelă SIM."</string>
     <string name="bootloader_device_bind_fail">"Nu s-a putut verifica; așteptați un minut sau două și reîncercați"</string>
     <string name="bootloader_device_bind_msg">Se pregătește adăugarea contului și a dispozitivului…</string>
     <string name="bootloader_device_bind_no_account">Conectați-vă mai întâi la contul Mi</string>
     <string name="bootloader_device_bind_no_network">Conectați-vă la rețea și reîncercați</string>
+    <string name="bootloader_device_bind_no_sim">Inserați cartela SIM și reîncercați.</string>
+    <string name="bootloader_device_bind_server_code">"Nu s-a putut adăuga. Codul de eroare:"</string>
+    <string name="bootloader_device_bind_sim_invalid">Cartela SIM nu este validă. Înlocuiți-o și reîncercați.</string>
     <string name="bootloader_locked_answer_1">"Blocăm telefoanele pentru a ne asigura că sunt în siguranță și că datele personale nu sunt furnizate unor terțe părți. Dacă trebuie să accesați modul Fastboot și să instalați un ROM, puteți debloca telefonul."</string>
     <string name="bootloader_locked_answer_1_warning">"Atenție: Nu veți mai putea utiliza \"Localizarea dispozitivului\" după ce veți debloca telefonul."</string>
-    <string name="bootloader_locked_answer_2">"Atingeți butonul de mai jos pentru a asocia contul Mi cu acest telefon. Accesați apoi site-ul MIUI pentru a descărca aplicația de deblocare și instalați-o pe computer. Adresa de descărcare este:"</string>
+    <string name="bootloader_locked_answer_2">"1. Asigurați-vă că ați introdus o cartelă SIM în telefon.
+2. Apăsați butonul \"Adăugați un cont\" de mai jos pentru a asocia contul Mi cu acest telefon.
+3. Descărcați utilitarul de deblocare de pe site-ul nostru. Pentru a putea debloca telefonul aveți nevoie de un PC. Descărcați de aici:"</string>
     <string name="bootloader_locked_check_status">Adăugați contul și dispozitivul</string>
     <string name="bootloader_locked_question_1">De ce trebuie să fie blocate telefoanele?</string>
     <string name="bootloader_locked_question_2">Înțeleg riscurile dar doresc să-mi deblochez telefonul.</string>
@@ -918,6 +924,11 @@ Sample Rate"</string>
     <string name="bootloader_status_locked">Blocat</string>
     <string name="bootloader_status_locked_info">Acest telefon este blocat</string>
     <string name="bootloader_status_locked_summary">Telefonul este securizat</string>
+    <string name="bootloader_status_privacy_dialog_message">Mi Unlock trebuie să vă acceseze contul Mi, CPU ID, IMEI, IMSI pentru a funcționa în mod normal. Colectăm, utilizăm și procesăm datele dvs. în concordanță cu %s. Sunteți de acord?</string>
+    <string name="bootloader_status_privacy_dialog_no">Renunțați</string>
+    <string name="bootloader_status_privacy_dialog_title">Permisiuni necesare</string>
+    <string name="bootloader_status_privacy_dialog_url_text">Politica noastră de Confidențialitate</string>
+    <string name="bootloader_status_privacy_dialog_yes">De acord</string>
     <string name="bootloader_status_summary">Verificați dacă telefonul este blocat</string>
     <string name="bootloader_status_unlocked">Deblocat</string>
     <string name="bootloader_status_unlocked_info">Acest telefon este deblocat</string>
@@ -1471,6 +1482,7 @@ Această setare afectează toți utilizatorii telefonului."</string>
     <string name="device_memory">Memorie RAM</string>
     <string name="device_miui_more">Vedeți mai multe</string>
     <string name="device_miui_version">Versiune MIUI</string>
+    <string name="device_miui_version_for_POCO">Versiunea MIUI (Pentru POCO)</string>
     <string name="device_miui_version_update">Este disponibilă o actualizare MIUI</string>
     <string name="device_name">Nume dispozitiv</string>
     <string name="device_name_input_error">Nu s-a putut salva numele dispozitivului</string>
@@ -2687,11 +2699,12 @@ Sunt alți utilizatori pe acest dispozitiv.
     <string name="miui_lab_gallery_search_title">Găsire fotografii din Galerie</string>
     <string name="miui_lab_settings">Laborator MIUI</string>
     <string name="miui_lab_slogan">Învață. Explorează. Descoperă.</string>
-    <string name="miui_lab_taplus_desc">Apăsați și mențineți apăsat un element pentru a declanșa scurtăturile</string>
-    <string name="miui_lab_taplus_title">Declanșare aplicații?</string>
+    <string name="miui_lab_super_resolution_desc">Face imaginile mai clare</string>
+    <string name="miui_lab_super_resolution_title">Super rezoluție</string>
     <string name="miui_master_clear_summary">Șterge toate datele de pe dispozitiv</string>
-    <string name="miui_screen_config_title">Setări Ecran principal</string>
+    <string name="miui_touch_filtered_warning">Dacă o aplicație blochează fereastra de dialog cu permisiuni, trageți elementul deoparte sau închideți aplicația.</string>
     <string name="miui_updater">Actualizare de sistem</string>
+    <string name="miui_userguide">Ghidul utilizatorului</string>
     <string name="mms_breathing_light_color_title">Mesaje</string>
     <string name="mms_breathing_light_freq_title">Frecvenţă pulsare indicator luminos intermitent pentru mesaje</string>
     <string name="mms_privacy_password_role_instruction">Conversațiile private vor fi stocate aici.</string>
@@ -4649,6 +4662,7 @@ O abordare Google asupra sincronizării datelor, care vă permite accesul la age
     <string name="talkback_title">Talkback</string>
     <string name="tap_to_wake">Atinge pentru a trezi</string>
     <string name="tap_to_wake_summary">Atingeți de două ori oriunde pe ecran pentru a trezi dispozitivul</string>
+    <string name="taplus_title">Taplus</string>
     <string name="telephony_monitor_switch">Monitor Telefon</string>
     <string name="telephony_monitor_switch_summary">Monitorul Telefon va colecta rapoarte atunci când se detectează o problemă cu funcționalitatea telefonului/modemului și va afișa o notificare utilizatorului pentru a raporta o eroare</string>
     <string name="telephony_monitor_toast">Pentru a modifica monitorizarea telefonului, reporniți dispozitivul</string>
@@ -5327,6 +5341,7 @@ Atingeți butonul (+) pentru a adăuga cuvinte"</string>
     <string name="wifi_api_test">API Wi-Fi</string>
     <string name="wifi_ask_disable">%s dorește să dezactiveze Wi-Fi-ul</string>
     <string name="wifi_ask_enable">%s dorește să activeze Wi-Fi-ul</string>
+    <string name="wifi_assistant_auto_confirm_data_message">Această rețea Wi-Fi nu are acces la internet. Telefonul va utiliza în schimb datele mobile. Puteți dezactiva asistentul Wi-Fi din Setări.</string>
     <string name="wifi_auto_connect">Conectare automată</string>
     <string name="wifi_available_title">Conectaţi-vă la Wi-Fi</string>
     <string name="wifi_avoid_poor_network_detection_summary">Utilizați doar rețelele cu o conexiune bună la internet</string>

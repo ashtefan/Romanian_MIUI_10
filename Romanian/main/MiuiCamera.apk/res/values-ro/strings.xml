@@ -55,6 +55,9 @@
     <string name="ai_scene_mode_use_hint_text">"Deschideți Ai-Scene Camera, identificați scenariul potrivit pentru fotografie 
  și optimizați fotografia în funcție de acest scenariu"</string>
     <string name="audio_focus_exit_button_text">Închidere focusare audio</string>
+    <string name="back_bokeh_use_hint">"Asigurați-vă că obiectul nu se află la mai mult de 1,5 metri."</string>
+    <string name="beauty_fragment_tab_name_3d_beauty">Înfrumusețare</string>
+    <string name="beauty_fragment_tab_name_3d_remodeling">Remodelare</string>
     <string name="beauty_fragment_tab_name_beauty">Înfrumusețare</string>
     <string name="beauty_fragment_tab_name_makeup">Avansat</string>
     <string name="bokeh_use_hint">Adâncime de câmp</string>
@@ -127,6 +130,7 @@
     <string name="edit_slim_nose">Nas</string>
     <string name="edit_smile">Zâmbet</string>
     <string name="error_fail_to_start_audio_capture">Nu se poate porni înregistrarea vocală. Microfonul poate fi utilizat de o altă aplicaţie.</string>
+    <string name="face_age_info">Vârsta: %d</string>
     <string name="face_analyze_info">Vârsta: %2$s (%1$s)</string>
     <string name="face_analyze_info_female">Femeie</string>
     <string name="face_analyze_info_male">Bărbat</string>
@@ -171,6 +175,10 @@ dacă rotiți telefonul"</string>
     <string name="hunt_dual_water_mark">Amprenta camerei duale va fi adăugată în mod automat.</string>
     <string name="image_file_name_format">"'IMG'_yyyyMMdd_HHmmss"</string>
     <string name="install_confirmed">Instalați</string>
+    <string name="lens_dirty_detected_content">"Se pare că lentila camerei este murdară.
+Curățați lentila pentru un efect îmbunătățit."</string>
+    <string name="lens_dirty_detected_title_back">Lentila camerei posterioare este murdară</string>
+    <string name="lens_dirty_detected_title_front">Lentila camerei frontale este murdară</string>
     <string name="message_snap_double_confirm">Actualmente apăsarea lungă a butonului de volum activează modul NFC. Modificați această acțiune?</string>
     <string name="module_name_beauty">Înfrumusețare</string>
     <string name="module_name_capture">Fotografie</string>

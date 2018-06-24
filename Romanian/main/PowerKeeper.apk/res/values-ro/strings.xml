@@ -39,11 +39,9 @@ Economisirea acumulatorului va trata selectiv aplicațiile importante."</string>
     <string name="config_suggest_title">Economisire acumulator</string>
     <string name="confirm">OK</string>
     <string name="current_cloud_addr_is">Adresa serverului de control Cloud este:</string>
-    <string name="disable_hide_mode">Dezactivați Economisirea acumulatorului</string>
-    <string name="disable_hide_mode_warning">"Dezactivarea Economisirii acumulatorului poate cauza un consum crescut de energie"</string>
     <string name="disabled">Dezactivat</string>
     <string name="empty_title_apps_container_list">Nicio aplicaţie</string>
-    <string name="enable_hide_mode">Activați Economisirea acumulatorului</string>
+    <string name="enable_sleep_mode">Activați modul Somn pentru a optimiza utilizarea acumulatorului pe durata nopții</string>
     <string name="error_filename_too_long">Numele de fișier introdus este prea lung.</string>
     <string name="extreme_power_config_mode_category">Mod extrem</string>
     <string name="extreme_power_config_mode_desc">Comutați la modul Extrem pentru a dezactiva sincronizarea, Bluetooth-ul, GPS-ul, NFC, double tapping, iluminarea butoanelor, pornirea ecranului pentru afișarea notificărilor în blocarea ecranului dar și luminile de notificare. MIUI va acționa pentru economisirea acumulatorului.</string>

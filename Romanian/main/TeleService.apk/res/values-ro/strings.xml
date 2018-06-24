@@ -1277,6 +1277,7 @@ Telefonul dvs. se va bloca automat după o altă încercare greşită!"</string>
     <string name="preferred_network_type_td_scdma">GSM/TD-SCDMA</string>
     <string name="preferred_network_type_title">Tipul de reţea preferat</string>
     <string name="preferred_phone_account">Cont de apelare preferat</string>
+    <string name="preferred_wificall_title">Preferințe rețea</string>
     <string name="private_num">Număr privat</string>
     <string name="progress_dialog_exiting_ecm">Se iese din modul Apelare inversă de urgenţă</string>
     <string name="prompt_to_turnoff_volte_when_failed">"Serviciile VoLTE nu sunt disponibile. Dezactivați VoLTE pentru a apela."</string>
@@ -1688,12 +1689,16 @@ Contactaţi operatorul în cazul în care această problemă persistă."</string
     <string name="wapi_password_length_is_min">Parola nu poate fi mai scurtă de 8 caractere</string>
     <string name="wapi_password_length_is_min_to_max">Parola trebuie să conțină între 8 și 64 de caractere</string>
     <string name="wapi_yes">da</string>
+    <string name="wfcmode_mobile_preferred">De preferat rețele mobile</string>
+    <string name="wfcmode_wifi_only">Doar Wi-Fi</string>
+    <string name="wfcmode_wifi_preferred">De preferat Wi-Fi</string>
     <string name="wifi_aggressive_handover">Comutare agresivă de la Wi-Fi la date mobile</string>
     <string name="wifi_aggressive_handover_summary">Când este activată, Wi-Fi va fi mai agresiv în comutarea către conexiunea de date mobile, dacă semnalul Wi-Fi este slab</string>
     <string name="wifi_allow_scan_with_traffic">Permite întotdeauna scanarea rețelelor Wi-Fi</string>
     <string name="wifi_allow_scan_with_traffic_summary">Permite/Refuză scanarea rețelelor Wi-Fi bazat pe traficul de date prezent în interfață</string>
     <string name="wifi_auth_password_wrong">Parola poate fi incorectă</string>
     <string name="wifi_auto_sel_wapi_cert">Selectează în mod automat</string>
+    <string name="wifi_call_setting">Apeluri prin Wi-Fi</string>
     <string name="wifi_calling">Apelare Wi-Fi</string>
     <string name="wifi_connected_no_internet">Conectat, fără Internet</string>
     <string name="wifi_disabled_by_recommendation_provider">Neconectat datorită calității slabe a rețelei</string>
@@ -1743,6 +1748,8 @@ Vă rugăm verificați validitatea certificatelor"</string>
 Stocarea credențialelor poate fi inactivă"</string>
     <string name="wifi_wapi_psk_type">Tipul parolei</string>
     <string name="wifi_wapi_user_certificate">Certificat utilizator</string>
+    <string name="wificall_switch_summary">Telefonul va comuta între Wi-Fi și VoLTE atunci când conexiunea este slabă</string>
+    <string name="wificall_switch_title">Apelați utilizând rețelele Wi-Fi</string>
     <string name="wild_prompt_str">Înlocuiți metacaracterele cu</string>
     <string name="window_animation_scale_title">Scală animație fereastră</string>
     <string name="wrong_password">Parola introdusă este incorectă</string>
