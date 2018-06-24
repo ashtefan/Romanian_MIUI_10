@@ -93,7 +93,7 @@
     <string name="byteShort">B</string>
     <string name="cache_title_empty_folder">Dosare goale (%d)</string>
     <string name="cache_title_empty_folder2">Dosare goale</string>
-    <string name="cache_title_system_cache">Cache de sistem</string>
+    <string name="cache_title_system_cache">Date cache</string>
     <string name="cached_garbage">Cache</string>
     <string name="call_log">Istoricul apelurilor</string>
     <string name="cancel">Anulaţi</string>

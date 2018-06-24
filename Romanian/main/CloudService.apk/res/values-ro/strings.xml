@@ -307,8 +307,8 @@ Pentru a rezolva acest lucru, fie puteți şterge unele fișierele vechi, fie pu
     <string name="micloud_main_multi_user_error_message">"V-ați logat la același cont ca și în spațiul principal și astfel a apărut o eroare MiCloud.
 Utilizați alt cont"</string>
     <string name="micloud_main_multi_user_error_title">Eroare MiCloud</string>
-    <string name="micloud_main_network_abnormal">Nu se poate conecta la rețea</string>
-    <string name="micloud_main_network_error">Nu se poate conecta la rețea</string>
+    <string name="micloud_main_network_abnormal">Verificați setările de rețea</string>
+    <string name="micloud_main_network_error">"Nu se poate conecta la rețea"</string>
     <string name="micloud_main_query_again">Trimiteți o altă solicitare</string>
     <string name="micloud_main_query_error_message">"Nu se poate verifica dacă sincronizarea tuturor serviciilor s-a finalizat"</string>
     <string name="micloud_main_query_error_title">"Nu s-au putut obține informații despre progresul sincronizării"</string>
