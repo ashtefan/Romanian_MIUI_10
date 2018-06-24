@@ -12,6 +12,7 @@
     <string name="accounts">Conturi şi sincronizare</string>
     <string name="acct_not_synced">"Acest cont nu a fost sincronizat. Calendarul dvs. poate să nu fie actualizat."</string>
     <string name="acessibility_selected_marker_description">Eveniment selectat</string>
+    <string name="action_bar_date_button_title">Calculați data</string>
     <string name="action_bar_more_menu_view_description">Mai  mult</string>
     <string name="action_bar_return">Înapoi</string>
     <string name="action_text_card_manager">Canal</string>
@@ -40,6 +41,7 @@
     <string name="anniversary_event_title">Aniversare: %1$s</string>
     <string name="app_label">Calendar</string>
     <string name="app_name">comun</string>
+    <string name="birthday_born">Data nașterii</string>
     <string name="birthday_calendar_display_name">Memento zi de naştere</string>
     <string name="birthday_event_description_a_week_ago">Cu o săptămână în urmă</string>
     <string name="birthday_event_description_a_week_later">Peste o săptămână</string>
@@ -56,7 +58,7 @@
     <string name="birthday_notification_title_today">"%1$s sărbătoreşte %3$s"</string>
     <string name="birthday_notification_type_term_lunar" />
     <string name="birthday_saved">Zi de naștere salvată</string>
-    <string name="birthday_term">ziua de naştere</string>
+    <string name="birthday_term">Ziua de naştere</string>
   <string name="book_card_free">Gratuit</string>
   <string name="book_card_rating_text">|   %1$s recenzii</string>
     <string name="button_day">Z</string>
@@ -224,7 +226,10 @@
     <string name="global_football_final">FINAL</string>
     <string name="global_football_no_match">Niciun meci de fotbal programat pentru astăzi.</string>
     <string name="global_onthisday_com">OnThisDay.com</string>
-    <string name="guide_card_hint_text">Importați zilele de naștere din Agendă</string>
+    <string name="guide_card_import">Importați</string>
+    <string name="guide_card_primary_text">"Importați datele de naștere ale prietenilor"</string>
+    <string name="guide_card_second_text">Nu omiteți niciodată zilele importante</string>
+    <string name="guide_card_title">Importați zilele de naștere</string>
     <string name="hint_attendees">Invitaţi</string>
     <string name="hint_description">Descriere</string>
     <string name="hint_what">Numele evenimentului</string>

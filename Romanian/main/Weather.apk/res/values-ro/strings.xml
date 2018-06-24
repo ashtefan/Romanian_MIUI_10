@@ -191,7 +191,7 @@ Apăsați pe ecran pentru a adăuga manual sau pentru a repoziționa orașul"</s
     <string name="network_unavailable">"Nu se poate conecta la rețea."</string>
     <string name="night_not_disturb_settings_summary">Nu se vor primi notificări despre vreme între 23:00 și 07:00</string>
     <string name="night_not_disturb_settings_title">"Nu deranja peste noapte"</string>
-    <string name="no_data">--</string>
+    <string name="no_data">Nu există date</string>
     <string name="no_network_btn">Reîncercați</string>
     <string name="no_vote_ratio">Contra %1$s%%</string>
     <string name="open">Deschideți</string>

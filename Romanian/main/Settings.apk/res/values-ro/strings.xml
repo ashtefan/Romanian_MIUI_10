@@ -5372,6 +5372,7 @@ Atingeți butonul (+) pentru a adăuga cuvinte"</string>
     <string name="wifi_cellular_data_fallback_summary">Utilizați datele mobile când nu există acces la Internet prin Wi-Fi. Se pot aplica taxe de utilizare date mobile.</string>
     <string name="wifi_cellular_data_fallback_title">Comutați la date mobile în mod automat</string>
     <string name="wifi_certificate">Certificat</string>
+    <string name="wifi_click_login_wlan">Necesită autentificare/autorizare</string>
     <string name="wifi_click_share_wlan">Atingeți pentru a distribui parola</string>
     <string name="wifi_config_info">Configurare Wi-Fi</string>
     <string name="wifi_configure_settings_preference_summary_wakeup_off">"Wi-Fi-ul nu se reconectează în mod automat"</string>

@@ -20,6 +20,7 @@
     <string name="account_has_been_set">Modificați</string>
     <string name="account_limit_update_birthday">"Nu se poate actualiza ziua de naștere acum"</string>
     <string name="account_mibi_center">Credite Mi</string>
+    <string name="account_mibi_charge">Suplinire</string>
     <string name="account_mipay_info">Plăți Mi</string>
     <string name="account_no_set">Nimic</string>
     <string name="account_none">Nimic</string>
@@ -184,6 +185,7 @@
     <string name="oauth_scopes_intro">&lt;font color=#%1$s&gt;%2$s&lt;/font&gt; va obține următoarele permisiuni:&lt;br&gt; &lt;br&gt; %3$s</string>
     <string name="oauth_title">Conectați-vă utilizând contul Mi</string>
     <string name="other_devices_title">Alte dispozitive</string>
+    <string name="passport_Resend">Trimiteți din nou</string>
     <string name="passport_access_denied">Acces refuzat</string>
     <string name="passport_account_hint_text">Adresă de e-mail/Număr de telefon/ID cont Mi</string>
     <string name="passport_account_identity_title">Verificaţi identitatea dvs.</string>
@@ -203,6 +205,7 @@
     <string name="passport_back">Înapoi</string>
     <string name="passport_bad_authentication">Nume de utilizator sau parolă greşite</string>
     <string name="passport_barcode_add_account_prompt">Pentru a conecta un cont, scanați codul QR din nou după ce vă conectați.</string>
+    <string name="passport_btn_change_account">Schimbați contul</string>
     <string name="passport_change_account">Schimbaţi contul</string>
     <string name="passport_change_phone_number">Comutare numere</string>
     <string name="passport_checking_account">Verificare parolă…</string>
@@ -233,6 +236,7 @@ link-ul din e-mailul pe care vi l-am trimis."</string>
     <string name="passport_error_empty_pwd">Introduceţi parola</string>
     <string name="passport_error_empty_username">Introduceţi numele de utilizator</string>
     <string name="passport_error_empty_vcode">Introduceţi codul de verificare</string>
+    <string name="passport_error_empty_voice_code">Introduceți codul captcha</string>
     <string name="passport_error_illegal_pwd">Parolă greşită</string>
     <string name="passport_error_invalid_dev_id">ID-ul dispozitivului dvs. este greşit.</string>
     <string name="passport_error_invalid_phone_num">Număr de telefon greşit</string>
@@ -270,7 +274,10 @@ link-ul din e-mailul pe care vi l-am trimis."</string>
     <string name="passport_input_phone_hint">Introduceţi numărul de telefon</string>
     <string name="passport_input_vcode_hint">Introduceți codul de verificare</string>
     <string name="passport_input_voice_captcha_hint">Introduceți codul de verificare vocală</string>
+    <string name="passport_input_voice_hint">Introduceți codul vocal</string>
     <string name="passport_license_host_unreachable">Nu se poate conecta la rețea. Puteți vizualiza această pagină la %s.</string>
+    <string name="passport_license_info_collapse">Restrângeți</string>
+    <string name="passport_license_info_open">Detalii</string>
     <string name="passport_loading">Doar o secundă…</string>
     <string name="passport_login">Conectaţi-vă</string>
     <string name="passport_login_failed">Nu se poate conecta</string>
@@ -283,6 +290,7 @@ link-ul din e-mailul pe care vi l-am trimis."</string>
     <string name="passport_login_title">Conectaţi-vă la un cont existent</string>
     <string name="passport_login_using_other_ways">Alte modalități de conectare</string>
     <string name="passport_message_dialog_title">SMS cu coduri de verificare</string>
+    <string name="passport_new_user_register">Creați un cont</string>
     <string name="passport_next">Înainte</string>
     <string name="passport_no">Nu</string>
     <string name="passport_notification_title">Eroare de conectare pentru %1$s</string>
@@ -326,6 +334,7 @@ link-ul din e-mailul pe care vi l-am trimis."</string>
     <string name="passport_register_by_email"><u>Creaţi un cont utilizând adresa de e-mail</u></string>
     <string name="passport_register_restricted">Prea multe conturi au fost asociate cu acest număr, încercați altul</string>
     <string name="passport_register_restricted_title">Nu se poate utiliza acest număr de telefon</string>
+    <string name="passport_register_using_other_ways">Alte modalități de a crea un cont</string>
     <string name="passport_registered_phone_num">Telefon: %s</string>
     <string name="passport_registered_phone_user_ID">ID utilizator: %s</string>
     <string name="passport_registered_phone_user_name">Nume utilizator: %s</string>
@@ -386,6 +395,7 @@ link-ul din e-mailul pe care vi l-am trimis."</string>
     <string name="passport_wrong_captcha">Codul introdus nu este corect</string>
     <string name="passport_wrong_phone_number_format">Formatul numărului de telefon introdus nu este valid</string>
     <string name="passport_wrong_vcode">Codul introdus nu este corect</string>
+    <string name="passport_wrong_voice">Codul introdus este incorect</string>
     <string name="passport_yes">Da</string>
     <string name="phone_activated">%s activat</string>
     <string name="phone_num_use_for">Numărul de telefon este utilizat pentru:</string>

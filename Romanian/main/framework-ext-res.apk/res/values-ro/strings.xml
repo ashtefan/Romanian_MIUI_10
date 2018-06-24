@@ -79,6 +79,7 @@
     <string name="memory_clear_nothing_result">Nimic de curăţat în memoria cache</string>
     <string name="memory_clear_result">%1$sB goliţi</string>
     <string name="miui">MIUI</string>
+    <string name="miui_forbid_poweroff_when_device_locked">"Nu se poate închide; telefonul este blocat."</string>
     <string name="miui_screen_ratio_hint">Probleme aspect ecran</string>
     <string name="miui_screen_ratio_hint_dont_show_again">"Nu arăta din nou"</string>
     <string name="miui_screen_ratio_hint_go_to_settings">Mergeți la Setări</string>
@@ -160,6 +161,8 @@
     <string name="status_bar_toggle_vibrate">Vibrare</string>
     <string name="status_bar_toggle_wifi">Wi-Fi</string>
     <string name="status_bar_toggle_wifi_ap">Hotspot</string>
+    <string name="subinfo_default_name">Cartela SIM %d</string>
+    <string name="super_resolution_maintain_tips">"Super rezoluția nu este încă disponibilă."</string>
     <string name="switch_brand_desc_tv">Servicii de securitate furnizate de către Spaces Mobile</string>
     <string name="switch_desc_tv">Două spații de lucru. Un singur telefon.</string>
     <string name="switching_tv">Comutare…</string>
@@ -173,5 +176,7 @@
     <string name="twohours">1 oră</string>
     <string name="unknown_caller">Număr necunoscut</string>
     <string name="user_switching_dialog_text">Comutare…</string>
+    <string name="wifi_assistant_wifi_no_internet">Această rețea Wi-Fi nu are acces la internet</string>
+    <string name="wifi_assistant_wifi_no_internet_detail">Atingeți pentru a vedea detalii</string>
     <string name="xspace_resolver_activity_title">Selectați aplicația</string>
 </resources>

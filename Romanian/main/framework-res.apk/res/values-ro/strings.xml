@@ -357,8 +357,8 @@ utilizând %s"</string>
      <string name="durationHourMinutes">%1$d oră și %2$d minute</string>
      <string name="durationHours">%1$d ore</string>
      <string name="durationMinute">%1$d minut</string>
-     <string name="durationMinuteSecond">%1$d minut %2$d secundă</string>
-     <string name="durationMinuteSeconds">%1$d minut %2$d secunde</string>
+     <string name="durationMinuteSecond">%1$d minut și %2$d secundă</string>
+     <string name="durationMinuteSeconds">%1$d minut și %2$d secunde</string>
      <string name="durationMinutes">%1$d minute</string>
      <string name="durationSecond">%1$d secundă</string>
      <string name="durationSeconds">%1$d secunde</string>
@@ -366,7 +366,7 @@ utilizând %s"</string>
      <string name="elapsed_time_short_format_h_mm_ss">%1$d:%2$02d:%3$02d</string>
      <string name="elapsed_time_short_format_mm_ss">%1$02d:%2$02d</string>
      <string name="ellipsis">…</string>
-    <string name="email">E-mail</string>
+     <string name="email">E-mail</string>
      <string name="emailTypeCustom">Personalizat</string>
      <string name="emailTypeHome">Domiciliu</string>
      <string name="emailTypeMobile">Mobil</string>
@@ -380,18 +380,18 @@ utilizând %s"</string>
      <string name="enable_explore_by_touch_warning_title">Activaţi Exploraţi prin atingere?</string>
      <string name="error_message_change_not_allowed">"Această modificare nu este permisă de către administratorul dispozitivului"</string>
      <string name="error_message_title">Eroare</string>
-    <string name="etws_primary_default_message_earthquake">Rămâneți calm și căutați un adăpost în apropiere.</string>
-    <string name="etws_primary_default_message_earthquake_and_tsunami">Rămâneți calm și căutați un adăpost în apropiere.</string>
-    <string name="etws_primary_default_message_others"/>
-    <string name="etws_primary_default_message_test">Test mesaje de urgență</string>
-    <string name="etws_primary_default_message_tsunami">Evacuați imediat zonele de coastă și cele din apropierea râurilor și căutați un loc mai sigur cum ar fi un deal.</string>
+     <string name="etws_primary_default_message_earthquake">Rămâneți calm și căutați un adăpost în apropiere.</string>
+     <string name="etws_primary_default_message_earthquake_and_tsunami">Rămâneți calm și căutați un adăpost în apropiere.</string>
+     <string name="etws_primary_default_message_others"/>
+     <string name="etws_primary_default_message_test">Test mesaje de urgență</string>
+     <string name="etws_primary_default_message_tsunami">Evacuați imediat zonele de coastă și cele din apropierea râurilor și căutați un loc mai sigur cum ar fi un deal.</string>
      <string name="eventTypeAnniversary">Zi aniversară</string>
      <string name="eventTypeBirthday">Zi de naştere</string>
      <string name="eventTypeCustom">Personalizate</string>
      <string name="eventTypeOther">Altul</string>
      <string name="expand_action_accessibility">extindere bară de butoane</string>
-    <string name="expand_button_content_description_collapsed">Extindeți</string>
-    <string name="expand_button_content_description_expanded">Restrângeți</string>
+     <string name="expand_button_content_description_collapsed">Extindeți</string>
+     <string name="expand_button_content_description_expanded">Restrângeți</string>
      <string name="expires_on">Expiră la:</string>
      <string name="ext_media_badremoval_notification_message">Dezinstalaţi %s înainte de eliminare pentru a evita pierderea datelor.</string>
      <string name="ext_media_badremoval_notification_title">%s a fost eliminat în mod neaşteptat</string>
@@ -454,7 +454,7 @@ Pentru a obține asistență contactați "</string>
      <string name="fingerprint_error_canceled">Operația de recunoaștere a amprentei a fost anulată.</string>
      <string name="fingerprint_error_hw_not_available">Componenta de detectare a amprentei nu este disponibilă.</string>
      <string name="fingerprint_error_lockout">Prea multe încercări. Încercați din nou mai târziu.</string>
-    <string name="fingerprint_error_lockout_permanent">Prea multe încercări. Senzorul de amprentă a fost dezactivat.</string>
+     <string name="fingerprint_error_lockout_permanent">Prea multe încercări. Senzorul de amprentă a fost dezactivat.</string>
      <string name="fingerprint_error_no_space">"Amprenta nu se poate stoca. Eliminați o amprentă existentă."</string>
      <string name="fingerprint_error_timeout">Timpul de recunoaștere a amprentei a expirat. Încercați din nou.</string>
      <string name="fingerprint_error_unable_to_process">Încercați din nou.</string>
@@ -464,17 +464,17 @@ Pentru a obține asistență contactați "</string>
      <string name="floating_toolbar_close_overflow_description">Închideți overflow</string>
      <string name="floating_toolbar_open_overflow_description">Mai multe opțiuni</string>
      <string name="force_close">OK</string>
-    <string name="foreground_service_app_in_background">%1$s rulează în fundal</string>
-    <string name="foreground_service_apps_in_background">%1$d aplicații rulează în fundal</string>
-    <string name="foreground_service_multiple_separator">%1$s, %2$s</string>
-    <string name="foreground_service_tap_for_details">Atingeți pentru a obține detalii despre utilizarea acumulatorului și a datelor</string>
+     <string name="foreground_service_app_in_background">%1$s rulează în fundal</string>
+     <string name="foreground_service_apps_in_background">%1$d aplicații rulează în fundal</string>
+     <string name="foreground_service_multiple_separator">%1$s, %2$s</string>
+     <string name="foreground_service_tap_for_details">Atingeți pentru a obține detalii despre utilizarea acumulatorului și a datelor</string>
      <string name="forward_intent_to_owner">"Utilizați această aplicație înafara profilului personalizat de lucru"</string>
      <string name="forward_intent_to_work">"Utilizați această aplicație în timpul profilului personalizat de lucru"</string>
      <string name="gadget_host_error_inflating">Nu s-a putut adăuga widgetul.</string>
      <string name="gigabyteShort">" GB"</string>
      <string name="global_action_assist">Asistență</string>
      <string name="global_action_bug_report">Raport cu erori</string>
-    <string name="global_action_emergency">Urgență</string>
+     <string name="global_action_emergency">Urgență</string>
      <string name="global_action_lock">Blocaţi ecranul</string>
      <string name="global_action_lockdown">Blocați acum</string>
      <string name="global_action_power_off">Opriţi alimentarea</string>
@@ -605,10 +605,10 @@ Sigur doriți să părăsiți această pagină?"</string>
      <string name="keyguard_password_entry_touch_hint"><font size="17">Atingeţi şi introduceţi parola</font></string>
      <string name="keyguard_password_wrong_pin_code">Cod PIN incorect.</string>
      <string name="kg_enter_confirm_pin_hint">Confirmaţi codul PIN dorit</string>
-     <string name="kg_failed_attempts_almost_at_login" formatted="false">"Aţi desenat incorect modelul pentru deblocare de %d ori. După încă %d încercări nereuşite, vi se va solicita să deblocaţi telefonul cu ajutorul unui cont de e-mail.
+     <string name="kg_failed_attempts_almost_at_login">"Aţi desenat incorect modelul pentru deblocare de %1$d ori. După încă %2$d încercări nereuşite, vi se va solicita să deblocaţi telefonul cu ajutorul unui cont de e-mail.
    
-Încercaţi din nou peste %d secunde."</string>
-     <string name="kg_failed_attempts_almost_at_wipe" formatted="false">Aţi efectuat %d încercări incorecte de deblocare a telefonului. După încă %d încercări nereuşite, acesta va fi resetat la setările prestabilite din fabrică, iar toate datele de utilizator se vor pierde!</string>
+Încercaţi din nou peste %3$d secunde."</string>
+     <string name="kg_failed_attempts_almost_at_wipe">Aţi efectuat %1$d încercări incorecte de deblocare a telefonului. După încă %2$d încercări nereuşite, acesta va fi resetat la setările prestabilite din fabrică, iar toate datele de utilizator se vor pierde!</string>
      <string name="kg_failed_attempts_now_wiping">Aţi efectuat %d încercări incorecte de deblocare a telefonului. Telefonul va fi acum resetat la setările prestabilite din fabrică.</string>
      <string name="kg_forgot_pattern_button_text">Model uitat</string>
      <string name="kg_invalid_confirm_pin_hint">Codurile PIN nu coincid</string>

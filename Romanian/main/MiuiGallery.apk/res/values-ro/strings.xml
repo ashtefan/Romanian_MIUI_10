@@ -197,6 +197,8 @@
     <string name="change_to_face_mode">Afișați doar chipul</string>
     <string name="change_to_photo_mode">Afișați previzualizarea completă</string>
     <string name="change_to_visible">Restaurați detaliile despre această persoană?</string>
+    <string name="checked">Selectată</string>
+    <string name="checked_something">Selectate %s</string>
     <string name="choose_baby_sexy">Sex</string>
     <string name="choose_owner_relation">Relaţie</string>
     <string name="choose_people">"Selectați albumul unei persoane"</string>
@@ -353,7 +355,8 @@
     <string name="enable_face_album_summary">Sortați în mod automat fotografiile în funcție de persoanele pe care le conțin</string>
     <string name="enable_face_album_title">Sortați după persoanele conținute</string>
     <string name="enabling_face_feature">Doar o secundă…</string>
-    <string name="enter_email_hint">"Introduceţi adresa de e-mail "</string>
+    <string name="enter_choice_mode">S-a accesat dialogul de Partajare</string>
+    <string name="enter_email_hint">Introduceţi adresa de e-mail</string>
     <string name="error_album_not_exist">"Albumul nu există"</string>
     <string name="error_build_thumbnail_action">Descărcați fișierul original</string>
     <string name="error_build_thumbnail_msg">"Nu s-a putut descărca miniatura. Încercați să descărcați fișierul original."</string>
@@ -416,6 +419,7 @@
     <string name="error_unknown_msg">A apărut o eroare. Trimiteți-ne feedback-ul dumneavoastră.</string>
     <string name="error_unknown_tip">A apărut o eroare.</string>
     <string name="exit">Ieşiţi</string>
+    <string name="exit_choice_mode">S-a părăsit dialogul de Partajare</string>
     <string name="exit_share">Anulare distribuire album</string>
     <string name="exit_share_failed">Anularea partajării albumului %1$s a eşuat</string>
     <string name="exit_share_in_process">Se părăsește albumul \"%s\"…</string>
@@ -447,6 +451,7 @@ Faceți mai multe fotografii prietenilor!"</string>
     <string name="family_member_invitation_text">Alt membru al familiei</string>
     <string name="fast_share_auto_render">Înfrumusețare</string>
     <string name="fast_share_auto_render_finish">Înfrumusețată</string>
+    <string name="feature_guidance_photo_effects">Efecte foto</string>
     <string name="filter_bi_memory">Memorie</string>
     <string name="filter_bi_mono">Mono</string>
     <string name="filter_bi_pink">Roz</string>
@@ -539,6 +544,8 @@ Faceți mai multe fotografii prietenilor!"</string>
     <string name="image_invalid_path">Cale invalidă</string>
     <string name="image_not_found">"Nu s-a găsit imaginea"</string>
     <string name="image_quota_fulfiled">Prea multe imagini. Ştergeţi unele imagini şi încercaţi din nou.</string>
+    <string name="image_with_time">Fotografie realizată pe %s</string>
+    <string name="image_with_time_and_location">Fotografie realizată pe %1$s. Locația: %2$s.</string>
     <string name="impunity_declaration_settings">Notificare conexiune la internet</string>
     <string name="impunity_declaration_summary">Afişare notificare conexiune la internet de fiecare dată când se accesează Galeria</string>
     <string name="initializing_cloud">Iniţializare…</string>
@@ -993,6 +1000,10 @@ pentru a personaliza Galeria"</string>
     <string name="sticker_spring">Primăvară</string>
     <string name="sticker_summer">Vară</string>
     <string name="sticker_words">Cuvinte</string>
+    <string name="storage_description_primary">Stocarea internă</string>
+    <string name="storage_description_sdcard">Cardul SD</string>
+    <string name="storage_description_usb">Stocarea USB</string>
+    <string name="storage_description_xspace">Date aplicații duale</string>
     <string name="storage_no_space">Spațiu insuficient</string>
     <string name="sub_discard_confirm_message">Salvați modificările?</string>
     <string name="sub_discard_negative_btn">Renunțați</string>
@@ -1057,6 +1068,8 @@ pentru a personaliza Galeria"</string>
     <string name="turn_off_and_move">Dezactivați și mutați</string>
     <string name="turn_on_and_remove">Activați și mutați</string>
     <string name="turn_on_sync">Activați sincronizarea</string>
+    <string name="unchecked">Deselectată</string>
+    <string name="unchecked_something">Deselectate %s</string>
     <string name="unpublish_failed">Eşuare</string>
     <string name="unpublish_succeeded">Album nepublicat</string>
     <string name="unpublishing">Anulare…</string>
@@ -1129,6 +1142,8 @@ pentru a personaliza Galeria"</string>
     <string name="video_editor_unsupport_audio_file">Fișier audio nesuportat</string>
     <string name="video_err">"Imposibil de redat videoclipul"</string>
     <string name="video_not_exist">"Videoclip inexistent"</string>
+    <string name="video_with_time">Videoclip realizat pe %s</string>
+    <string name="video_with_time_and_location">Videoclip realizat pe %1$s. Locația: %2$s.</string>
     <string name="view_by_gallery_tip">Galerie MIUI</string>
     <string name="view_face_album">Vizualizaţi albumul</string>
     <string name="view_queuing_status">Verificați starea</string>

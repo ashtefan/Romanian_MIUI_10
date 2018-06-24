@@ -497,6 +497,8 @@
     <string name="wechat_copying_video_dialog_title">Exportați în Galerie</string>
     <string name="wechat_copying_video_empty">Niciun videoclip de exportat</string>
     <string name="wechat_copying_video_success">Exportat cu succes</string>
+    <string name="wechat_msg_time_long">dd-MM-yyyy</string>
+    <string name="wechat_msg_time_short">dd-MM</string>
     <string name="wechat_qq_activity_title">Curățare profundă</string>
     <string name="wechat_qq_celan_tab_file">Fișiere</string>
     <string name="wechat_qq_celan_tab_image">Imagine</string>
@@ -505,6 +507,7 @@
     <string name="wechat_qq_chat_files">Istoric chat</string>
     <string name="wechat_qq_deep_clean_button_text">Curățare profundă</string>
     <string name="wechat_qq_normal_files">Gunoi</string>
+    <string name="wechat_video_time">%1$s:%2$s</string>
     <string name="white_list_ad_header">Fișiere inutile: %d</string>
     <string name="white_list_apk_header">Pachete de instalare: %d</string>
     <string name="white_list_cache_header">Fişiere cache: %d</string>

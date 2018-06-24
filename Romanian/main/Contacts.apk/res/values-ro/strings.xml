@@ -900,6 +900,7 @@ Pentru a adăuga un contact în lista de favorite:
     <string name="preference_phone">Telefon</string>
     <string name="preference_phone_more_title">Setări pentru apeluri</string>
     <string name="preference_remove_duplicate">Îmbinaţi contactele dublate</string>
+    <string name="preference_show_firewall_calllog">Afișează apelurile blocate în istoricul de apelare</string>
     <string name="preference_show_yellowpage_tab_description">Aplicația Pagini Aurii poate funcționa necorespunzător când această caracteristică este oprită.</string>
     <string name="preference_show_yellowpage_tab_title">Arată fila Pagini Aurii</string>
     <string name="preference_simple_mode_description">Se afişează fotografiile şi alte informaţii de contact în lista contactelor</string>
