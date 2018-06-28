@@ -1000,6 +1000,7 @@ Sample Rate"</string>
     <string name="cancel_action">Anulaţi</string>
     <string name="cancel_alert">Renunțați la modificări?</string>
     <string name="cancel_button">Renunțați</string>
+    <string name="cancel_description">Renunțați</string>
     <string name="cancel_download_buton_text">Anulaţi</string>
     <string name="cant_sync_dialog_message">În prezent, sincronizarea pentru acest element este dezactivată. Pentru a schimba această setare, activaţi temporar datele de fundal şi sincronizarea automată.</string>
     <string name="cant_sync_dialog_title">Sincronizarea manuală nu este posibilă</string>
@@ -1149,6 +1150,7 @@ Sample Rate"</string>
     <string name="confirm_action">OK</string>
     <string name="confirm_bind_xiaomi_account_dialog_title">Adăugați</string>
     <string name="confirm_convert_to_fbe_warning">Sunteți sigur că doriți ștergerea datelor de utilizator și să convertiți la criptarea pe bază de fișier?</string>
+    <string name="confirm_description">Confirmați</string>
     <string name="confirm_download_cancelation_dialog_message">Anulaţi descărcarea?</string>
     <string name="confirm_enable_oem_unlock_text">ATENȚIE: Caracteristicile de protecție a dispozitivului nu vor funcționa pe acest dispozitiv atât timp cât această setare este activă.</string>
     <string name="confirm_enable_oem_unlock_title">Permiteți deblocarea OEM?</string>
@@ -1808,6 +1810,7 @@ Pentru mai multe detalii, contactați administratorul organizației."</string>
     <string name="failed_to_open_app_settings_toast">Deschiderea setărilor pentru %1$s a eşuat</string>
     <string name="failed_to_shut_down_find_device_content">"Nu s-a putut opri serviciul Localizare dispozitiv. Reîncercați peste un minut sau două."</string>
     <string name="failed_to_shut_down_find_device_title">"Nu s-a putut opri serviciul Localizare dispozitiv"</string>
+    <string name="fallback_home_title">Doar o secundă…</string>
     <string name="fcc_equipment_id">ID echipament</string>
     <string name="file_privacy_password_role_instruction">Fișierele private vor fi stocate aici.</string>
     <string name="filter">Filtraţi</string>
@@ -2174,6 +2177,9 @@ Puteți modifica acest lucru mai târziu în Setări &gt; Aplicații și notific
     <string name="key_combination_power_back">Pornire + Înapoi</string>
     <string name="key_combination_power_home">Pornire + Acasă</string>
     <string name="key_combination_power_menu">Pornire + Meniu</string>
+    <string name="key_fsg_dialog_message">"Utilizați pentru navigare gesturile în ecran complet. Caracteristicile asociate ale butoanelor nu sunt disponibile acum. Comutați la butoane?"</string>
+    <string name="key_fsg_dialog_negative">Renunțați</string>
+    <string name="key_fsg_dialog_positive">Comută la butoane</string>
     <string name="key_gesture_function_dialog_message">%1$s este o scurtătură pentru %2$s. O înlocuiți cu %3$s?</string>
     <string name="key_gesture_function_dialog_negative">Renunțați</string>
     <string name="key_gesture_function_dialog_positive">Înlocuiți</string>

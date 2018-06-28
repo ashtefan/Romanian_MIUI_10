@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="note_terms">
-        <item quantity="other">%1$s note</item>
-        <item quantity="one">%1$s notă</item>
-     </plurals>
+    <plurals name="cloud_state_unsynced_count">
+        <item quantity="other">"%1$s nu s-au sincronizat"</item>
+        <item quantity="one">"%1$s nu s-a sincronizat"</item>
+    </plurals>
     <plurals name="folder_terms">
         <item quantity="other">%1$s dosare</item>
         <item quantity="one">%1$s dosar</item>
-     </plurals>
-    <plurals name="cloud_state_unsynced_count">
-        <item quantity="other">%1$s nu au fost sincronizate</item>
-        <item quantity="one">%1$s nu a fost sincronizat</item>
+    </plurals>
+    <plurals name="note_terms">
+        <item quantity="other">%1$s note</item>
+        <item quantity="one">%1$s notă</item>
+    </plurals>
+    <plurals name="record_last_ten_seconds_reminder">
+        <item quantity="other">%d secunde rămase</item>
+        <item quantity="one">%d secundă rămasă</item>
+    </plurals>
+    <plurals name="word_count">
+        <item quantity="other">%s caractere</item>
+        <item quantity="one">%s caracter</item>
     </plurals>
 </resources>

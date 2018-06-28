@@ -104,12 +104,12 @@
     <plurals name="clean_long_msg_p1">
         <item quantity="other">"Se curăță %1$d fișiere (%2$d%%)
 "</item>
-        <item quantity="one">"Se curăță %1$d fisier (%2$d%%)
+        <item quantity="one">"Se curăță %1$d fișier (%2$d%%)
 "</item>
     </plurals>
     <plurals name="clean_long_msg_p2">
-        <item quantity="other">%1$d elemente/secundă | Timp rămas: %2$s</item>
-        <item quantity="one">%1$d element/secundă | Timp rămas: %2$s</item>
+        <item quantity="other">%1$d elemente per secundă | Timp rămas: %2$s</item>
+        <item quantity="one">%1$d element per secundă | Timp rămas: %2$s</item>
     </plurals>
     <plurals name="hour">
         <item quantity="other">%1$d ore</item>

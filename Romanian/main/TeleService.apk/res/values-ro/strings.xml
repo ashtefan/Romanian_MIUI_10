@@ -516,6 +516,8 @@ Sample Rate"</string>
     <string name="close_dialog">OK</string>
     <string name="close_profile">Închideţi</string>
     <string name="cloud_antispam_title">Identificare numere necunoscute</string>
+    <string name="cloud_sim_enabled_dual_4g_summary">"Nu se poate dezactiva Dual 4G în timp ce utilizați Mi Roaming"</string>
+    <string name="cloud_sim_enabled_preferred_network_summary">"Nu se pot modifica preferințele de rețea în timp ce utilizați Mi Roaming"</string>
     <string name="cmcc_ut_data_enable_prompt">Acest serviciu necesită o conexiune de date mobile. Porniți conexiunea de date mobile pentru a continua.</string>
     <string name="command_error_fdn_failure">Trebuie să dezactivaţi FDN mai întâi</string>
     <string name="config_default_data_sim">Setări</string>
@@ -564,8 +566,11 @@ Sample Rate"</string>
     <string name="daltonizer_type_overridden">Suprascris de către %1$s</string>
     <string name="data_enable_summary">Activaţi accesul de date prin reţeaua mobilă</string>
     <string name="data_enabled">Date mobile</string>
+    <string name="data_plan">planuri de date mobile</string>
     <string name="data_usage_uninstalled_apps">Aplicații eliminate</string>
     <string name="data_usage_uninstalled_apps_users">Aplicații și utilizatori eliminați</string>
+    <string name="dc_alert_dialog_message">Unele aplicații necesită o conexiune de date mobile. Puteți contacta operatorul pentru a afla ce %s sunt disponibile pentru dumneavoastră.</string>
+    <string name="dc_alert_dialog_title">Avertisment utilizare date</string>
     <string name="deactivate_all">Revocare totală</string>
     <string name="debug_app">Selectați aplicația de depanare</string>
     <string name="debug_app_not_set">Nicio aplicație de depanare setată</string>
@@ -673,6 +678,7 @@ Sample Rate"</string>
     <string name="disabled_by_admin_summary_text">Controlată de administrator</string>
     <string name="display_name_summary">&lt;Identic cu numele de utilizator&gt;</string>
     <string name="display_name_title">Numele afişat</string>
+    <string name="do_not_show_again">"Nu afișa din nou"</string>
     <string name="domain_address_title">Server</string>
     <string name="doneButton">Terminat</string>
     <string name="dtmf_tone_entries_long">Lung</string>

@@ -784,6 +784,11 @@ Operatorul vă poate taxa suplimentar dacă activați din nou datele mobile."</s
     <string name="gamebooster_main_activity_back">Înapoi</string>
     <string name="gamebooster_network_dialog_message">Permiteți aplicației de Securitate să se conecteze la rețea pentru a utiliza toate caracteristicile Creșterii vitezei în jocuri?</string>
     <string name="gamebooster_network_dialog_title">"Unele caracteristici nu sunt disponibile"</string>
+    <string name="gamebox_qq_not_find">Instalați mai întâi QQ și încercați din nou.</string>
+    <string name="gamebox_type_close">"Nu arăta"</string>
+    <string name="gamebox_type_float">Scurtătură fixată</string>
+    <string name="gamebox_type_gesture">Glisați pentru a afișa</string>
+    <string name="gamebox_wechat_not_find">Instalați mai întâi WeChat și încercați din nou.</string>
     <string name="gateway_exception_summary">Verificați router-ul și încercați din nou.</string>
     <string name="gateway_exception_summary2">Nu se poate conecta la server</string>
     <string name="gateway_exception_title">Testare router</string>
