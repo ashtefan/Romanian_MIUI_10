@@ -613,7 +613,6 @@ Pentru mai multe informații, contactați administratorul."</string>
     <string name="quick_settings_night_secondary_label_on_at_sunset">Pornește la răsărit</string>
     <string name="quick_settings_night_secondary_label_until_sunrise">Până la apus</string>
     <string name="quick_settings_secondary_label_until">Până la %s</string>
-    <string name="quick_settings_tiles_stock">celulă,wi-fi,lanternă,silențios,captură de ecran,bt,iluminare automată,avion,blocare ecran,mod condus,rotire,editare,gps,vibrații,hotspot,mod citire,sincronizare,mod silențios,mod putere,butoane ecran,economisire acumulator,midrop</string>
     <string name="quick_settings_wifi_detail_empty_text">Nicio rețea Wi-Fi disponibilă</string>
     <string name="quick_settings_wifi_label">Wi-Fi</string>
     <string name="quick_settings_wifi_nearby">Selectați o rețea din apropiere</string>
