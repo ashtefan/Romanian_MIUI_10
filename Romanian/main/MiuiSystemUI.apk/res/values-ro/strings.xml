@@ -48,6 +48,7 @@
     <string name="accessibility_display_daltonizer_preference_title">Corecție de culoare</string>
     <string name="accessibility_divider">Delimitare ecran scindat</string>
     <string name="accessibility_drag_hint_message">Trageți elemente în partea de sus a ecranului</string>
+    <string name="accessibility_enter_lock_wallpaper">Atingeți pentru a deschide aplicația de Muzică</string>
     <string name="accessibility_home">Ecranul de pornire</string>
     <string name="accessibility_ime_switch_button">Buton comutare metodă de introducere.</string>
     <string name="accessibility_managed_profile">Profil Serviciu</string>
@@ -432,6 +433,11 @@ Utilizați doar încărcătorul furnizat de producător."</string>
     <string name="keyboard_shortcut_group_system_recents">Recente</string>
     <string name="keyboard_shortcut_group_system_shortcuts_helper">Scurtături tastatură</string>
     <string name="keyboard_shortcut_group_system_switch_input">Schimbați metoda de introducere</string>
+    <string name="keyguard_left_bankcard">Calculator</string>
+    <string name="keyguard_left_buscard">Notițe</string>
+    <string name="keyguard_left_remotecentral">Calendar</string>
+    <string name="keyguard_left_smarthome">Contacte</string>
+    <string name="keyguard_left_view_lock_wallpaper">Muzică</string>
     <string name="kilobyte_per_second">K/s</string>
     <string name="label_view">Afişaţi</string>
     <string name="launch_defaults_none">Nicio aplicație implicită setată</string>
@@ -512,7 +518,10 @@ Pentru mai multe informații, contactați administratorul."</string>
     <string name="no_notification_tips">Nicio notificare</string>
     <string name="no_weather_description">Obțineți informații despre starea vremii &gt;</string>
     <string name="not_support_multi_window">"Aplicația curentă nu suportă modul Ecran scindat"</string>
+    <string name="notification_channel_battery">Acumulator</string>
+    <string name="notification_channel_general">Mesaje generale</string>
     <string name="notification_channel_screenbutton">Butoane</string>
+    <string name="notification_channel_usb">USB</string>
     <string name="notification_group_overflow_indicator">+%s</string>
     <string name="notification_group_title_text">%1$s (%2$s)</string>
     <string name="notification_header_title">Notificări</string>
@@ -598,11 +607,13 @@ Pentru mai multe informații, contactați administratorul."</string>
     <string name="quick_settings_disclosure_vpns">Dispozitiv conectat la VPNs</string>
     <string name="quick_settings_done">Terminat</string>
     <string name="quick_settings_dual_location_label">GPS dual</string>
+    <string name="quick_settings_gps_label">GPS</string>
     <string name="quick_settings_more_settings">Setări suplimentare</string>
     <string name="quick_settings_night_secondary_label_on_at">Pornește la %s</string>
     <string name="quick_settings_night_secondary_label_on_at_sunset">Pornește la răsărit</string>
     <string name="quick_settings_night_secondary_label_until_sunrise">Până la apus</string>
     <string name="quick_settings_secondary_label_until">Până la %s</string>
+    <string name="quick_settings_tiles_stock">celulă,wi-fi,lanternă,silențios,captură de ecran,bt,iluminare automată,avion,blocare ecran,mod condus,rotire,editare,gps,vibrații,hotspot,mod citire,sincronizare,mod silențios,mod putere,butoane ecran,economisire acumulator,midrop</string>
     <string name="quick_settings_wifi_detail_empty_text">Nicio rețea Wi-Fi disponibilă</string>
     <string name="quick_settings_wifi_label">Wi-Fi</string>
     <string name="quick_settings_wifi_nearby">Selectați o rețea din apropiere</string>

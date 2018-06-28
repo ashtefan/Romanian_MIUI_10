@@ -59,12 +59,12 @@
     <string name="ball_basketball_rank_gb">Rezultate</string>
     <string name="ball_basketball_rank_state">Stare</string>
     <string name="ball_basketball_title">Baschet</string>
-    <string name="ball_basketball_total_rank">Stare</string>
     <string name="ball_dialog_confirm">Instalați</string>
     <string name="ball_dialog_content">Instalați HuPu Sports pentru a utiliza această caracteristică. Instalați acum?</string>
     <string name="ball_dialog_tip">"Nu arăta din nou"</string>
     <string name="ball_dialog_title">Instalați aplicația mai întâi.</string>
     <string name="ball_football_news">Știri</string>
+    <string name="ball_football_news_worldcup">Mai multe noutăți</string>
     <string name="ball_football_rank_flat">D</string>
     <string name="ball_football_rank_lose">L</string>
     <string name="ball_football_rank_num">P</string>
@@ -75,10 +75,15 @@
     <string name="ball_football_recent">VS</string>
     <string name="ball_football_recent_end">Finalizat</string>
     <string name="ball_football_recent_end_tip">Rezultate</string>
+    <string name="ball_football_recent_end_worldcup">Atingeți pentru a vedea rezultatele &gt;</string>
     <string name="ball_football_recent_ing">În curs</string>
+    <string name="ball_football_recent_ing_worldcup">Atingeți pentru a vedea în direct &gt;</string>
     <string name="ball_football_recent_text_show">Comentariu text</string>
+    <string name="ball_football_recent_text_show_youku">Transmisie în direct</string>
     <string name="ball_football_title">Fotbal</string>
     <string name="ball_football_total_rank">Clasamente</string>
+    <string name="ball_football_total_rank_worldcup">Program</string>
+    <string name="ball_football_world_cup">Cupa Mondială</string>
     <string name="ball_hupu">HuPu Sports</string>
     <string name="ball_net_errot">"Nu s-a putut conecta la rețea."</string>
     <string name="ball_recent_no_data">Nicio informație despre meciurile viitoare.</string>
@@ -404,7 +409,6 @@ Verificați numărul de urmărire."</string>
     <string name="express_setting_brief_detail">Urmăriți toate pachetele utilizând numărul de telefon și informațiile despre comandă.</string>
     <string name="express_setting_code_invalid">"Asigurați-vă că ați introdus codul corect"</string>
     <string name="express_setting_count_down_time">Încercați din nou în %ds</string>
-    <string name="express_setting_dialog_authority_description">Verificarea numărului de telefon este furnizată de către Pagini Aurii. Aplicația Pagini Aurii trebuie să se conecteze la rețea pentru a funcționa în mod normal. Sunteți de acord?</string>
     <string name="express_setting_dialog_delete_cancel">Renunțați</string>
     <string name="express_setting_dialog_delete_description">"Aplicația Pagini Aurii nu va putea verifica în mod automat informațiile despre livrare după ce veți șterge numărul de telefon. Îl ștergeți oricum?"</string>
     <string name="express_setting_dialog_delete_failed">"Nu s-a putut șterge numărul de telefon"</string>
@@ -854,6 +858,7 @@ Verificați numărul de urmărire."</string>
     <string name="setting_authorization_canceled_dialog_message">MIUI nu va mai înregistra plățile și acest card va fi eliminat.</string>
     <string name="setting_authorization_canceled_dialog_ok">Eliminați cardul</string>
     <string name="setting_authorization_canceled_dialog_title">Eliminați cardul</string>
+    <string name="setting_ball_recent">Adăugate recent</string>
     <string name="setting_basketball_brief_detail">Vedeți informații, aflați rezultate și urmăriți până la 4 echipe de baschet.</string>
     <string name="setting_booking">Rezervări</string>
     <string name="setting_booking_brief">Bilete de tren, avion, filme și rezervări la hotel</string>
