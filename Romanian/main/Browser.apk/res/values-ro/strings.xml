@@ -1136,7 +1136,6 @@ Aplicația Browser trebuie să se conecteze la internet pentru a funcționa în 
     <string name="suggestion_more_news">MAI MULTE ȘTIRI</string>
     <string name="suggestion_more_news_start_title_text">Știri înrudite</string>
     <string name="suggestion_topic_subtitle_hyphen">Focus</string>
-    <string name="suggestion_topic_subtitle_navtitle_hyphen">·</string>
     <string name="suggestion_translation_more">VEDEȚI MAI MULTE</string>
     <string name="switchText">DA</string>
     <string name="switch_proxy_dialog_msg">"Fraudare rețea detectată. Utilizați aplicația de securitate MIUI încorporată sau raportați atacul către operatorul dumneavoastră."</string>
