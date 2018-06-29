@@ -164,7 +164,6 @@ Verificați ora locală și reîncercați."</string>
     <string name="mibi_label_balance">Balanță</string>
     <string name="mibi_label_giftcard">Card cadou</string>
     <string name="mibi_label_pay_remain">Sold: %1$s Credite Mi</string>
-    <string name="mibi_license_message">"Sunteți pe cale să utilizați serviciul Mi Credit, furnizat de către Xiaomi Inc. Înainte de a putea utiliza acest serviciu, trebuie să fiți de acord cu Termenii Serviciului prezentați în %1$s. Atingeți OK dacă sunteți de acord cu termenii și condițiile descrise în %1$s . Trebuie să vă conectați la internet și să permiteți localizarea telefonului pentru a utiliza Mi Credit."</string>
     <string name="mibi_license_message_span">Acordul utilizatorului Mi Credit</string>
     <string name="mibi_license_title">Termenii și condițiile</string>
     <string name="mibi_list_item_bottom_hint">"Ați ajuns la capătul listei"</string>

@@ -85,6 +85,7 @@
     <string name="default_folder_title_game">Jocuri</string>
     <string name="default_folder_title_recommend">Alte aplicații</string>
     <string name="default_folder_title_security">Sistem</string>
+    <string name="default_folder_title_services">Servicii</string>
     <string name="default_folder_title_tools">Unelte</string>
     <string name="default_screen_preview_title">Atingeți pentru a seta ecranul implicit</string>
     <string name="delete">Ştergeţi</string>
@@ -222,6 +223,8 @@
     <string name="notification_open_button">Deschideți</string>
     <string name="notification_reset_title">Iconițele au fost aranjate cu succes</string>
     <string name="online_wallpaper">On-line</string>
+    <string name="open_personal_assistant_dialog_desc_international">"Nu veți mai putea utiliza cardurile Asistentului inteligent (Stocuri, Scurtături, etc.) și primi actualizări după ce veți dezactiva această funcție."</string>
+    <string name="open_personal_assistant_title">Asistent inteligent</string>
     <string name="out_of_space">Nu mai este loc pe acest ecran</string>
     <string name="permdesc_install_shortcut">Permite unei aplicaţii să adauge comenzi rapide fără intervenţia utilizatorului.</string>
     <string name="permdesc_install_widget">Permite aplicaţiei adăugarea obiectelor widget fără intervenţia utilizatorului.</string>

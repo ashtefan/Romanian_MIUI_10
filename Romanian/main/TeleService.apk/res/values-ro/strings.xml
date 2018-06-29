@@ -1646,6 +1646,11 @@ Contactaţi operatorul în cazul în care această problemă persistă."</string
     <string name="voice_privacy_summary">Activaţi modul avansat de confidenţialitate</string>
     <string name="voice_report_incoming_call">Apelare</string>
     <string name="voice_report_unknown_num">Număr necunoscut</string>
+    <string name="voice_service_warning_dialog_body">"Această tabletă suportă apeluri VoLTE în rețelele 4G. Asigurați-vă că dispozitivul este conectat pentru a suporta această funcționalitate. Serviciile VoLTE sunt furnizate de către operatorul dumneavoastră. Contactați furnizorul local pentru a afla dacă serviciul VoLTE este disponibil în zona dumneavoastră.
+
+Dacă vedeți simbolul _ în bara de stare, apelurile VoLTE nu sunt disponibile. Dacă nu puteți efectua sau primi apeluri, sau apelurile sunt întrerupte, asigurați-vă că rețeaua dumneavoastră este compatibilă cu VoLTE.
+
+Această tabletă nu are difuzor. Puteți comuta la modul mâini-libere sau utiliza căștile pentru a efectua apeluri."</string>
     <string name="voicemail">Mesaj vocal</string>
     <string name="voicemail_abbreviated">MV:</string>
     <string name="voicemail_change_pin_dialog_title">Schimbați codul PIN</string>

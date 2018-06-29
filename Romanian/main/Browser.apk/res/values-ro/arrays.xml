@@ -42,6 +42,10 @@
         <item>Mesaj din Browser</item>
         <item>Urmăriți olimpiada cu Mi</item>
     </string-array>
+    <string-array name="suggestion_topic_tips">
+        <item>Privind spre Focus</item>
+        <item>Problemă centrală</item>
+    </string-array>
     <string-array name="suggestion_weather_condition_message">
         <item>Senin</item>
         <item>Parțial înnorat</item>

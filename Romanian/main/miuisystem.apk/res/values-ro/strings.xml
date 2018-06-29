@@ -56,6 +56,10 @@
     <string name="frog">Broască</string>
     <string name="future">Viitor</string>
     <string name="glockenspiel">Glockenspiel</string>
+    <string name="group_name_contacts">Contacte</string>
+    <string name="group_name_coworkers">Colegi</string>
+    <string name="group_name_family">Familie</string>
+    <string name="group_name_friends">Prieteni</string>
     <string name="guitar">Chitară</string>
     <string name="harp">Harpă</string>
     <string name="incomingmessage">Mesaj primit</string>

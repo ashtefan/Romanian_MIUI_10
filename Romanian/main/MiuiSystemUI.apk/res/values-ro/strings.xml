@@ -309,6 +309,11 @@ Dacă reactivaţi datele, puteţi fi taxat de către operator.</string>
     <string name="dock_keyguard_locked_failed_to_dock_text">"Modul ecran scindat nu este suportat în Blocarea ecranului."</string>
     <string name="dock_non_resizeble_failed_to_dock_text">"Aplicația nu suportă modul ecran scindat"</string>
     <string name="drive_mode_tip">Modul Automobil activat</string>
+    <string name="drive_mode_tip_idle">Modul Automobil este activat</string>
+    <string name="drive_mode_tip_idle_notch">Modul Automobil</string>
+    <string name="drive_mode_tip_notch">Modul Automobil</string>
+    <string name="emergency_call_string">Urgență</string>
+    <string name="empty_shade_text">Fără notificări</string>
     <string name="enable_adb">Depanare USB</string>
     <string name="enable_adb_summary">Mod depanare la conectare USB</string>
     <string name="enable_freeform_support">Activați ferestre cu formă liberă</string>

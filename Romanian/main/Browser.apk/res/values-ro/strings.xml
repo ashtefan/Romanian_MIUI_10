@@ -9,6 +9,7 @@
     <string name="accessibility_button_clear">Ştergeţi textul introdus</string>
     <string name="account_prifix">Cont:</string>
     <string name="action">Conectaţi-vă</string>
+    <string name="action_imme_open">Deschide imediat</string>
     <string name="action_menu_account_not_login">Nu sunteți conectat</string>
     <string name="action_menu_account_not_login_hint">Conectați-vă pentru a sincroniza cu Mi Cloud</string>
     <string name="action_menu_bookshelf">Raftul cu cărți</string>
@@ -45,7 +46,6 @@
     <string name="action_menu_useful_page_added">Adăugat în pagina de start</string>
     <string name="action_menu_user_center">Profil</string>
     <string name="action_modify_bookmark">Modificați semnul de carte</string>
-    <string name="action_one_touch">Accesați notificările</string>
     <string name="action_put_in_search_box">Puneți %s în căsuța de căutare</string>
     <string name="action_skip">Omiteți</string>
     <string name="adblock_force_updating_rules_toast">Se actualizează filtrul pentru reclame</string>
@@ -131,6 +131,8 @@
     <string name="browserFrameFormResubmitLabel" />
     <string name="browserFrameFormResubmitMessage">Pagina pe care încercaţi să o reafişaţi conţine date deja trimise. În caz că retransmiteţi datele, acţiunile anterioare (de ex. căutările, sau achiziţiile) se vor repeta.</string>
     <string name="browserFrameNetworkErrorLabel">Eroare de conexiune</string>
+    <string name="bubble_guide_logined_text">Autentificați-vă pentru a participa la ruletă</string>
+    <string name="bubble_guide_unlogined_text">Conectați-vă pentru a beneficia de privilegii</string>
     <string name="cancel">Anulaţi</string>
     <string name="cancle_sync_cloud_tabs">Opriți sincronizarea</string>
     <string name="cannot_download">Puteţi descărca numai de la adrese URL care încep cu „http” sau „https”</string>
@@ -196,10 +198,14 @@
     <string name="current_version_pc">Desktop</string>
     <string name="current_version_phone">Telefon</string>
     <string name="custom_head_card_text">Crede întotdeauna că ceva minunat urmează să se întâmple</string>
+    <string name="custom_head_pull_down_text">Accesați fluxul de informații</string>
     <string name="data_monitor">Monitorizare utilizare date</string>
-    <string name="data_monitor_dialog_message">Se pare că ceva utilizează datele mobile. Deschideți pagina de pornire pentru a opri acest lucru.</string>
-    <string name="data_traffic_prompt_message">"Utilizarea conexiunii de date mobile pentru a căuta videoclipuri va creşte utilizarea datelor. Dacă treceţi peste limita utilizării datelor din planul dvs., operatorul vă poate taxa suplimentar."</string>
-    <string name="data_traffic_prompt_title">Avertisment de utilizare a datelor</string>
+    <string name="data_traffic_continue">Continuați</string>
+    <string name="data_traffic_goto">Trafic liber de date</string>
+    <string name="data_traffic_prompt_free_data">Utilizarea datelor mobile pentru a urmări videoclipuri va crește utilizarea datelor mobile. Vă rugăm să obțineți un plan gratuit de date.</string>
+    <string name="data_traffic_prompt_message">Utilizarea datelor mobile pentru a urmări videoclipuri va crește utilizarea datelor mobile. Dacă depășiți limita de date, operatorul vă poate taxa suplimentar.</string>
+    <string name="data_traffic_prompt_title">Utilizez datele mobile</string>
+    <string name="data_traffic_stop">Stop</string>
     <string name="delete">Ştergeţi</string>
     <string name="delete_bookmark">Ștergeți</string>
     <string name="delete_bookmark_action_warning">Ștergeți marcajele?</string>
@@ -377,6 +383,7 @@ pentru a vedea filele deschise pe alte dispozitive"</string>
     <string name="menu_title_open_file_management">Deschideți Exploratorul de fișiere</string>
     <string name="menu_title_pause_all">Suspendați tot</string>
     <string name="menu_title_resume_all">Porniți tot</string>
+    <string name="message_notice_push">Experința datelor personale</string>
     <string name="miui_autologin_bar_error">"Nu se poate conecta"</string>
     <string name="miui_autologin_bar_title">Conectați-vă cu contul Mi</string>
     <string name="miui_bookmark_action_bar_add_group_title">Adăugaţi un grup</string>
@@ -810,6 +817,7 @@ Rețineți că fișierele pe care le descărcați și marcajele vor fi totuși s
     <string name="navigationbar_rightbutton_actiontext_cancle">Renunță</string>
     <string name="navigationbar_rightbutton_actiontext_go">Accesați</string>
     <string name="navigationbar_rightbutton_actiontext_search">Căutați</string>
+    <string name="network_not_available_comment">Fără conexiune la internet; nu se poate adăuga un comentariu</string>
     <string name="network_show_wifi_setting_tip_dialog_description">S-a găsit un hotspot Wi-Fi în apropiere. Încercați să vă conectați?</string>
     <string name="network_show_wifi_setting_tip_dialog_title">Rețeaua Wi-Fi este disponibilă</string>
     <string name="next_button_label">Înainte</string>
@@ -1018,6 +1026,7 @@ Rețineți că fișierele pe care le descărcați și marcajele vor fi totuși s
     <string name="save_to_camera_success">Salvată în Galerie</string>
     <string name="scanner_uninstalled_text">Instalați aplicația Scaner pentru a continua</string>
     <string name="scanner_uninstalled_title">Aplicația Scaner a fost dezinstalată</string>
+    <string name="screenshot_loading_dialog_title">Captare</string>
     <string name="sdcard_error">Verificaţi cardul SD</string>
     <string name="search">Căutare</string>
     <string name="search_baidu">Baidu</string>
@@ -1112,6 +1121,7 @@ Aplicația Browser trebuie să se conecteze la internet pentru a funcționa în 
     <string name="suggest_access_item_singer_albums">%d albume</string>
     <string name="suggest_access_item_singer_pop">%d melodii populare</string>
     <string name="suggest_access_item_site_mark">SITE-URI</string>
+    <string name="suggest_access_item_topic_mark">SUBIECT</string>
     <string name="suggest_access_item_video_mark">VIDEOCLIPURI</string>
     <string name="suggest_access_item_weather_mark">METEO</string>
     <string name="suggest_access_item_yellow_mark">PAGINI AURII</string>
@@ -1122,6 +1132,11 @@ Aplicația Browser trebuie să se conecteze la internet pentru a funcționa în 
     <string name="suggestion_lottery_detail_price">FIECARE NOTĂ VALOREAZĂ %s YUANI</string>
     <string name="suggestion_lottery_detail_text">ACEASTĂ RUNDĂ %s</string>
     <string name="suggestion_lottery_period">RUNDA %s</string>
+    <string name="suggestion_more_button_text">VEDEȚI MAI MULTE</string>
+    <string name="suggestion_more_news">MAI MULTE ȘTIRI</string>
+    <string name="suggestion_more_news_start_title_text">Știri înrudite</string>
+    <string name="suggestion_topic_subtitle_hyphen">Focus</string>
+    <string name="suggestion_topic_subtitle_navtitle_hyphen">·</string>
     <string name="suggestion_translation_more">VEDEȚI MAI MULTE</string>
     <string name="switchText">DA</string>
     <string name="switch_proxy_dialog_msg">"Fraudare rețea detectată. Utilizați aplicația de securitate MIUI încorporată sau raportați atacul către operatorul dumneavoastră."</string>
@@ -1139,6 +1154,7 @@ Aplicația Browser trebuie să se conecteze la internet pentru a funcționa în 
     <string name="tae_sdk_qr_login_icon_scan"></string>
     <string name="temp_refuse">Nu, mulțumesc</string>
     <string name="title_bar_loading">Se încarcă…</string>
+    <string name="title_notice_push">Activați notificările push</string>
     <string name="too_many_windows_dialog_message">Browser-ul nu mai poate deschide o filă nouă până când nu închideţi alta.</string>
     <string name="too_many_windows_dialog_title">A fost atinsă limita pentru numărul de file deschise</string>
     <string name="transfer_prompt_0">Redă videoclipul</string>
