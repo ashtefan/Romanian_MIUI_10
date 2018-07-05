@@ -147,7 +147,6 @@
     <string name="shutdown_alarm_enable_summary">Alarma va suna chiar dacă închideți telefonul</string>
     <string name="shutdown_alarm_title">Pornire telefon</string>
     <string name="silent_alarm_summary">Silenţios</string>
-    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">Amânați o dată în %s</string>
     <string name="slider_text">Glisaţi în sus pentru a dezactiva</string>
     <string name="snooze_confirm_cancel">Anulaţi alarma</string>
@@ -163,7 +162,6 @@
   <string name="stat_repeat_weekends">În weekend</string>
     <string name="stopwatch_lap_empty_text">Niciun circuit</string>
     <string name="stopwatch_title">Cronometru</string>
-    <string name="symbol_colon">:</string>
     <string name="system_time_setting">Setări</string>
     <string name="system_time_settings_category_title">Setări pentru oră</string>
     <string name="temperature_unit">%1$s°C</string>
