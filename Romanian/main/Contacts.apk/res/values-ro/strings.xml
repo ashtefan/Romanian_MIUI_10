@@ -5,6 +5,8 @@
     <string name="account_container_title">Importat din</string>
     <string name="account_default">Telefon</string>
     <string name="account_phone">Numai pe telefon, nesincronizat</string>
+    <string name="account_sdn">SDN</string>
+    <string name="account_sdn2">SDN %d</string>
     <string name="account_sim">Cartela SIM</string>
     <string name="account_sim2">Cartela SIM %d</string>
     <string name="account_type_format">Contact din %1$s</string>
@@ -217,6 +219,7 @@
     <string name="contact_detail_calllog_empty">Nu există un istoric de apelare</string>
     <string name="contact_detail_entry_pay">Plătiți</string>
     <string name="contact_detail_entry_pay_dialog_title">Selectați numărul de telefon</string>
+    <string name="contact_detail_entry_pay_request">Solicită bani</string>
     <string name="contact_detail_menu_delete_miprofile">Ştergere cartelă</string>
     <string name="contact_detail_miprofile_accept">Schimb cartele de contact</string>
     <string name="contact_detail_miprofile_accept_fail_toast">Nu s-au putut schimba cartelele de contact</string>
@@ -780,6 +783,7 @@ Pentru a adăuga un contact în lista de favorite:
     <string name="no_contacts_dialog_title">Nu s-au găsit contacte</string>
     <string name="no_contacts_selected">Nu aţi selectat niciun contact din agendă.</string>
     <string name="no_sdcard_message">Nu s-a găsit cardul SD.</string>
+    <string name="no_setting_menu">Nicio opțiune de meniu disponibilă</string>
     <string name="non_phone_add_to_contacts">Adăugaţi la un contact existent</string>
     <string name="non_phone_caption">Număr de telefon</string>
     <string name="non_phone_close">Închideţi</string>
@@ -868,6 +872,9 @@ Pentru a adăuga un contact în lista de favorite:
     <string name="pref_key_photo_word_title">Atribuire fotografii de contact</string>
     <string name="pref_key_rebuild_t9_index_message">Reconstruiţi indicele datelor pentru a rezolva problemele de căutare</string>
     <string name="pref_key_rebuild_t9_index_title">Reconstruirea indicelui datelor</string>
+    <string name="pref_key_sdn_manage">Vedeți SDN</string>
+    <string name="pref_key_sdn_manage1">Vedeți SDN cartelei 1</string>
+    <string name="pref_key_sdn_manage2">Vedeți SDN cartelei 2</string>
     <string name="pref_key_sim_manage">Configuraţi cartela SIM</string>
     <string name="pref_key_sim_manage1">Configuraţi cartela SIM1</string>
     <string name="pref_key_sim_manage2">Configuraţi cartela SIM2</string>
@@ -990,6 +997,8 @@ Apăsaţi pictograma Îmbinare de mai jos pentru a începe.</string>
     <string name="scan_qrcode_card_hint2" />
     <string name="scanning_sdcard_failed_message">Motivul: „%s”</string>
     <string name="scanning_sdcard_failed_title">Cardul SD nu a putut fi scanat</string>
+    <string name="sdnContacts_empty">Niciun SDN</string>
+    <string name="sdnContacts_emptyLoading">Se încarcă SDN…</string>
     <string name="searchHint">Căutaţi în Agendă</string>
     <string name="search_batch_delete">Organizare;Contacte</string>
     <string name="search_contacts_display">Contacte;Afișare</string>
@@ -1111,6 +1120,7 @@ Apăsaţi pictograma Îmbinare de mai jos pentru a începe.</string>
     <string name="social_widget_label">Contact din agendă</string>
     <string name="social_widget_loading">Se încarcă…</string>
     <string name="solar_calendar">Calendar solar</string>
+    <string name="special_code_security_exception">"Nu s-a putut finaliza acțiunea. Aceasta nu este tastatura dumneavoastră implicită."</string>
     <string name="splitConfirmation">Acest contact va fi separat în mai multe intrări în agendă.</string>
     <string name="splitConfirmation_title">Intrare separată?</string>
     <string name="starredList">Cu stea</string>
@@ -1121,6 +1131,7 @@ Apăsaţi pictograma Îmbinare de mai jos pentru a începe.</string>
     <string name="strequentList">Favorite</string>
     <string name="success_message_import_from_account">Import finalizat</string>
     <string name="summary_kind_title">Rezumat</string>
+    <string name="sv">SV</string>
     <string name="t9_search_empty_create_contact">Contact nou</string>
     <string name="t9_search_empty_edit_contact">Adăugați la contacte</string>
     <string name="t9_search_empty_send_sms">Trimiteți un mesaj</string>
@@ -1147,7 +1158,6 @@ Apăsaţi pictograma Îmbinare de mai jos pentru a începe.</string>
     <string name="toast_start_intent_failed">"Nu s-a găsit nicio aplicație pentru gestionarea acestei acțiuni"</string>
     <string name="toast_text_copied">Text copiat</string>
     <string name="today">Azi</string>
-    <string name="tomorrow">Mâine</string>
     <string name="transfer_accounts">Transferare conturi</string>
     <string name="type_incoming">Apel</string>
     <string name="type_missed">Apel nepreluat</string>
@@ -1231,6 +1241,5 @@ Alegeţi una dintre următoarele opţiuni:"</string>
     <string name="yellowpage_navigation_send_to_desktop_succeeded">Adăugat la ecranul de pornire</string>
     <string name="yellowpage_search_the_yellowpage">Căutare în Pagini Aurii</string>
     <string name="yellowpage_user_profile">Profil</string>
-    <string name="yesterday">Ieri</string>
     <string name="zero_items_selected">Selectaţi elementele</string>
 </resources>

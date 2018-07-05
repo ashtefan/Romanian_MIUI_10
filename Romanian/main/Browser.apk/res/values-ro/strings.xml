@@ -161,10 +161,13 @@
     <string name="cloud_tabs_sync_off">Sincronizare oprită</string>
     <string name="cloud_time_tips">Ultima sincronizare</string>
     <string name="cloud_up_to_loading_tips">Eliberați pentru sincronizare</string>
+    <string name="collect_video">Colectați video</string>
     <string name="comment_app_menu">Comentariu</string>
     <string name="comment_description">Comentariu</string>
     <string name="comment_hint">Comentariu</string>
+    <string name="comment_max_length">Comentariul dvs. este prea lung.</string>
     <string name="comment_menu">Comentariu</string>
+    <string name="comment_num_description">Numărul comentariului</string>
     <string name="common_use_phrase_bottom_bar_cn_txt">.cn</string>
     <string name="common_use_phrase_bottom_bar_text_next">Înainte</string>
     <string name="common_use_phrase_bottom_bar_text_previous">Înapoi</string>
@@ -200,6 +203,7 @@
     <string name="custom_head_card_text">Crede întotdeauna că ceva minunat urmează să se întâmple</string>
     <string name="custom_head_pull_down_text">Accesați fluxul de informații</string>
     <string name="data_monitor">Monitorizare utilizare date</string>
+    <string name="data_monitor_dialog_message">Se pare că ceva vă crește traficul de date mobile. Deschideți pagina de pornire pentru a opri acest lucru.</string>
     <string name="data_traffic_continue">Continuați</string>
     <string name="data_traffic_goto">Trafic liber de date</string>
     <string name="data_traffic_prompt_free_data">Utilizarea datelor mobile pentru a urmări videoclipuri va crește utilizarea datelor mobile. Vă rugăm să obțineți un plan gratuit de date.</string>
@@ -273,6 +277,7 @@
     <string name="download_status_pending">În așteptare</string>
     <string name="download_success">Descărcat</string>
     <string name="download_title">Descărcări</string>
+    <string name="download_video">Descărcați videoclipul</string>
     <string name="download_wait_connect">În așteptare pentru conectare</string>
     <string name="edit">Editaţi</string>
     <string name="edit_bookmark">Editați marcajul</string>
@@ -301,6 +306,8 @@ pentru a vedea filele deschise pe alte dispozitive"</string>
     <string name="error_unauthorized">Sincronizarea cu contul dvs. Mi a fost dezactivată din cauza prea multor încercări de conectare.</string>
     <string name="exit">Ieșire</string>
     <string name="exit_browser_warning">Ieşiţi din browser acum?</string>
+    <string name="exit_fullscreen">Părăsiți modul ecran complet</string>
+    <string name="favorite">Adăugați la Favorite</string>
     <string name="file_dir">Modificați dosarul</string>
     <string name="file_name">"Nume: "</string>
     <string name="file_picker">Selectaţi calea</string>
@@ -676,6 +683,16 @@ Sunteți sigur că doriți să părăsiți această pagină?"</string>
           &lt;li&gt;Furnizorul de servicii internet
         &lt;/ul&gt;"</string>
     <string name="mw_no_matches">Nicio potrivire</string>
+    <string name="mw_notification_category_browser">Browser</string>
+    <string name="mw_notification_category_content_suggestions">Sugestii de conținut</string>
+    <string name="mw_notification_category_downloads">Descărcări</string>
+    <string name="mw_notification_category_fullscreen_controls">Controale site ecran complet</string>
+    <string name="mw_notification_category_group_general">General</string>
+    <string name="mw_notification_category_incognito">Incognito</string>
+    <string name="mw_notification_category_media">Multimedia</string>
+    <string name="mw_notification_category_screen_capture">Captare Ecran</string>
+    <string name="mw_notification_category_sites">Site-uri</string>
+    <string name="mw_notification_hidden_text">Conținut ascuns</string>
     <string name="mw_ntp_title_no_suggestions">Asta e tot pentru acum</string>
     <string name="mw_older">Mai vechi</string>
     <string name="mw_opening_file_error">Nu s-a putut deschide fișierul selectat</string>
@@ -850,6 +867,9 @@ Rețineți că fișierele pe care le descărcați și marcajele vor fi totuși s
     <string name="pay_success_toast">Plata s-a efectuat cu succes</string>
     <string name="permission_notification">trimită notificări.</string>
     <string name="permissions_prompt_message">%s dorește să</string>
+    <string name="play_pause_video">Redă sau oprește videoclipul</string>
+    <string name="play_video">Redă videoclipul</string>
+  <string name="popup_video">Popup video</string>
     <string name="popup_window_attempt">Permiteţi acestui site să deschidă o fereastră de tip pop-up?</string>
     <string name="positive_confirm_message">Opriți oricum</string>
     <string name="pref_accept_quicklink_push">Flux de știri</string>
@@ -909,6 +929,7 @@ Rețineți că fișierele pe care le descărcați și marcajele vor fi totuși s
     <string name="pref_nav_mode_summary_pad">Tabletă</string>
     <string name="pref_nav_mode_summary_phone">Telefon</string>
     <string name="pref_nav_mode_title">Mod browser</string>
+    <string name="pref_navscreen_layoutstate_title">Gestionare ferestre multiple</string>
     <string name="pref_notifications_hint">Notificări</string>
     <string name="pref_notifications_receive">Notificări</string>
     <string name="pref_notifications_title">Notificări</string>
@@ -988,6 +1009,7 @@ Rețineți că fișierele pe care le descărcați și marcajele vor fi totuși s
     <string name="readmode_recommend_message">"Aţi citit deja această carte :)"</string>
     <string name="readmode_refresh">Reîmprospătaţi</string>
     <string name="readmodelist_bookmarks_to_show">Listă de lectură</string>
+    <string name="refresh_description">Reîmprospătare</string>
     <string name="refuse_permissions_request">Restricționați</string>
     <string name="remember_passwords_confirm_message">Oprirea acestei caracteristici poate afecta modul de funcționare al telefonului.</string>
     <string name="remove_bookmark">Ştergeţi marcajul</string>
@@ -1015,6 +1037,7 @@ Rețineți că fișierele pe care le descărcați și marcajele vor fi totuși s
     <string name="save_file">Salvați fișierul %s</string>
     <string name="save_file_already_exist_alert_message">Un fișier cu același nume există deja, îl înlocuiţi?</string>
     <string name="save_file_already_exist_alert_title">Înlocuiți fișierul?</string>
+    <string name="save_file_suffix">fișier</string>
     <string name="save_form_data_confirm_message">Oprirea acestei caracteristici poate afecta modul de funcționare al telefonului.</string>
     <string name="save_image_failed">"Imposibil de salvat imaginea"</string>
     <string name="save_image_success">Imagine salvată</string>
@@ -1064,6 +1087,9 @@ Rețineți că fișierele pe care le descărcați și marcajele vor fi totuși s
     <string name="sequence_bookmark_description">Atingeți și mențineți apăsat pentru a rearanja marcajele</string>
     <string name="share_image_text">Uite ce am partajat! @MIUI</string>
     <string name="share_page_text">Uite ce am partajat: %1$s @MIUI| %2$s</string>
+    <string name="share_video">Partajați videoclipul</string>
+    <string name="short_video_description">Canal video</string>
+    <string name="short_video_tip">Uite! Un filmuleț comic</string>
     <string name="show_check_security_url_check_tip_dialog_description">"Vom colecta și utiliza datele dvs. personale dacă alegeți să utilizați serviciile noastre.
 Iată datele pe care le vom colecta:
 1. URL-uri sigure: Vom colecta URL-urile site-urilor pe care le vizitați utilizând serviciile noastre.
@@ -1128,6 +1154,16 @@ Aplicația Browser trebuie să se conecteze la internet pentru a funcționa în 
     <string name="suggest_access_music">Muzică Mi</string>
     <string name="suggest_item_delete_text">Ștergeți</string>
     <string name="suggest_open_app_failed">"Nu s-a putut deschide această aplicație"</string>
+    <string name="suggestion_clear_record_message">Confirmați înregistrarea fără conținut?</string>
+    <string name="suggestion_express_button_query_more">VEDEȚI MAI MULTE</string>
+    <string name="suggestion_express_button_text_query">VERIFICAȚI</string>
+    <string name="suggestion_express_exception_net">"Nu s-a putut conecta la rețea. Verificați setările de rețea și reîncercați."</string>
+    <string name="suggestion_express_exception_number">Numărul este incorect. Verificați numărul și încercați din nou.</string>
+    <string name="suggestion_express_exception_server">A apărut o eroare de server. Așteptați un minut sau două și reîncercați.</string>
+    <string name="suggestion_express_input_empty">"Numărul de urmărire nu poate fi lăsat necompletat."</string>
+    <string name="suggestion_express_input_hint_inside">Introduceți numărul de urmărire</string>
+    <string name="suggestion_express_input_hint_out">Numărul de urmărire:</string>
+    <string name="suggestion_express_title">Urmăriți coletul</string>
     <string name="suggestion_lottery_detail_pour">%s NOTĂ</string>
     <string name="suggestion_lottery_detail_price">FIECARE NOTĂ VALOREAZĂ %s YUANI</string>
     <string name="suggestion_lottery_detail_text">ACEASTĂ RUNDĂ %s</string>

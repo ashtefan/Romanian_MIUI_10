@@ -14,6 +14,7 @@ Contactați agentul de vânzări pentru mai multe detalii."</string>
     <string name="disable_find_device_error">"Nu se poate opri Localizare dispozitiv. %1$s"</string>
     <string name="disable_find_device_success">Localizarea dispozitivului este oprită</string>
     <string name="doing_extra_login_steps">Se verifică autentificarea…</string>
+    <string name="emergency_call">Apel de urgență</string>
     <string name="enable_find_device_error">"Nu s-a putut activa Localizarea dispozitivului. %1$s"</string>
     <string name="enable_find_device_success">Localizarea dispozitivului este activă</string>
     <string name="find_device">Localizare dispozitiv</string>
@@ -26,9 +27,8 @@ Contactați agentul de vânzări pentru mai multe detalii."</string>
     <string name="find_device_error_server">Eroare de server (%s).</string>
     <string name="find_device_error_unknown">Eroare necunoscută (%s).</string>
     <string name="find_device_noise_title">Alarmă pentru localizare dispozitiv</string>
-    <string name="find_device_notice_p1">Accesați</string>
-    <string name="find_device_notice_p3">"pentru a localiza, bloca sau restaura telefonul.
-Dacă schimbați cartela SIM, un alt SMS va fi trimis în mod automat pentru a reactiva această caracteristică."</string>
+    <string name="find_device_notice">Accesați&lt;br /&gt;&lt;b&gt;&lt;font color=#e84700&gt;i.mi.com&lt;/font&gt;&lt;/b&gt;&lt;br /&gt;pentru a vă localiza, bloca sau restaura dispozitivul.</string>
+    <string name="find_device_notice_sms_alert">Dacă schimbați cartela SIM, un alt SMS va fi trimis în mod automat pentru a reactiva această caracteristică.</string>
     <string name="find_device_stop_noise">Apăsați OK pentru a opri sunetul</string>
     <string name="find_device_storage_corrupted">Stocarea Localizării dispozitivului este coruptă. Telefonul nu mai este în siguranță.</string>
     <string name="find_device_success_title">Localizare dispozitiv</string>
@@ -49,6 +49,7 @@ Dacă schimbați cartela SIM, un alt SMS va fi trimis în mod automat pentru a r
     <string name="phone_locked">Acest dispozitiv poate fi asociat cu un cont Mi existent (%s). Autentificați-vă pentru a activa acest dispozitiv.</string>
     <string name="phone_locked_account_email">, e-mail asociat: %s</string>
     <string name="phone_locked_account_phone">, număr de telefon asociat: %s</string>
+    <string name="return_to_call">Reveniți la apel</string>
     <string name="stop_on_empty_captcha">"Codul de verificare nu poate fi gol"</string>
     <string name="stop_on_empty_password">"Câmpul Parolă nu poate fi gol"</string>
     <string name="sys_notification_async_open_failed_content">Atingeți pentru a încerca din nou sau renunțați.</string>

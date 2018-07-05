@@ -98,7 +98,7 @@
     </plurals>
     <plurals name="notification_channels_list_desc_2_and_others">
         <item quantity="other">%1$s, %2$s, și alte %3$d</item>
-        <item quantity="one">%1$s, %2$s, și %3$d other</item>
+        <item quantity="one">%1$s, %2$s, și altă %3$d</item>
     </plurals>
     <plurals name="notification_group_overflow_description">
         <item quantity="other">%s notificări în plus în interior.</item>
