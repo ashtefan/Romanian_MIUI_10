@@ -147,8 +147,16 @@
     <string name="test_alert">Test Alertă</string>
     <string name="test_alerts">Test Alerte</string>
     <string name="tw_alert_message">Mesaj Alertă</string>
+    <string name="tw_alert_message_level_language_summary">Mesaj Alertă(Engleză)</string>
+    <string name="tw_alert_message_level_summary">Mesaj Alertă(Chineză)</string>
     <string name="tw_emergency_alert">Alertă de urgență</string>
+    <string name="tw_emergency_alert_level_language_summary">Alertă de urgență(Engleză)</string>
+    <string name="tw_emergency_alert_level_summary">Alertă de urgență(Chineză)</string>
+    <string name="tw_presidential_level_language_summary">Alertă Prezidențială(Engleză)</string>
+    <string name="tw_presidential_level_summary">Alertă Prezidențială(Chineză)</string>
     <string name="tw_required_monthly_test">Test lunar necesar</string>
+    <string name="tw_required_monthly_test_level_language_summary">Test lunar necesar(Engleză)</string>
+    <string name="tw_required_monthly_test_level_summary">Test lunar necesar(Chineză)</string>
     <string name="updating_settings">Se actualizează setările</string>
     <string name="updating_title">Setări apel</string>
     <string name="view_details_title">Detalii alertă</string>

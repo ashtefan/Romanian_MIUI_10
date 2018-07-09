@@ -110,4 +110,8 @@
         <item quantity="other">%d melodii</item>
         <item quantity="one">%d melodie</item>
     </plurals>
+    <plurals name="video_play_count">
+        <item quantity="other">%1$s vizualizări</item>
+        <item quantity="one">%1$s vizualizare</item>
+    </plurals>
 </resources>
