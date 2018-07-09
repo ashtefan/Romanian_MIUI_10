@@ -51,6 +51,16 @@
     <string name="bookmark_confirm_delete_message">Eliminaţi mesajele selectate din favorite?</string>
     <string name="bookmark_empty">Niciun mesaj favorit</string>
     <string name="bookmark_list_title">Favorite</string>
+    <string name="button_emoji_creature">Emoji-uri cu animale</string>
+    <string name="button_emoji_lifestyle">Emoji-uri cu stil de viață</string>
+    <string name="button_emoji_smiley">Emoji-uri cu chipuri</string>
+    <string name="button_emoji_symbol">Emoji-uri cu simboluri</string>
+    <string name="button_emoji_text">Emoji-uri cu text</string>
+    <string name="button_fold">Restrângeți</string>
+    <string name="button_next_slide">Următorul</string>
+    <string name="button_pre_slide">Anteriorul</string>
+    <string name="button_resend_message">Trimiteți din nou</string>
+    <string name="button_unfold">Extindeți</string>
     <string name="call_sender">Apelați expeditorul</string>
     <string name="cannot_add_picture_and_video">Videoclipul şi fotografia nu pot fi adăugate în acelaşi diapozitiv.</string>
     <string name="cannot_add_slide_anymore">Nu se pot adăuga mai multe diapozitive</string>
@@ -128,7 +138,9 @@
     <string name="delete_wild_sims_title">Ștergeți numerele de telefon selectate</string>
     <string name="delivery_report_activity">Raport de expediere</string>
     <string name="delivery_toast_body">Mesaj primit de %s</string>
+    <string name="dialog_message_fake_cell_detect_error">Corectați informațiile despre acest mesaj? Pentru aceasta, MIUI trebuie să încarce numărul de telefon (%1$s), conținutul mesajului și informațiile despre locație pe serverele sale.</string>
     <string name="dialog_message_sms_report">"Mesajele nedorite și informațiile despre expeditor vor fi încărcate la MIUI când le raportați. Acestea vor fi folosite doar pentru a îmbunătăți filtrele spam ale MIUI."</string>
+    <string name="dialog_title_fake_cell_detect_error">Corectare</string>
     <string name="disable_notifications_dialog_message">Opriţi duplicarea notificărilor prin mesaje text din aplicaţia prestabilită Mesagerie?</string>
     <string name="disabled">Oprit</string>
     <string name="discard">Renunţaţi</string>
@@ -136,11 +148,12 @@
     <string name="discard_message_reason">Mesajul dvs. va fi eliminat deoarece destinatarii săi nu sunt valizi.</string>
     <string name="discard_slideshow">Eliminaţi prezentarea</string>
     <string name="dl_failure_notification">Nu s-a putut descărca mesajul %1$s de la %2$s.</string>
-    <string name="done">OK</string>
+    <string name="done">Finalizat</string>
     <string name="download">Descărcaţi</string>
     <string name="download_later">Mesajele nu se pot descărca acum. Încercaţi din nou mai târziu.</string>
     <string name="downloading">Se descarcă</string>
     <string name="downloading_file_can_not_play">Așteptați până se va descărca înregistrarea</string>
+    <string name="draft">Schiță</string>
     <string name="duration_not_a_number">Durata trebuie să fie un număr</string>
     <string name="duration_sec">Durată (%s s)</string>
     <string name="duration_selector_title">"Durata diapozitivului "</string>
@@ -157,7 +170,6 @@
     <string name="error_state">Stare necorespunzătoare</string>
     <string name="error_state_text">Starea firelor de conversaţii şi a destinatarilor este inconsecventă. Înregistraţi un raport privind eroarea şi trimiteţi-l prin http://go/droidanizer</string>
     <string name="error_timed_msg">Oră greşită</string>
-    <string name="ex_type_guide">Informație</string>
     <string name="ex_type_mx">Mesagerie Mi</string>
     <string name="ex_type_sms">SMS/MMS</string>
     <string name="exceed_message_size_limitation">A fost atinsă limita de dimensiune a mesajului.</string>
@@ -169,9 +181,9 @@
     <string name="fail_to_view_attachment">"Atașamentul nu este disponibil"</string>
     <string name="failed_to_add_media">Nu puteţi adăuga acest %1$s la mesajul dvs.</string>
     <string name="failed_to_resize_image">Fotografia nu a fost redimensionată.</string>
+    <string name="fake_cell_alert_detect_error">"Acesta nu a fost trimis de la o stație de bază falsă"</string>
     <string name="fake_cell_alert_hint">Se pare că acest mesaj a fost trimis de pe un număr de telefon diferit față de cel afișat. Tratați cu precauție mesajele care vă solicită date financiare.</string>
     <string name="fake_cell_checking_hint">Verificare securitate…</string>
-    <string name="fake_cell_detection_entry">Detectare stație de bază falsă</string>
     <string name="fake_cell_safe_hint">Acest mesaj este sigur</string>
     <string name="fake_cell_timeout_hint">"Nu s-a putut verifica securitatea"</string>
     <string name="favorite_at_time">Adăugat la favorite la: %1s</string>
@@ -352,6 +364,9 @@
     <string name="no_subject_view">(Niciun subiect)</string>
     <string name="non_english_subject_limit">Limită: 13 caractere</string>
     <string name="nosend_message">"Nu trimiteţi"</string>
+    <string name="notification_channel_description">Notificări de la Mesagerie</string>
+    <string name="notification_channel_name">Mesagerie</string>
+    <string name="notification_copy">Copiați OTP</string>
     <string name="notification_failed_multiple">"%s mesaje nu au putut fi trimise"</string>
     <string name="notification_failed_multiple_title">Mesajele nu au fost trimise</string>
     <string name="notification_multiple">[%s]</string>
@@ -532,7 +547,7 @@
     <string name="send_signature_confirm_dialog_message">Nu a fost găsit textul mesajului. Trimiteți doar semnătura?</string>
     <string name="send_signature_confirm_dialog_title">Trimiteţi mesajul</string>
     <string name="send_sms">Trimiteţi mesajul</string>
-    <string name="send_to">"Către: "</string>
+    <string name="send_to">Către:</string>
     <string name="sent_at_time">Trimis la: %1s</string>
     <string name="sent_label">"Trimis: "</string>
     <string name="service_message_not_found">Mesajul a expirat sau nu este disponibil</string>
@@ -622,6 +637,7 @@
     <string name="to_address_label">"Către: "</string>
     <string name="to_label">"Pentru "</string>
     <string name="to_send_wrapper">Se va trimite la %s</string>
+    <string name="toast_pending_hangup_msg">Mesajul va fi trimis după încheierea apelului</string>
     <string name="today">Astăzi</string>
     <string name="too_many_attachments">Nu se pot depăși %1$s ataşamente. Doar primele %2$s vor fi adăugate.</string>
     <string name="too_many_recipients">Mesajul are prea mulţi destinatari (%1$s). Nu pot fi mai mulţi de %2$s destinatari.</string>
@@ -651,6 +667,7 @@
     <string name="url_fraud_title">Site-ul poate fi fals</string>
     <string name="url_fraud_visit"><u>ACCESEZ ORICUM</u></string>
     <string name="url_result_safe">Site-ul este sigur</string>
+    <string name="url_scan_again">Verificați din nou</string>
     <string name="url_scanning">Verificare URL…</string>
     <string name="verification_code_icon_name">V</string>
     <string name="verification_code_list_title">Coduri de verificare</string>
@@ -659,7 +676,7 @@
     <string name="view_message_details">Afişaţi detaliile</string>
     <string name="wap_push_title">"[WAP Push] "</string>
     <string name="warning_show">Trimitere în %d s</string>
-    <string name="wild_msg_processing">Procesare...</string>
+    <string name="wild_msg_processing">Procesare…</string>
     <string name="wild_msg_title">Selectați numerele de telefon pentru sincronizare</string>
     <string name="yellowpage_recommend_msg">"Descoperiți caracteristicile serviciului de mesagerie MIUI"</string>
     <string name="yes">OK</string>

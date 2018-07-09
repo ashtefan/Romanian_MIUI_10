@@ -57,6 +57,7 @@
     <string name="mibi_button_pay">Confirmați</string>
     <string name="mibi_button_reget">Retrimiteți</string>
     <string name="mibi_button_retry">Reîncercați</string>
+    <string name="mibi_camera_open_failed">Pornirea Camerei a eșuat</string>
     <string name="mibi_cancel">Renunțați</string>
     <string name="mibi_change_security_lock">Mai multe metode de blocare a ecranului</string>
     <string name="mibi_check_giftcard">Vedeți cupoanele</string>
@@ -109,9 +110,11 @@ Verificați ora locală și reîncercați."</string>
     <string name="mibi_error_illegal_order_summary">Eroare comandă. Încercați din nou mai târziu</string>
     <string name="mibi_error_invalid_device">Dispozitiv nevalid.</string>
     <string name="mibi_error_mili_summary">Fonduri insuficiente.</string>
+    <string name="mibi_error_mipay_no_installed">"Portofelul Mi nu este instalat în dispozitivul dvs."</string>
     <string name="mibi_error_network_summary">"Nu s-a putut conecta la rețea."</string>
     <string name="mibi_error_no_available_channels">Ne pare rău dar momentan nu este niciun canal disponibil.</string>
     <string name="mibi_error_pay_result_uncertain">Rezultat incert al plății.</string>
+    <string name="mibi_error_privacy_summary">Ați revocat autorizarea.</string>
     <string name="mibi_error_recharge_process_fail">Procesul de reîncărcare a eșuat.</string>
     <string name="mibi_error_recharge_result_fail">Reîncărcarea a eșuat.</string>
     <string name="mibi_error_recharge_result_uncertain">Rezultat incert al reîncărcării.</string>
@@ -147,6 +150,7 @@ Verificați ora locală și reîncercați."</string>
     <string name="mibi_giftcard_has_unavailable">Expirat</string>
     <string name="mibi_giftcard_has_used">Răscumpărați</string>
     <string name="mibi_giftcard_hint">Creditele Mi adăugate prin carduri cadou vor fi utilizate primele în mod automat.</string>
+    <string name="mibi_giftcard_in_available">Disponibil</string>
     <string name="mibi_giftcard_payment">Certificate cadou</string>
     <string name="mibi_giftcard_payment_with_append">Aplicați certificate cadou</string>
     <string name="mibi_giftcard_push_notification_prime_title">"Ați primit un certificat cadou"</string>
@@ -251,6 +255,8 @@ Verificați ora locală și reîncercați."</string>
     <string name="mibi_prepaid_picker_title_default">Selectați suma</string>
     <string name="mibi_prepaid_picker_title_selected">suma</string>
     <string name="mibi_privacy_license_name">Politica de Confidențialitate</string>
+    <string name="mibi_privacy_tip_message">"Nu mai puteți utiliza creditele Mi după ce ați revocat autorizarea."</string>
+    <string name="mibi_privacy_tip_title">Permiteți autorizarea mai întâi</string>
     <string name="mibi_process_expired">"Unde ați plecat? Această operațiune a expirat."</string>
     <string name="mibi_progress_creating">Obținere informații despre comandă…</string>
     <string name="mibi_progress_deduct_creating">Se activează protocolul de plată automată %1$s​…</string>
@@ -267,6 +273,7 @@ Verificați ora locală și reîncercați."</string>
     <string name="mibi_progress_prepaid_creating">Generare comandă…</string>
     <string name="mibi_progress_querying">Procesare…</string>
     <string name="mibi_progress_submit_hint">Reîncărcarea se va revedea în cont în 3 minute.</string>
+    <string name="mibi_progress_submit_pay">Plata va fi realizată în circa 3 minute…</string>
     <string name="mibi_progress_submit_recharge_summary">Reîncărcare: %1$s Credite Mi.</string>
     <string name="mibi_progress_submit_title">Cerere trimisă</string>
     <string name="mibi_progress_success_pay_title">%1$s Mi Credit plată încheiată</string>
@@ -299,6 +306,8 @@ Centrul de relații clienți： 400-100-3399"</string>
     <string name="mibi_recharge_other">Vedeți celelalte metode</string>
     <string name="mibi_recharge_push_notification_prime_title">%1$d a adăugat %2$s Credite Mi în contul dvs.</string>
     <string name="mibi_recharge_push_notification_sub_title">Reîncărcare completă.</string>
+    <string name="mibi_recharge_value_money">Achiziționați Credite Mi în valoare de %s CNY</string>
+    <string name="mibi_recharge_value_money_special_unit">Achiziționați Credite Mi în valoare de %1$s %2$s</string>
     <string name="mibi_recharge_warn_text">"Nu puteți achiziționa bunuri utilizând creditele Mi."</string>
     <string name="mibi_scan_prompt_number">Scanați numărul cardului preplătit %1$s</string>
     <string name="mibi_scan_prompt_password">Scanați parola cardului preplătit %1$s</string>
@@ -326,6 +335,9 @@ Centrul de relații clienți： 400-100-3399"</string>
     <string name="mibi_title_password_threshold">Limita zilnică = ￥%1$s</string>
     <string name="mibi_title_sms_code">Vă rugăm introduceți codul de verificare de pe telefonul mobil</string>
     <string name="mibi_unit">Mi Credit</string>
+    <string name="mibi_unit_value">%1$s Credite Mi</string>
+    <string name="mibi_unit_value_redeemed">%1$s Credite Mi răscumpărate</string>
+    <string name="mibi_unit_value_remained">%1$s Credite Mi rămase</string>
     <string name="mibi_voucher_card_text">Vă rugăm să răzuiți talonul</string>
     <string name="mibi_voucher_error_password">Cod invalid.</string>
     <string name="mibi_voucher_input_password_prompt">Introduceți codul</string>

@@ -65,11 +65,14 @@ Vizualizaţi Politica de confidențialitate a tastaturii selectate</string>
     <string name="shut_down">Închidere</string>
     <string name="sim_card_detecting">Verificare cartelă SIM…</string>
     <string name="sim_card_detecting_check">"Nu s-a găsit cartela SIM. Asigurați-vă că este instalată corect și că aveți credit suficient."</string>
+    <string name="sim_card_detecting_confirm_turn_on_network">Permiteți conectarea la rețelele de date mobile? Dacă acceptați, cartela SIM introdusă va fi utilizată pentru a vă conecta la rețelele de date mobile.</string>
     <string name="sim_card_detecting_title">Verificaţi cartela SIM</string>
     <string name="sim_card_detection">Introduceţi o cartelă SIM</string>
     <string name="sim_card_detection_info"></string>
+    <string name="sim_card_detection_mobile_not_available">"Cartela SIM nu s-a putut conecta la rețea"</string>
     <string name="sim_dectection_next">Continuaţi</string>
     <string name="sim_redetection">Verificaţi din nou</string>
+    <string name="sim_scard_detecting_check_mobile_not_available">"Cartela dvs. SIM nu s-a putut conecta la un operator valid de rețea. Asigurați-vă că aveți suficient credit în cont și încercați să vă conectați din nou."</string>
     <string name="skip_underline">Omiteţi acest pas</string>
     <string name="start_up_slogan">Creat pentru experiența ecranului complet</string>
     <string name="summary_not_set">Nu este setat</string>

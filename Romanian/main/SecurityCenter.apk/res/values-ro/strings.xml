@@ -74,6 +74,7 @@
     <string name="add_whitelist">Adăugaţi în lista excepțiilor</string>
     <string name="address">Adresă</string>
     <string name="address_choose_hint">%1$s, %2$s, și %3$d alte locații</string>
+    <string name="adjust_sms_cmd">&lt;u&gt;Ajustați modelul SMS-ului de calibrare&lt;/u&gt;</string>
     <string name="adjust_traffic_carrier_summary_more_onemonth_before">Actualizată cu mai mult de o lună în urmă</string>
     <string name="adjust_traffic_carrier_summary_more_oneweek_before">Actualizată cu mai mult de o săptămână în urmă</string>
     <string name="adjust_traffic_carrier_summary_oneweek_before">Actualizată cu o săptămână în urmă</string>
@@ -137,7 +138,6 @@
     <string name="app_manager_app_info_label">Informații despre aplicație</string>
     <string name="app_manager_app_info_name">Numele aplicației</string>
     <string name="app_manager_app_info_pkg">Numele pachetului</string>
-    <string name="app_manager_app_lock">Blocarea aplicațiilor</string>
     <string name="app_manager_app_power">"Utilizare acumulator: "</string>
     <string name="app_manager_app_storage">"Stocare: "</string>
     <string name="app_manager_app_traffic">"Utilizare date: "</string>
@@ -201,7 +201,6 @@
     <string name="app_manager_net_mobile">Date mobile</string>
     <string name="app_manager_net_wifi">Wi-Fi</string>
     <string name="app_manager_not_allow">Nu</string>
-    <string name="app_manager_not_support_uninstall">"Nu se pot dezinstala aceste aplicații"</string>
     <string name="app_manager_notify_bar">Pictograme</string>
     <string name="app_manager_notify_floating">Notificări plutitoare</string>
     <string name="app_manager_notify_keyguard">Blocarea ecranului</string>
@@ -233,7 +232,6 @@
     <string name="app_manager_show_all_apps_opened">Se afișează rezultatele din toate aplicațiile…</string>
     <string name="app_manager_show_detail_infos">Vedeți tot</string>
     <string name="app_manager_start_by">Lansată de către %s</string>
-    <string name="app_manager_support_uninstall">Puteți dezinstala aceste aplicații</string>
     <string name="app_manager_system_mobile_disable">Opriți datele mobile</string>
     <string name="app_manager_title">Gestionare aplicații</string>
     <string name="app_manager_total_size">Total</string>
@@ -607,6 +605,8 @@ Operatorul vă poate taxa suplimentar dacă activați din nou datele mobile."</s
     <string name="diagnostic_attention_dialog_message">"Diagnosticarea pentru %1$s este în curs. Așteptați finalizarea procesului și reîncercați."</string>
     <string name="dialog_app_roaming_message">%1$s nu pot utiliza datele mobile în roaming. Când sunteţi în roaming internațional, doar aplicațiile pe care le-ați adăugat la excepţii pot utiliza datele mobile.</string>
     <string name="dialog_app_roaming_title">Roamingul internațional nu este activat pentru %1$s</string>
+    <string name="dialog_button_ignore">Ignorați</string>
+    <string name="dialog_button_yes">Da</string>
     <string name="dialog_msg_auto_start_declare">Unele aplicații pot indica în mod greșit că MIUI le-a împiedicat să pornească. Verificați permisiunile care au fost acordate aplicațiilor individuale în Setări > Aplicații.</string>
     <string name="dialog_msg_stop_virus_scan">"Opriți scanarea de securitate înainte de a fi terminată?"</string>
     <string name="dialog_no_longer_alert">"Nu arăta din nou"</string>
@@ -621,6 +621,9 @@ Operatorul vă poate taxa suplimentar dacă activați din nou datele mobile."</s
     <string name="dialog_restrict_positive">Renunțați</string>
     <string name="dialog_roaming_message">Permiteți acestei aplicații să utilizeze datele mobile în roaming internațional?</string>
     <string name="dialog_roaming_title">Roaming internaţional</string>
+    <string name="dialog_roaming_warning_checkbox">"Nu arăta din nou"</string>
+    <string name="dialog_roaming_warning_message">Operatorul vă va taxa după ce activați roamingul internațional de date. Îl activați oricum?</string>
+    <string name="dialog_roaming_warning_ok">Activez</string>
     <string name="dialog_text">Creați o scurtătură pe Ecranul principal pentru Creșterea vitezei în jocuri</string>
     <string name="dialog_title_attention">Atenție</string>
     <string name="dialog_title_auto_start_declare">Despre pornirea automată</string>
@@ -706,6 +709,16 @@ Operatorul vă poate taxa suplimentar dacă activați din nou datele mobile."</s
     <string name="exception_notify_message">"Nu s-au putut calcula statisticile datelor datorită unei erori. Reporniți pentru a restaura."</string>
     <string name="exception_titile">A apărut o eroare</string>
     <string name="exit">Ieșiți</string>
+    <string name="exit_dialog_garbage_clean_message">Coșul de gunoi este mai mare decât %s. Curățați acum?</string>
+    <string name="exit_dialog_garbage_clean_positive_button">Curățați</string>
+    <string name="exit_dialog_garbage_clean_title">Curățați gunoiul</string>
+    <string name="exit_dialog_homepage_optimise_message">"Scorul de performanță al telefonului este mai mic de 80 de puncte. Optimizați acum?"</string>
+    <string name="exit_dialog_release_storage_message">Mai mult de 80% din spațiul de stocare este ocupat. Eliberați spațiu dezinstalând aplicațiile pe care nu le utilizați.</string>
+    <string name="exit_dialog_release_storage_positive_button">Eliberați spațiu</string>
+    <string name="exit_dialog_release_storage_title">Eliberați spațiu</string>
+    <string name="exit_dialog_scan_message">"Scorul de performanță al telefonului este mai mic de 75 de puncte. Optimizați acum?"</string>
+    <string name="exit_dialog_scan_positive_button">Optimizați</string>
+    <string name="exit_dialog_scan_title">Optimizați performanța</string>
     <string name="finger_remind_message">Adăugați mai întâi amprenta. Atingeți pentru a merge la Setări.</string>
     <string name="fingerprint_identify_msg">Activați deblocarea cu amprentă</string>
     <string name="fingerprint_not_identified_msg">Pentru a debloca dispozitivul, introduceți parola.</string>
@@ -799,6 +812,13 @@ Operatorul vă poate taxa suplimentar dacă activați din nou datele mobile."</s
     <string name="gb_description_image_button_video_answer">Apel video</string>
     <string name="gb_get_gift_right_now">Verificați acum</string>
     <string name="gb_have_signed">Verificat astăzi</string>
+    <string name="gb_msg_completely_shielded">Ascundeți mesajele</string>
+    <string name="gb_msg_completely_shielded_summary">Ascundeți</string>
+    <string name="gb_msg_not_shielded_summary">Afișați</string>
+    <string name="gb_msg_quickly_answer">Permiteți răspunsurile rapide</string>
+    <string name="gb_msg_quickly_answer_summary">Răspunsuri rapide</string>
+    <string name="gb_msg_transparent_dispaly">Notificări cu fundal transparent</string>
+    <string name="gb_msg_transparent_dispaly_summary">Transparent</string>
     <string name="gb_network_status_bad">A apărut o eroare de conexiune.</string>
     <string name="gb_new_feature">Caracteristică nouă</string>
     <string name="gb_sign_gift">Verificați pentru a primi recompense</string>
@@ -837,6 +857,8 @@ Operatorul vă poate taxa suplimentar dacă activați din nou datele mobile."</s
     <string name="gs_game_net_priority_detail">Limitați viteza de descărcare pentru a avea lățime de bandă disponibilă pentru jocuri</string>
     <string name="gs_game_performance">Performanță</string>
     <string name="gs_game_shortcut">Îmbunătățiți experiența de joc</string>
+    <string name="gs_gamebox">Scurtături în jocuri</string>
+    <string name="gs_gamebox_detail">Afișează panoul cu scurtăturile din jocuri</string>
     <string name="gs_only_self_start_for_list">Restricționați procesele din fundal pentru a economisi acumulatorul pentru jocuri</string>
     <string name="gs_open_game_booster">Creștere viteză</string>
     <string name="gs_open_game_booster_summary">Creșteți viteza rețelei pentru jocuri</string>
@@ -1026,6 +1048,7 @@ răspunsul operatorului"</string>
     <string name="main_toolbar_statistic">Statistică</string>
     <string name="main_used_bill">%s CNY</string>
     <string name="man_add_application">Adăugați aplicațiile cu pornire automată manual</string>
+    <string name="managed_user_title">Toate aplicațiile de Servici</string>
     <string name="manual_input_free_traffic">Setaţi utilizarea datelor în afara orelor de vârf</string>
     <string name="manual_input_traffic">Setaţi utilizarea datelor</string>
     <string name="manual_item_white_list_summary">Se împiedică optimizarea aplicațiilor selectate</string>
@@ -1103,6 +1126,7 @@ răspunsul operatorului"</string>
     <string name="menu_item_virus_lib_auto_update_summary">Actualizat pe %s</string>
     <string name="menu_remove">Ștergeți</string>
     <string name="menu_report">Raportați eroarea</string>
+    <string name="menu_setting_traffic">Setați manual</string>
     <string name="menu_sms">Trimiteți mesaj</string>
     <string name="menu_text_antispam">Listă blocări</string>
     <string name="menu_text_antivirus">Scanare de securitate</string>
@@ -1110,7 +1134,7 @@ răspunsul operatorului"</string>
   <string name="menu_text_garbage_cleanup_danger">mai mult de %s</string>
     <string name="menu_text_license_manager">Permisiuni</string>
     <string name="menu_text_networkassistants">Utilizare date</string>
-    <string name="menu_text_networkassistants_danger">Peste: %s</string>
+    <string name="menu_text_networkassistants_danger">Peste %s</string>
     <string name="menu_text_networkassistants_remain">Rămas: %s</string>
     <string name="menu_text_networkassistants_unit_b">B</string>
     <string name="menu_text_networkassistants_unit_gb">GB</string>
@@ -1126,6 +1150,8 @@ răspunsul operatorului"</string>
     <string name="mi_service_app_detail">Detalii utilizare date</string>
     <string name="mi_service_traffic_detail">Detalii Framework</string>
     <string name="mian_page_primary_txt">Roaming internaţional</string>
+    <string name="midrop_post_notification_contentText">"Încercați Mi Drop. Este rapid și nu conține reclame."</string>
+    <string name="midrop_post_notification_contentTitle">Trebuie să transferați fișiere?</string>
     <string name="mixed_need_to_confirm">Introduceți din nou pentru confirmare</string>
     <string name="mixed_password_confirmed_header_confirm">Setată cu succes. Atingeți pentru a confirma.</string>
     <string name="mixed_password_confirmed_header_continue">Setată cu succes. Atingeți \"Următorul\".</string>
@@ -1663,6 +1689,7 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="scan_status_safe">Sigur</string>
     <string name="scanning_bar_number">%d%%</string>
     <string name="score_pts">%</string>
+    <string name="screenrecord_not_find">Instalați cea mai recentă versiune a Înregistrării ecranului și încercați din nou.</string>
     <string name="search_input_txt_na">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
     <string name="search_result_text">"Nu s-a găsit nicio aplicație"</string>
     <string name="section_clear_acc_item_title">"%s. Dacă tot nu există spațiu de stocare suficient, încercați să folosiți aplicația de Curățare."</string>
@@ -1715,6 +1742,7 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="sms_contact_block">Blocare SMS-uri de la contacte</string>
     <string name="sms_delete_hint">Ștergeți toate mesajele blocate provenite de la acest număr?</string>
     <string name="sms_delete_title">Ștergeți mesajele</string>
+    <string name="sms_detail_correct_success_text">"Aici este starea utilizării datelor de la prcedenta calibrare (%1$s):"</string>
     <string name="sms_detail_fragment_title_bill">Credit telefon</string>
     <string name="sms_detail_fragment_title_traffic">Date rămase</string>
     <string name="sms_filter">Filtru inteligent</string>
@@ -1887,6 +1915,9 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="suggest_scan_again">Finalizați scanarea pentru e evita riscurile legate de securitate.</string>
     <string name="summary_app_lock_disable">Protejați-vă datele cu Blocarea aplicațiilor</string>
     <string name="summary_auto_update">MIUI va selecta ora cea mai potrivită pentru descărcarea și instalarea actualizărilor.</string>
+    <string name="summary_background_connection">Ați restricționat conectarea în fundal pentru această aplicație. Atingeți pentru a remedia.</string>
+    <string name="summary_block_calls_from_cantacts">"Utilizați lista blocărilor. Atingeți pentru a remedia."</string>
+    <string name="summary_block_calls_from_strangers">Permiteți doar apelurile de la contacte. Atingeți pentru a remedia.</string>
     <string name="summary_cleaner_cloudscan">Încărcați și comparați numele de dosare cu definițiile on-line</string>
     <string name="summary_cloud_account">Obțineți mai mult de la dispozitivul dvs. Mi</string>
     <string name="summary_cloud_service">Sincronizaţi fotografiile, contactele și altele între toate dispozitivele dvs.</string>
@@ -1897,6 +1928,8 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="summary_data_flow">Controlați utilizarea datelor mobile pentru a evita taxarea suplimentară</string>
     <string name="summary_default_app">"%s nu este setată ca aplicaţie de sistem prestabilită"</string>
     <string name="summary_dev">Împiedicați aplicațiile să acceseze datele de utilizator</string>
+    <string name="summary_do_not_disturb">"Utilizați modul Nu deranjați. Atingeți pentru a remedia."</string>
+    <string name="summary_eye_shield">"Utilizați modul Citire. Atingeți pentru a remedia."</string>
     <string name="summary_find_device">Localizați și blocați dispozitivul de oriunde v-ați afla</string>
     <string name="summary_flow_notification">Afişaţi statisticile lunare de utilizare a datelor în panoul notificărilor</string>
     <string name="summary_flow_purchase">"Se pare că limita de date mobile este aproape atinsă. Achiziționați date mobile pentru a rămâne conectat."</string>
@@ -1914,6 +1947,7 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="summary_permission_root">Se pare că aveți activat accesul la root. Acest lucru poate duce la scăderea gradului de siguranță.</string>
     <string name="summary_power_optimizer">"Se reduce performanța dispozitivului atunci când acumulatorul este descărcat"</string>
     <string name="summary_realname_verify">Verificați-vă identitatea pentru a spori gradul de securitate a plăților.</string>
+    <string name="summary_restrict_data_usage">Ați restricționat utilizarea datelor pentru această aplicație. Atingeți pentru a remedia.</string>
     <string name="summary_show_notification">Goliți cache-ul, vedeți starea acumulatorului și blocați elemente în Panoul de notificări</string>
     <string name="summary_telecom_operator">Obțineți statisticile lunare de utilizare a datelor de la operatorul dvs.</string>
     <string name="summary_usb">Evitați raspândirea viruşilor de la alte dispozitive</string>
@@ -1936,6 +1970,7 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="tab_guide">Ghid</string>
     <string name="tab_sms">SMS</string>
     <string name="tab_title">Lista blocărilor</string>
+    <string name="tc_cmd_invalid">Modelul nu este valid</string>
     <string name="tc_diagnostic_all_error_notification_summary">Apăsați pentru a raporta o problemă</string>
     <string name="tc_diagnostic_all_error_notification_title">"Nu s-a putut realiza diagnosticarea"</string>
     <string name="tc_diagnostic_brand_error_notification_summary">Apăsați pentru a selecta tipul rețeei</string>
@@ -1976,6 +2011,10 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="tc_diagnostic_upload_button">Raportați</string>
     <string name="tc_diagnostic_upload_no_network">Vă mulțumim pentru feedback! Raportul va fi trimis atunci când veți fi conectat la rețea.</string>
     <string name="tc_diagnostic_upload_success">Vă mulțumim pentru feedback!</string>
+    <string name="tc_get_cmd_error">"Nu s-a putut obține modelul"</string>
+    <string name="tc_parse_error">"Nu s-a putut analiza SMS-ul"</string>
+    <string name="tc_receive_timeout">Calibrarea a expirat</string>
+    <string name="tc_send_sms_error">"Nu s-a putut trimite SMS-ul"</string>
     <string name="tc_sms_report_direction">Cod SMS de interogare</string>
     <string name="tc_sms_report_do_report">Trimiteţi</string>
     <string name="tc_sms_report_get_default">"Nu veţi suporta taxe pentru mesajele utilizate pentru a obține bilanţul utilizării datelor de la operatorul dvs."</string>
@@ -2009,6 +2048,7 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="tc_sms_report_type">Tip raport</string>
     <string name="tc_sms_report_upload_success">Raportul de utilizare a datelor trimis prin SMS.</string>
     <string name="tc_sms_report_upload_when_net">Vă mulțumim pentru feedback!</string>
+    <string name="tc_web_correct_error">"Nu s-a putut calibra"</string>
     <string name="ten_percent_total_pkg">%s (10%% din datele lunare)</string>
     <string name="tether_custom_dialog_title">Limită date mobile</string>
     <string name="tether_limit_dialog_title">Limită date mobile</string>
@@ -2036,6 +2076,9 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="title_app_lock_disable">Blocați aplicații</string>
     <string name="title_app_update">Actualizări disponibile</string>
     <string name="title_auto_update">Actualizare automată</string>
+    <string name="title_background_connection">"Nu puteți utiliza %s în fundal?"</string>
+    <string name="title_block_calls_from_cantacts">Ratați apelurile de la contacte?</string>
+    <string name="title_block_calls_from_strangers">Ratați apelurile importante?</string>
     <string name="title_chain_start">Restricționați bucla de start</string>
     <string name="title_cleaner_cloudscan">Scanare coș de gunoi din Cloud</string>
     <string name="title_cloud_account">Cont Mi</string>
@@ -2050,6 +2093,8 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="title_dev_no">Opţiuni dezvoltator activate</string>
     <string name="title_dev_yes">Opţiuni dezvoltator dezactivate</string>
     <string name="title_device_not_root">"Accesul la Root nu a fost permis"</string>
+    <string name="title_do_not_disturb">"Nu se aude sunetul de apel?"</string>
+    <string name="title_eye_shield">"Culoarea ecranului nu arată bine?"</string>
     <string name="title_find_device">Localizarea dispozitivului</string>
     <string name="title_flow_notification">Notificare utilizare a datelor</string>
     <string name="title_flow_purchase">Suplimentați datele mobile</string>
@@ -2077,6 +2122,7 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="title_permission_yes">Gestionare permisiuni activată</string>
     <string name="title_power_optimizer">Economisire acumulator</string>
     <string name="title_realname_verify">Verificare ID</string>
+    <string name="title_restrict_data_usage">"%s nu se poate conecta la internet?"</string>
     <string name="title_show_notification">Widget panou notificări</string>
     <string name="title_system_auto_download">Actualizările vor fi descărcate în mod automat</string>
     <string name="title_telecom_operator">Ajustare automată</string>

@@ -987,7 +987,7 @@
         <item>Blocare ecran</item>
         <item>Parolă de protecție a confidențialității</item>
         <item>Mod Copil</item>
-        <item>Explorastor fișiere</item>
+        <item>Explorator fișiere</item>
         <item>Blocare aplicație</item>
         <item>Spațiul secundar</item>
     </string-array>
@@ -1379,14 +1379,14 @@ Notă: Doar pentru Ubuntu 8.04!"</item>
     <string-array name="select_logpersist_summaries">
         <item>Oprit</item>
         <item>Toate jurnalele</item>
-        <item>Toate jurnalele radio</item>
-        <item>doar jurnalele kernel</item>
+        <item>Toate jurnalele înafară de radio</item>
+        <item>Doar jurnalele kernel</item>
     </string-array>
     <string-array name="select_logpersist_titles">
         <item>Oprit</item>
         <item>Toate</item>
         <item>Toate fără radio</item>
-        <item>doar kernel</item>
+        <item>Doar kernel</item>
     </string-array>
     <string-array name="show_non_rect_clip_entries">
         <item>Oprit</item>
@@ -1477,7 +1477,7 @@ Notă: Doar pentru Ubuntu 8.04!"</item>
         <item>MTP (Protocol de Transfer Multimedia)</item>
         <item>PTP (Protocol de Transfer Fotografiil)</item>
         <item>RNDIS (USB Ethernet)</item>
-        <item>Sursă audio</item>
+        <item>Sursă Audio</item>
         <item>MIDI</item>
     </string-array>
     <string-array name="usb_connection_mode_entries">
