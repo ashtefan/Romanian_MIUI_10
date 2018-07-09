@@ -1216,7 +1216,6 @@ De asemenea, sunteți conectat la o rețea VPN, care vă poate monitoriza activi
     <string name="picture_color_mode_desc">Utilizați sRGB</string>
     <string name="pip_close">Închideți modul Imagine-în-Imagine</string>
     <string name="pip_fullscreen">Ecran complet</string>
-    <string name="pip_menu_bounds">596 280 1324 690</string>
     <string name="pip_menu_title">Meniu imagine-în-imagine</string>
     <string name="pip_notification_message">Dacă nu doriți ca %s să utilizeze această caracteristică, atingeți pentru a accesa setările și dezactivați-o.</string>
     <string name="pip_notification_title">%s este în modul imagine-în-imagine</string>
@@ -1227,7 +1226,6 @@ De asemenea, sunteți conectat la o rețea VPN, care vă poate monitoriza activi
     <string name="pip_phone_expand">Extindeți</string>
     <string name="pip_phone_minimize">Minimizați</string>
     <string name="pip_play">Redați</string>
-    <string name="pip_settings_bounds">662 756 1142 1026</string>
     <string name="pip_skip_to_next">Treceți la următorul</string>
     <string name="pip_skip_to_prev">Treceți la anteriorul</string>
     <string name="please_slide_agian">Glisați din nou</string>
@@ -1376,10 +1374,6 @@ De asemenea, sunteți conectat la o rețea VPN, care vă poate monitoriza activi
     <string name="quick_settings_settings_label">Setări</string>
     <string name="quick_settings_sync_label">Sincronizare</string>
     <string name="quick_settings_tethering_label">Tethering</string>
-    <string name="quick_settings_tiles">implicit</string>
-  <string name="quick_settings_tiles_default">cell,wifi,flashlight,mute,screenshot,bt,autobrightness,airplane,screenlock,drivemode,rotation,edit</string>
-  <string name="quick_settings_tiles_retail_mode">cell,batterysaver,powermode,flashlight,rotation,location</string>
-  <string name="quick_settings_tiles_stock">cell,wifi,flashlight,mute,screenshot,bt,autobrightness,airplane,screenlock,drivemode,rotation,edit,gps,vibrate,hotspot,papermode,sync,quietmode,powermode,screenbutton,batterysaver,midrop</string>
     <string name="quick_settings_time_label">Ora</string>
     <string name="quick_settings_user_label">Eu</string>
     <string name="quick_settings_user_new_user">Utilizator nou</string>
@@ -1565,7 +1559,6 @@ Glisaţi în jos pentru a bloca"</string>
     <string name="status_bar_settings_airplane">Mod Avion</string>
     <string name="status_bar_settings_auto_brightness_label">AUTO</string>
     <string name="status_bar_settings_auto_rotation">Rotire automată a ecranului</string>
-    <string name="status_bar_settings_battery_meter_format"/>
     <string name="status_bar_settings_mute_label">SILENȚIOS</string>
     <string name="status_bar_settings_notifications">Notificări</string>
     <string name="status_bar_settings_settings_button">Setări</string>
@@ -1738,7 +1731,6 @@ Orice utilizator poate actualiza aplicații pentru toți ceilalți utilizatori."
     <string name="user_remove_user_title">Eliminați utilizatorul?</string>
     <string name="v7_preference_off">OPRIT</string>
     <string name="v7_preference_on">PORNIT</string>
-    <string name="velocity_tracker_impl">platformă</string>
     <string name="verify_apps_over_usb_summary">Verificați aplicațiile instalate prin ADB/ADT pentru comportament dăunător.</string>
     <string name="verify_apps_over_usb_title">Verificare aplicații instalate prin USB</string>
     <string name="voice_assist_label">Deschideți Asistentul Vocal</string>
@@ -1769,7 +1761,6 @@ Orice utilizator poate actualiza aplicații pentru toți ceilalți utilizatori."
     <string name="wait_for_debugger">Așteaptă depanarea</string>
     <string name="wait_for_debugger_summary">Se așteaptă modulul de depanare înainte de lansarea aplicației</string>
     <string name="wallpaper_global_des_drop_down_notify_text">Eliberați pentru a vedea detaliile</string>
-    <string name="weather_description_no_aqi">%1$s</string>
     <string name="weather_publish_time">Actualizat la %1$s</string>
     <string name="wifi_aggressive_handover">Comutare agresivă de la Wi-Fi la date mobile</string>
     <string name="wifi_aggressive_handover_summary">Când este activată, se va comuta la conexiunea de date mobile mai agresiv, atunci când semnalul Wi-Fi este slab</string>

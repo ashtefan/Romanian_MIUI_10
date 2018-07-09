@@ -98,7 +98,6 @@
     <string name="remain">Rămas: %s</string>
     <string name="replace">Înlocuire</string>
     <string name="resolver_app_recommend_flag">Recomandați</string>
-    <string name="resolver_recommended_app_name">%1$s&lt;font color=#0099ff&gt;&lt;br/&gt;(%2$s)&lt;/font&gt;</string>
     <string name="resource_select">Selectați</string>
     <string name="screen_button_notification_text">Pentru a le reactiva, atingeți butoanele Acasă și Alimentare simultan.</string>
     <string name="screen_button_notification_title">Butoanele de navigare sunt dezactivate</string>

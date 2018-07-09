@@ -3337,9 +3337,7 @@ Acest lucru va permite aplicației să comute modul Nu deranjați și să modifi
     <string name="power_cell">Rețea mobilă în așteptare</string>
     <string name="power_center">Energie</string>
     <string name="power_charge_remaining">%1$s până la încărcare</string>
-    <string name="power_charging">%1$s - %2$s</string>
     <string name="power_charging_duration">%1$s - %2$s până la încărcarea completă</string>
-    <string name="power_charging_duration_short">%1$s - %2$s</string>
     <string name="power_checker">Verificare energie</string>
     <string name="power_discharge_remaining">%1$s rămas</string>
     <string name="power_discharging_duration">%1$s - aprox. %2$s rămas</string>
@@ -4484,7 +4482,6 @@ Acest lucru este posibil datorită unui certificat de încredere instalat pe dis
     <string name="status_bar_settings_all_app_display_loading">Doar o secundă…</string>
     <string name="status_bar_settings_app_notification_preferences">Setări aplicație</string>
     <string name="status_bar_settings_basic_settings">Setări de bază</string>
-    <string name="status_bar_settings_carrier_sim">"SIM %1$s: "</string>
     <string name="status_bar_settings_custom_carrier">Editați numele operatorului</string>
     <string name="status_bar_settings_custom_wifi_name">Editaţi numele Wi-Fi</string>
     <string name="status_bar_settings_enable_notification">Afişare notificări</string>
