@@ -1321,7 +1321,6 @@ De asemenea, sunteți conectat la o rețea VPN, care vă poate monitoriza activi
     <string name="quick_settings_cellular_detail_title">Date mobile</string>
     <string name="quick_settings_color_space_label">Mod Corecție de culoare</string>
     <string name="quick_settings_connect_success">Conectat</string>
-    <string name="quick_settings_connecting">Conectare</string>
     <string name="quick_settings_connecting">Se conectează</string>
     <string name="quick_settings_disclosure_managed_profile_monitoring">Organizația dvs. poate monitoriza traficul în rețea relizat în profilul Servici</string>
     <string name="quick_settings_disclosure_managed_profile_named_vpn">Profil Servici conectat la %1$s</string>
