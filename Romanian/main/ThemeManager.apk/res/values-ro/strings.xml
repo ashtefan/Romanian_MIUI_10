@@ -101,7 +101,6 @@
     <string name="incompatible_dialog_ok">Am înțeles</string>
     <string name="incompatible_dialog_title">Probleme de compatibilitate</string>
     <string name="is_setting_wallpaper_message">Setare imagine de fundal…</string>
-    <string name="item_resource_audio_divider">│</string>
     <string name="item_resource_audio_optional_alarm_ring">Alarme</string>
     <string name="item_resource_audio_optional_color_ring">Ton notificare</string>
     <string name="item_resource_audio_optional_notification_ring">Notificări</string>
@@ -234,7 +233,6 @@
     <string name="resource_detail_recommend_desiner_other_themes">Alte teme concepute de %1$s</string>
     <string name="resource_detail_recommend_other_themes">Utilizatorilor, de asemenea, le-a plăcut</string>
     <string name="resource_detail_update_log_title">Actualizări</string>
-    <string name="resource_detail_vertical_divider">|</string>
     <string name="resource_detail_window_title">Detalii %1$s</string>
     <string name="resource_download">Descărcaţi</string>
     <string name="resource_download_notification_title_many">%1$s teme descărcate</string>
@@ -296,7 +294,6 @@
     <string name="resource_pack_price_info">%1$s original</string>
     <string name="resource_pack_warning">Ați achiziționat deja %1$d elemente din această temă. Ar fi mai ieftin dacă ați procura restul componentelor individual.</string>
     <string name="resource_present">Cadou</string>
-    <string name="resource_price_format">(%1$s)</string>
     <string name="resource_price_free">Gratuit</string>
     <string name="resource_price_unit">Credite Mi</string>
     <string name="resource_purchase_common_error">A apărut o eroare; reîncercați.</string>

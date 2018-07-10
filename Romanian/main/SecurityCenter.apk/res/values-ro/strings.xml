@@ -1137,7 +1137,6 @@ răspunsul operatorului"</string>
     <string name="menu_text_antispam">Listă blocări</string>
     <string name="menu_text_antivirus">Scanare de securitate</string>
     <string name="menu_text_garbage_cleanup">Curăţare</string>
-  <string name="menu_text_garbage_cleanup_danger">mai mult de %s</string>
     <string name="menu_text_license_manager">Permisiuni</string>
     <string name="menu_text_networkassistants">Utilizare date</string>
     <string name="menu_text_networkassistants_danger">Peste %s</string>
@@ -1149,7 +1148,6 @@ răspunsul operatorului"</string>
     <string name="menu_text_optimize_manage">Creștere viteză</string>
     <string name="menu_text_power_manager">Utilizare acumulator</string>
     <string name="menu_text_power_percent">%s</string>
-    <string name="menu_text_power_percent_title">Acumulator %s</string>
     <string name="menu_text_power_percent_title_default">Acumulator</string>
     <string name="menu_wh_remove">Eliminați din lista excepțiilor</string>
     <string name="menu_white">Adăugați în lista excepțiilor</string>
