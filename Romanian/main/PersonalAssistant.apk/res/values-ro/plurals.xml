@@ -7,14 +7,6 @@
     <plurals name="days_ago">
         <item quantity="other">cu %1$d z în urmă</item>
     </plurals>
-    <plurals name="express_history_dialog_delete_message">
-        <item quantity="other">Ștergeți %s elemente din expres?</item>
-        <item quantity="one">Ștergeți %s element din expres?</item>
-    </plurals>
-    <plurals name="express_history_menu_select_num">
-        <item quantity="other">%s elemente selectate</item>
-        <item quantity="one">%s element selectat</item>
-    </plurals>
     <plurals name="hours_ago">
         <item quantity="other">cu %1$d hr în urmă</item>
     </plurals>
@@ -40,10 +32,6 @@
     <plurals name="payment_record_menu_select_num">
         <item quantity="other">Selectate %s elemente</item>
         <item quantity="one">Selectat %s element</item>
-    </plurals>
-    <plurals name="shopping_delete_num">
-        <item quantity="other">Ștergeți %s elemente selectate?</item>
-        <item quantity="one">Ștergeți %s element selectat?</item>
     </plurals>
     <plurals name="sms_day_suffix">
         <item quantity="other">În %d zile</item>
@@ -77,5 +65,17 @@
     <plurals name="time_minute_ago">
         <item quantity="other">cu %d minute în urmă</item>
         <item quantity="one">cu %d minut în urmă</item>
+    </plurals>
+    <plurals name="express_history_dialog_delete_message">
+        <item quantity="other">Ștergeți %s elemente din Expres?</item>
+        <item quantity="one">Ștergeți %s element din Expres?</item>
+    </plurals>
+    <plurals name="express_history_menu_select_num">
+        <item quantity="other">S-au selectat %s elemente</item>
+        <item quantity="one">S-a selectat %s element</item>
+    </plurals>
+    <plurals name="shopping_delete_num">
+        <item quantity="other">Ștergeți %s elemente selectate?</item>
+        <item quantity="one">Ștergeți %s element selectat?</item>
     </plurals>
 </resources>

@@ -192,6 +192,7 @@ Nu puteți mări zona tastaturii și bara de navigare."</string>
     <string name="add_device_admin_msg">Activaţi acest administrator de dispozitiv?</string>
     <string name="add_facerecoginition_text">Adăugați datele faciale</string>
     <string name="add_fingerprint_cancel_button_text">Înapoi</string>
+    <string name="add_fingerprint_dirty_fingerprint">Asigurați-vă că suprafața ecranului este curată. Încercați să vă înregistrați amprenta din nou.</string>
     <string name="add_fingerprint_done_msg">Acum puteți debloca acest telefon utilizând amprenta digitală.</string>
     <string name="add_fingerprint_done_title">Realizat!</string>
     <string name="add_fingerprint_edge_instruction_msg">Mutați degetul pe senzor pentru ca acesta să poată înregistra particularitățile amprentei.</string>
@@ -200,6 +201,7 @@ Nu puteți mări zona tastaturii și bara de navigare."</string>
     <string name="add_fingerprint_finished_button_text">Realizat</string>
     <string name="add_fingerprint_instruction_msg">Senzorul de amprentă este înglobat în butonul Acasă al telefonului.</string>
     <string name="add_fingerprint_instruction_title">Adăugați o amprentă digitală</string>
+    <string name="add_fingerprint_move_fast">Mențineți degetul pe ecran puțin mai mult timp</string>
     <string name="add_fingerprint_name_suggest_text">Denumirea amprentei</string>
     <string name="add_fingerprint_put_finger_edge_msg">Atingeți senzorul, ridicați degetul și repetați mișcarea până când amprenta este înregistrată cu succes.</string>
     <string name="add_fingerprint_put_finger_msg">Puneți degetul pe senzorul de amprentă și ridicați-l abia după ce simțiți o vibrație a telefonului.</string>
@@ -962,6 +964,17 @@ Sample Rate"</string>
     <string name="bssid_label">BSSID:</string>
     <string name="bt_hci_snoop_log">Activaţi jurnalul Bluetooth HCI</string>
     <string name="bt_hci_snoop_log_summary">Captarea tuturor pachetelor Bluetooth HCI într-un fişier</string>
+    <string name="bt_ldac_declaration">Atunci când dispozitivul Bluetooth suportă LDAC, el va fi conectat în mod implicit. LDAC furnizează o experiență audio de înaltă calitate dar aduce de asemenea și un consum crescut de energie. Redarea poate fi influențată de către limitările hardware Bluetooth</string>
+    <string name="bt_ldac_dialog_summary">"LDAC furnizează o experiență audio de înaltă calitate dar aduce de asemenea și un consum crescut de energie
+Această caracteristică poate fi dezactivată din [Setări]"</string>
+    <string name="bt_ldac_dialog_title">Dispozitivul curent suportă LDAC, care a fost conectat în mod implicit:</string>
+    <string name="bt_ldac_open_dialog_summary">LDAC furnizează o experiență audio de înaltă calitate dar aduce de asemenea și un consum crescut de energie. Redarea poate fi influențată de către limitările hardware Bluetooth</string>
+    <string name="bt_ldac_open_dialog_title">Sunteți sigur că doriți să activați LDAC?</string>
+    <string name="bt_ldac_pre_summary">Furnizează o experiență audio de înaltă calitate</string>
+    <string name="bt_ldac_pre_title">LDAC</string>
+    <string name="bt_ldac_property">Atribute</string>
+    <string name="bt_ldac_remember_choice">Reține alegerea</string>
+    <string name="bt_ldac_settings">Setări</string>
     <string name="bt_rarely_used_device_title">Dispozitive rar utilizate (%d)</string>
     <string name="bt_trace_log">Activaţi jurnalul Bluetooth Trace</string>
     <string name="bt_trace_log_summary">Activaţi jurnalul Bluetooth Trace</string>
@@ -1941,6 +1954,8 @@ Pentru mai multe detalii, contactați administratorul organizației."</string>
     <string name="firewall_wifi">Wi-Fi</string>
     <string name="firewall_wifi_dialog_message">"Aplicațiile instalate nu se vor putea conecta la internet prin Wi-Fi când acest comutator este închis."</string>
     <string name="firmware_version">Versiune Android</string>
+    <string name="flash_drive_backup_restore">Creați o copie de rezervă sau restaurați utilizând un dispozitiv USB</string>
+    <string name="flash_drive_backup_restore_summary">Conectați un dispozitiv USB</string>
     <string name="floating_window_switch_label">Activaţi fereastra plutitoare</string>
     <string name="floating_window_switch_label_disable">Dezactivaţi fereastra plutitoare</string>
     <string name="fluency_mode">Animații de sistem</string>
@@ -2073,17 +2088,17 @@ Când activați crearea automată a copiei de rezervă, datele dispozitivului ș
     <string name="got_it">Am înțeles</string>
     <string name="gsm_to_wifi_connect_type_title">Celular -> Wi-Fi</string>
     <string name="gxzw_add_fingerprint_continue">Continuați</string>
-    <string name="gxzw_add_fingerprint_edge_message">Mișcați degetul astfel încât senzorul să poată înregistra toate particularitățile amprentei.</string>
-    <string name="gxzw_add_fingerprint_edge_title">Mișcați încet degetul</string>
-    <string name="gxzw_add_fingerprint_finish">Finalizat</string>
-    <string name="gxzw_add_fingerprint_indicate">Atingeți mai tare aici</string>
+    <string name="gxzw_add_fingerprint_edge_message">Mișcați degetul pentru a înregistra toate particularitățile amprentei.</string>
+    <string name="gxzw_add_fingerprint_edge_title">Ajustați modul de atingere</string>
+    <string name="gxzw_add_fingerprint_finish">Gata!</string>
+    <string name="gxzw_add_fingerprint_indicate">Atingeți mai tare în această zonă</string>
     <string name="gxzw_add_fingerprint_know">Am înțeles</string>
-    <string name="gxzw_add_fingerprint_message">Mențineți degetele și suprafața ecranului curate</string>
+    <string name="gxzw_add_fingerprint_message">Asigurați-vă că atât degetele cât și suprafața ecranului sunt curate</string>
     <string name="gxzw_add_fingerprint_move_indicate">Mișcați încet degetul</string>
-    <string name="gxzw_add_fingerprint_move_message">"Nu s-au putut înregistra zonele rămase ale amprentei. Mișcați încet degetul"</string>
-    <string name="gxzw_add_fingerprint_move_title">Mișcați încet degetul</string>
-    <string name="gxzw_add_fingerprint_put_finger_message">Apăsați puțin mai tare și ridicați degetul după ce simțiți o vibrație. Repetați de câteva ori.</string>
-    <string name="gxzw_add_fingerprint_put_finger_title">Apăsați puțin mai tare și ridicați degetul după ce simțiți o vibrație</string>
+    <string name="gxzw_add_fingerprint_move_message">Mișcați degetul astfel încât să poată fi înregistrate toate particularitățile amprentei</string>
+    <string name="gxzw_add_fingerprint_move_title">Mișcați puțin degetul</string>
+    <string name="gxzw_add_fingerprint_put_finger_message">Apăsați pe ecran și ridicați degetul după ce simțiți o vibrație. Repetați de câteva ori.</string>
+    <string name="gxzw_add_fingerprint_put_finger_title">Apăsați și ridicați degetul după ce simțiți o vibrație</string>
     <string name="gxzw_add_fingerprint_title">Adăugați o amprentă</string>
     <string name="handy_mode">Modul Operare cu o mână</string>
     <string name="handy_mode_enable">Mod Operare cu o mână</string>
@@ -2517,12 +2532,14 @@ Puteți modifica acest lucru mai târziu în Setări &gt; Aplicații și notific
     <string name="lockpassword_choose_for_second_user">Setați parola pentru al doilea spațiu</string>
     <string name="lockpassword_choose_lock_generic_header">Selectaţi metoda de blocare a ecranului</string>
     <string name="lockpassword_choose_your_password_header">Setați parola</string>
-    <string name="lockpassword_choose_your_password_second_space">"Setați parola 
- pentru Spațiul secundar"</string>
+    <string name="lockpassword_choose_your_password_second_space">"Setați codul PIN pentru Spațiul secundar 
+Acest cod trebuie să conțină atâtea cifre
+cât cel pentru Spațiul principal"</string>
     <string name="lockpassword_choose_your_pattern_header">Setați modelul de deblocare</string>
     <string name="lockpassword_choose_your_pin_header">Setați codul PIN</string>
     <string name="lockpassword_choose_your_pin_header_second_space">"Setați codul PIN 
  pentru Spațiul secundar"</string>
+    <string name="lockpassword_choose_your_pin_title">Introduceți între 4 și 16 cifre</string>
     <string name="lockpassword_confirm_for_second_user">Confirmați parola pentru Spațiul Secundar</string>
     <string name="lockpassword_confirm_passwords_dont_match">Parolele nu corespund</string>
     <string name="lockpassword_confirm_pins_dont_match">"Codurile PIN nu corespund"</string>
@@ -3827,7 +3844,7 @@ Această setare afectează toţi utilizatorii acestui telefon."</string>
     <string name="screen_paper_mode_off_apps_title">Nu utilizați Modul Lectură</string>
     <string name="screen_paper_mode_range_title">Setări</string>
     <string name="screen_paper_mode_set_apps_title">Aplicaţiile modului lectură</string>
-    <string name="screen_paper_mode_summary">"Se reduc emisiile de lumină albastră ale ecranului"</string>
+    <string name="screen_paper_mode_summary">Modul Lectură face culorile ecranului mai calde permițând ochilor să se relaxeze</string>
     <string name="screen_paper_mode_time_summary">Setați ora de activare/dezactivare a modului Lectură</string>
     <string name="screen_paper_mode_time_title">Program</string>
     <string name="screen_paper_mode_title">Mod lectură</string>
@@ -4129,6 +4146,9 @@ Pentru a utiliza fixarea ecranului:
     <string name="second_space">Spațiul secundar</string>
     <string name="secondspace_category">Spațiul secundar</string>
     <string name="secondspace_delete_space_title">Ștergeți Spațiul secundar</string>
+    <string name="secspace_fod_finger_tips">"Nu s-a putut verifica. Încercați din nou."</string>
+    <string name="secspace_fod_finger_title">Verificați amprenta</string>
+    <string name="secspace_fod_use_password">Introduceți parola</string>
     <string name="secure_keyguard_business_title">Setați metoda de blocare a ecranului</string>
     <string name="secure_lock_encryption_warning">"Deoarece ați activat un serviciu de accesibilitate, dispozitivul nu va utiliza parola de blocare a ecranului pentru criptarea datelor."</string>
     <string name="security_dashboard_summary">Blocare ecran, amprentă</string>
@@ -4374,7 +4394,7 @@ Codul PIN poate fi incorect."</string>
     <string name="sim_lock_settings_summary_on">Blocat</string>
     <string name="sim_lock_settings_title">Blocare cartelă SIM</string>
     <string name="sim_management_title">Cartele SIM şi reţele mobile</string>
-    <string name="sim_management_title_cr_kolbi">Cartelă SIM și rețele mobile</string>
+    <string name="sim_management_title_singlesim">Cartelă SIM și rețele mobile</string>
     <string name="sim_multi_sims_summary">Selectați cartela SIM preferată pentru date mobile.</string>
     <string name="sim_multi_sims_title">Au fost găsite 2 cartele SIM</string>
     <string name="sim_name_hint">Introduceți numele cartelei SIM</string>
@@ -4498,10 +4518,11 @@ Acest lucru este posibil datorită unui certificat de încredere instalat pe dis
     <string name="status_bar_settings_show_carrier_summary">Numele operatorului este în continuare afișat pe blocarea ecranului și în panoul notificărilor, atunci când această opţiune este dezactivată</string>
     <string name="status_bar_settings_show_carrier_under_keyguard">Afișează numele operatorului când telefonul este blocat</string>
     <string name="status_bar_settings_show_floating_notification">Notificări plutitoare</string>
-    <string name="status_bar_settings_show_floating_notification_summary">"Notificările plutitoare vor dispărea în mod automat după ce sunt afișate în partea de sus a ecranului"</string>
+    <string name="status_bar_settings_show_floating_notification_summary">Permiteți afișarea notificărilor importante în partea de sus a ecranului</string>
     <string name="status_bar_settings_show_flow_info">Afişare utilizare date</string>
     <string name="status_bar_settings_show_home_message">Insignă pictogramă</string>
     <string name="status_bar_settings_show_keyguard_notification">Notificări plutitoare şi blocare ecran</string>
+    <string name="status_bar_settings_show_keyguard_notification_summary">Permiteți afișarea notificărilor importante în Blocarea ecranului</string>
     <string name="status_bar_settings_show_network_speed">Afişare viteză de conexiune</string>
     <string name="status_bar_settings_show_notification_icon">Se afişează pictogramele notificărilor</string>
     <string name="status_bar_settings_show_wifi_name">Afişare Wi-Fi</string>

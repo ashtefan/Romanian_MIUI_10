@@ -754,6 +754,12 @@ Operatorul vă poate taxa suplimentar dacă activați din nou datele mobile."</s
     <string name="firewall_wifi">Wi-Fi</string>
     <string name="firewall_wifi_dialog_message">"Aplicația instalată nu se va putea conecta la internet utilizând Wi-Fi cât timp acest comutator este inactiv.​"</string>
     <string name="five_percent_total_pkg">%s (5%% din datele lunare)</string>
+    <string name="fod_authentication_shift_button">Renunțați</string>
+    <string name="fod_button_finger">Utilizați amprenta</string>
+    <string name="fod_button_password">Introduceți parola</string>
+    <string name="fod_finger_notice_title">Plasați degetul pe ecran</string>
+    <string name="fod_finger_windows_tips">Verificați amprenta</string>
+    <string name="fod_tips_split_screen_more_than_half">Introduceți parola</string>
     <string name="forbid_autobright_summary">"Iluminarea ecranului va rămâne constantă când vă jucați"</string>
     <string name="forbid_autobright_title">Depanați iluminarea ecranului</string>
     <string name="foreground_traffic">În prim plan: %s</string>
@@ -1247,6 +1253,7 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="notification_masked_item">Ascunde notificările</string>
     <string name="notification_masked_subtitle">Ascunde notificările din aplicațiile protejate cu Blocarea aplicațiilor</string>
     <string name="notification_summary_cmcc_app_check">Atingeți pentru a vizualiza detalii.</string>
+    <string name="notify_channel_name_security">Securitate sistem</string>
     <string name="notify_daily_data_usage_body">Pentru a limita în mod automat utilizarea datelor, configuraţi planul lunar de date.</string>
     <string name="notify_daily_limit_body">Apăsați pentru a seta limita datelor.</string>
     <string name="notify_daily_limit_title">%s utilizaţi astăzi</string>
@@ -2283,4 +2290,5 @@ Datele rămase includ datele reportate din luna anterioară."</string>
     <string name="xunyou_net_booster_detail">Utilizați serviciul de creștere a vitezei rețelei Xunyou în jocuri</string>
     <string name="xunyou_pay_webview">Servicii Xunyou</string>
     <string name="xunyou_server_expired">Sesiunea a expirat.</string>
+    <string name="yuan">CNY</string>
 </resources>

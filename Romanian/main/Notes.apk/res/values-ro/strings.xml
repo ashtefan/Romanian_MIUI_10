@@ -4,6 +4,8 @@
     <string name="action_mode_switcher_grid_description">Vedere tip grilă</string>
     <string name="action_mode_switcher_list_description">Vedere tip listă</string>
     <string name="action_settings_description">Accesați Setările</string>
+    <string name="actionbar_close_description">Închideți</string>
+    <string name="actionbar_home_description">Înapoi</string>
     <string name="add_account_desc">Sincronizaţi notele cu contul dvs. Xiaomi?</string>
     <string name="alarm_bar_title">Memento</string>
     <string name="alert_action_edit_anyway">Editați oricum</string>
@@ -29,6 +31,10 @@
     <string name="cloud_service_state_open_reminder">Activați sincronizarea cu Mi Cloud pentru a sincroniza notițele.</string>
     <string name="cloud_trash_bin_title">Ștergeți notițele din Mi Cloud</string>
     <string name="cta_reminder">Această aplicație trebuie să se conecteze la internet pentru a sincroniza notițele în Mi Cloud, și de asemenea să poate citi contactele pentru a eticheta notițele pe care le faceți în timpul apelurilor.</string>
+    <string name="date_time_picker_alarm_reminder">Alarmă</string>
+    <string name="date_time_picker_dialog_title">Setați data și ora</string>
+    <string name="date_time_picker_has_not_set_alarm">"Alarma nu este setată"</string>
+    <string name="date_time_picker_has_set_alarm">Alarmă setată cu succes</string>
     <string name="db_downgrade_clear_button">Ștergeți datele aplicației</string>
     <string name="db_downgrade_clear_date_reminder">"Schimbarea versiunii MIUI necesită ștergerea datelor aplicației Note. Înainte de a face acest lucru, asigurați-vă că ați sincronizat notițele în Mi Cloud."</string>
     <string name="default_folder_name">Dosar fără nume</string>
@@ -55,7 +61,6 @@
     <string name="dlg_unhide_message">Se afișează…</string>
     <string name="done">Finalizat</string>
     <string name="edit_header_done_description">Finalizat</string>
-    <string name="edit_header_home_description">Înapoi</string>
     <string name="edit_header_lock_description">Notiță ascunsă</string>
     <string name="empty_folder_import_notes">Importați notițe</string>
     <string name="empty_folder_no_notes">Nicio notiță aici</string>
@@ -95,6 +100,7 @@
     <string name="menu_delete_forever">Ștergeți definitiv</string>
     <string name="menu_folders">Dosare</string>
     <string name="menu_hide">Ascundeți</string>
+    <string name="menu_more_description">Mai multe</string>
     <string name="menu_move_parent_folder">Dosarul sursă</string>
     <string name="menu_move_to">Mutați în</string>
     <string name="menu_new_folder">Dosar nou</string>
@@ -109,7 +115,6 @@
     <string name="menu_unhide">Afișați</string>
     <string name="menu_unstick">Anulaţi fixarea</string>
     <string name="not_now">Nu acum</string>
-    <string name="note_alert_expired">Expirată</string>
     <string name="note_description_content">Aplicația Note este o unealtă utilă pentru a vă înregistra ideile. Incorporează funcția de memento și vă sincronizează elementele în Mi Cloud pentru a le putea accesa de oriunde, oricând. Asigurați-vă că puteți trăi fără aceste caracterisitici înainte de a șterge aplicația.</string>
     <string name="note_description_title">Despre aplicația Note</string>
     <string name="note_link_email">Trimiteţi e-mail</string>
@@ -201,6 +206,7 @@
     <string name="toast_reach_text_limit_checkbox">"Nu se poate adăuga căsuța de bifare deoarece notița este prea lungă"</string>
     <string name="toast_reach_text_limit_truncate">Această nota este prea lungă. A fost tăiat o parte din textul de la sfârșit.</string>
     <string name="toast_refuse_to_record_when_in_call">"Nu se poate utiliza această caracteristică în timpul unui apel"</string>
+    <string name="toast_refuse_to_record_when_in_multi_window">"Nu se poate utiliza această caracteristică în modul Ecran scindat"</string>
     <string name="toolbar_check_description">Adăugați o căsuță de verificare</string>
     <string name="toolbar_delete_description">Ștergeți această notiță</string>
     <string name="toolbar_gallery_description">Adăugați o imagine</string>

@@ -25,6 +25,7 @@
     <string name="cloud_state_finished">Sincronizat cu Mi Cloud</string>
     <string name="cloud_state_syncing">Sincronizat cu Mi Cloud</string>
     <string name="country">Country</string>
+    <string name="cowboy">Cowboy</string>
     <string name="crystal">Cristal</string>
     <string name="cta_button_continue">De acord</string>
     <string name="cta_button_quit">Ieșire</string>
@@ -61,6 +62,7 @@
     <string name="group_name_friends">Prieteni</string>
     <string name="guitar">Chitară</string>
     <string name="harp">Harpă</string>
+    <string name="icelatte">Ice latte</string>
     <string name="incomingmessage">Mesaj primit</string>
     <string name="kungfu">Kung Fu</string>
     <string name="leisure">Destindere</string>
