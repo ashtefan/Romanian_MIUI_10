@@ -485,6 +485,7 @@
     <string name="card_main_deepclean_wechat_action">Goliți</string>
     <string name="card_main_deepclean_wechat_summary">Goliți cache-ul WeChat pentru a elibera spațiu de stocare</string>
     <string name="card_main_deepclean_wechat_title">Cache WeChat</string>
+    <string name="card_main_gamebooster_summary">Crește stabilitatea conexiunii pentru jocuri</string>
     <string name="card_main_gamebooster_title">Creștere viteză de gaming</string>
     <string name="card_main_hbassistant_summary">Utilizați această unealtă pentru a apuca mai repede plicurile</string>
     <string name="card_main_hbassistant_title">Asistent Red envelope</string>
@@ -1134,6 +1135,25 @@ răspunsul operatorului"</string>
     <string name="menu_report">Raportați eroarea</string>
     <string name="menu_setting_traffic">Setați manual</string>
     <string name="menu_sms">Trimiteți mesaj</string>
+    <string name="menu_summary_antispam">Blochează apelurile și mesajele</string>
+    <string name="menu_summary_antispam_2">S-au blocat apelurile și mesajele</string>
+    <string name="menu_summary_antivirus">Scanați dispozitivul pentru viruși</string>
+    <string name="menu_summary_antivirus_2">Au fost găsite riscuri potențiale</string>
+    <string name="menu_summary_antivirus_3">"Nu s-a scanat dispozitivul"</string>
+    <string name="menu_summary_app_manager">Actualizați și dezinstalați aplicațiile</string>
+    <string name="menu_summary_app_manager_2">Sunt disponibile actualizări</string>
+    <string name="menu_summary_garbage_cleanup">Nu s-a găsit nimic de curățat</string>
+    <string name="menu_summary_garbage_cleanup_2">Dimensiunea coșului de gunoi</string>
+    <string name="menu_summary_garbage_cleanup_3">Goliți coșul de gunoi acum</string>
+    <string name="menu_summary_networkassistants">Gestionați planul de date</string>
+    <string name="menu_summary_networkassistants_2">Ați depășit limita</string>
+    <string name="menu_summary_networkassistants_3">Suficiente date rămase</string>
+    <string name="menu_summary_networkassistants_4">Ați rămas fără date</string>
+    <string name="menu_summary_power_manager">Economisirea acumulatorului vă asigură mai mult timp între încărcări</string>
+    <string name="menu_summary_power_manager_1">Acumulatorul este încărcat complet</string>
+    <string name="menu_summary_power_manager_2">%s rămas</string>
+    <string name="menu_summary_power_manager_3">Conectați încărcătorul</string>
+    <string name="menu_summary_power_manager_4">%s până la încărcarea completă</string>
     <string name="menu_text_antispam">Listă blocări</string>
     <string name="menu_text_antivirus">Scanare de securitate</string>
     <string name="menu_text_garbage_cleanup">Curăţare</string>
@@ -1148,7 +1168,6 @@ răspunsul operatorului"</string>
     <string name="menu_text_optimize_manage">Creștere viteză</string>
     <string name="menu_text_power_manager">Utilizare acumulator</string>
     <string name="menu_text_power_percent">%s</string>
-    <string name="menu_text_power_percent_title_default">Acumulator</string>
     <string name="menu_wh_remove">Eliminați din lista excepțiilor</string>
     <string name="menu_white">Adăugați în lista excepțiilor</string>
     <string name="mi_service_app_detail">Detalii utilizare date</string>
@@ -1232,6 +1251,8 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="network_speed_for_apps_title">Detalii viteză conexiune</string>
     <string name="network_speed_for_apps_total">Viteză conexiune</string>
     <string name="network_test_speed">Testați viteza rețelei Wi-Fi</string>
+    <string name="network_traffic_warning_text">"MIUI nu poate calcula starea utilizării datelor pentru aplicațiile individuale de sistem aici. Veți putea vedea informațiile cu privire la utilizarea datelor în detaliile aplicației în cazul în care această aplicație utilizează activ datele mobile."</string>
+    <string name="network_traffic_warning_title">Utilizarea datelor pentru aplicațiile de sistem</string>
     <string name="networkchanged_exception_summary">Conexiunea la rețea s-a modificat. Testați din nou.</string>
     <string name="networkchanged_exception_title">Conexiune modificată</string>
     <string name="never">O dată</string>
@@ -1693,7 +1714,6 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="scan_status_risk">Riscant</string>
     <string name="scan_status_safe">Sigur</string>
     <string name="scanning_bar_number">%d%%</string>
-    <string name="score_pts">%</string>
     <string name="screenrecord_not_find">Instalați cea mai recentă versiune a Înregistrării ecranului și încercați din nou.</string>
     <string name="search_input_txt_na">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
     <string name="search_result_text">"Nu s-a găsit nicio aplicație"</string>

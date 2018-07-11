@@ -138,7 +138,7 @@ Sample Rate"</string>
     <string name="charge_length_format">%1$s în urmă</string>
     <string name="choose_profile">Selectați profilul</string>
     <string name="clear_adb_keys">Revocați autorizările de depanare prin USB</string>
-    <string name="close">Închideți</string>
+    <string name="close">Dezactivați</string>
     <string name="confirm_enable_oem_unlock_text">AVERTISMENT: Caracteristicile de protecție a dispozitivului nu vor funcționa pe acest telefon atât timp cât această setare este activă.</string>
     <string name="confirm_enable_oem_unlock_title">Permiteți deblocarea OEM?</string>
     <string name="connected_via_network_scorer">Conectat în mod automat via %1$s</string>

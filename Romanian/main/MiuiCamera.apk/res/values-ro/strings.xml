@@ -180,6 +180,19 @@ dacă rotiți telefonul"</string>
 Curățați lentila pentru un efect îmbunătățit."</string>
     <string name="lens_dirty_detected_title_back">Lentila camerei posterioare este murdară</string>
     <string name="lens_dirty_detected_title_front">Lentila camerei frontale este murdară</string>
+    <string name="lighting_hint_needed">Plasați obiectul în lumină</string>
+    <string name="lighting_hint_title">Iluminare de studio</string>
+    <string name="lighting_hint_too_close">Îndepărtați camera</string>
+    <string name="lighting_hint_too_far">Apropiați Camera</string>
+    <string name="lighting_hint_usage">"Puteți utiliza efectele luminilor de studio
+în modul Portret"</string>
+    <string name="lighting_pattern_dot">Puncte</string>
+    <string name="lighting_pattern_leaf">Frunze</string>
+    <string name="lighting_pattern_movie">Film</string>
+    <string name="lighting_pattern_nature">Natural</string>
+    <string name="lighting_pattern_rainbow">Curcubeu</string>
+    <string name="lighting_pattern_shutter">Orbire</string>
+    <string name="lighting_pattern_stage">Scenă</string>
     <string name="message_snap_double_confirm">Actualmente apăsarea lungă a butonului de volum activează modul NFC. Modificați această acțiune?</string>
     <string name="module_name_beauty">Înfrumusețare</string>
     <string name="module_name_capture">Fotografie</string>

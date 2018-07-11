@@ -1146,6 +1146,8 @@ Apăsaţi pictograma Îmbinare de mai jos pentru a începe.</string>
     <string name="title_other_devices">Alte dispozitive disponibile</string>
     <string name="title_paired_devices">Dispozitive asociate</string>
     <string name="toast_call_detail_error">Nu se pot citi detaliile pentru apelul solicitat</string>
+    <string name="toast_call_no_SoundRecorder">Aplicația de Înregistrare nu este disponibilă</string>
+    <string name="toast_call_no_notes">Aplicația Notițe nu este disponibilă</string>
     <string name="toast_copy_done">Copiat</string>
     <string name="toast_copying">Copiere…</string>
     <string name="toast_displaying_all_contacts">Se afişează toată agenda</string>

@@ -350,7 +350,7 @@ pentru a accesa Spațiul secundar din Blocarea ecranului"</string>
     <string name="xspace_default_guide_notification_content">Atingeți pentru a modifica</string>
     <string name="xspace_default_guide_notification_main_title">Utilizând aplicația implicită</string>
     <string name="xspace_default_guide_notification_xspace_title">Utilizând aplicația clonată</string>
-    <string name="xspace_default_setting_dialog_title">Implicită</string>
+    <string name="xspace_default_setting_dialog_title"> implicită</string>
     <string name="xspace_default_setting_label">Aplicația implicită</string>
     <string name="xspace_description">"Aplicațiile clonate sunt copii ale aplicațiilor care pot fi utilizate separat cu un alt cont.
 

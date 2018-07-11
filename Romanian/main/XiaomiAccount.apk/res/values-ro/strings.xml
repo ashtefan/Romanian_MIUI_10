@@ -392,7 +392,7 @@ link-ul din e-mailul pe care vi l-am trimis."</string>
     <string name="passport_vcode_notification_title">Verificarea conectării dvs. este incompletă</string>
     <string name="passport_vcode_prompt_long">Introduceţi codul de verificare</string>
     <string name="passport_vcode_sms_send_prompt">Trimiteți codul de verificare la %s</string>
-    <string name="passport_verification_failed">Autentificarea a eșuat</string>
+    <string name="passport_verification_failed">"Nu s-a putut verifica contul"</string>
     <string name="passport_verify">Verificaţi</string>
     <string name="passport_verifying_activator_phone">Se verifică securitatea telefonului…</string>
     <string name="passport_wait_for_sms_prompt">Porniţi de la început acum? Livrarea mesajelor de verificare poate dura până la 10 minute, atunci când telefonul se află în raza rețelei operatorului dvs.</string>

@@ -236,6 +236,10 @@
         <item quantity="other">Mai aveți de parcurs %1$d pași pentru a raporta o problemă.</item>
         <item quantity="one">Mai aveți de parcurs %1$d pas pentru a raporta o problemă.</item>
     </plurals>
+    <plurals name="show_reset_countdown">
+        <item quantity="other">Parcurgeți %1$d pași pentru a reveni la setările din fabrică</item>
+        <item quantity="one">Parcurgeți %1$d pas pentru a reveni la setările din fabrică</item>
+    </plurals>
     <plurals name="special_access_summary">
         <item quantity="other">%d aplicații pot utiliza date nerestricționate</item>
         <item quantity="one">1 aplicație poate utiliza date nerestricționate</item>

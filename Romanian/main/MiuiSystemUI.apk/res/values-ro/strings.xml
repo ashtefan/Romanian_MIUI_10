@@ -1841,6 +1841,13 @@ Orice utilizator poate actualiza aplicații pentru toți ceilalți utilizatori."
     <string name="wifi_verbose_logging">Activați Wi-Fi Verbose Logging</string>
     <string name="wifi_verbose_logging_summary">Crește nivelul Wi-Fi logging level, arată RSSI pentru fiecare SSID din lista rețelelor Wi-Fi</string>
     <string name="window_animation_scale_title">Scală fereastră animație</string>
+    <string name="wireless_change_to_ac_charging">S-a trecut la încărcarea prin fir</string>
+    <string name="wireless_charge_current">Se încarcă</string>
+    <string name="wireless_charge_dialog_cancel">Am înțeles</string>
+    <string name="wireless_charge_dialog_title">Plasați telefonul în centrul bazei de încărcare</string>
+    <string name="wireless_charge_reset_device">Încărcarea este lentă. Repoziționați dispozitivul.</string>
+    <string name="wireless_charge_reset_device_detail">Asigurați-vă că poziția telefonului în baza de încărcare este corectă</string>
+    <string name="wireless_charge_stop">S-a oprit încărcarea wireless</string>
     <string name="wrong_password">Parolă incorectă</string>
     <string name="zen_alarm_warning">"Nu veți mai auzi următoarea alarmă %1$s"</string>
     <string name="zen_alarm_warning_indef">"Nu veți mai auzi următoarea alarmă %1$s decât dacă dezactivați asta până atunci"</string>
