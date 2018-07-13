@@ -139,6 +139,7 @@
     <string name="description_calendar_huangli"/>
     <string name="description_calendar_subscribe_group"/>
     <string name="directory_searching_fmt">Se caută %s…</string>
+    <string name="discard_label">Renunțați</string>
     <string name="does_not_repeat">Eveniment unic</string>
     <string name="done">Înapoi</string>
     <string name="download">Descărcați</string>

@@ -282,6 +282,7 @@
     <string name="apps_item_virus_summary_uninstalled">APK</string>
     <string name="apps_list_header_title_sms">Verificați aplicația de mesagerie</string>
     <string name="apps_list_header_title_sms_access">Restricționați accesul la codurile de verificare</string>
+    <string name="ask_create_shortcut">Creați o scurtătură pe Ecranul principal?</string>
     <string name="auto_atsk_condition_battery_level_text_down">Când nivelul acumulatorului atinge %s</string>
     <string name="auto_atsk_condition_battery_level_text_up">Când acumulatorul este încărcat până la %s</string>
     <string name="auto_back_booster">Opriți accelerarea</string>
@@ -813,10 +814,21 @@ Operatorul vă poate taxa suplimentar dacă activați din nou datele mobile."</s
     <string name="gateway_exception_summary2">Nu se poate conecta la server</string>
     <string name="gateway_exception_title">Testare router</string>
     <string name="gb_ad_game_size"> MB</string>
+    <string name="gb_create_icon_summary">Crează o scurtătură pe Ecranul principal</string>
     <string name="gb_cutoff">|</string>
     <string name="gb_description_image_button_answer">Răspundeți</string>
     <string name="gb_description_image_button_reject">Respingeți</string>
     <string name="gb_description_image_button_video_answer">Apel video</string>
+    <string name="gb_first_window_antimsg_summary_quick_answer">Utilizați răspunsuri rapide</string>
+    <string name="gb_first_window_antimsg_summary_transparent_show">Vedeți textul pe un fundal transparent</string>
+    <string name="gb_first_window_antimsg_title">Notificări convenabile</string>
+    <string name="gb_first_window_gamebox_summary_four">Goliți memoria cache, faceți înregistrări ale ecranului și capturi de ecran</string>
+    <string name="gb_first_window_gamebox_summary_six">Utilizați răspunsuri rapide, faceți înregistrări și capturi de ecran</string>
+    <string name="gb_first_window_handsfree_summary">Activați difuzorul în în mod automat</string>
+    <string name="gb_first_window_handsfree_title">Apeluri mâini-libere</string>
+    <string name="gb_first_window_start">Porniți redarea</string>
+    <string name="gb_first_window_summary">Crește viteza și performanța la nivel de sistem</string>
+    <string name="gb_first_window_title">Creșterea vitezei în jocuri</string>
     <string name="gb_get_gift_right_now">Verificați acum</string>
     <string name="gb_have_signed">Verificat astăzi</string>
     <string name="gb_msg_completely_shielded">Ascundeți mesajele</string>
@@ -1055,6 +1067,7 @@ răspunsul operatorului"</string>
     <string name="main_toolbar_statistic">Statistică</string>
     <string name="main_used_bill">%s CNY</string>
     <string name="man_add_application">Adăugați aplicațiile cu pornire automată manual</string>
+    <string name="manage_hybrid_permissions">"Gestionați permisiunile aplicației"</string>
     <string name="managed_user_title">Toate aplicațiile de Servici</string>
     <string name="manual_input_free_traffic">Setaţi utilizarea datelor în afara orelor de vârf</string>
     <string name="manual_input_traffic">Setaţi utilizarea datelor</string>

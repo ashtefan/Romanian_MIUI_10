@@ -54,6 +54,7 @@
     <string name="album_name_people">Persoane</string>
     <string name="album_name_recent_discovery">Recente</string>
     <string name="album_name_tags">Etichete</string>
+    <string name="album_notes">Notițe</string>
     <string name="album_others_share_baby_info_format">Albumul copilului din %s</string>
     <string name="album_others_share_info_format">Din %s</string>
     <string name="album_owner_share">Partajările mele</string>
@@ -370,7 +371,6 @@
     <string name="enable_cloud_for_sharing">Activați albumele Mi Cloud pentru a vedea fotografiile partajate.</string>
     <string name="enable_face_album_summary">Sortați în mod automat fotografiile în funcție de persoanele pe care le conțin</string>
     <string name="enable_face_album_title">Sortați după persoanele conținute</string>
-    <string name="enabling_face_feature">Doar o secundă…</string>
     <string name="enter_choice_mode">S-a accesat dialogul de Partajare</string>
     <string name="enter_email_hint">Introduceţi adresa de e-mail</string>
     <string name="error_album_not_exist">"Albumul nu există"</string>
@@ -443,7 +443,6 @@
     <string name="exit_video_play">Ieșire</string>
     <string name="expand_desc">Mai multe</string>
     <string name="expand_people">Arată mai multe persoane</string>
-    <string name="face_album_detecting_tip">Doar o secundă…</string>
     <string name="face_album_empty">"Sunt prea puține fotografii pentru recunoașterea persoanelor.
 Faceți mai multe fotografii prietenilor!"</string>
     <string name="face_album_empty_syncing">Se sincronizează datele; reveniți mai târziu</string>
@@ -451,7 +450,6 @@ Faceți mai multe fotografii prietenilor!"</string>
     <string name="face_album_long_tap_tip">Pentru a selecta mai multe persoane sau pentru a modifica setările de grup, apăsați și țineți apăsat pe o fotografie de profil</string>
     <string name="face_album_new_name_hint">Nume nou</string>
     <string name="face_album_not_named">Fără nume</string>
-    <string name="face_album_pending_enable_tip">Fotografiile se vor sorta atunci când există conexiune Wi-Fi</string>
     <string name="face_album_rename_hint">Introduceţi numele</string>
     <string name="face_album_title">Fotografii cu %s</string>
     <string name="face_album_use_tip">Sortați în mod automat fotografiile în funcție de persoanele pe care le conțin.</string>
@@ -469,7 +467,9 @@ Faceți mai multe fotografii prietenilor!"</string>
     <string name="fancy_color_desc">Culori</string>
     <string name="fast_share_auto_render">Înfrumusețare</string>
     <string name="fast_share_auto_render_finish">Înfrumusețată</string>
-    <string name="feature_guidance_photo_effects">Efecte foto</string>
+    <string name="feature_guidance_photo_effects">"Sunt disponibile noi
+efecte pentru fotografii"</string>
+    <string name="feature_guidance_video_editor_smart_effects">Sunt disponibile noi efecte</string>
     <string name="filter_bi_memory">Memorie</string>
     <string name="filter_bi_mono">Mono</string>
     <string name="filter_bi_pink">Roz</string>
@@ -807,7 +807,13 @@ pentru a personaliza Galeria"</string>
     <string name="photo_print_package_installing">Încărcare extensie…</string>
     <string name="photo_save_to_msg">Salvată în %s</string>
     <string name="photomovie_audio_custom">Local</string>
+    <string name="photomovie_audio_default">Memorie</string>
+    <string name="photomovie_audio_kawaii">Romantic</string>
+    <string name="photomovie_audio_light">Baladă</string>
+    <string name="photomovie_audio_linear">Rock</string>
     <string name="photomovie_audio_none">Nimic</string>
+    <string name="photomovie_audio_soft">Ukulele</string>
+    <string name="photomovie_audio_sport">Tehno</string>
     <string name="photomovie_cancel_download">Renunțați</string>
     <string name="photomovie_delete_disable">Vă trebuie cel puțin 3 fotografii pentru a crea un clip.</string>
     <string name="photomovie_download">Descărcați</string>
@@ -829,6 +835,11 @@ pentru a personaliza Galeria"</string>
     <string name="photomovie_tab_music">Muzică</string>
     <string name="photomovie_tab_template">Șablon</string>
     <string name="photomovie_template_default">Lent</string>
+    <string name="photomovie_template_kawaii">Nuri</string>
+    <string name="photomovie_template_light">Briză</string>
+    <string name="photomovie_template_linear">Excursie</string>
+    <string name="photomovie_template_soft">Tinerețe</string>
+    <string name="photomovie_template_sport">Vigoare</string>
     <string name="pick_from_contact">Alegeţi din Contacte</string>
     <string name="pick_too_many_recipients">Prea mulţi destinatari</string>
     <string name="picker_cancel_download">Întrerupeți descărcarea</string>
@@ -841,6 +852,7 @@ pentru a personaliza Galeria"</string>
     <string name="picker_image_will_download">"%d dintre fotografiile selectate nu sunt pe telefon; acestea vor fi descărcate"</string>
     <string name="picker_no_network_message">Conectați-vă la rețea pentru a putea descărca</string>
     <string name="picker_origin_need_download">"%1$d dintre fotografiile selectate nu sunt pe telefon (%2$dMB); le descărcați utilizând datele mobile?"</string>
+    <string name="picker_origin_request_progress_message">Se pregătesc fișierele originale (%1$d/%2$d)…</string>
     <string name="picker_title_format">Selectați %1$d din %2$d fotografii</string>
     <string name="picker_title_selection_format">Au fost selectate %d fotografii</string>
     <string name="picker_title_selection_format_multiple">Selectați %1$d la %2$d fotografii (%3$d)</string>
@@ -955,12 +967,12 @@ pentru a personaliza Galeria"</string>
     <string name="search_net_error">A apărut o eroare de rețea. Conectați-vă la altă rețea și încercați din nou.</string>
     <string name="search_request_applied">Aplicat</string>
     <string name="search_request_open">Alăturați-vă echipei de testare</string>
+    <string name="search_request_requesting">Aplicat. Așteptați puțin înainte de a începe.</string>
     <string name="search_result_empty">"Nu s-a găsit nimic"</string>
     <string name="search_retry">Încercați din nou</string>
     <string name="search_select_network">Selectați rețeaua</string>
     <string name="search_set_network_connection">Setări de rețea</string>
     <string name="search_setting_sub_title">Căutați persoane, locuri și obiecte în fotografiile dumneavoastră</string>
-    <string name="search_setting_sub_title_open">Aplicat. Așteptați puțin înainte de a începe.</string>
     <string name="search_setting_title">Găsiți fotografii în Galerie</string>
     <string name="search_syncing">Se sincronizează datele; reveniți după o vreme</string>
     <string name="search_title_album">Album</string>
@@ -990,6 +1002,7 @@ pentru a personaliza Galeria"</string>
     <string name="secret_reason_too_large">Fișierul este prea mare</string>
     <string name="secret_reason_type_not_support">"Acest tip de fișier nu este suportat"</string>
     <string name="secret_reason_unknow_reasons">Eroare necunoscută</string>
+    <string name="secret_reason_video_not_support">"Nu s-au putut adăuga videoclipurile în albumul ascuns"</string>
     <string name="see_ignore_faces">"Vedeți persoanele pe care le-ați ignorat"</string>
     <string name="select_item_face">"Este '%s'?"</string>
     <string name="select_origin_tip">Fișierul original (%s)</string>
@@ -1203,7 +1216,7 @@ pentru a personaliza Galeria"</string>
     <string name="video_editor_smart_effect_fastslow">Mișcare</string>
     <string name="video_editor_smart_effect_freesze">Opriți mișcarea</string>
     <string name="video_editor_smart_effect_halo">Halou</string>
-    <string name="video_editor_smart_effect_high_iframes_text">Acest efect merge foarte bine cu videoclipurile cu rată ridicată a cadrelor.</string>
+    <string name="video_editor_smart_effect_high_iframes_text">Acest efect merge foarte bine pentru videoclipurile cu rata de 120 fps.</string>
     <string name="video_editor_smart_effect_movie">Film</string>
     <string name="video_editor_smart_effect_none">Niciunul</string>
     <string name="video_editor_smart_effect_radical">Optimist</string>
@@ -1231,6 +1244,7 @@ pentru a personaliza Galeria"</string>
     <string name="video_editor_unsupport_audio_file">Fișier audio nesuportat</string>
     <string name="video_editor_unzip_file_fail">"Nu s-a putut decoda videoclipul."</string>
     <string name="video_editor_video_is_short">"Nu se poate edita acest videoclip."</string>
+    <string name="video_editor_video_loading">Se pregătește videoclipul; așteptați o secundă sau două și reîncercați.</string>
     <string name="video_editor_watermark">Filigran</string>
     <string name="video_err">"Imposibil de redat videoclipul"</string>
     <string name="video_not_exist">"Videoclip inexistent"</string>
@@ -1239,7 +1253,6 @@ pentru a personaliza Galeria"</string>
     <string name="view_by_gallery_tip">Galerie MIUI</string>
     <string name="view_face_album">Vizualizaţi albumul</string>
     <string name="view_more_face_desc">Vedeți mai multe persoane</string>
-    <string name="view_queuing_status">Verificați starea</string>
     <string name="voice_assistant">Introducere vocală</string>
     <string name="welcome_to_auto_backup">Bine ați venit la Mi Cloud</string>
     <string name="welcome_to_micloud">Bine ați venit la Mi Cloud</string>

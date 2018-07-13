@@ -97,6 +97,7 @@
     <string name="record_downloading_notification">Descărcare…</string>
     <string name="record_downloading_notification_complete">Descărcare finalizată</string>
     <string name="record_downloading_notification_count">descărcat %d</string>
+    <string name="record_format_preference_title">Formatul înregistrării</string>
     <string name="record_list">Înregistrări</string>
     <string name="record_list_call">Înregistrări apeluri</string>
     <string name="record_list_category_title_format">MMMM yyyy</string>

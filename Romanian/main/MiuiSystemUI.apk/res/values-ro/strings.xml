@@ -600,6 +600,7 @@ Dacă reactivaţi datele, puteţi fi taxat de către operator.</string>
     <string name="face_data_input_ok_msg_angle">"Deblocați telefonul utilizând datele faciale când ecranul este pornit.
 (Înregistrați datele faciale înclusiv particularitățile din toate unghiurile.)​"</string>
     <string name="face_data_input_ok_title">Adăugată cu succes</string>
+    <string name="face_data_input_structure_title">Date faciale 3D</string>
     <string name="face_data_input_title">Adăugați datele faciale</string>
     <string name="face_data_introduction_msg">Datele faciale pot fi utilizate pentru a debloca telefonul sau pentru a vă verifica identitatea. Adăugați parola de Blocare a ecranului înainte de a adăuga datele faciale.</string>
     <string name="face_data_introduction_next">Următorul</string>
@@ -1436,6 +1437,8 @@ De asemenea, sunteți conectat la o rețea VPN, care vă poate monitoriza activi
     <string name="retail_demo_reset_next">Următorul</string>
     <string name="retail_demo_reset_title">Parola este necesară</string>
     <string name="return_to_incall_screen">Reveniţi la apel</string>
+    <string name="rgb_face_data_introduction_title">Adăugați date faciale 2D</string>
+    <string name="rgb_face_data_manage_delete_msg">Ștergeți datele faciale 2D</string>
     <string name="right_icon">Iconița din dreapta</string>
     <string name="right_keycode">Codul cheie din dreapta</string>
     <string name="right_nav_bar_button_type">Extra tip buton dreapta</string>
@@ -1605,6 +1608,8 @@ Glisaţi în jos pentru a bloca"</string>
     <string name="structure_face_data_input_ok">Finalizat</string>
     <string name="structure_face_data_input_right">Mișcați capul către dreapta</string>
     <string name="structure_face_data_input_success">Gata!</string>
+    <string name="structure_face_data_input_timeout_msg">"Nu s-a putut înregistra. Încercați din nou."</string>
+    <string name="structure_face_data_input_timeout_title">Încercați din nou</string>
     <string name="structure_face_data_input_up">Priviți în sus</string>
     <string name="structure_face_data_introduction_back">Înapoi</string>
     <string name="structure_face_data_introduction_msg">Datele faciale 3D vă permit să deblocați telefonul și să vă verificați identitatea. Trebuie să setați o parolă înainte de a utiliza această caracteristică.</string>
@@ -1612,6 +1617,7 @@ Glisaţi în jos pentru a bloca"</string>
     <string name="structure_face_data_introduction_settingpassword">Setați</string>
     <string name="structure_face_data_introduction_title">Adăugați date faciale 3D</string>
     <string name="structure_face_data_ir_input_face">Mișcați încet capul</string>
+    <string name="structure_face_data_manage_delete_msg">Ștergeți datele faciale 3D</string>
     <string name="structure_face_data_open_cameraing">Se lansează Camera…</string>
     <string name="structure_face_data_rgb_input_face">Plasați chipul în interiorul cadrului</string>
     <string name="structure_face_data_suggestion_text">"Asigurați-vă că toate particularitățile feței sunt vizibile clar. Nu purtați pălării, ochelari de soare sau alte accesorii ce pot acoperi chipul pe durata înregistrării datelor faciale 3D. De asemenea, asigurați-vă că fața este bine iluminată."</string>
@@ -1619,6 +1625,24 @@ Glisaţi în jos pentru a bloca"</string>
     <string name="structure_face_delete_data_dialog_msg">"Nu s-a putut porni Camera și obține previzualizarea. Încercați din nou."</string>
     <string name="structure_face_delete_data_dialog_msg_retry">Încercați din nou</string>
     <string name="structure_face_delete_data_dialog_title">"Nu s-a putut lansa Camera"</string>
+    <string name="structure_face_hardware_abnormal_btn">Am înțeles</string>
+    <string name="structure_face_hardware_abnormal_msg">"Nu s-au putut înregistra datele faciale datorită unei erori de laser. Contactați Serviciul Clienți pentru a obține ajutor."</string>
+    <string name="structure_face_hardware_abnormal_title">Eroare de laser</string>
+    <string name="structure_face_modules_abnormal_btn">Reporniți</string>
+    <string name="structure_face_modules_abnormal_msg">"Nu s-au putut înregistra datele faciale datorită unei erori a modulului optic. Reporniți dispozitivul și încercați din nou."</string>
+    <string name="structure_face_modules_abnormal_title">Eroare de modul optic</string>
+    <string name="structure_face_unlock_model2d_dialog_msg">"Recunoașterea 3D va fi dezactivată. Datele dvs. faciale 3D vor fi șterse. Va trebui de asemenea să vă adăugați datele faciale 2D. Activați recunoașterea 2D?"</string>
+    <string name="structure_face_unlock_model2d_dialog_title">Se activează recunoașterea 2D</string>
+    <string name="structure_face_unlock_model3d_dialog_msg">"Recunoașterea 2D va fi dezactivată. Datele dvs. faciale 2D vor fi șterse. Va trebui de asemenea să vă adăugați datele faciale 3D. Activați recunoașterea 3D?"</string>
+    <string name="structure_face_unlock_model3d_dialog_title">Se activează recunoașterea 3D</string>
+    <string name="structure_face_unlock_model_dialog_enable">Activați</string>
+    <string name="structure_face_unlock_model_dialog_notenable">Nu, mulțumesc</string>
+    <string name="structure_face_unlock_model_other">Altele</string>
+    <string name="structure_face_unlock_model_other_msg_2d">Recunoaștere 2D</string>
+    <string name="structure_face_unlock_model_other_msg_3d">Recunoaștere 3D</string>
+    <string name="structure_face_unlock_model_other_suggestion_2d">Recunoașterea facială 2D este mai puțin sigură decât un model de deblocare, un cod PIN sau o parolă. Cât timp această caracteristică este activată dispozitivul dvs. poate fi deblocat utilizând o fotografie a dvs., ca și de către persoane sau obiecte care seamănă cu dvs.</string>
+    <string name="structure_face_unlock_model_other_suggestion_3d">"Recunoașterea facială 3D este relativ sigură. Este foarte puțin probabil ca telefonul să vă poată fi deblocat cu o fotografie a dvs. atât timp cât este activată această caracteristică. Totuși, acesta poate fi deblocat de persoane sau obiecte care vă seamănă."</string>
+    <string name="structure_face_unlock_model_other_title">Recunoaștere facială</string>
     <string name="switch_bar_off">Oprită</string>
     <string name="switch_bar_on">Pornită</string>
     <string name="system_ui_tuner">Tuner interfață de sistem</string>

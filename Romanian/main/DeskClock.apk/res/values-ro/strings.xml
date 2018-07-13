@@ -182,10 +182,14 @@
     <string name="timer_alert_type_rain">Burniță</string>
     <string name="timer_alert_type_stove_fire">Căldură de cuptor</string>
     <string name="timer_alert_type_summer_night">Noapte de vară</string>
+    <string name="timer_cancel_hint">Stop</string>
     <string name="timer_cancel_timer">Opriți temporizatorul</string>
     <string name="timer_clock_alert_text">Setați temporizatorul</string>
     <string name="timer_continue">Continuaţi</string>
     <string name="timer_continue_timer">Reporniți temporizatorul</string>
+    <string name="timer_end_time">Temporizatorul se va opri la %s</string>
+    <string name="timer_end_time_format">HH:mm dd MMM</string>
+    <string name="timer_end_time_format_today">HH:mm</string>
     <string name="timer_got_it">OK</string>
     <string name="timer_item_duration_display">%1$d min și %2$d sec</string>
     <string name="timer_item_label_hint">Nume temporizator</string>
@@ -194,10 +198,8 @@
     <string name="timer_item_picker_second">S</string>
     <string name="timer_new_item">Adăugaţi un temporizator</string>
     <string name="timer_notify_text">Amânaţi sau anulaţi temporizatorul.</string>
-    <string name="timer_pause_hint">Pauză</string>
     <string name="timer_pause_timer">Opriți temporizatorul</string>
     <string name="timer_running">Temporizatorul rulează</string>
-    <string name="timer_running_hint">Continuați</string>
     <string name="timer_start_alarm">Timpul a expirat</string>
     <string name="timer_start_timer">Porniți temporizatorul</string>
     <string name="timer_title">Temporizator</string>

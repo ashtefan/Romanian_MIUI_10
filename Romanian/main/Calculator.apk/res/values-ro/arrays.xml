@@ -1,23 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="operators">
-        <item>(</item>
-        <item>)</item>
-        <item>!</item>
-        <item>ln</item>
-        <item>log</item>
-        <item>√</item>
-        <item>÷</item>
-        <item>×</item>
-        <item>+</item>
-        <item>−</item>
-        <item>.</item>
-        <item>^</item>
-        <item>tan</item>
-        <item>sin</item>
-        <item>cos</item>
-        <item>π</item>
-        <item>=</item>
+    <string-array name="mortgage_repayment">
+        <item>Rate egale</item>
+        <item>Rate descrescătoare</item>
     </string-array>
     <string-array name="operatorDescs">
         <item>paranteză stânga</item>
@@ -37,10 +22,6 @@
         <item>cosinus</item>
         <item>pi</item>
         <item>egal cu</item>
-     </string-array>
-    <string-array name="mortgage_repayment">
-        <item>Rate egale</item>
-        <item>Rate descrescătoare</item>
     </string-array>
     <string-array name="unit_data_order_currency_">
         <item>USD</item>
@@ -48,6 +29,45 @@
         <item>HKD</item>
         <item>JPY</item>
         <item>CNY</item>
+    </string-array>
+    <string-array name="operators">
+        <item>(</item>
+        <item>)</item>
+        <item>!</item>
+        <item>ln</item>
+        <item>log</item>
+        <item>√</item>
+        <item>÷</item>
+        <item>×</item>
+        <item>+</item>
+        <item>−</item>
+        <item>.</item>
+        <item>^</item>
+        <item>tan</item>
+        <item>sin</item>
+        <item>cos</item>
+        <item>π</item>
+        <item>=</item>
+    </string-array>
+    <string-array name="unit_data_order_area_">
+        <item>km pătrat</item>
+        <item>ha</item>
+        <item>ar</item>
+        <item>m pătrat</item>
+        <item>dm pătrat</item>
+        <item>cm pătrat</item>
+        <item>mm pătrat</item>
+        <item>um pătrat</item>
+        <item>acre</item>
+        <item>mi pătrate</item>
+        <item>yd pătrați</item>
+        <item>picioare pătrate</item>
+        <item>in pătrați</item>
+        <item>rd pătrat</item>
+        <item>qing</item>
+        <item>mu</item>
+        <item>chi pătrat</item>
+        <item>cun pătrat</item>
     </string-array>
     <string-array name="unit_data_order_length_">
         <item>km</item>
@@ -79,25 +99,34 @@
         <item>au</item>
         <item>ly</item>
     </string-array>
-    <string-array name="unit_data_order_area_">
-        <item>km pătrat</item>
-        <item>ha</item>
-        <item>ar</item>
-        <item>m pătrat</item>
-        <item>dm pătrat</item>
-        <item>cm pătrat</item>
-        <item>mm pătrat</item>
-        <item>um pătrat</item>
-        <item>acre</item>
-        <item>mi pătrate</item>
-        <item>yd pătrați</item>
-        <item>picioare pătrate</item>
-        <item>in pătrați</item>
-        <item>rd pătrat</item>
-        <item>qing</item>
-        <item>mu</item>
-        <item>chi pătrat</item>
-        <item>cun pătrat</item>
+    <string-array name="unit_data_order_temperature_">
+        <item>C</item>
+        <item>F</item>
+        <item>K</item>
+        <item>R</item>
+        <item>Re</item>
+    </string-array>
+    <string-array name="unit_data_order_time_">
+        <item>an</item>
+        <item>săpt</item>
+        <item>zi</item>
+        <item>h</item>
+        <item>min</item>
+        <item>s</item>
+        <item>ms</item>
+        <item>us</item>
+        <item>ps</item>
+    </string-array>
+    <string-array name="unit_data_order_velocity_">
+        <item>c</item>
+        <item>mach</item>
+        <item>m/s</item>
+        <item>km/h</item>
+        <item>km/s</item>
+        <item>nmiph</item>
+        <item>mileph</item>
+        <item>fps</item>
+        <item>ips</item>
     </string-array>
     <string-array name="unit_data_order_volume_">
         <item>m cub</item>
@@ -113,17 +142,6 @@
         <item>in cub</item>
         <item>yd cub</item>
         <item>af cub</item>
-    </string-array>
-    <string-array name="unit_data_order_velocity_">
-        <item>c</item>
-        <item>mach</item>
-        <item>m/s</item>
-        <item>km/h</item>
-        <item>km/s</item>
-        <item>nmiph</item>
-        <item>mileph</item>
-        <item>fps</item>
-        <item>ips</item>
     </string-array>
     <string-array name="unit_data_order_weight_">
         <item>t</item>
@@ -147,23 +165,5 @@
         <item>qian</item>
         <item>liang</item>
         <item>taijin</item>
-    </string-array>
-    <string-array name="unit_data_order_temperature_">
-        <item>C</item>
-        <item>F</item>
-        <item>K</item>
-        <item>R</item>
-        <item>Re</item>
-    </string-array>
-    <string-array name="unit_data_order_time_">
-        <item>an</item>
-        <item>săpt</item>
-        <item>zi</item>
-        <item>h</item>
-        <item>min</item>
-        <item>s</item>
-        <item>ms</item>
-        <item>us</item>
-        <item>ps</item>
     </string-array>
 </resources>
