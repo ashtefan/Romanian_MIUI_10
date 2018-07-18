@@ -510,6 +510,7 @@ pentru a scoate în evidență chipul persoanei."</string>
     <string name="pref_front_mirror_entry_on">Pornit</string>
     <string name="pref_front_mirror_label_auto">Auto</string>
     <string name="pref_front_mirror_title">Oglindă cameră frontală</string>
+    <string name="pref_google_lens">Lentile Google</string>
     <string name="pref_groupshot_with_primitive_title">Salvați, de asemenea, și fotografiile originale</string>
     <string name="pref_manual_exposure_title">Timp expunere</string>
     <string name="pref_priority_storage_title">Salvaţi pe cardul SD</string>

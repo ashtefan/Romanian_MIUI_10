@@ -33,6 +33,12 @@
     <string name="abc_toolbar_collapse_description">Restrângeți</string>
     <string name="add_launch_hint_text">Adăugați o scurtătură la Ecranul principal</string>
     <string name="app_name">Caruselul Mi de ecrane de blocare</string>
+    <string name="app_self_upgrade_dlg_checkbox_ignore_version">Ignorați această versiune</string>
+    <string name="app_self_upgrade_dlg_content">Este disponibilă o nouă versiune a aplicației; actualizați imediat?</string>
+    <string name="app_self_upgrade_dlg_negative_btn">Amintește-mi mai târziu</string>
+    <string name="app_self_upgrade_dlg_postive_btn">Actualizează</string>
+    <string name="app_self_upgrade_dlg_title">Actualizare aplicație</string>
+    <string name="app_self_upgrade_toast_downloading_install">Pornește descărcarea și instalează noua versiune</string>
     <string name="apply">Aplicați</string>
     <string name="apply_to_above_all">Setați pentru ambele</string>
     <string name="apply_to_screenlock">Setați ca Blocare a ecranului</string>

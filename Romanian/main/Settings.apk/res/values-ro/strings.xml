@@ -4461,6 +4461,8 @@ Codul PIN poate fi incorect."</string>
     <string name="sound_settings_summary">Volum sonerie la %1$s</string>
     <string name="sound_settings_summary_silent">Sonerie în modul silențios</string>
     <string name="sound_settings_summary_vibrate">Sonerie în modul vibrație</string>
+    <string name="sound_stereo_mode_summary">Disponibil doar când redați muzica prin difuzor</string>
+    <string name="sound_stereo_mode_title">Sunet stereo</string>
     <string name="sound_vibrate_settings">Sunet şi vibrare</string>
     <string name="sound_work_settings">Sunete profil de servici</string>
     <string name="special_access">Aplicații cu acces special</string>
@@ -5073,6 +5075,7 @@ Amprentele salvate vor fi de asemenea eliminate din acest profil și nu veți ma
     <string name="unlock_set_unlock_summary">Setaţi o blocare pentru ecran</string>
     <string name="unlock_setup_wizard_fingerprint_details">Odată ce ați setat o metodă de blocare a ecranului, puteți seta și amprenta în Setări &gt; Securitate.</string>
     <string name="unmount_inform_text">Stocarea USB va fi demontată.</string>
+    <string name="unmute_sound_title">Reia redarea sunetelor</string>
     <string name="unrestrict_max_aspect_ratio_title">Aceste aplicații sunt optimizate pentru a rula în modul Ecran complet</string>
     <string name="unrestricted_app_summary">Permiteți accesul nerestricționat la date când Economisirea datelor este activă</string>
     <string name="unrestricted_app_title">Utilizare nerestricționată a datelor</string>

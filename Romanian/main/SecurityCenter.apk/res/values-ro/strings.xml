@@ -1482,7 +1482,7 @@ Această activitate scade durata de viață a acumulatorului."</string>
     <string name="power_btn_analyze">Analizare utilizare acumulator</string>
     <string name="power_cell">Semnal mobil</string>
     <string name="power_center_auto_shutdown">Planificare pornire/oprire</string>
-    <string name="power_center_back">Înapoi la Utilizarea acumulatorului</string>
+    <string name="power_center_back">Înapoi</string>
     <string name="power_center_charge_time">%1$s până la încărcarea completă</string>
     <string name="power_center_main_percent_formatted">%s%%</string>
     <string name="power_center_ontime_boot">Ora de pornire</string>
