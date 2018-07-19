@@ -241,8 +241,8 @@
     <string name="accessibility_settings">Setări</string>
     <string name="accessibility_settings_button">Setări de sistem.</string>
     <string name="accessibility_signal_full">Semnal complet.</string>
-    <string name="accessibility_splite_screen_primary">Adăugați aplicația principală la Ecran scindat</string>
-    <string name="accessibility_splite_screen_secondary">Adăugați aplicația secundară la Ecran scindat</string>
+    <string name="accessibility_splite_screen_primary">Adăugată ca aplicație principală la Ecran scindat</string>
+    <string name="accessibility_splite_screen_secondary">Adăugată ca aplicație secundară la Ecran scindat</string>
     <string name="accessibility_status_bar_headphones">Difuzoare conectate</string>
     <string name="accessibility_status_bar_headset">Căști conectate</string>
     <string name="accessibility_status_bar_hotspot">Hotspot</string>
@@ -1643,6 +1643,8 @@ Glisaţi în jos pentru a bloca"</string>
     <string name="structure_face_unlock_model_other_suggestion_2d">Recunoașterea facială 2D este mai puțin sigură decât un model de deblocare, un cod PIN sau o parolă. Cât timp această caracteristică este activată dispozitivul dvs. poate fi deblocat utilizând o fotografie a dvs., ca și de către persoane sau obiecte care seamănă cu dvs.</string>
     <string name="structure_face_unlock_model_other_suggestion_3d">"Recunoașterea facială 3D este relativ sigură. Este foarte puțin probabil ca telefonul să vă poată fi deblocat cu o fotografie a dvs. atât timp cât este activată această caracteristică. Totuși, acesta poate fi deblocat de persoane sau obiecte care vă seamănă."</string>
     <string name="structure_face_unlock_model_other_title">Recunoaștere facială</string>
+    <string name="structure_face_unlock_not_same_person">"Trebuie să urmați singur toți pașii. Nu schimbați locul cu altcineva."</string>
+    <string name="structure_face_unlock_really_person">"Se pare că v-ați înlocuit chipul cu un obiect."</string>
     <string name="switch_bar_off">Oprită</string>
     <string name="switch_bar_on">Pornită</string>
     <string name="system_ui_tuner">Tuner interfață de sistem</string>

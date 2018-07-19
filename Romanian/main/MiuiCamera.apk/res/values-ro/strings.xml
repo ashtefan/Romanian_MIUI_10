@@ -229,7 +229,7 @@ Curățați lentila pentru un efect îmbunătățit."</string>
     <string name="portrait_mode_depth_effect_success_hint">Adâncime de câmp</string>
     <string name="portrait_mode_lowlight_hint">"Este prea întuneric"</string>
     <string name="portrait_mode_too_close_hint">Îndepărtați-vă de obiect</string>
-    <string name="portrait_mode_too_far_hint">Plasați obiectul la cel mult 2,5 metri</string>
+    <string name="portrait_mode_too_far_hint">Plasați obiectul la cel mult 2 metri</string>
     <string name="portrait_mode_use_hint">"Modul Portret estompează fundalul
 pentru a scoate în evidență chipul persoanei."</string>
     <string name="pref_advance_settings">Setări adiţionale</string>

@@ -439,7 +439,7 @@ Sample Rate"</string>
     <string name="card_title_dialing">Se apelează</string>
     <string name="card_title_forwardcheckreceived">Verificare redirecționare recepționată</string>
     <string name="card_title_forwarded_MTcall">Apel primit redirecționat</string>
-    <string name="card_title_hanging_up">Se încheie apelul</string>
+    <string name="card_title_hanging_up">"Se încheie apelul "</string>
     <string name="card_title_in_call">În timpul apelului</string>
     <string name="card_title_incoming_barred">Apelurile primite sunt restricționate</string>
     <string name="card_title_incoming_call">Apel de intrare</string>

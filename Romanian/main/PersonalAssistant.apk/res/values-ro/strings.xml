@@ -238,7 +238,6 @@
     <string name="edit_category_dialog_title">Selectați categoria de plată</string>
     <string name="edit_comment_hint">Remarcă</string>
     <string name="edit_delete_dialog_message">Ștergeți această înregistrare?</string>
-    <string name="edit_record_category">"Categoria: "</string>
     <string name="edit_record_label">Detalii</string>
     <string name="empty_card_btn">Deschideți aplicația</string>
     <string name="empty_card_tip">"Se pare că nu sunteți conectat sau nu ați setat un card încă."</string>
@@ -785,13 +784,9 @@ Unele comenzi trimise prin SF Express de către vânzători din afara Taobao, Tm
     <string name="payment_record_add">Adăugați o plată</string>
     <string name="payment_record_delete">Ștergeți din plăți</string>
     <string name="payment_record_empty">Nicio plată încă</string>
-    <string name="payment_record_label">Detalii</string>
     <string name="payment_record_list">Detalii</string>
     <string name="payment_record_menu_delete">Ștergeți</string>
     <string name="payment_record_menu_select">Selectați</string>
-    <string name="payment_record_new_lable">Adăugați istoricul înregistrărilor</string>
-    <string name="payment_record_recent_title">Plăți recente</string>
-    <string name="payment_record_show_more">Vedeți mai multe</string>
     <string name="payment_report_failed_record_dialog_cancel">Renunțați</string>
     <string name="payment_report_failed_record_dialog_message">"Raportați facturile neprocesate pentru a ne ajuta să îmbunătățim precizia de calcul.
 "&lt;b&gt;Elementele pe care le partajați vor fi utilizate doar pentru a îmbunătăți Asistentul inteligent.&lt;/b&gt;</string>
