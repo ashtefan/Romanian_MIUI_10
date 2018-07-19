@@ -475,6 +475,9 @@ Sample Rate"</string>
     <string name="daltonizer_type_overridden">Suprascris de către %1$s</string>
     <string name="data_connection_no_internet">Neconectat la internet</string>
     <string name="data_saver">Economisire date</string>
+    <string name="data_saver_description">Pentru a ajuta la reducerea utilizării datelor, Economisirea Datelor previne trimiterea sau primirea datelor în fundal pentru unele aplicații. O aplicație pe care o utilizați în prezent poate accesa datele, dar o va face mai rar. Acest lucru poate însemna, de exemplu, că imaginile nu vor fi afișate decât atunci când le veți atinge.</string>
+    <string name="data_saver_enable_button">Activați</string>
+    <string name="data_saver_enable_title">Activați Economisirea datelor?</string>
     <string name="data_usage_disabled_dialog">Aţi atins limita specificată pentru utilizarea datelor.
     
 Dacă reactivaţi datele, puteţi fi taxat de către operator.</string>

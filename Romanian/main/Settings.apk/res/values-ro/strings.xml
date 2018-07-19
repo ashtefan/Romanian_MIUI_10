@@ -4515,6 +4515,7 @@ Acest lucru este posibil datorită unui certificat de încredere instalat pe dis
     <string name="status_bar_settings_notification_led_custom">Culoare personalizată</string>
     <string name="status_bar_settings_notification_priority">Prioritate</string>
     <string name="status_bar_settings_notification_priority_summary">Se afişează notificările la începutul listei</string>
+    <string name="status_bar_settings_notification_shade_shortcut">Scurtătură perdea de notificări</string>
     <string name="status_bar_settings_notification_sound">Sunet</string>
     <string name="status_bar_settings_notification_sound_custom">Sunet personalizat</string>
     <string name="status_bar_settings_notification_vibrate">Vibrare</string>

@@ -573,7 +573,7 @@ este oferit în principal de către Ultimate Inc."</string>
     <string name="local_page_artist_more">Mai multe melodii ale %s</string>
     <string name="local_page_custom_subtitle">Melodii noi în fiecare zi</string>
     <string name="local_page_custom_title">Pentru tine</string>
-    <string name="local_page_playlist">Listele mele de redare</string>
+    <string name="local_page_playlist">Liste de redare</string>
     <string name="local_page_song_all">Toate melodiile</string>
     <string name="local_page_song_download">Melodii din telefon</string>
     <string name="local_page_song_download_history">Descărcări</string>
@@ -644,6 +644,7 @@ este oferit în principal de către Ultimate Inc."</string>
     <string name="more">Mai multe</string>
     <string name="more_about_artist">Mai multe despre %s</string>
     <string name="more_add_song_list">Adăugați în lista de redare curentă</string>
+    <string name="more_milink">MI Link</string>
     <string name="more_online_artist">Mai multe</string>
     <string name="more_online_billboard">Mai multe</string>
     <string name="more_online_fm">Mai multe</string>
@@ -652,7 +653,7 @@ este oferit în principal de către Ultimate Inc."</string>
     <string name="more_online_song">Mai multe</string>
     <string name="more_online_suggest">Mai multe</string>
     <string name="more_settings">Setări avansate</string>
-    <string name="more_settings_summary">Setări pentru descărcări, temporizator, gestionare date mobile, filtrare fișiere, etc.</string>
+    <string name="more_settings_summary">Temporizator, filtrare fișiere, etc.</string>
     <string name="more_share">Partajați</string>
     <string name="multichoice">Selectaţi</string>
     <string name="music_browser_label">Muzică</string>
@@ -827,7 +828,7 @@ este oferit în principal de către Ultimate Inc."</string>
     <string name="radar_support_by">Oferit de ACRCloud</string>
     <string name="really_pay">Achitaţi acum?</string>
     <string name="recently_played">Redată recent</string>
-    <string name="recently_played_songs">Redate recent</string>
+    <string name="recently_played_songs">Recente</string>
     <string name="recognition_reverted_message">Coperta de album și versurile au fost șterse cu succes. Puteți face același lucru pentru toate melodiile din Setări.</string>
     <string name="recognition_reverted_title">Coperți de album și versuri</string>
     <string name="recognize_call">Optimizați</string>
@@ -874,6 +875,7 @@ este oferit în principal de către Ultimate Inc."</string>
     <string name="s7">Testați serviciul de Reclame</string>
     <string name="save">Salvați</string>
     <string name="save_to_playlist">Salvați ca listă de redare</string>
+    <string name="sdk_ver">1.0.7.11</string>
     <string name="search_album_and_lyric">Căutați coperți de albume și versuri</string>
     <string name="search_empty">"Nu s-a găsit nimic"</string>
     <string name="search_for_album">Album</string>
@@ -940,6 +942,7 @@ este oferit în principal de către Ultimate Inc."</string>
     <string name="shuffle_music">Amestecați lista de redare</string>
     <string name="shuffle_off_notif">Amestecare melodii dezactivată.</string>
     <string name="shuffle_on_notif">Amestecare melodii activată.</string>
+    <string name="silent_username_limit">50</string>
     <string name="similar_songs">Melodii similare</string>
     <string name="similar_videos">Videoclipuri similare</string>
     <string name="sleep_mode">Temporizator</string>

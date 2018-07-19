@@ -1413,6 +1413,10 @@ Notă: Doar pentru Ubuntu 8.04!"</item>
         <item>Permiteţi</item>
         <item>Refuzaţi</item>
     </string-array>
+    <string-array name="status_bar_settings_notification_shade_shortcut_entries">
+        <item>Căutați</item>
+        <item>Setări</item>
+    </string-array>
     <string-array name="timezone_filters">
         <item>America</item>
         <item>Europa</item>
