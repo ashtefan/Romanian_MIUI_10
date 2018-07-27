@@ -57,6 +57,7 @@
     <string name="audio_focus_exit_button_text">Închidere focusare audio</string>
     <string name="back_bokeh_use_hint">"Asigurați-vă că obiectul nu se află la mai mult de 1,5 metri."</string>
     <string name="beauty_fragment_tab_name_3d_beauty">Înfrumusețare</string>
+    <string name="beauty_fragment_tab_name_3d_makeup">Machiaj</string>
     <string name="beauty_fragment_tab_name_3d_remodeling">Remodelare</string>
     <string name="beauty_fragment_tab_name_beauty">Înfrumusețare</string>
     <string name="beauty_fragment_tab_name_makeup">Avansat</string>
@@ -117,13 +118,17 @@
     <string name="dual_camera_lowlight_toast">"Se pare că iluminarea este prea slabă".</string>
     <string name="dual_camera_too_close_toast">Camera este prea aproape de obiect.</string>
     <string name="dual_camera_use_hint">"Obiectul nu trebuie să fie mai departe de 2 metri"</string>
+    <string name="edit_blusher">Fardare</string>
     <string name="edit_chin">Bărbie</string>
     <string name="edit_eye_large">Ochi mari</string>
+    <string name="edit_eyebrow_dye">Sprăncene</string>
     <string name="edit_face_ruddy">Rumen</string>
     <string name="edit_face_slender">Subţire</string>
+    <string name="edit_jelly_lips">Luciu de buze</string>
     <string name="edit_lips">Buze</string>
     <string name="edit_neck">Gât</string>
     <string name="edit_nose">Nas</string>
+    <string name="edit_pupil_line">Tuș de ochi</string>
    <string name="edit_risorius">Risorius</string>
     <string name="edit_skin_smooth">Neted</string>
     <string name="edit_skin_white">Ton</string>

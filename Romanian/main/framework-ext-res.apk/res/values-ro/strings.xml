@@ -171,6 +171,11 @@
     <string name="twohours">1 oră</string>
     <string name="unknown_caller">Număr necunoscut</string>
     <string name="user_switching_dialog_text">Comutare…</string>
+    <string name="voice_begin">Ce anume căutați?</string>
+    <string name="voice_button_action_down">Eliberați pentru a căuta</string>
+    <string name="voice_button_action_up">Atingeți pentru a vorbi</string>
+    <string name="voice_input_error_network">"Nu s-a putut conecta la rețea. Verificați setările de rețea și încercați din nou."</string>
+    <string name="voice_input_error_other">A apărut o eroare. Așteptați un minut sau două și încercați din nou.</string>
     <string name="wifi_assistant_wifi_no_internet">Această rețea Wi-Fi nu are acces la internet</string>
     <string name="wifi_assistant_wifi_no_internet_detail">Atingeți pentru a vedea detalii</string>
     <string name="xspace_resolver_activity_title">Selectați aplicația</string>

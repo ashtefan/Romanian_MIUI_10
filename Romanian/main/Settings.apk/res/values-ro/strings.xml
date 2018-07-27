@@ -1031,7 +1031,6 @@ Această caracteristică poate fi dezactivată din [Setări]"</string>
     <string name="cancel_action">Anulaţi</string>
     <string name="cancel_alert">Renunțați la modificări?</string>
     <string name="cancel_button">Renunțați</string>
-    <string name="cancel_description">Renunțați</string>
     <string name="cancel_download_buton_text">Anulaţi</string>
     <string name="cant_sync_dialog_message">În prezent, sincronizarea pentru acest element este dezactivată. Pentru a schimba această setare, activaţi temporar datele de fundal şi sincronizarea automată.</string>
     <string name="cant_sync_dialog_title">Sincronizarea manuală nu este posibilă</string>
@@ -1172,7 +1171,6 @@ Această caracteristică poate fi dezactivată din [Setări]"</string>
     <string name="confirm_action">OK</string>
     <string name="confirm_bind_xiaomi_account_dialog_title">Adăugați</string>
     <string name="confirm_convert_to_fbe_warning">Sunteți sigur că doriți ștergerea datelor de utilizator și să convertiți la criptarea pe bază de fișier?</string>
-    <string name="confirm_description">Confirmați</string>
     <string name="confirm_download_cancelation_dialog_message">Anulaţi descărcarea?</string>
     <string name="confirm_enable_oem_unlock_text">ATENȚIE: Caracteristicile de protecție a dispozitivului nu vor funcționa pe acest dispozitiv atât timp cât această setare este activă.</string>
     <string name="confirm_enable_oem_unlock_title">Permiteți deblocarea OEM?</string>
@@ -2072,7 +2070,7 @@ Când activați crearea automată a copiei de rezervă, datele dispozitivului ș
     <string name="gesture_preference_title">Gesturi</string>
     <string name="gesture_setting_off">Oprit</string>
     <string name="gesture_setting_on">Pornit</string>
-    <string name="gesture_wakeup_title">Atingere dublă a ecranului pentru trezirea dispozitvului</string>
+    <string name="gesture_wakeup_title">Trezire dispozitiv la atingerea dublă a ecranului</string>
     <string name="getConfiguredNetworks">obțineți configurările de rețea</string>
     <string name="getConnectionInfo">obțineți informații despre conexiune</string>
     <string name="giga_hertz">GHz</string>
@@ -2102,7 +2100,7 @@ Când activați crearea automată a copiei de rezervă, datele dispozitivului ș
     <string name="handy_mode">Modul Operare cu o mână</string>
     <string name="handy_mode_enable">Mod Operare cu o mână</string>
     <string name="handy_mode_size">Dimensiune ecran</string>
-    <string name="handy_mode_tips">Glisați spre stânga sau spre dreapta de la butonul Home pentru a minimiza ecranul mai aproape de-o parte.</string>
+    <string name="handy_mode_tips">Glisați spre stânga sau spre dreapta de la butonul Acasă pentru a minimiza ecranul mai aproape de-o parte sau de alta.</string>
     <string name="haptic_feedback_enable_title">Vibrare la atingere</string>
     <string name="haptic_feedback_level">Intensitate vibrare</string>
     <string name="hardkeyboard_category">Setări pentru tastatura fizică</string>
@@ -2720,7 +2718,7 @@ Sunt alți utilizatori pe acest dispozitiv.
     <string name="media_button">Butonul media</string>
     <string name="media_category">Muzică și videoclipuri</string>
     <string name="media_feedback_enable_title">Vibrare cu ritm</string>
-    <string name="media_volume_option_title">Volumul pentru muzică și videoclipuri</string>
+    <string name="media_volume_option_title">Volum muzică și videoclipuri</string>
     <string name="media_volume_summary">Setaţi volumul pentru muzică şi videoclipuri</string>
     <string name="media_volume_title">Media</string>
     <string name="megabyteShort">MB</string>
@@ -2759,7 +2757,7 @@ Sunt alți utilizatori pe acest dispozitiv.
     <string name="memory_settings_title">Memorie</string>
     <string name="memory_size">Spaţiu total</string>
     <string name="memory_summary">În medie %1$s din %2$s memorie utilizată</string>
-    <string name="memory_system_rom">Stocare de sistem</string>
+    <string name="memory_system_rom">Spațiu de stocare pentru sistem</string>
     <string name="memory_system_space">Stocare de sistem</string>
     <string name="memory_title">Disponibil: %1$s\u0009\u0009Total: %2$s</string>
     <string name="memory_usage">Utilizare memorie</string>
@@ -2950,8 +2948,6 @@ Selectaţi sistemul de operare de mai jos:"</string>
     <string name="navigation_guide_app_title">"Declanșează acțiunea aplicației"</string>
     <string name="navigation_guide_appswitch_summary">Glisați spre stânga sau spre dreapta de la marginea ecranului și mențineți o perioadă</string>
     <string name="navigation_guide_appswitch_title">Comutați la aplicația anterioară</string>
-    <string name="navigation_guide_back_anim_summary">"Afișează animația când glisați de la marginea ecranului"</string>
-    <string name="navigation_guide_back_anim_title">Animați gestul \"Înapoi\"</string>
     <string name="navigation_guide_back_summary">Glisați spre stânga sau spre dreapta de la marginea ecranului</string>
     <string name="navigation_guide_back_title">Înapoi</string>
     <string name="navigation_guide_dialog_dont_show_again">"Nu arăta din nou"</string>
@@ -3325,7 +3321,7 @@ Acest lucru va permite aplicației să comute modul Nu deranjați și să modifi
     <string name="phone_language">Limba</string>
     <string name="phone_language_summary" />
     <string name="physical_keyboard_title">Tastatură fizică</string>
-    <string name="pick_up_gesture_wakeup_title">Ridică pentru a trezi</string>
+    <string name="pick_up_gesture_wakeup_title">Trezire la ridicarea dispozitivului</string>
     <string name="picture_color_mode">Mod culoare</string>
     <string name="picture_color_mode_desc">Utilizați sRGB</string>
     <string name="picture_in_picture_app_detail_summary">"Permite acestei aplicații să creeze o fereastră imagine-în-imagine cât timp aplicația este activă sau după ce o părăsiți(de exemplu, pentru a continua să vizualizați un videoclip). Această fereastră va fi afișată peste alte aplicații "</string>
@@ -3338,6 +3334,7 @@ Acest lucru va permite aplicației să comute modul Nu deranjați și să modifi
     <string name="picture_in_picture_title">Imagine-în-imagine</string>
     <string name="pin_failed">Codul PIN este incorect!</string>
     <string name="ping_test_label">Desfăşuraţi test de comandă ping</string>
+    <string name="play_pause_description">Buton Redare/Pauză</string>
     <string name="please_select_phase2">Autentificare faza 2</string>
     <string name="please_type_passphrase">Parola</string>
     <string name="pointer_location">Locaţia indicatorului</string>
@@ -3389,7 +3386,7 @@ Acest lucru va permite aplicației să comute modul Nu deranjați și să modifi
     <string name="pre_installed_application">Aplicații preinstalate</string>
     <string name="pref_bg_network_title">Conectare în fundal</string>
     <string name="pref_button_light">Iluminare butoane</string>
-    <string name="pref_button_light_summary">Iluminarea butoanelor Meniu, %1$s şi Înapoi</string>
+    <string name="pref_button_light_summary">Iluminarea butoanelor Meniu %1$s şi Înapoi</string>
     <string name="pref_button_light_summary_sub">Acasă</string>
     <string name="pref_edge_handgrip">Controale la margini</string>
     <string name="pref_key_tethering_setting">Limită singulară de date</string>
@@ -4349,7 +4346,7 @@ Notă: Nu puteți utiliza amprenta pentru a debloca acest dispozitiv. Pentru mai
     <string name="silent_duration">Durată</string>
     <string name="silent_mode">Modul Silențios</string>
     <string name="silent_mode_title">Modul Silenţios</string>
-    <string name="silent_off">Dezactivați</string>
+    <string name="silent_off">Dezactivat</string>
     <string name="silent_settings">Silențios/Nu deranjați</string>
     <string name="silent_standard">Silențios</string>
     <string name="silent_time">Durată mod Silențios</string>
@@ -4515,7 +4512,7 @@ Acest lucru este posibil datorită unui certificat de încredere instalat pe dis
     <string name="status_bar_settings_notification_led_custom">Culoare personalizată</string>
     <string name="status_bar_settings_notification_priority">Prioritate</string>
     <string name="status_bar_settings_notification_priority_summary">Se afişează notificările la începutul listei</string>
-    <string name="status_bar_settings_notification_shade_shortcut">Scurtătură perdea de notificări</string>
+    <string name="status_bar_settings_notification_shade_shortcut">Scurtătură în perdeaua de notificări</string>
     <string name="status_bar_settings_notification_sound">Sunet</string>
     <string name="status_bar_settings_notification_sound_custom">Sunet personalizat</string>
     <string name="status_bar_settings_notification_vibrate">Vibrare</string>
@@ -4619,7 +4616,7 @@ Mutați fișierele multimedia pe alte medii de stocare de pe dispozitiv, sau tra
 
 "&lt;b&gt;Faceți o copie de rezervă pentru aplicații&lt;/b&gt;" 
 Toate aplicațiile stocate pe acest ^1 vor fi dezinstalate iar datele lor vor fi eliminate. Pentru a păstra aceste aplicații, mutați-le pe un mediu de stocare alternativ de pe dispozitiv."</string>
-    <string name="storage_internal_title">Stocare non-sistem</string>
+    <string name="storage_internal_title">Spațiu de stocare non-sistem</string>
     <string name="storage_internal_unmount_details">&lt;b&gt;Când veți scoate acest ^1, aplicațiile stocate pe acesta se vor opri, iar fișierele multimedia stocate pe acesta nu vor fi disponibile până când nu îl veți reintroduce.&lt;/b&gt;" 
 
 Acest ^1 este formatat pentru a funcționa doar pe acest dispozitiv. Nu v&amp;#8217;a funcționa pe alte dispozitive."</string>
@@ -4898,8 +4895,8 @@ O abordare Google asupra sincronizării datelor, care vă permite accesul la age
     <string name="toast_lockscreen_glogin_empty_password">Introduceţi parola</string>
     <string name="toast_need_login">Conectaţi-vă la contul dvs. Mi</string>
     <string name="total">Nu deranjați</string>
-    <string name="total_info">Redu la tăcere sunetele %1$s, exceptând alarma</string>
-    <string name="total_info_sub">și dezactivează vibrațiile</string>
+    <string name="total_info">Redu la tăcere sunetele și dezactivează vibrațiile, cu excepția alarmei</string>
+    <string name="total_info_no_vibrator">Redu la tăcere sunetele, cu excepția alarmei</string>
     <string name="total_memory">Memorie în total</string>
     <string name="total_size">%s (Total)</string>
     <string name="total_size_label">Total</string>

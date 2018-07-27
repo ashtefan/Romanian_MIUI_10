@@ -40,6 +40,8 @@
     <string name="delete_frequent_phrases_confirm">Ștergeți expresiile frecvente selectate?</string>
     <string name="device_hongmi">Redmi</string>
     <string name="device_pad">Mi Pad</string>
+    <string name="device_poco_global">POCOPHONE</string>
+    <string name="device_poco_india">TELEFON POCO</string>
     <string name="device_xiaomi">Telefon Mi</string>
     <string name="echo">Ecou</string>
   <string name="edit_frequent_phrases">Editați expresiile frecvente</string>

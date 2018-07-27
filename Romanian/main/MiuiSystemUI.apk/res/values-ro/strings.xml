@@ -160,6 +160,7 @@
     <string name="accessibility_quick_settings_airplane_off">Mod Avion oprit.</string>
     <string name="accessibility_quick_settings_airplane_on">Mod Avion pornit.</string>
     <string name="accessibility_quick_settings_alarm">Alarmă setată pentru %s.</string>
+    <string name="accessibility_quick_settings_alarm_on">Alarmă activată.</string>
     <string name="accessibility_quick_settings_alarm_set">Alarmă setată.</string>
     <string name="accessibility_quick_settings_battery">Acumulator %s.</string>
     <string name="accessibility_quick_settings_bluetooth">Bluetooth.</string>
@@ -167,6 +168,7 @@
     <string name="accessibility_quick_settings_bluetooth_changed_on">Bluetooth activat.</string>
     <string name="accessibility_quick_settings_bluetooth_connected">Bluetooth conectat.</string>
     <string name="accessibility_quick_settings_bluetooth_connecting">Se conectează Bluetooth-ul.</string>
+    <string name="accessibility_quick_settings_bluetooth_handsfree_battery_level">Nivelul de energie al acumulatorului pentru dispozitivul Bluetooth este de %d.</string>
     <string name="accessibility_quick_settings_bluetooth_off">Bluetooth oprit.</string>
     <string name="accessibility_quick_settings_bluetooth_on">Bluetooth pornit.</string>
     <string name="accessibility_quick_settings_close">Închideți panoul.</string>
@@ -547,7 +549,7 @@ Dacă reactivaţi datele, puteţi fi taxat de către operator.</string>
     <string name="dock_forced_resizable">Este posibil ca aplicația să nu funcționeze in modul ecran scindat.</string>
     <string name="dock_keyguard_locked_failed_to_dock_text">"Modul ecran scindat nu este suportat în Blocarea ecranului."</string>
     <string name="dock_non_resizeble_failed_to_dock_text">"Aplicația nu suportă modul ecran scindat"</string>
-    <string name="drag_to_add_tiles">tTageți pentru a adăuga file</string>
+    <string name="drag_to_add_tiles">Trageți pentru a adăuga file</string>
     <string name="drag_to_remove_tiles">Trageți aici pentru a elimina</string>
     <string name="drive_mode_tip">Modul Automobil activat</string>
     <string name="drive_mode_tip_idle">Modul Automobil este activat</string>
@@ -833,8 +835,7 @@ Utilizați doar încărcătorul furnizat de producător."</string>
     <string name="keyguard_indication_charging_time_slowly">Se încarcă lent(%s până la încărcarea completă)</string>
     <string name="keyguard_indication_trust_disabled">Telefonul va rămâne blocat până la deblocarea manuală</string>
     <string name="keyguard_instructions_when_pattern_disabled">Atingeți butonul Meniu pentru a-l debloca.</string>
-    <string name="keyguard_left_bankcard">Calculator</string>
-    <string name="keyguard_left_buscard">Notițe</string>
+    <string name="keyguard_left_mi_wallet">Portofel Mi</string>
     <string name="keyguard_left_remotecentral">Calendar</string>
     <string name="keyguard_left_smarthome">Contacte</string>
     <string name="keyguard_left_view_lock_wallpaper">Muzică</string>
@@ -1036,7 +1037,7 @@ Utilizați doar încărcătorul furnizat de producător."</string>
     <string name="miui_guide_dialog_message">Sunetele multimedia (muzică, videoclipuri, etc.) vor fi redate în continuare în modul Silențios. Puteți modifica acest lucru din Setări.</string>
     <string name="miui_keyguard_ble_unlock_succeed_msg">Deblocat de către un dispozitiv Bluetooth</string>
     <string name="miui_ringer_count_down">Numărătoare inversă</string>
-    <string name="miui_ringer_count_down_time">Numărătoare inversă: %s</string>
+    <string name="miui_ringer_count_down_time">%s</string>
     <string name="miui_ringer_standard">Silențios</string>
     <string name="miui_ringer_standard_description">Redu la tăcere sunetele de apel pentru apelurile primite și pentru notificări</string>
     <string name="miui_ringer_total">Nu deranjați</string>

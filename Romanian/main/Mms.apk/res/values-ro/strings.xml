@@ -364,11 +364,18 @@
     <string name="no_subject_view">(Niciun subiect)</string>
     <string name="non_english_subject_limit">Limită: 13 caractere</string>
     <string name="nosend_message">"Nu trimiteţi"</string>
-    <string name="notification_channel_description">Notificări de la Mesagerie</string>
-    <string name="notification_channel_name">Mesagerie</string>
+    <string name="notification_channel_msg_description">Notificări de la Mesagerie</string>
+    <string name="notification_channel_msg_name">Mesagerie</string>
+    <string name="notification_channel_other_description">Notificare extra-mesaj</string>
+    <string name="notification_channel_other_name">Altele</string>
+    <string name="notification_channel_sim1_description">Notificări mesaje SIM 1</string>
+    <string name="notification_channel_sim1_name">Mesaje SIM 1</string>
+    <string name="notification_channel_sim2_description">Notificare mesaje SIM 2</string>
+    <string name="notification_channel_sim2_name">Mesaje SIM 2</string>
     <string name="notification_copy">Copiați OTP</string>
     <string name="notification_failed_multiple">"%s mesaje nu au putut fi trimise"</string>
     <string name="notification_failed_multiple_title">Mesajele nu au fost trimise</string>
+    <string name="notification_group_name">Mesagerie</string>
     <string name="notification_multiple">[%s]</string>
     <string name="notification_multiple_title">Mesaje noi</string>
     <string name="number_add_hint">Introduceţi numărul de telefon</string>
@@ -659,6 +666,7 @@
     <string name="unstick">Anulați fixarea</string>
     <string name="unstick_conversation">Anulați fixarea conversaţiei actuale</string>
     <string name="unsticked_conversation">Conversație eliberată deja</string>
+    <string name="unsubscribe">Dezabonați-vă</string>
     <string name="unsupported_media_format">Format %1$s neacceptat.</string>
     <string name="url_fraud_dangerous_alert">"Site-ul pe care încercați să-l accesați poate fi periculos. Poate fi dăunător telefonului dar și siguranței datelor personale. SUNTEȚI SIGUR CĂ MERGEȚI MAI DEPARTE? 
 %s"</string>

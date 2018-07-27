@@ -1222,9 +1222,9 @@ pentru a personaliza Galeria"</string>
     <string name="video_editor_smart_effect_radical">Optimist</string>
     <string name="video_editor_smart_effect_rhythm">Puls</string>
     <string name="video_editor_smart_effect_street">Metropolă</string>
-    <string name="video_editor_smart_effect_time_limit_txt_40">Puteți aplica acest efect videoclipurilor de până la 40 de secunde.</string>
+    <string name="video_editor_smart_effect_time_limit_txt_40">Puteți aplica acest efect videoclipurilor de până la 40 de secunde. Lungimea a fost ajustată în mod automat.</string>
     <string name="video_editor_smart_effect_time_limit_txt_6">Puteți aplica acest efect videoclipurilor de minim 6 secunde.</string>
-    <string name="video_editor_smart_effect_time_limit_txt_60">Puteți aplica acest efect videoclipurilor de până la 60 de secunde.</string>
+    <string name="video_editor_smart_effect_time_limit_txt_60">Puteți aplica acest efect videoclipurilor de până la 60 de secunde. Lungimea a fost ajustată în mod automat.</string>
     <string name="video_editor_template_family">Familie</string>
     <string name="video_editor_template_forbidden_tips">"Nu se poate face asta când se utilizează un șablon"</string>
     <string name="video_editor_template_oldfilm">Vintage</string>
@@ -1244,7 +1244,7 @@ pentru a personaliza Galeria"</string>
     <string name="video_editor_unsupport_audio_file">Fișier audio nesuportat</string>
     <string name="video_editor_unzip_file_fail">"Nu s-a putut decoda videoclipul."</string>
     <string name="video_editor_video_is_short">"Nu se poate edita acest videoclip."</string>
-    <string name="video_editor_video_loading">Se pregătește videoclipul; așteptați o secundă sau două și reîncercați.</string>
+    <string name="video_editor_video_loading">Se pregătește videoclipul… Așteptați o secundă sau două și reîncercați.</string>
     <string name="video_editor_watermark">Filigran</string>
     <string name="video_err">"Imposibil de redat videoclipul"</string>
     <string name="video_not_exist">"Videoclip inexistent"</string>

@@ -32,7 +32,7 @@
     <string name="config_restrict_running_description">Aplicațiile vor fi închise pentru a economisi acumulatorul</string>
     <string name="config_restrict_running_title">Restricționați activitățile din fundal</string>
     <string name="config_restrict_running_warning">Aplicațiile vor fi închise în fundal. Acest lucru ar putea face ca aplicațiile să nu funcționeze în mod corespunzător</string>
-    <string name="config_scenario_policies_title">Scene</string>
+    <string name="config_scenario_policies_title">Scenarii</string>
     <string name="config_suggest_description">"Identificați aplicațiile și activitățile pentru a se păstra în funcțiune procesele importante.
 Economisirea acumulatorului va trata selectiv aplicațiile importante."</string>
     <string name="config_suggest_suffix_title">Economisire acumulator (recomandat)</string>
@@ -87,7 +87,7 @@ Economisirea acumulatorului va trata selectiv aplicațiile importante."</string>
     <string name="operation_create_group">Nume</string>
     <string name="operation_create_group_message">Introduceți numele noului grup</string>
     <string name="performance_category">Performanță</string>
-    <string name="power_center">Pornire?</string>
+    <string name="power_center">Energie</string>
     <string name="power_checker_background_cpu_multi_apps_title">%1$s rulează anormal</string>
     <string name="power_checker_background_cpu_title">%1$s rulează anormal</string>
     <string name="power_checker_background_gps_multi_apps_title">%1$s utilizează frecvent localizarea</string>
@@ -196,7 +196,7 @@ Economisirea acumulatorului va trata selectiv aplicațiile importante."</string>
     <string name="show_system_app">Arată aplicațiile de sistem</string>
     <string name="sleep_config_enhance_description">"De câte ori MIUI detectează că dormiți,va închide aplicațiile din fundal, va restricționa NFC-ul, Bluetooth-ul, GPS-ul, datele mobile și utilizarea Wi-Fi și nu va trezi ecranul pentru notificări.</string>
     <string name="sleep_config_enhance_description_non_nfc">"De fiecare dată când MIUI detectează că dormiți, va închide aplicațiile din fundal, va restricționa utilizarea Bluetooth-ului, a GPS-ului, datele mobile și utilizarea Wi-Fi și nu va trezi ecranul pentru notificări."</string>
-    <string name="sleep_config_enhance_title">Mod Sleep</string>
+    <string name="sleep_config_enhance_title">Mod Somn</string>
     <string name="still">Imagine</string>
     <string name="sucess">Finalizat</string>
     <string name="ui">Standard</string>

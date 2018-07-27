@@ -3,6 +3,8 @@
     <string name="accessibility_enabled">Accesibilitate activată.</string>
     <string name="agree">De acord</string>
     <string name="agree_terms">"Am citit și sunt de acord cu Termenii Serviciului și Politica de Confidențialitate."</string>
+    <string name="agree_terms_input_method_facemoji">"Am citit și sunt de acord cu Politica de Confidențialitate Facemoji."</string>
+    <string name="agree_terms_input_method_kika">"Am citit și sunt de acord cu Politica de Confidențialitate Kika."</string>
     <string name="app_name">Provision</string>
     <string name="application_permissions">Permisiunile aplicației</string>
     <string name="back">Înapoi</string>
@@ -12,7 +14,7 @@
     <string name="congratulation_swipe">Glisați în sus pentru a accesa sistemul</string>
     <string name="congratulation_title">Configurare finalizată</string>
     <string name="content_description_complete">Finalizat</string>
-    <string name="content_description_miui_version">MIUI 9</string>
+    <string name="content_description_miui_version">MIUI 10</string>
     <string name="content_description_start">Start</string>
     <string name="continue_to_enable_accessibility">Mențineți două degete glisat în jos pentru a activa accesibilitatea.</string>
     <string name="desc_extra_fingerprint"/>
@@ -84,9 +86,19 @@ Trebuie să acceptați Condiţiile de utilizare și Politica de confidențialita
     <string name="terms_of_use_label_gms">"Confidențialitatea este foarte importantă pentru noi. Citiți Termenii Serviciului și Politica de Confidențialitate pentru a înțelege ce informații colectăm, cum le folosim și ce opțiuni aveți la îndemână.
 
 Trebuie să acceptați Termenii Serviciului și Politica de Confidențialitate înainte de a utiliza MIUI. Serviciile Mi, Serviciile Mi de activare a cartelei SIM, Mi Cloud, Localizarea dispozitivului, Ecranul Acasă, Centrul de jocuri, componentele de sistem MAB ,MiuiDaemon și MSA, aplicațiile web, Asistentul inteligent, statisticile, smart cards, Mi Link, contul Mi și componentele serviciilor Google Play se vor conecta la internet și vă vor obține locația."</string>
+    <string name="terms_of_use_label_systemhelper">Serviciu cu înregistrare proprie</string>
+    <string name="terms_of_use_lable_default_input_method_facemoji">"
+
+Trebuie să acceptați Politica de Confidențialitate Facemoji înainte de a utiliza această caracteristică."</string>
+    <string name="terms_of_use_lable_default_input_method_kika">"
+
+Trebuie să acceptați Politica de Confidențialitate Kika înainte de a utiliza această caracteristică."</string>
+    <string name="terms_privacy_policy_input_method_facemoji">Politica de Confidențialitate Facemoji</string>
+    <string name="terms_privacy_policy_input_method_kika">Politica de Confidențialitate Kika</string>
     <string name="title_fingerprint">Setați parola</string>
     <string name="user_agreement">Termenii serviciului</string>
     <string name="voice_assist_desp">Rostiți \"Mi AI\" în telefon. Asistentul vocal Mi vă va recunoaște vocea și va putea controla telefonul.</string>
+    <string name="voice_assist_desp_screen_light">După ce ecranul se deschide, rostiți \"Mi AI\" în telefon. Mi AI vă va recunoaște vocea și veți putea controla telefonul.</string>
     <string name="voice_assist_title">Trezire prin voce</string>
     <string name="welcome">Bine aţi venit</string>
 </resources>

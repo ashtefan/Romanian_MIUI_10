@@ -86,7 +86,9 @@
     <string name="conference_caller_info_name">"Apelul în conferință al %1$s"</string>
     <string name="conference_callers_exceeded">"Nu se mai pot adăuga persoane"</string>
     <string name="contacts_icon_label">Contacte</string>
-    <string name="default_area_code_setting">Codul zonal implicit</string>
+    <string name="crbt_second_hold_prompt">%s este în așteptare…</string>
+    <string name="crbt_second_hold_prompt_conference">Apelul în Conferință este în așteptare…</string>
+    <string name="crbt_second_hold_prompt_no_name">Apelul anterior este în așteptare…</string>
     <string name="description_image_button_answer">Răspundeți</string>
     <string name="description_image_button_dialpad">Taste numerice</string>
     <string name="description_image_button_eight">opt</string>
@@ -201,6 +203,7 @@
     <string name="payphone">Telefon public</string>
     <string name="picking_participant">Se obțin informațiile despre contact…</string>
     <string name="private_num">Număr privat</string>
+    <string name="prompt_no_volte_when_failed">"Nu se pot efectua apeluri. Asigurați-vă că telefonul este conectat la o rețea 4G ce suportă VoLTE.​"</string>
     <string name="remind_unlock_message">Telefonul dumneavoastră este blocat acum. \"%s\" va fi disponibilă după ce veți debloca telefonul. Îl deblocați acum?</string>
     <string name="respond_via_sms_custom_message">Mesaj personalizat</string>
     <string name="select_audio_dialog_title">Selectați modul de răspuns</string>
@@ -216,7 +219,7 @@
     <string name="upgrade_vt_prompt">Doriți să treceţi la apel video?</string>
     <string name="user_locked_prompt">Deblocați telefonul pentru a accesa agenda.</string>
     <string name="video_conference_caller_info_name">"Apel videoconferință al lui %1$s"</string>
-    <string name="video_crbt_title">%s culoare ton apel înapoi</string>
+    <string name="video_crbt_title">"Se redă videoclipul de apel al apelantului"</string>
     <string name="voicemail">Căsuța vocală</string>
     <string name="wait_prompt_str">"Trimiteţi următoarele tonuri?
 "</string>
