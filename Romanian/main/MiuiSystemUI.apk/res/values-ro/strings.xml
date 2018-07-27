@@ -1037,7 +1037,6 @@ Utilizați doar încărcătorul furnizat de producător."</string>
     <string name="miui_guide_dialog_message">Sunetele multimedia (muzică, videoclipuri, etc.) vor fi redate în continuare în modul Silențios. Puteți modifica acest lucru din Setări.</string>
     <string name="miui_keyguard_ble_unlock_succeed_msg">Deblocat de către un dispozitiv Bluetooth</string>
     <string name="miui_ringer_count_down">Numărătoare inversă</string>
-    <string name="miui_ringer_count_down_time">%s</string>
     <string name="miui_ringer_standard">Silențios</string>
     <string name="miui_ringer_standard_description">Redu la tăcere sunetele de apel pentru apelurile primite și pentru notificări</string>
     <string name="miui_ringer_total">Nu deranjați</string>

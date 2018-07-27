@@ -125,7 +125,6 @@
     <string name="note_sort_way">Selectați modul de sortare a notițelor</string>
     <string name="notealert_enter">Vizualizaţi nota</string>
     <string name="notealert_ok">Renunțaţi</string>
-    <string name="notelist_string_info">…</string>
     <string name="notify_alarm_title">Memento notă</string>
     <string name="permdesc_accessNote">Aplicațiile rău intenționate pot utiliza aceasta pentru a accesa informaţiile personale.</string>
     <string name="permlab_accessNote">Accesare note</string>

@@ -163,7 +163,6 @@
     <string name="extra_ad_title">V-ar putea place și</string>
     <string name="extract_file">Extragere fişier…</string>
     <string name="fastest_speed">Viteza maximă</string>
-    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="file_exist_hint">Acest fișier există deja</string>
     <string name="file_picker">Selectaţi o locaţie</string>
     <string name="file_size">Dimensiune:</string>
