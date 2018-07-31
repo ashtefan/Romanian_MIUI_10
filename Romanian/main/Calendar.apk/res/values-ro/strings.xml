@@ -85,6 +85,7 @@
   <string name="check_reminded_text">Vezi memento-uri</string>
   <string name="chinese_leap">Intercalare</string>
   <string name="chongsha">Fantome</string>
+    <string name="close_alarm">Dezactivați</string>
     <string name="copy_email">Copiaţi adresa de e-mail</string>
     <string name="copy_number">Copiaţi numărul de telefon</string>
     <string name="countdown_event_title">Numărătoare inversă: %1$s</string>
@@ -231,6 +232,7 @@
     <string name="global_football_final">FINAL</string>
     <string name="global_football_no_match">Niciun meci de fotbal programat pentru astăzi.</string>
     <string name="global_onthisday_com">OnThisDay.com</string>
+    <string name="guide_card_close">închideți</string>
     <string name="guide_card_import">Importați</string>
     <string name="guide_card_primary_text">"Importați datele de naștere ale prietenilor"</string>
     <string name="guide_card_second_text">Nu omiteți niciodată zilele importante</string>
@@ -297,6 +299,7 @@
     <string name="loading">Doar o secundă…</string>
     <string name="local_calendar_display_name">Calendar local</string>
     <string name="local_owner_account_name">Salvat pe telefon</string>
+    <string name="login_failed_toast">"Nu s-a putut conecta, reîncărcați și încercați din nou"</string>
     <string name="lunar_date">Dată lunară</string>
     <string name="lunar_day"/>
     <string name="lunar_to_solar"/>
@@ -506,6 +509,7 @@ Puteți adăuga, de asemenea, memento-uri pentru a nu rata nimic important."</st
     <string name="tab_title_week">Săptămână</string>
   <string name="taishen">Copil al lui Dumnezeu</string>
     <string name="talk_back_read_date">Data curentă: %1$s (%2$s conform calendarului lunar).</string>
+    <string name="talk_back_setting">setare</string>
     <string name="template_announce_item_index">Evenimentul %1$s din %2$s.</string>
     <string name="template_week_num">Săpt. %1$s</string>
   <string name="text_year">An</string>

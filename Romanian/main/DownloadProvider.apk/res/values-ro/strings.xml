@@ -7,6 +7,10 @@
     <string name="button_queue_for_wifi">Listă de aşteptare</string>
     <string name="button_start_now">Începeţi acum</string>
     <string name="button_wait_for_wifi">Aşteptaţi</string>
+    <string name="channel_active">Descărcare activă</string>
+    <string name="channel_complete">Descărcare finalizată</string>
+    <string name="channel_insufficient_space">Spațiu insuficient</string>
+    <string name="channel_waiting">Descărcare în așteptare</string>
     <string name="dialog_button_cancel">Renunțați</string>
     <string name="dialog_button_ok">OK</string>
     <string name="dialog_content_limit0">Restricționați descărcările</string>

@@ -737,6 +737,7 @@ Odată ce se va răci îndeajuns, va rula în mod normal."</string>
     <string name="incorrect_pukcode">Cod PUK incorect</string>
     <string name="input_password_after_boot_msg">Introduceți parola pentru a debloca telefonul</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_calling">"Nu se poate comuta între cele două spații în timpul unui apel"</string>
+    <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">"Nu se poate comuta între cele două spații când controlul parental este activ"</string>
     <string name="input_password_after_boot_msg_must_enter_owner_space">Trebuie să accesați Spațiul principal după repornirea telefonului</string>
     <string name="input_password_handle_sdcard_fs">"Nu se poate accesa Spațiul Secundar din Blocarea ecranului. Accesați-l din Spațiul Principal."</string>
     <string name="input_password_hint_text">Introduceți parola</string>
