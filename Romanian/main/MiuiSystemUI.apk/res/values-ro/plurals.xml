@@ -73,8 +73,8 @@
         <item quantity="one">Cartela SIM este acum dezactivată. Introduceți codul PUK pentru a continua. Mai aveți %d încercare rămasă până când cartela SIM va deveni permanent inutilizabilă. Contactați operatorul pentru detalii.</item>
     </plurals>
     <plurals name="kg_password_wrong_pin_code">
-        <item quantity="other">Cod PIN incorect, mai aveți %d încercări rămase.</item>
-        <item quantity="one">Cod PIN incorect, mai aveți %d încercare rămasă până când va trebui să contactați operatorul pentru deblocarea telefonului.</item>
+        <item quantity="other">Cod PIN incorect. Mai aveți %d încercări rămase.</item>
+        <item quantity="one">Cod PIN incorect. Mai aveți %d încercare rămasă până când va trebui să contactați operatorul pentru deblocarea telefonului.</item>
     </plurals>
     <plurals name="kg_password_wrong_puk_code">
         <item quantity="other">Cod PUK incorect, mai aveți %d încercări rămase până când cartela SIM va deveni permanent inutilizabilă.</item>
