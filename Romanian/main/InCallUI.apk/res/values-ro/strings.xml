@@ -211,6 +211,8 @@
     <string name="select_sim_hint">"Nu se poate utiliza cartela SIM %2$d, în timp ce SIM %1$d este în uz."</string>
     <string name="select_voice_call_sim">Selectaţi cartela SIM</string>
     <string name="separate_from_conference">Separaţi apelul</string>
+    <string name="sim1_description">SIM 1</string>
+    <string name="sim2_description">SIM 2</string>
     <string name="sip_call_not_support_record">"Nu se pot înregistra apelurile SIP"</string>
     <string name="suspect_info">Fiți atenți cui furnizați datele personale.</string>
     <string name="time_left_livetalk">(%ds)</string>

@@ -3,7 +3,7 @@
     <string name="about_hide_mode">Despre Economisirea acumulatorului</string>
     <string name="action_bar_delete">Ştergeţi</string>
     <string name="action_settings">Setări</string>
-    <string name="active_classify">clasifică după starea activității</string>
+    <string name="active_classify">Sortați după starea activității</string>
     <string name="activity_title_poweranalyze">Testare acumulator</string>
     <string name="activity_title_powerconfigure">Setări acumulator</string>
     <string name="activity_title_poweroptimize">Economisire acumulator</string>
@@ -15,7 +15,7 @@
     <string name="alter_message_delete">Ştergeţi?</string>
     <string name="alter_message_switch_mode">Comutaţi modurile?</string>
     <string name="alter_message_switch_mode_message">Când comutați modurile, setările anterioare nu se vor mai regăsi la această aplicație.</string>
-    <string name="appconfig_active_app_dialog_title">Gestionare configurare aplicații active</string>
+    <string name="appconfig_active_app_dialog_title">Gestionați aplicațiile active</string>
     <string name="app_invisible_title">Aplicații invizibile</string>
     <string name="app_list_title">Selectați aplicațiile</string>
     <string name="app_name">Acumulator și performanță</string>
@@ -25,7 +25,7 @@
     <string name="cloud_china_addr">Actualizați datele serverului din China</string>
     <string name="cloud_international_addr">Actualizați datele serverului internațional</string>
     <string name="cloud_staging_addr">Actualizați datele serverului de staționare</string>
-    <string name="config_classify">clasifică după configurare</string>
+    <string name="config_classify">Sortați după setările aplicației</string>
     <string name="config_description">"MIUI poate identifica aplicațiile cu procese specifice de fundal(de ex. aplicațiile de navigare și cele de mesagerie, media playere, etc.), și să aplice economisirea acumulatorului fără a le afecta activitățile importante din fundal."</string>
     <string name="config_mode_title">Setări pentru activitățile din fundal</string>
     <string name="config_no_restrict_description">"Economisirea acumulatorului nu restricționează activitățile aplicației"</string>

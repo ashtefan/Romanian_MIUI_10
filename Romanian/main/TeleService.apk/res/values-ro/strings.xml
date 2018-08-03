@@ -567,7 +567,7 @@ Sample Rate"</string>
     <string name="daltonizer_type_overridden">Suprascris de către %1$s</string>
     <string name="data_enable_summary">Activaţi accesul de date prin reţeaua mobilă</string>
     <string name="data_enabled">Date mobile</string>
-    <string name="data_plan">planuri de date mobile</string>
+    <string name="data_plan">Planuri de date mobile</string>
     <string name="data_usage_uninstalled_apps">Aplicații eliminate</string>
     <string name="data_usage_uninstalled_apps_users">Aplicații și utilizatori eliminați</string>
     <string name="dc_alert_dialog_message">Unele aplicații necesită o conexiune de date mobile. Puteți contacta operatorul pentru a afla ce %s sunt disponibile pentru dumneavoastră.</string>

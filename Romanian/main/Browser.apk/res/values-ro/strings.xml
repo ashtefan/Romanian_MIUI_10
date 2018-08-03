@@ -1034,10 +1034,10 @@ Rețineți că fișierele pe care le descărcați și marcajele vor fi totuși s
     <string name="same_folder_name_warning">Un grup cu același nume există deja</string>
     <string name="save_button_text">Salvaţi</string>
     <string name="save_dialog_title">Salvaţi</string>
-    <string name="save_file">Salvați</string>
+    <string name="save_file">"Salvați "</string>
     <string name="save_file_already_exist_alert_message">Un fișier cu același nume există deja, îl înlocuiţi?</string>
     <string name="save_file_already_exist_alert_title">Înlocuiți fișierul?</string>
-    <string name="save_file_suffix">fișier</string>
+    <string name="save_file_suffix">" fișierul"</string>
     <string name="save_form_data_confirm_message">Oprirea acestei caracteristici poate afecta modul de funcționare al telefonului.</string>
     <string name="save_image_failed">"Imposibil de salvat imaginea"</string>
     <string name="save_image_success">Imagine salvată</string>

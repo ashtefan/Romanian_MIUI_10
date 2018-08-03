@@ -3093,7 +3093,7 @@ Selectaţi sistemul de operare de mai jos:"</string>
     <string name="notification_channel_badge_title">Arată punctul de notificare</string>
     <string name="notification_channel_sound_title">Sunet</string>
     <string name="notification_channel_title">Categorie notificare</string>
-    <string name="notification_channels">Categorii</string>
+    <string name="notification_channels">Categorii de notificări</string>
     <string name="notification_channels_other">Altele</string>
     <string name="notification_content_block_summary">Nu arăta niciodată notificări în umbră sau pe dispozitivele periferice</string>
     <string name="notification_content_block_title">Arată notificări</string>

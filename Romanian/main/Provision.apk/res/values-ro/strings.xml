@@ -82,17 +82,20 @@ Vizualizaţi Politica de confidențialitate a tastaturii selectate</string>
     <string name="terms_of_use">Termeni și condiții</string>
     <string name="terms_of_use_label">"Confidențialitatea datelor dvs. este foarte importantă pentru noi. Citiți Termenii și condițiile precum și Politica de confidențialitate pentru a înțelege ce informații colectăm, cum le folosim și ce opțiuni sunt disponibile pentru dvs.
     
-Trebuie să acceptați Condiţiile de utilizare și Politica de confidențialitate înainte de a putea utiliza MIUI. Serviciile Mi, serviciile Mi de activare SIM, Mi Cloud, Localizarea dispozitivului, Ecranul principal, Centrul de jocuri, componentele de sistem MAB, MiuiDaemon și MSA, aplicațiile web, Asistentul inteligent, componentele statistice, smart cards, Mi Link și componentele contului Mi se vor conecta la internet și vor obține locația dvs."</string>
+Trebuie să acceptați Condiţiile de utilizare și Politica de confidențialitate înainte de a putea utiliza MIUI. %s și componentele contului Mi se vor conecta la internet și vor obține locația dvs."</string>
     <string name="terms_of_use_label_gms">"Confidențialitatea este foarte importantă pentru noi. Citiți Termenii Serviciului și Politica de Confidențialitate pentru a înțelege ce informații colectăm, cum le folosim și ce opțiuni aveți la îndemână.
 
 Trebuie să acceptați Termenii Serviciului și Politica de Confidențialitate înainte de a utiliza MIUI. Serviciile Mi, Serviciile Mi de activare a cartelei SIM, Mi Cloud, Localizarea dispozitivului, Ecranul Acasă, Centrul de jocuri, componentele de sistem MAB ,MiuiDaemon și MSA, aplicațiile web, Asistentul inteligent, statisticile, smart cards, Mi Link, contul Mi și componentele serviciilor Google Play se vor conecta la internet și vă vor obține locația."</string>
-    <string name="terms_of_use_label_systemhelper">Serviciu cu înregistrare proprie</string>
+    <string name="terms_of_use_label_systemhelper">, Serviciul cu înregistrare proprie</string>
+    <string name="terms_of_use_lable_apps">Serviciile Mi, serviciile Mi de activare SIM, Mi Cloud, Localizarea dispozitivului, Ecranul principal, Centrul de jocuri, componentele de sistem MAB, MiuiDaemon și MSA, aplicațiile web, Asistentul inteligent, componentele statistice, smart cards, Mi Link și Mi services, Mi SIM activation services, Mi Cloud, Find device, Home screen, Game center, MAB, MIUI Daemon and MSA system components, Translation services, Quick apps, App vault, statistics, Mi Link</string>
     <string name="terms_of_use_lable_default_input_method_facemoji">"
 
 Trebuie să acceptați Politica de Confidențialitate Facemoji înainte de a utiliza această caracteristică."</string>
     <string name="terms_of_use_lable_default_input_method_kika">"
 
 Trebuie să acceptați Politica de Confidențialitate Kika înainte de a utiliza această caracteristică."</string>
+    <string name="terms_of_use_lable_gms">, Serviciile Google Play</string>
+    <string name="terms_of_use_lable_smart_cards">, Smart cards</string>
     <string name="terms_privacy_policy_input_method_facemoji">Politica de Confidențialitate Facemoji</string>
     <string name="terms_privacy_policy_input_method_kika">Politica de Confidențialitate Kika</string>
     <string name="title_fingerprint">Setați parola</string>
