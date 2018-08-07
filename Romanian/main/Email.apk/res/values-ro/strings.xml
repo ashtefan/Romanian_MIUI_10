@@ -233,7 +233,6 @@ Actualizaţi acum?"</string>
     <string name="automatic_remind_text">Reamintește în mod automat</string>
     <string name="back">Înapoi</string>
     <string name="bank_card_detail">Detaliile cardului de credit</string>
-    <string name="bank_card_list_card_num_fmt">****%s</string>
     <string name="battery_saver">Economisire acumulator</string>
     <string name="battery_saver_keywords">economisire acumulator; consumul de acumulator pentru e-mailuri</string>
     <string name="bill_center_setting">Setări pentru plată</string>
@@ -585,14 +584,6 @@ Actualizaţi acum?"</string>
     <string name="mailbox_name_display_starred">Mesaje cu stea</string>
     <string name="mailbox_name_display_trash">Coş de gunoi</string>
     <string name="mailbox_name_display_unread">Necitite</string>
-    <string name="mailbox_name_server_all_unread">Necitite</string>
-    <string name="mailbox_name_server_drafts">Ciorne</string>
-    <string name="mailbox_name_server_inbox">Mesaje primite</string>
-    <string name="mailbox_name_server_junk">Coș de gunoi</string>
-    <string name="mailbox_name_server_outbox">Mesaje de trimis</string>
-    <string name="mailbox_name_server_sent">Trimise</string>
-    <string name="mailbox_name_server_starred">Cu stea</string>
-    <string name="mailbox_name_server_trash">Coș de gunoi</string>
     <string name="mailbox_settings_activity_title">Setări de sincronizare</string>
     <string name="mailbox_settings_activity_title_with_mailbox">Setări de sincronizare (%s)</string>
     <string name="mailbox_settings_mailbox_sync_window_label">Sincronizare e-mail</string>
