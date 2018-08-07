@@ -935,6 +935,8 @@ Sample Rate"</string>
     <string name="bootloader_locked_answer_2">"1. Asigurați-vă că ați introdus o cartelă SIM în telefon.
 2. Apăsați butonul \"Adăugați un cont\" de mai jos pentru a asocia contul Mi cu acest telefon.
 3. Descărcați utilitarul de deblocare de pe site-ul nostru. Pentru a putea debloca telefonul aveți nevoie de un PC. Descărcați de aici:"</string>
+    <string name="bootloader_locked_answer_2_no_sim">"1. Atingeți butonul \"Adăugare cont\" de mai jos pentru a asocia contul Mi acestui dispozitiv.
+2. Descărcați utilitarul de deblocare de pe site-ul nostru. Țineți cont că pentru a debloca telefonul veți avea nevoie de un computer. Descărcați de aici:"</string>
     <string name="bootloader_locked_check_status">Adăugați contul și dispozitivul</string>
     <string name="bootloader_locked_question_1">De ce trebuie să fie blocate telefoanele?</string>
     <string name="bootloader_locked_question_2">Înțeleg riscurile dar doresc să-mi deblochez telefonul.</string>
@@ -2295,6 +2297,7 @@ Puteți modifica acest lucru mai târziu în Setări &gt; Aplicații și notific
     <string name="keyboard_shortcuts_helper">Ajutor scurtături tastatură</string>
     <string name="keyboard_shortcuts_helper_summary">Afișează scurtăturile disponibile</string>
     <string name="keyguard_advance_setting_title">Setări avansate</string>
+    <string name="keyguard_vertical_clock_title">Ceas Vertical</string>
     <string name="keywords_accounts">cont</string>
     <string name="keywords_airplane">Avion;Mod Avion;Aeroplan;Mod Aeroplan;Zbor;Mod Zbor</string>
     <string name="keywords_all_apps">aplicații, descărcare, aplicație, sistem</string>
@@ -4171,6 +4174,8 @@ Pentru a utiliza fixarea ecranului:
     <string name="security_encryption_progress_dialog_open">Criptare…</string>
     <string name="security_encryption_rejected_via_home_manager">"Această caracteristică nu este suportată în versiunea demo."</string>
     <string name="security_encryption_title">Criptați telefonul utilizând parola de Blocare a ecranului</string>
+    <string name="security_input">Introducere Securitate</string>
+    <string name="security_input_hint">Introduceți parola utilizând tastatura de securitate</string>
     <string name="security_keyguard_category_name">Blocare ecran</string>
     <string name="security_password_category_name">Blocare ecran</string>
     <string name="security_passwords_title">Confidențialitate</string>

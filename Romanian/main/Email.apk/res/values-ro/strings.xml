@@ -233,6 +233,7 @@ Actualizaţi acum?"</string>
     <string name="automatic_remind_text">Reamintește în mod automat</string>
     <string name="back">Înapoi</string>
     <string name="bank_card_detail">Detaliile cardului de credit</string>
+    <string name="bank_card_list_card_num_fmt">****%s</string>
     <string name="battery_saver">Economisire acumulator</string>
     <string name="battery_saver_keywords">economisire acumulator; consumul de acumulator pentru e-mailuri</string>
     <string name="bill_center_setting">Setări pentru plată</string>
@@ -352,6 +353,8 @@ Actualizaţi acum?"</string>
     <string name="date_heading">"Data: "</string>
     <string name="date_message_received">%1$s %2$s</string>
     <string name="date_message_received_today">Astăzi, %1$s</string>
+    <string name="debug_mode_preferencecategory">Setați ieșirea jurnalului</string>
+    <string name="debug_mode_settings">Setări mod Depanare</string>
     <string name="default_">PRESTABILIT</string>
     <string name="default_exchange">EXCHANGE</string>
     <string name="default_imap">IMAP</string>
@@ -454,6 +457,7 @@ Actualizaţi acum?"</string>
     <string name="file_rar_not_support">Nu se pot deschide fișiere de tip .rar criptate</string>
     <string name="file_save_path_dialog_cancel">Am înțeles</string>
     <string name="file_save_path_dialog_ok">Modificați acum</string>
+    <string name="file_save_term">Termeni salvare fișier</string>
     <string name="filtered_tag">" [%1$s]%2$s"</string>
     <string name="first_quick_default_reply">Apăsați butonul pentru a trimite \"%s\" tuturor persoanelor care participă la această conversație.</string>
     <string name="float_window_content">Detectează că utilizați căsuța de e-mail, atingeți Confirmare pentru completarea automată a numelui de utilizator și a parolei contului 139.</string>
@@ -495,6 +499,7 @@ Actualizaţi acum?"</string>
     <string name="folder_trash_name_en1">Mesaje șterse</string>
     <string name="folder_trash_name_en2">Mesaj șters</string>
     <string name="folder_trash_name_en3">[Gmail]/Coș de gunoi</string>
+    <string name="forever">Întotdeauna</string>
     <string name="formatted_email_address">%1$s</string>
     <string name="forward">Redirecţionaţi</string>
     <string name="forward_attachment">Redirecţionaţi</string>
@@ -555,6 +560,7 @@ Actualizaţi acum?"</string>
     <string name="loading_conversations">Încărcare…</string>
     <string name="loading_from_remote">Se încarcă…</string>
     <string name="local_search">Căutare locală</string>
+    <string name="log_save_path">Locația jurnalului</string>
     <string name="login">Conectaţi-vă</string>
     <string name="login139">Conectare prin China Mobile</string>
     <string name="login_failed_ticker">Conectarea la %s a eşuat</string>
@@ -579,6 +585,14 @@ Actualizaţi acum?"</string>
     <string name="mailbox_name_display_starred">Mesaje cu stea</string>
     <string name="mailbox_name_display_trash">Coş de gunoi</string>
     <string name="mailbox_name_display_unread">Necitite</string>
+    <string name="mailbox_name_server_all_unread">Necitite</string>
+    <string name="mailbox_name_server_drafts">Ciorne</string>
+    <string name="mailbox_name_server_inbox">Mesaje primite</string>
+    <string name="mailbox_name_server_junk">Coș de gunoi</string>
+    <string name="mailbox_name_server_outbox">Mesaje de trimis</string>
+    <string name="mailbox_name_server_sent">Trimise</string>
+    <string name="mailbox_name_server_starred">Cu stea</string>
+    <string name="mailbox_name_server_trash">Coș de gunoi</string>
     <string name="mailbox_settings_activity_title">Setări de sincronizare</string>
     <string name="mailbox_settings_activity_title_with_mailbox">Setări de sincronizare (%s)</string>
     <string name="mailbox_settings_mailbox_sync_window_label">Sincronizare e-mail</string>
@@ -724,6 +738,9 @@ Actualizaţi acum?"</string>
     <string name="oauth_login_usr_proxy">Autentificare utilizând server proxy</string>
     <string name="ok">OK</string>
     <string name="okay_action">OK</string>
+    <string name="one_day">O zi</string>
+    <string name="one_month">O lună</string>
+    <string name="one_week">O săptămână</string>
     <string name="open_calendar_and_contacts_permission">Permiteți accesul aplicației de E-mail la contacte și la informațiile calendarului din Setări</string>
     <string name="open_external_storage_and_calendar_permission">Permiteți accesul aplicației de E-mail la stocare și la informațiile calendarului din Setări</string>
     <string name="open_external_storage_and_contacts_and_calendar_permission">Permiteți accesul aplicației de E-mail la stocare, contacte și informațiile calendarului din Setări</string>
@@ -753,6 +770,10 @@ Actualizaţi acum?"</string>
     <string name="outbox_alert_select_operation">Selectaţi o acţiune</string>
     <string name="outbox_alert_title_sent_failed">Nu s-a putut trimite e-mailul</string>
     <string name="outbox_no_mails">Gol</string>
+    <string name="output_all_log">Trimiteți toate jurnalele</string>
+    <string name="output_db_summary">Cum să vă exportați baza de date</string>
+    <string name="output_db_title">Exportați baza de date</string>
+    <string name="output_to_disk">Salvați jurnalele într-un fișier</string>
     <string name="over_due">Depășire</string>
     <string name="overlays_fail_tip">Ne pare foarte rău că nu s-a putut configura cu succes căsuța de e-mail; deschideți fereastra plutitoare de permisiuni și reîncercați</string>
     <string name="overlays_ok">Deschideți fereastra de permisiuni</string>
@@ -957,7 +978,12 @@ pentru a primi notificări despre plăți și călătorii"</string>
     <string name="reply_all">Răs. tuturor</string>
     <string name="reply_attribution" formatted="false">Pe %s, %s a scris:</string>
     <string name="report_phishing">Raportaţi phishing</string>
+    <string name="report_rendering_improvement">Arată bine</string>
+    <string name="report_rendering_improvement_desc">Acest mesaj arată bine.</string>
+    <string name="report_rendering_problem">Arată rău</string>
+    <string name="report_rendering_problem_desc">Acest mesaj arată rău.</string>
     <string name="report_spam">Raportaţi ca spam</string>
+    <string name="request_copy_db_to_disk">Aplicația de E-Mail solicită să copiați baza dvs. de date într-un fișier</string>
     <string name="request_entity_large">Fișierul este prea mare</string>
     <string name="request_permission_activity">Solicitare permisiune</string>
     <string name="respond_inline">"    Răspundeţi inline"</string>
@@ -1071,7 +1097,9 @@ pentru a primi notificări despre plăți și călătorii"</string>
     <string name="tablet">tabletă</string>
     <string name="tap_to_configure">Atingeţi pentru a configura.</string>
     <string name="tap_to_enable_sync">Atingeți pentru a activa.</string>
+    <string name="three_day">3 zile</string>
     <string name="title_activity_about">Despre</string>
+    <string name="to">Către</string>
     <string name="to_heading">"Către: "</string>
     <string name="toast_bar_fail_synchronization">Nu se poate conecta la rețea</string>
     <string name="toast_bar_insufficient_memory_space">"Nu se pot primi mesaje noi. Spaţiul de stocare este insuficient."</string>
@@ -1135,6 +1163,7 @@ Eliminați contul?"</string>
     <string name="wait_for_manual_sync_body">"Acest cont nu este configurat pentru sincronizare automată.
 Atingeţi \"Sincronizaţi acum\" pentru a sincroniza e-mailurile, sau modificaţi setările de sincronizare pentru a sincroniza e-mailurile în mod automat.</string>
     <string name="wait_for_sync_title">Aşteptare sincronizare</string>
+    <string name="wait_help_context">așteptați</string>
     <string name="webview_logout">Puteți să încercați să vă conectați din nou</string>
     <string name="webview_logout_cancel">Nu acum</string>
     <string name="webview_logout_sure">Mai încerc o dată</string>

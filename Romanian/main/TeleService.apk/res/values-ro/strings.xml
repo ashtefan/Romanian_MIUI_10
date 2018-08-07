@@ -487,7 +487,8 @@ Sample Rate"</string>
     <string name="cfnry_time_twenty_sec">20 sec</string>
     <string name="cfnry_title">Se redirecţionează atunci când nu răspunde</string>
     <string name="cfu_title">Se redirecţionează mereu</string>
-    <string name="change_data_preference_4g_only_prompt">Se pare că aveți o cartelă SIM care suportă doar 4G. O setați ca și implicită pentru datele mobile?</string>
+    <string name="change_data_preference_4g_only_prompt">Se pare că aveți o cartelă SIM care suportă doar 4G. Pentru a vă asigura că funcționează în mod normal, setați-o ca și implicită pentru datele mobile. Setați acum?</string>
+    <string name="change_data_sim_4g_only_prompt">"Cartela SIM %1$s suportă doar modul 4G. Atunci când cartela SIM %2$s nu este cartela implicită pentru date mobile, aceasta ar putea funcționa necorespunzător. Comutați acum?"</string>
     <string name="change_default_data_card">Cartelă SIM implicită pentru date</string>
     <string name="change_default_data_card_summary">Se pare că ați schimbat cartelele SIM. Stabiliți această cartelă SIM ca implicită pentru date mobile?</string>
     <string name="change_num">Actualizaţi</string>
@@ -1090,6 +1091,8 @@ Se va utiliza rețeaua preferată."</string>
     <string name="onscreenSwapCallsText">Schimbaţi</string>
     <string name="onscreenVideoCallText">Apel video</string>
     <string name="open_miui">Deschideţi</string>
+    <string name="opened_dual_4g_confirm_prompt">Se pare că aveți o cartelă care funcționează doar în modul 4G. Modul 4G Dual a fost activat în mod automat.</string>
+    <string name="opened_dual_4g_confirm_prompt_with_sim">Cartela SIM %1$s suportă doar modul 4G. Pentru a vă asigura că aceasta funcționează în mod normal, modul 4G Dual a fost activat.</string>
     <string name="optional_summary">&lt;Opţional&gt;</string>
     <string name="ota_activate">Activaţi</string>
     <string name="ota_call_end">Înapoi</string>

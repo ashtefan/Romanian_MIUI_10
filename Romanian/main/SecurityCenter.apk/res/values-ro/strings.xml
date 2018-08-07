@@ -1578,7 +1578,7 @@ Această activitate scade durata de viață a acumulatorului."</string>
     <string name="pref_key_tethering_setting">Limitare singulară trafic de date</string>
     <string name="pref_key_tethering_title">Limitare singulară trafic de date</string>
     <string name="pref_manual_adjust">Setaţi manual statistica de utilizare a datelor</string>
-    <string name="pref_mi_sim_settings">Setări Mi SIM</string>
+    <string name="pref_mi_sim_settings">setări pachet%s</string>
     <string name="pref_more_settings">Setări suplimentare</string>
     <string name="pref_new_installed_preconfig_title">Setările prestabilite pentru aplicaţiile noi</string>
     <string name="pref_normal_traffic_limit">Când consumați planul de date</string>
@@ -1592,7 +1592,7 @@ Această activitate scade durata de viață a acumulatorului."</string>
     <string name="pref_roaming_setting_gategory">Setări</string>
     <string name="pref_special_package_setting">Plan de date personalizat</string>
     <string name="pref_special_package_setting_summary">Gestionați limita de date înafara orelor de vârf, pachetele de suplimentare, planul zilnic de date și utilizarea datelor</string>
-    <string name="pref_summary_upload_data_usage">Raportați starea utilizării datelor pentru a ne ajuta să îmbunătățim MIUI. Raportul este gestionat în concordanță cu Politica noastră de Confidențialitate.</string>
+    <string name="pref_summary_upload_data_usage">Raportați informațiile despre utilizarea datelor pentru a ne ajuta să îmbunătățim serviciile MIUI. Procesul de raportare va fi gestionat în concordanță cu Politica noastră de Confidențialitate.</string>
     <string name="pref_title_declaration">Indicații importante</string>
     <string name="pref_title_diagnostics_show_float_notification">Notificări plutitoare</string>
     <string name="pref_title_manual_check_virus_db_update">Căutați actualizări</string>
@@ -1600,7 +1600,7 @@ Această activitate scade durata de viață a acumulatorului."</string>
     <string name="pref_title_traffic_limit_number">Dimensiune</string>
     <string name="pref_title_traffic_speed_state">Afişaţi viteza rețelei</string>
     <string name="pref_title_update_notification">Afişaţi utilizarea datelor în panoul notificărilor</string>
-    <string name="pref_title_upload_data_usage">Raportați starea utilizării datelor</string>
+    <string name="pref_title_upload_data_usage">Raportați informații despre utilizarea datelor</string>
     <string name="pref_traffic_manage_title">Utilizarea datelor</string>
     <string name="pref_warning_values">Nivelul de avertizare al utilizării datelor</string>
     <string name="pref_whitelist_setting">Excepții utilizare date în roaming</string>
@@ -1662,6 +1662,9 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="report_success">Mesaj raportat</string>
     <string name="report_warning">"Raportați %1$s SMS către Mi? Aceste mesaje și numerele de telefon de la care provin vor fi încărcate pe serverele Mi pentru revizuire. Orice informații personale asociate cu aceste mesaje vor fi întotdeauna păstrate anonim."</string>
     <string name="report_warning_title">Raportați mesajul</string>
+    <string name="reset_data_dialog_message">"Acest dispozitiv nu este asociat contului dvs. Mi. Nu se poate restaura sau reseta parola. Faceți mai întâi o copie de rezervă a tuturor elementelor importante și faceți o resetare la valorile din fabrică. Toate datele vor fi șterse definitiv iar cardul SD va fi formatat pe durata procesului de resetare."</string>
+    <string name="reset_data_dialog_ok">Resetare la valorile din fabrică</string>
+    <string name="reset_data_title">"Nu se poate recupera parola"</string>
     <string name="resource_antispam">Listă blocări</string>
     <string name="resource_antivirus">Scanare pentru viruși</string>
     <string name="resource_app_permissions">Permisiunile aplicațiilor</string>
@@ -1941,6 +1944,7 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="start_game">Start</string>
     <string name="status_bar_network_flow_content">Astăzi: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Rămas: %2$s</string>
     <string name="status_bar_network_flow_content_not_setting">Astăzi: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Luna aceasta: %2$s</string>
+    <string name="status_bar_network_flow_content_virtual_card">%1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;%2$s&amp;nbsp;&amp;nbsp;&amp;nbsp;</string>
     <string name="status_bar_network_flow_exceed_content">Astăzi: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Ați depășit limita: &lt;font color=%2$s&gt;%3$s&lt;/font&gt;</string>
     <string name="status_bar_network_flow_phone_balance">"   Balanță telefon:%1$s "</string>
     <string name="status_bar_network_flow_purchase">"   Cumpărați &gt;"</string>

@@ -58,7 +58,7 @@
     <string name="month_day_format">dd MMM</string>
     <string name="move_failed">"Nu s-a putut decupa"</string>
     <string name="move_failed_retry">"Nu s-a putut decupa; așteptați %1$s și încercați din nou"</string>
-    <string name="need_get_accounts_permission">Mi Drive trebuie să vă acceseze contul pentru a funcționa în mod normal.</string>
+    <string name="need_get_accounts_and_storage_permission">Mi Drive trebuie să vă acceseze contul și memoria externă pentru a funcționa în mod normal.</string>
     <string name="never_notify">"Nu arăta din nou"</string>
     <string name="no_app_found_to_open_file">Nu există nicio aplicație care să realizeze această acțiune.</string>
     <string name="no_more_space">Spațiul de stocare este insuficient.</string>
@@ -106,7 +106,7 @@
     <string name="quota_info">Mi Drive: %1$s disponibil, %2$s total</string>
     <string name="rename_alert">"Dacă modificați extensia fișierului este posibil să nu îl mai puteți deschide."</string>
     <string name="rename_failed">Un fișier cu același nume există deja.</string>
-    <string name="request_permission_msg">Permiteți Mi Drive să vă acceseze informațiile contului pentru a funcționa în mod normal.</string>
+    <string name="request_permission_msg">Permiteți Mi Drive să vă acceseze informațiile contului și stocarea externă pentru a funcționa în mod normal.</string>
     <string name="request_permission_title">Sunt necesare permisiuni</string>
     <string name="sd_full">Cardul SD este plin.</string>
     <string name="sd_invalid">Cardul SD este corupt.</string>

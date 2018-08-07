@@ -82,6 +82,9 @@
     <string name="miui_screen_ratio_hint_message">Această aplicație este lăsată să funcționeze în modul Ecran complet ceea ce poate cauza afișarea incorectă. Puteți schimba asta din Setări &gt; Afișare Ecran complet.</string>
     <string name="miui_screen_ratio_hint_ok">OK</string>
     <string name="miui_upgrading_notification_title">Se încarcă sistemul, unele caracteristici pot fi indisponibile</string>
+    <string name="miui_warning_button_cancel">Renunțați</string>
+    <string name="miui_warning_button_ok">OK</string>
+    <string name="miui_warning_tip_info">A apărut o eroare în %1$s. Închideți această aplicație acum?</string>
     <string name="onehour">30 de minute</string>
     <string name="package_delete_confirm_step_1">Dezinstalați %s?</string>
     <string name="package_delete_confirm_step_2">Dezinstalarea aceastei aplicații poate face sistemul instabil.</string>
