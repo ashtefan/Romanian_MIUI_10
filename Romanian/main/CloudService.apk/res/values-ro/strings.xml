@@ -231,6 +231,7 @@ la contul dvs. Mi pentru a reactiva Mi Cloud."</string>
     <string name="micloud_dialog_sync_now_title">Conectați-vă la Wi-Fi pentru a sincroniza datele</string>
     <string name="micloud_dspt">Utilizaţi Mi Cloud pentru a sincroniza datele, pentru a localiza dispozitivul,</string>
     <string name="micloud_dspt_provision">Utilizaţi Mi Cloud pentru a sincroniza datele, localiza dispozitivul și pentru a partaja lucruri prietenilor.</string>
+    <string name="micloud_dspt_provision_xms">Utilizaţi Mi Cloud pentru a sincroniza datele.</string>
     <string name="micloud_find_device_close_alert_content">"Dacă dezactivați această caracteristică, nu veți mai putea localiza telefonul în cazul în care îl veți pierde."</string>
     <string name="micloud_find_device_close_alert_negtive">Dezactivați oricum</string>
     <string name="micloud_find_device_close_alert_positive">Păstrați activă</string>
@@ -283,6 +284,7 @@ Pentru a rezolva acest lucru, fie puteți şterge unele fișierele vechi, fie pu
     <string name="micloud_main_button_authorize">Autorizați</string>
     <string name="micloud_main_button_set_internet">Setări</string>
     <string name="micloud_main_cancel_sync">Opriți sincronizarea</string>
+    <string name="micloud_main_cancel_sync_now">Anulare…</string>
     <string name="micloud_main_clear_now">Curăță</string>
     <string name="micloud_main_detail">Vizualizaţi detaliile</string>
     <string name="micloud_main_error_activated_fail">Vă rugăm activați cartela SIM.</string>
@@ -310,8 +312,13 @@ Utilizați alt cont"</string>
     <string name="micloud_main_query_error_message">"Nu se poate verifica dacă sincronizarea tuturor serviciilor s-a finalizat"</string>
     <string name="micloud_main_query_error_title">"Nu s-au putut obține informații despre progresul sincronizării"</string>
     <string name="micloud_main_resume_sync_soon">Reia sincronizarea în curând</string>
+    <string name="micloud_main_see_unsynced_data">Verificați datele de sincronizat</string>
     <string name="micloud_main_set_internet">Reţea</string>
-    <string name="micloud_main_space_full">Spațiul de stocare din cloud este epuizat.</string>
+    <string name="micloud_main_simple_last_sync_time">Ultima sincronizare： %s</string>
+    <string name="micloud_main_simple_off">Sincronizare Oprită</string>
+    <string name="micloud_main_simple_pending">În așteptare</string>
+    <string name="micloud_main_simple_synced">Sincronizate</string>
+    <string name="micloud_main_simple_syncing">Se sincronizează</string>
     <string name="micloud_main_space_full_message">Cumpărați mai mult spațiu de stocare în Mi Cloud</string>
     <string name="micloud_main_space_full_title">Spaţiul de stocare este insuficient; sincronizarea s-a oprit</string>
     <string name="micloud_main_space_low">Spaţiu aproape epuizat</string>
@@ -420,7 +427,8 @@ Utilizați alt cont"</string>
     <string name="micloud_storage_expires_soon_title">Spaţiul de stocare Mi Cloud expiră în curând</string>
     <string name="micloud_storage_expires_very_soon_title">Spaţiul de stocare Mi Cloud expiră în curând</string>
     <string name="micloud_storage_full">Spaţiul din Cloud este epuizat</string>
-    <string name="micloud_storage_usage" formatted="false">Spaţiu utilizat %s/Total %s</string>
+    <string name="micloud_storage_unit_gb">%s GB</string>
+    <string name="micloud_storage_unit_mb">%s MB</string>
     <string name="micloud_sync_alert_dialog_message">Sincronizaţi fotografiile, contactele, notele și altele între toate dispozitivele dvs.</string>
     <string name="micloud_sync_alert_dialog_negative">Anulaţi</string>
     <string name="micloud_sync_alert_dialog_positive">OK</string>

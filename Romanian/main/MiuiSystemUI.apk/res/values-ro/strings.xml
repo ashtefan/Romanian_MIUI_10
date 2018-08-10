@@ -737,7 +737,7 @@ Odată ce se va răci îndeajuns, va rula în mod normal."</string>
     <string name="incorrect_pukcode">Cod PUK incorect</string>
     <string name="input_password_after_boot_msg">Introduceți parola pentru a debloca telefonul</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_calling">"Nu se poate comuta între cele două spații în timpul unui apel"</string>
-    <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">"Nu se poate comuta între cele două spații când controlul parental este activ"</string>
+    <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">"Nu se poate comuta între cele două spații când Controlul Parental este activ"</string>
     <string name="input_password_after_boot_msg_must_enter_owner_space">Trebuie să accesați Spațiul principal după repornirea telefonului</string>
     <string name="input_password_handle_sdcard_fs">"Nu se poate accesa Spațiul Secundar din Blocarea ecranului. Accesați-l din Spațiul Principal."</string>
     <string name="input_password_hint_text">Introduceți parola</string>
@@ -1210,7 +1210,7 @@ De asemenea, sunteți conectat la o rețea VPN, care vă poate monitoriza activi
     <string name="oldman_airplane_mode_text">Avion</string>
     <string name="oldman_incall_text">Reluare apel</string>
     <string name="open_camera_hint_text">Glisați spre stânga pentru a accesa Camera</string>
-    <string name="open_remote_center_hint_text">Glisați spre dreapta pentru a deschide Telecomanda Mi</string>
+    <string name="open_remote_center_hint_text">Glisați spre dreapta pentru a deschide Scurtăturile</string>
     <string name="orb_search_action">Căutați o Acțiune</string>
     <string name="other">Altele</string>
     <string name="overlay_display_devices_title">Simulare ecrane secundare</string>

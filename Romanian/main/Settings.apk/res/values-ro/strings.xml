@@ -2007,6 +2007,12 @@ Pentru mai multe detalii, contactați administratorul organizației."</string>
     <string name="foreground_traffic">În prim plan %s</string>
     <string name="forget">Renunțați</string>
     <string name="forget_password_button_text"><u>Parolă uitată</u></string>
+    <string name="forget_password_dialog_button_text">Înapoi</string>
+    <string name="forget_password_dialog_content_four">&lt;Data&gt;2. Selectați &amp;lt;font color=#e6e6e6&amp;gt;[Ștergere date]&amp;lt;/font&amp;gt;, și așteptați până când telefonul repornește.&lt;/Data&gt;</string>
+    <string name="forget_password_dialog_content_one">&lt;Data&gt;"Dacă ați uitat parola, nu o veți mai putea recupera. Totuși, veți putea reseta parola după ce &amp;lt;font color=#ec2700&amp;gt;ștergeți toate datele din telefon&amp;lt;/font&amp;gt; (inclusiv fotografiile, contactele, etc.). Salvați toate datele importante înainte de asta."&lt;/Data&gt;</string>
+    <string name="forget_password_dialog_content_three">&lt;Data&gt;"1. Închideți telefonul. Apăsați butoanele &amp;lt;font color=#e6e6e6&amp;gt;[Pornire]&amp;lt;/font&amp;gt; și &amp;lt;font color=#e6e6e6&amp;gt;[Volum+]&amp;lt;/font&amp;gt; simultan și mențineți-le apăsate până când vedeți pictograma &amp;lt;img src=''&amp;gt;."&lt;/Data&gt;</string>
+    <string name="forget_password_dialog_content_two">Urmați acești pași pentru a șterge datele:</string>
+    <string name="forget_password_dialog_title">Resetați parola</string>
     <string name="forget_pattern"><u>Ați uitat modelul de deblocare?</u></string>
     <string name="forget_privacy_password_setting">Adăugați contul Mi</string>
     <string name="forget_privacy_password_summary">Utilizați contul Mi pentru a vă reseta parola</string>

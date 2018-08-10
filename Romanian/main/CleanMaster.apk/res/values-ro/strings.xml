@@ -312,6 +312,8 @@
     <string name="mainbtn_text_quick_cleanup_default">Curățare</string>
     <string name="megabyteShort"> MB</string>
     <string name="memeory_check_content">%1$d aplicaţii, memorie %2$s</string>
+    <string name="memory_clean_icon_text">Goliți memoria</string>
+    <string name="memory_clean_no_trash_tip">Totul arată bine</string>
     <string name="menu_add_to_white_list">Adăugați în lista excepțiilor</string>
     <string name="menu_clear">Goliți</string>
     <string name="menu_install">Instalați aplicația</string>
@@ -337,6 +339,12 @@
     <string name="notification_title_of_garbage_cleanup">Dimensiune coş de reciclare: %s</string>
     <string name="notify_when">Atenționează-mă când dimensiunea coșului de gunoi atinge 100 MB</string>
     <string name="ok">OK</string>
+    <string name="onekeyclean_boost_available">%s disponibil</string>
+    <string name="onekeyclean_boost_cleaned">%s Golit</string>
+    <string name="onekeyclean_boosted_title">Golit cu succes</string>
+    <string name="onekeyclean_boosting_title">Creștere viteză</string>
+    <string name="onekeyclean_card_btn">Curățați acum</string>
+    <string name="onekeyclean_card_summery">Goliți coșul de gunoi pentru a elibera spațiu</string>
     <string name="open">Porniți</string>
     <string name="open_app">Lansați</string>
     <string name="open_browser">Deschideți în browser</string>
@@ -373,6 +381,7 @@
     <string name="pref_title_choose_engine">Definiții</string>
     <string name="pref_title_clean_alert">Memento cleaner</string>
     <string name="pref_title_cleanup_white_list">Excepţii</string>
+    <string name="pref_title_create_onekeyclean_shortcut">Afișează o scurtătură pe Ecranul principal</string>
     <string name="pref_title_expand_cache_group">Afişare elemente din memoria cache</string>
     <string name="pref_title_garbage_cleanup_check_size">Limita coşului de reciclare</string>
     <string name="pref_title_garbage_cleanup_check_time">Program</string>
