@@ -260,6 +260,7 @@
     <string name="plus_one_submit_dialog_content">"Feedback-ul dvs., alături de jurnalurile de eroare vor fi trimise la serverele Mi."</string>
     <string name="plus_one_submit_dialog_not_show_again">Memorare preferinţă</string>
     <string name="post_miui_bbs_failed">"Nu s-a putut posta pe forumul MIUI"</string>
+    <string name="privacy_policy_title">Politica de Confidențialitate</string>
     <string name="pull_to_refresh_pull_label">Glisați în jos pentru a împrospăta</string>
     <string name="pull_to_refresh_refreshing_label">Împrospătare…</string>
     <string name="pull_to_refresh_release_label">Eliberați pentru a împrospăta</string>
@@ -290,6 +291,7 @@
     <string name="systemui">Panou notificări</string>
     <string name="tab_title_chat">Întrebări frecvente</string>
     <string name="tab_title_my_reports">Rapoartele mele</string>
+    <string name="tab_title_preferences">Setări</string>
     <string name="tab_title_report">Feedback</string>
     <string name="time_in_justnow">Chiar acum</string>
     <string name="title_answer_feedback_main">Am găsit răspunsurile!</string>

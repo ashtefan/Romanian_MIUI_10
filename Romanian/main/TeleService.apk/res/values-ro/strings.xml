@@ -573,6 +573,8 @@ Sample Rate"</string>
     <string name="data_usage_uninstalled_apps_users">Aplicații și utilizatori eliminați</string>
     <string name="dc_alert_dialog_message">Unele aplicații necesită o conexiune de date mobile. Puteți contacta operatorul pentru a afla ce %s sunt disponibile pentru dumneavoastră.</string>
     <string name="dc_alert_dialog_title">Avertisment utilizare date</string>
+    <string name="dds_switch_warning_message_data_off">"Nu s-a găsit cartela SIM %1$s. SIM-ul %2$s este setat ca implicit pentru date mobile acum. Datele mobile sunt dezactivate acum."</string>
+    <string name="dds_switch_warning_message_data_on">"Nu s-a găsit cartela %1$s. SIM-ul %2$s este setat ca implicit pentru date mobile acum. Datele mobile sunt dezactivate pentru a evita taxarea de către operator."</string>
     <string name="deactivate_all">Revocare totală</string>
     <string name="debug_app">Selectați aplicația de depanare</string>
     <string name="debug_app_not_set">Nicio aplicație de depanare setată</string>

@@ -159,6 +159,8 @@
     <string name="search_setting_description">Căutare text în notele dvs.</string>
     <string name="select_account_prompt">Activaţi sincronizarea notelor</string>
     <string name="set_alarm_description">Setați alarma</string>
+    <string name="setting_other">ALTELE</string>
+    <string name="setting_privacy">Politica de Confidențialitate</string>
     <string name="snippet_audio_stub">Notiță vocală</string>
     <string name="snippet_image_stub">Notiță cu imagini</string>
     <string name="snippet_image_template">[Imagine %1$s]</string>

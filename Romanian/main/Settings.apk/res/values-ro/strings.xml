@@ -1763,6 +1763,7 @@ Acest lucru vă ajută să vă protejați datele dacă vă pierdeți telefonul s
     <string name="enter_password">Introduceţi parola pentru a porni sistemul de operare Android</string>
     <string name="enter_pattern">Pentru a porni sistemul Android, desenați modelul de deblocare</string>
     <string name="enter_pin">Pentru a porni sistemul Android, introduceți codul PIN</string>
+    <string name="enterprise_mode">Mod Servici</string>
     <string name="enterprise_privacy_always_on_vpn_device">VPN permanent pornit activat</string>
     <string name="enterprise_privacy_always_on_vpn_personal">VPN permanent pornit activat în profilul personal</string>
     <string name="enterprise_privacy_always_on_vpn_work">VPN permanent pornit activat în profilul de servici</string>
@@ -2303,7 +2304,7 @@ Puteți modifica acest lucru mai târziu în Setări &gt; Aplicații și notific
     <string name="keyboard_shortcuts_helper">Ajutor scurtături tastatură</string>
     <string name="keyboard_shortcuts_helper_summary">Afișează scurtăturile disponibile</string>
     <string name="keyguard_advance_setting_title">Setări avansate</string>
-    <string name="keyguard_vertical_clock_title">Ceas Vertical</string>
+    <string name="keyguard_vertical_clock_title">Ceas vertical</string>
     <string name="keywords_accounts">cont</string>
     <string name="keywords_airplane">Avion;Mod Avion;Aeroplan;Mod Aeroplan;Zbor;Mod Zbor</string>
     <string name="keywords_all_apps">aplicații, descărcare, aplicație, sistem</string>

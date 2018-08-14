@@ -13,8 +13,10 @@
     <string name="button_confirm">OK</string>
     <string name="button_goon_recorder">Reluați</string>
     <string name="cancel_edit">Renunțați</string>
+    <string name="cannot_change_frames">Rata de cadre poate fi personalizată doar pentru înregistrările cu rată fixă de cadre.</string>
     <string name="cannot_change_parames">"Nu se pot modifica parametrii în timpul înregistrării"</string>
     <string name="cannot_record">"Nu s-a putut înregistra; reîncercați mai târziu."</string>
+    <string name="close_screen_record">S-a oprit înregistrarea</string>
     <string name="date_day"/>
     <string name="date_month">/</string>
     <string name="date_year">/</string>
@@ -22,6 +24,10 @@
     <string name="description_title">Despre aplicația de Înregistrare ecran</string>
     <string name="deselect_all">Deselectați tot</string>
     <string name="error_open_file_failed_no_app_found">"Nu s-a găsit nicio aplicație pentru a deschide acest fișier"</string>
+    <string name="first_using_mic_dialog_message">Aplicația Înregistrare ecran trebuie să vă acceseze microfonul pentru înregistrări audio. Permiteți?</string>
+    <string name="first_using_mic_dialog_title">Sunt necesare permisiuni</string>
+    <string name="fixed_frame_rate">Rată fixă de cadre</string>
+    <string name="fixed_frame_rate_summary">Înregistrarea videoclipurilor cu rată fixă de cadre crește redarea pe platformele de socializare și reduce durata de viață a acumulatorului.</string>
     <string name="frames">Frecvență cadre</string>
     <string name="frames_summary">O frecvență mai mare de afișare a cadrelor reduce blur-ul datorat mișcării</string>
     <string name="frequently_click_toast">Doar o secundă…</string>
@@ -33,6 +39,9 @@
     <string name="hint_volume_down">Volum redus</string>
     <string name="hint_volume_up">Volum crescut</string>
     <string name="home_title_none">Selectați elementele</string>
+    <string name="is_checked">Selectat</string>
+    <string name="is_go_home">Reveniți la Înregistrarea ecranului</string>
+    <string name="is_go_home_summary">"Deschideți pagina de pornire a Înregistrării ecranului după ce opriți înregistrarea"</string>
     <string name="loopback_sound">Difuzor</string>
     <string name="low_battery">Încărcați acumulatorul înainte de a începe înregistrarea</string>
     <string name="low_battery_title">Acumulator descărcat</string>
@@ -58,6 +67,7 @@
     <string name="screen_record_option">Opțiuni înregistrare</string>
     <string name="screen_record_params">Parametri înregistrare</string>
     <string name="select_all">Selectați tot</string>
+    <string name="settings">Setări</string>
     <string name="show_hard_key">Afișează butoanele de navigare</string>
     <string name="show_hard_key_summary">Se indică apăsarea butoanelor Acasă, Meniu și Înapoi</string>
     <string name="show_screen_touch">Afișează atingerile ecranului</string>
@@ -70,5 +80,10 @@
     <string name="stop_record_while_locking">Oprește la blocarea ecranului</string>
     <string name="stop_record_while_locking_summary">Se oprește înregistrarea și se salvează videoclipul când se blochează ecranul</string>
     <string name="stop_recording">Opriți înregistrarea</string>
+    <string name="storage_location">Stocare</string>
+    <string name="storage_location_summary">Selectați opțiunea preferată de stocare</string>
     <string name="timer_format">%s</string>
+    <string name="unchecked">Neselectat</string>
+    <string name="using_record_confirm_cancel">Restricționați</string>
+    <string name="using_record_confirm_ok">Permiteți</string>
 </resources>
