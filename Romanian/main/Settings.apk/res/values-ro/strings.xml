@@ -4519,6 +4519,7 @@ Acest lucru este posibil datorită unui certificat de încredere instalat pe dis
     <string name="status_bar_settings_custom_carrier">Editați numele operatorului</string>
     <string name="status_bar_settings_custom_wifi_name">Editaţi numele Wi-Fi</string>
     <string name="status_bar_settings_enable_notification">Afişare notificări</string>
+    <string name="status_bar_settings_expandable_under_keyguard">Arată în blocarea securizată a ecranului</string>
     <string name="status_bar_settings_long_click_sort">Apăsați și țineți apăsat pentru a alege un comutator</string>
     <string name="status_bar_settings_manage_notification">Notificările aplicaţiilor</string>
     <string name="status_bar_settings_no_carrier">Niciunul</string>

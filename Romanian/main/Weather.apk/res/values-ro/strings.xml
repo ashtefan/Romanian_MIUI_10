@@ -57,7 +57,9 @@
     <string name="aqi_quality_ambient_air_quality">Calitatea aerului înconjurător</string>
     <string name="aqi_quality_co_desc">Monoxid de Carbon</string>
     <string name="aqi_quality_detail_15_days">Prognoza pe 15 zile</string>
+    <string name="aqi_quality_detail_24_hours">Prognoza pe 24 de ore</string>
     <string name="aqi_quality_detail_48_hours">Prognoza pe 48 de ore</string>
+    <string name="aqi_quality_detail_5_days">Prognoza pe 5 zile</string>
     <string name="aqi_quality_major_pollutants">Poluanți majori</string>
     <string name="aqi_quality_map_edit_text_hint">Căutați calitatea aerului</string>
     <string name="aqi_quality_map_title">Harta calității aerului</string>
@@ -84,7 +86,7 @@
     <string name="button_sure_abandon">Renunțați la modificări?</string>
     <string name="card_vote_item_vs">VS</string>
     <string name="change_alert">Verificați conexiunea la rețea și reîncercați</string>
-    <string name="china_version_first_start_network_msg">"Utilizând acest produs, sunteți de acord cu %1$s și %2$s ale Xiaomi.Această aplicație trebuie să se conecteze la internet și să vă acceseze locația pentru a funcționa în mod normal."</string>
+    <string name="china_version_first_start_network_msg">"Utilizând acest produs, sunteți de acord cu %1$s și %2$s ale Xiaomi. Pentru a vă furniza informații cât mai precise despre starea vremii, aplicația va accesa informațiile despre locație și trebuie să se conecteze la rețea. Sunteți de acord?"</string>
     <string name="city_exceeded_warning">Puteți adăuga până la 10 orașe</string>
     <string name="clear_net_mock_success">Rețea fictivă curățată cu succes</string>
     <string name="common_loading_text">Doar o secundă…</string>
@@ -115,7 +117,7 @@
 Glisați în jos pentru a actualiza sau verificați setările de rețea"</string>
      <string name="data_provided_by">Date furnizate de</string>
     <string name="edit_city">Gestionați locațiile</string>
-    <string name="eu_region_version_first_start_network_msg">"Utilizând acest produs, sunteți de acord ca Xiaomi să colecteze, să proceseze și să utilizeze informațiile personale, inclusiv coordonatele orașelor pe care le căutați și alte tipuri de date specificate în Politica noastră de Confidențialitate. Consultați Politica de Confidențialitate pentru a afla cum colectăm și procesăm informațiile. Apăsând \"Sunt de acord\", acceptați %1$s și %2$s Xiaomi."</string>
+    <string name="eu_region_version_first_start_network_msg">"Utilizând acest produs, sunteți de acord ca acesta să se conecteze la rețea, să colecteze, să proceseze și să utilizeze informațiile personale, inclusiv coordonatele orașelor pe care le căutați și alte tipuri de date specificate în Politica noastră de Confidențialitate. Consultați Politica de Confidențialitate pentru a afla cum colectăm și procesăm informațiile. Apăsând \"Sunt de acord\", acceptați %1$s și %2$s Xiaomi."</string>
     <string name="feedback_heavy_rain">Ploaie torențială</string>
     <string name="feedback_heavy_snow">Ninsoare</string>
     <string name="feedback_light_rain">Ploaie ușoară</string>
@@ -131,6 +133,8 @@ Glisați în jos pentru a actualiza sau verificați setările de rețea"</string
     <string name="hour_minute_time_format">HH:mm</string>
     <string name="hourly_forcast_now">Acum</string>
     <string name="hourly_forecast_date">d/M</string>
+    <string name="hourly_forecast_title_24_hours_desc">Prognoza pe 24 de ore</string>
+    <string name="hourly_forecast_title_hourly_desc">prognoza orară</string>
     <string name="index_item_experience_now">Instalați acum</string>
     <string name="index_item_install_dialog"/>
     <string name="index_item_install_dialog_cancel"/>
@@ -193,6 +197,7 @@ Apăsați pe ecran pentru a adăuga manual sau pentru a repoziționa orașul"</s
     <string name="privacy_grant_failed">"Nu s-a putut acorda permisiunea. Așteptați un minut sau două și încercați din nou."</string>
     <string name="privacy_grant_or_revoke_settings">Acordare și revocare autorizare</string>
     <string name="privacy_grant_success">Autorizare acordată cu succes</string>
+    <string name="privacy_policy">Politica de Confidențialitate</string>
     <string name="privacy_revoke_failed">"Nu s-a putut revoca autorizarea. Așteptați un minut sau două și încercați din nou."</string>
     <string name="privacy_revoke_success">Autorizare revocată cu succes</string>
     <string name="privacy_settings">Politica de Confidențialitate</string>
@@ -258,6 +263,7 @@ Apăsați pe ecran pentru a adăuga manual sau pentru a repoziționa orașul"</s
     <string name="update_setting_title_text">Actualizează Informațiile meteo</string>
     <string name="updated_a_moment_ago">Actualizată chiar acum</string>
     <string name="updating">Actualizare…</string>
+    <string name="user_agreement">Termenii Serviciului</string>
     <string name="video_dialog_no_play"/>
     <string name="video_dialog_play"/>
     <string name="video_dialog_subtitle"/>

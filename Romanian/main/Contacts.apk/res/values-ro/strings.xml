@@ -369,7 +369,6 @@ Cartelele de contact sunt dezactivate"</string>
     <string name="device_import_progress_begin_message">Import…</string>
     <string name="device_import_progress_end_message">Import finalizat</string>
     <string name="device_import_progress_message">Import…</string>
-    <string name="device_import_progress_toast">%1$d contacte importate</string>
     <string name="device_import_title">Import</string>
     <string name="device_list_title">Selectaţi un telefon</string>
     <string name="device_other_guide">Celălalt telefon are bluetooth?</string>
@@ -906,6 +905,7 @@ Pentru a adăuga un contact în lista de favorite:
     <string name="preference_others">Altele</string>
     <string name="preference_phone">Telefon</string>
     <string name="preference_phone_more_title">Setări pentru apeluri</string>
+    <string name="preference_privacy_policy_title">Politica de Confidențialitate</string>
     <string name="preference_remove_duplicate">Îmbinaţi contactele dublate</string>
     <string name="preference_show_firewall_calllog">Afișează apelurile blocate în istoricul de apelare</string>
     <string name="preference_show_yellowpage_tab_description">Aplicația Pagini Aurii poate funcționa necorespunzător când această caracteristică este oprită.</string>
@@ -1146,8 +1146,8 @@ Apăsaţi pictograma Îmbinare de mai jos pentru a începe.</string>
     <string name="title_other_devices">Alte dispozitive disponibile</string>
     <string name="title_paired_devices">Dispozitive asociate</string>
     <string name="toast_call_detail_error">Nu se pot citi detaliile pentru apelul solicitat</string>
-    <string name="toast_call_no_SoundRecorder">Aplicația de Înregistrare nu este disponibilă</string>
-    <string name="toast_call_no_notes">Aplicația Notițe nu este disponibilă</string>
+    <string name="toast_call_no_SoundRecorder">"Aplicația de Înregistrare nu este disponibilă"</string>
+    <string name="toast_call_no_notes">"Aplicația Notițe nu este disponibilă"</string>
     <string name="toast_copy_done">Copiat</string>
     <string name="toast_copying">Copiere…</string>
     <string name="toast_displaying_all_contacts">Se afişează toată agenda</string>

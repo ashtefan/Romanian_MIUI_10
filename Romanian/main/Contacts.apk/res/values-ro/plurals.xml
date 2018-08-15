@@ -54,6 +54,10 @@
         <item quantity="other">%1$d contacte importate</item>
         <item quantity="one">%1$d contact importat</item>
      </plurals>
+    <plurals name="device_import_progress_toast_plurals">
+        <item quantity="other">S-au importat %1$d contacte</item>
+        <item quantity="one">S-a importat %1$d contact</item>
+    </plurals>
     <plurals name="dlg_add_blacklist">
         <item quantity="other">Blocaţi aceste %1$d numere de telefon?</item>
         <item quantity="one">Blocaţi %1$d număr de telefon?</item>
