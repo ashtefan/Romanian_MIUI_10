@@ -1167,7 +1167,6 @@ De asemenea, sunteți conectat la o rețea VPN, care vă poate monitoriza activi
     <string name="notification_default_channel_desc">"Această aplicație nu are categorii de notificări"</string>
     <string name="notification_done">Finalizat</string>
     <string name="notification_group_collapse_button_text">Restrângeți</string>
-    <string name="notification_group_divider_symbol">%1$s • %2$s</string>
     <string name="notification_group_overflow_indicator">+%s</string>
     <string name="notification_header_default_channel">Notificări</string>
     <string name="notification_header_title">Notificări</string>
