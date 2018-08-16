@@ -410,7 +410,7 @@ Unele aplicații clonate necesită suportul Google Services Framework. În acest
     <string name="xspace_guide_title">Creați o aplicație clonată</string>
     <string name="xspace_header">Aplicații clonate</string>
     <string name="xspace_install_completed">Pictogramă adăugată pe Ecranul principal</string>
-    <string name="xspace_install_completed">Pictograma adăugată pe Ecranul principal</string>
+    <string name="xspace_install_completed_global">Pictogramă adăugată în perdeaua de notificări</string>
     <string name="xspace_install_failed">"Nu s-a putut crea"</string>
     <string name="xspace_installing">Se instalează…</string>
     <string name="xspace_introduce">Recomandate</string>

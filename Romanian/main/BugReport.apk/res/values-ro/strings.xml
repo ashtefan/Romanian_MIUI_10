@@ -9,7 +9,7 @@
     <string name="app_search">Căutați aplicații</string>
     <string name="btn_send">Trimiteţi</string>
     <string name="bugreport_dialog_not_show_again">"Nu arăta din nou"</string>
-    <string name="bugreport_dialog_submit_content">"În prezent salvați jurnale software pe acest dispozitiv. Jurnalele pot conține informații personale și date despre locație. Nu partajați cu nimeni jurnalele dacă nu doriți ca aceste informații să fie expuse."</string>
+    <string name="bugreport_dialog_submit_content">&lt;Data&gt;"În prezent salvați jurnale software pe acest dispozitiv. Jurnalele pot conține informații personale și date despre locație. Nu partajați cu nimeni jurnalele dacă nu doriți ca aceste informații să fie expuse. Selectând \"De acord\" înseamnă că ați citit și sunteți de acord cu &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Politica de Confidențialitate&amp;lt;/a&amp;gt; și &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;Acordul utilizatorului&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
     <string name="bugreport_dump_complete_notification_summary">Apăsaţi pentru a vizualiza.</string>
     <string name="bugreport_dump_complete_notification_title">Raport de probleme creat</string>
     <string name="bugreport_dump_start_notification_summary">Acest lucru poate dura câteva minute.</string>
@@ -260,6 +260,7 @@
     <string name="plus_one_submit_dialog_content">"Feedback-ul dvs., alături de jurnalurile de eroare vor fi trimise la serverele Mi."</string>
     <string name="plus_one_submit_dialog_not_show_again">Memorare preferinţă</string>
     <string name="post_miui_bbs_failed">"Nu s-a putut posta pe forumul MIUI"</string>
+    <string name="privacy_category_title">Confidențialitate</string>
     <string name="privacy_policy_title">Politica de Confidențialitate</string>
     <string name="pull_to_refresh_pull_label">Glisați în jos pentru a împrospăta</string>
     <string name="pull_to_refresh_refreshing_label">Împrospătare…</string>
@@ -282,8 +283,8 @@
     <string name="select_system_app_tag">Selectați o problemă</string>
     <string name="submit_dialog_cancel">"Nu sunt de acord"</string>
     <string name="submit_dialog_confirm">De acord</string>
-    <string name="submit_dialog_content">"Feedback-ul dvs., împreună cu jurnalele cu erori și imagini atașate, vor fi încărcate pe serverele MIUI. Acestea pot conține informații personale și date despre locația dumneavoastră."</string>
-    <string name="submit_dialog_content_global">"Feedback-ul dumneavoastră, împreună cu atașamentele(dacă există) și rapoartele cu erori(puteți debifa căsuțele corespunzătoare pentru elementele pe care nu doriți să le încărcați), vor fi încărcate pe serverele MIUI și pe o secțiune restricționată a forumului MIUI pentru dezvoltatori. Informațiile despre subiectele dvs. și activitatea pe forum vor fi de asemenea colectate pentru analiză și comunicări ulterioare. Rapoartele cu erori pot conține informații personale și despre locație."</string>
+    <string name="submit_dialog_content">&lt;Data&gt;"Feedback-ul dvs., împreună cu jurnalele cu erori și imagini atașate, vor fi încărcate pe serverele MIUI. Acestea pot conține informații personale și date despre locația dumneavoastră. Selectând \"De acord\" înseamnă că ați citit și sunteți de acord cu &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Politica de Confidențialitate&amp;lt;/a&amp;gt; și &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;Acordul utilizatorului&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
+    <string name="submit_dialog_content_global">&lt;Data&gt;"Feedback-ul dumneavoastră, împreună cu atașamentele(dacă există) și rapoartele cu erori(puteți debifa căsuțele corespunzătoare pentru elementele pe care nu doriți să le încărcați), vor fi încărcate pe serverele MIUI și pe o secțiune restricționată a forumului MIUI pentru dezvoltatori. Informațiile despre subiectele dvs. și activitatea pe forum vor fi de asemenea colectate pentru analiză și comunicări ulterioare. Rapoartele cu erori pot conține informații personale și despre locație. Selectând \"De acord\" înseamnă că ați citit și sunteți de acord cu &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Politica de Confidențialitate&amp;lt;/a&amp;gt; și &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;Acordul utilizatorului&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
     <string name="submit_dialog_title">Trimiteţi raportul cu erori</string>
     <string name="submit_feedback_info_failed">"Nu s-a putut trimite raportul"</string>
     <string name="suggestion_description">Adăugaţi descrierea aici</string>
