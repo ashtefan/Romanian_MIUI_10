@@ -355,6 +355,7 @@
     <string name="petabyteShort">PB</string>
     <string name="phone_search">Căutare Google</string>
     <string name="positive_confirm">OK</string>
+    <string name="pref_about_privacy_title">Politica de Confidențialitate</string>
     <string name="pref_category_title_auto_clean_config_settings">Curățare automată</string>
     <string name="pref_category_title_auto_clean_settings">Memento curăţare</string>
     <string name="pref_category_title_auto_update_cleanup_db">Setări adiţionale</string>

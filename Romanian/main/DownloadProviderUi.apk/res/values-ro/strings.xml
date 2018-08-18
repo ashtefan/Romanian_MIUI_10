@@ -273,6 +273,7 @@ pe toate dispozitivele cu Xunlei"</string>
     <string name="pref_summary_no_limit_popup">Nelimitat</string>
     <string name="pref_title_enable_max_bytes_popup">Afişaţi avertizarea despre utilizarea datelor</string>
     <string name="preferences_title">Setări</string>
+    <string name="privacy_policy">Politica de Confidențialitate</string>
     <string name="privacy_tip_cancel">Anulaţi</string>
     <string name="privacy_tip_content">Utilizați acceleratorul Xunlei pentru a accelera descărcările? URL-ul de descărcare va fi încărcat pe serverele Xunlei. Contul Mi va fi, de asemenea, încărcat pentru a verifica dacă aveți abonamente active la acest serviciu.</string>
     <string name="privacy_tip_ok">OK</string>

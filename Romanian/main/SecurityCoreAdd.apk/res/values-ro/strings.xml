@@ -179,6 +179,7 @@ Le puteți de asemenea descărca separat."</string>
     <string name="loading_space">Doar o secundă…</string>
     <string name="loading_success">Încărcate cu succes</string>
     <string name="lock_screen_open_second_space">Accesați spațiul secundar din Blocarea ecranului</string>
+    <string name="menu_item_about_privacy_title">Politica de Confidențialitate</string>
     <string name="mess ageData">Mesaje</string>
     <string name="msg_switch_file">Ștergeți aceste fișiere din Spațiul Principal după ce vor fi mutate?</string>
     <string name="msg_switch_file_second">Ștergeți aceste fișiere din Spațiul Secundar după ce sunt mutate?</string>

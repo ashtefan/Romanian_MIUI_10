@@ -1124,6 +1124,7 @@ răspunsul operatorului"</string>
     <string name="menu_charge_traffic">Achiziționați date</string>
     <string name="menu_edit">Editați</string>
     <string name="menu_item_about_content">Versiune %s</string>
+    <string name="menu_item_about_privacy_title">Politica de Confidențialitate</string>
     <string name="menu_item_about_summary">Versiune %s</string>
     <string name="menu_item_about_title">Despre</string>
     <string name="menu_item_app_details">Detalii</string>
