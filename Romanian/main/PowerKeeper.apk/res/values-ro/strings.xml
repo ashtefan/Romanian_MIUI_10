@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+    <string name="about_extreme_mode">Modul Extrem de economisire a acumulatorului</string>
     <string name="about_hide_mode">Despre Economisirea acumulatorului</string>
     <string name="action_bar_delete">Ştergeţi</string>
     <string name="action_settings">Setări</string>
@@ -46,6 +47,7 @@ Economisirea acumulatorului va trata selectiv aplicațiile importante."</string>
     <string name="empty_title_apps_container_list">Nicio aplicaţie</string>
     <string name="enable_sleep_mode">Activați modul Somn pentru a optimiza utilizarea acumulatorului pe durata nopții</string>
     <string name="error_filename_too_long">Numele de fișier introdus este prea lung.</string>
+    <string name="extreme_mode_max_item_alert">Doar 4 aplicații pot fi selectate pentru a rula în fundal în modul Extrem de economisire a acumulatorului</string>
     <string name="extreme_power_config_mode_category">Mod extrem</string>
     <string name="extreme_power_config_mode_desc">Comutați la modul Extrem pentru a dezactiva sincronizarea, Bluetooth-ul, GPS-ul, NFC, double tapping, iluminarea butoanelor, pornirea ecranului pentru afișarea notificărilor în blocarea ecranului dar și luminile de notificare. MIUI va acționa pentru economisirea acumulatorului.</string>
     <string name="extreme_power_config_mode_title">Mod Extrem</string>
@@ -57,7 +59,7 @@ Economisirea acumulatorului va trata selectiv aplicațiile importante."</string>
     <string name="full_screen_enter">Intrare în modul ecran complet</string>
     <string name="full_screen_exit">Ieşire din modul ecran complet</string>
     <string name="google_base_app_install_choice">\"%s\" necesită Google Service Framework pentru a rula corespunzător; descărcați și instalați?</string>
-    <string name="hide_mode_desc">Atunci când o aplicație rulează în fundal, activitățile sale vor fi monitorizate pentru a reduce utilizarea acumulatorului</string>
+    <string name="hide_mode_desc">&lt;font color="#000000"&gt;Atunci când o aplicație rulează în fundal, activitățile sale vor fi monitorizate pentru a reduce utilizarea acumulatorului. Această funcție va obține și folosi datele de utilizator conform %s&lt;/font&gt;</string>
     <string name="hide_mode_ultimate_desc">Modul Extrem este activat. Aplicațiile din fundal vor fi înghețate. Dezactivați economisirea acumulatorului pentru a părăsi modul Extrem.</string>
     <string name="hide_system_app">Ascunde aplicațiile de sistem</string>
     <string name="high">Performanţă</string>
@@ -75,6 +77,7 @@ Economisirea acumulatorului va trata selectiv aplicațiile importante."</string>
     <string name="media">Mod Media</string>
     <string name="menu_text_power_analysis">Testare acumulator</string>
     <string name="menu_text_power_configure">Setări acumulator</string>
+    <string name="message_i_know">Înțeleg</string>
     <string name="middle">Echilibrat</string>
     <string name="mode_delete">Ştergeţi</string>
     <string name="mode_export">Export</string>
@@ -181,8 +184,8 @@ Economisirea acumulatorului va trata selectiv aplicațiile importante."</string>
     <string name="power_mode_view_user_define_title">Eveniment nou</string>
     <string name="power_optimize_activity_profile_file_error">Eroare economisire acumulator</string>
     <string name="power_usage">Utilizare energie</string>
-    <string name="ragment_sys_listempty">Nicio aplicație de sistem</string>
-    <string name="reading">Mod Citire</string>
+    <string name="pref_config_title">Optimizarea Performanței</string>
+    <string name="privacy">Politica de Confidențialitate</string>
     <string name="scenario_policies_summary">Aplică diferite strategii de economisire a energiei pentru scenarii diferite</string>
     <string name="scenario_policies_title">Scenarii inteligente</string>
     <string name="scenario_policies_warmcontrol">Controlul temperaturii</string>

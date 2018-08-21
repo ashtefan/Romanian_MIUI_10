@@ -307,6 +307,7 @@
     <string name="available_via_passpoint">Disponibil via %1$s</string>
     <string name="back">Înapoi</string>
     <string name="battery">Acumulator</string>
+    <string name="battery_can_use_time">Aproximativ %s rămas</string>
     <string name="battery_detail_charging_summary">"Economisirea acumulatorului nu este disponibilă pe durata încărcării"</string>
     <string name="battery_detail_switch_summary">Reduce performanța și datele în fundal</string>
     <string name="battery_detail_switch_title">Economisirea acumulatorului</string>
@@ -540,10 +541,17 @@ Dacă reactivaţi datele, puteţi fi taxat de către operator.</string>
     <string name="divider_menu_close">Închideți</string>
     <string name="divider_menu_select_apps">Selectați</string>
     <string name="divider_menu_swap_task">Comutați</string>
+    <string name="dlg_cancel">Renunțați</string>
+    <string name="dlg_confirm">Activați</string>
     <string name="dlg_confirm_kill_storage_users_text">Dacă activaţi stocarea USB, unele aplicaţii pe care le utilizaţi se vor opri şi pot fi inaccesibile până când nu veţi dezactiva stocarea USB.</string>
     <string name="dlg_confirm_kill_storage_users_title">Activaţi stocarea USB</string>
     <string name="dlg_error_title">Operaţiune USB nereuşită</string>
     <string name="dlg_ok">OK</string>
+    <string name="dlg_summary_close_app">Restricționați activitatea și notificările din fundal</string>
+    <string name="dlg_summary_close_theme">Restricționați temele animate</string>
+    <string name="dlg_summary_close_wifi">Dezactivați Wi-Fi, Bluetooth și hotspot-ul portabil</string>
+    <string name="dlg_summary_nfc">Dezactivați NFC</string>
+    <string name="dlg_summary_title">Modul extrem de economisire a acumulatorului oprește toate activitățile din fundal după ce părăsiți o aplicație și reveniți la Ecranul principal. Dacă doriți totuși ca o aplicație să ruleze în fundal, adăugați-o în lista excepțiilor.</string>
     <string name="dnd_is_off">Modul Nu Deranjați este oprit</string>
     <string name="do_disclosure_generic">Acest dispozitiv este gestionat de către organizația dumneavoastră</string>
     <string name="do_disclosure_with_name">Acest dispozitiv este gestionat de către %s</string>
@@ -566,6 +574,7 @@ Dacă reactivaţi datele, puteţi fi taxat de către operator.</string>
     <string name="enable_bluetooth_message">Pentru a conecta tastatura la tabletă, activați mai întâi Bluetooth-ul.</string>
     <string name="enable_bluetooth_title">Activați Bluetooth-ul?</string>
     <string name="enable_demo_mode">Activați modul Demo</string>
+    <string name="enable_extreme_power_save_mode">Modul extrem de economisire a acumulatorului</string>
     <string name="enable_freeform_support">Activați ferestre cu formă liberă</string>
     <string name="enable_freeform_support_summary">Activați suportul pentru ferestrele cu formă liberă.</string>
     <string name="enable_opengl_traces_title">Activați monitorizarea OpenGL</string>
@@ -1214,6 +1223,7 @@ De asemenea, sunteți conectat la o rețea VPN, care vă poate monitoriza activi
     <string name="oldman_airplane_mode_text">Avion</string>
     <string name="oldman_incall_text">Reluare apel</string>
     <string name="open_camera_hint_text">Glisați spre stânga pentru a accesa Camera</string>
+    <string name="open_extreme_power_save_mode_title">Activați modul Extrem de economisire a acumulatorului</string>
     <string name="open_remote_center_hint_text">Glisați spre dreapta pentru a deschide Scurtăturile</string>
     <string name="orb_search_action">Căutați o Acțiune</string>
     <string name="other">Altele</string>

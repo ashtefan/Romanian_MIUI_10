@@ -259,7 +259,7 @@
     <string name="applock_add_account_info">Adăugați contul Mi pentru a vă putea reseta parola în caz că o veți uita.</string>
     <string name="applock_add_account_setting">Cont și confidențialitate</string>
     <string name="applock_bind_account_title">Parolă uitată</string>
-    <string name="applock_close_dialog_summary">Aplicațiile nu vor mai fi protejate iar parola va fi ștearsă după ce veți dezactiva Blocarea aplicațiilor.</string>
+    <string name="applock_close_dialog_summary">Toate aplicațiile ascunse vor fi afișate, scurtăturile lor de pe Ecranul principal vor fi restaurate, iar parola pentru Blocarea aplicațiilor va fi ștearsă. Dezactivați Blocarea aplicațiilor?</string>
     <string name="applock_close_dialog_title">Dezactivați Blocarea aplicațiilor?</string>
     <string name="applock_exit_account_info">Contul va fi eliminat în mod automat când vă veți deconecta</string>
     <string name="applock_header_text_less_than_half">Prea puțin spațiu disponibil. Mutați puțin mai departe.</string>
@@ -721,6 +721,14 @@ Operatorul vă poate taxa suplimentar dacă activați din nou datele mobile."</s
     <string name="exit_dialog_scan_message">"Scorul de performanță al telefonului este mai mic de 75 de puncte. Optimizați acum?"</string>
     <string name="exit_dialog_scan_positive_button">Optimizați</string>
     <string name="exit_dialog_scan_title">Optimizați performanța</string>
+    <string name="extreme_add_white_list_summary">Adăugați până la 4 aplicații</string>
+    <string name="extreme_add_white_list_title">Excepții pentru rularea în fundal</string>
+    <string name="extreme_power_save_description">&lt;li&gt;"Modul Extrem de economisire a acumulatorului oprește toate activitățile din fundal ale unei aplicații după ce o părăsiți și reveniți la Ecranul principal. Această aplicație nu va mai afișa notificări și nici nu va mai primi actualizări."&lt;/li&gt;"
+"&lt;li&gt;Dacă doriți ca o aplicație să ruleze în fundal, blocați-o în Recente sau adăugați-o în lista excepțiilor de mai jos. Maxim 4 aplicații pot rula în fundal când modul Extrem de economisire a acumulatorului este activ.&lt;/li&gt;"
+"&lt;li&gt;Modul Extrem de economisire a acumulatorului dezactivează implicit NFC-ul. Puteți modifica acest lucru în Setări.&lt;/li&gt;"
+"&lt;li&gt;Pentru a vă asigura că puteți utiliza toate caracteristicile telefonului dvs. în mod normal, modul Extrem de economisire a acumulatorului se va dezactiva automat când acumulatorul va fi încârcat la cel puțin 30%.&lt;/li&gt;</string>
+    <string name="extreme_power_save_mode_summary">Modul Extrem de economisire a acumulatorului restricționează activitățile din fundal, oprește sincronizarea și reduce iluminarea ecranului.</string>
+    <string name="extreme_power_save_mode_title">Modul Extrem de economisire a acumulatorului</string>
     <string name="finger_remind_message">Adăugați mai întâi amprenta. Atingeți pentru a merge la Setări.</string>
     <string name="fingerprint_identify_msg">Activați deblocarea cu amprentă</string>
     <string name="fingerprint_not_identified_msg">Pentru a debloca dispozitivul, introduceți parola.</string>
@@ -1279,12 +1287,15 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="note_sms_none">Niciun mesaj</string>
     <string name="notification_battery_consume_abnormal_summary">S-a utilizat %2$s din acumulator în ultimele %1$d minute</string>
     <string name="notification_battery_consume_abnormal_title">Acumulatorul se descărcă foarte rapid</string>
+    <string name="notification_exit_extreme_mode_text">Acumulatorul este încărcat la peste %s</string>
+    <string name="notification_exit_extreme_mode_title">S-a dezactivat modul Extrem de economisire a acumulatorului</string>
     <string name="notification_exit_power_save_mode">Economisirea acumulatorului este dezactivată</string>
     <string name="notification_exit_power_save_mode_subtitle">Acumulator încărcat %s.</string>
     <string name="notification_mask_summary">Ascunde conținutul notificărilor din Blocarea ecranului și din Perdeaua de notificări</string>
     <string name="notification_mask_title">Ascundeți conținutul</string>
     <string name="notification_masked_item">Ascunde notificările</string>
     <string name="notification_masked_subtitle">Ascunde notificările din aplicațiile protejate cu Blocarea aplicațiilor</string>
+    <string name="notification_open_extreme_mode_text">S-a activat modul Extrem de economisire a acumulatorului</string>
     <string name="notification_summary_cmcc_app_check">Atingeți pentru a vizualiza detalii.</string>
     <string name="notify_channel_name_security">Securitate sistem</string>
     <string name="notify_daily_data_usage_body">Pentru a limita în mod automat utilizarea datelor, configuraţi planul lunar de date.</string>
@@ -1613,6 +1624,20 @@ Această activitate scade durata de viață a acumulatorului."</string>
     <string name="preferred_app_entries_launcher">Lansator de sistem</string>
     <string name="preferred_app_entries_messaging">Mesagerie</string>
     <string name="preferred_app_entries_music">Muzică</string>
+    <string name="privacy_apps">Aplicații ascunse</string>
+    <string name="privacy_apps_category_title">Aplicații ascunse</string>
+    <string name="privacy_apps_checkbox_remind_choice">"Nu arăta din nou"</string>
+    <string name="privacy_apps_close">Închideți</string>
+    <string name="privacy_apps_enable_summary">Mutați aplicațiile într-un dosar ascuns și eliminați scurtăturile acestora de pe Ecranul principal</string>
+    <string name="privacy_apps_go_to_use">Începeți</string>
+    <string name="privacy_apps_manage">Gestionați aplicațiile ascunse</string>
+    <string name="privacy_apps_manage_dialog_title">Despre aplicațiile ascunse</string>
+    <string name="privacy_apps_manager_dialog_message">Pentru a putea ascunde aplicații trebuie să setați o parolă de blocare a aplicațiilor. Notificările pentru aplicațiile ascunse vor fi dezactivate. Ascundeți această aplicație?</string>
+    <string name="privacy_apps_tutorial">Tutorial</string>
+    <string name="privacy_apps_tutorial_prompt_pageone">"Atunci când ascundeți o aplicație, aceasta este mutată într-un dosar ascuns. Scurtătura acesteia de pe Ecranul principal va fi de asemenea ascunsă.
+Această funcție nu este disponibilă pentru aplicațiile de sistem."</string>
+    <string name="privacy_apps_tutorial_prompt_pagethree">După ce introduceți parola, dosarul ce conține aplicațiile ascunse va fi afișat.</string>
+    <string name="privacy_apps_tutorial_prompt_pagetwo">"Glisați cu două degete pe ecran. Veți vedea un mesaj care vă cere să introduceți parola pentru Blocarea aplicațiilor."</string>
     <string name="privacy_declare_dialog_title">Condiții de utilizare</string>
     <string name="privacy_dialog_message">"Când vă conectați la internet, acest mesaj împreună cu informațiile despre operator vor fi criptate și încărcate pe serverele Mi pentru a ne ajuta să îmbunătățim monitorizarea utilizării datelor."</string>
     <string name="privacy_mode_dialog_title">Modul Vizitator</string>

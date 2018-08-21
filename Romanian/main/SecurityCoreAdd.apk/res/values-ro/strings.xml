@@ -98,8 +98,13 @@ Asigurați-vă că numele companiei este corect. Citiți și acceptați politici
     <string name="ent_app_verified">Se pare că există aplicații de servici instalate pe telefon. Activați Modul Servici?</string>
     <string name="ent_confirm_dialog_content">"Nu veți putea reveni la starea actuală a sistemului după ce activați modul Servici. Totuși, toate datele vor rămâne în telefon. Va trebui să reporniți telefonul pentru a activa modul Servici. Îl activați acum?"</string>
     <string name="ent_disallow_running">Aplicația este interzis să ruleze</string>
+    <string name="ent_download_install_dialog_content">Trebuie să instalați aplicațiile de Servici pentru a activa acest mod de lucru. Instalați acum?</string>
+    <string name="ent_download_install_dialog_title">Descărcați aplicațiile pentru Servici</string>
+    <string name="ent_downloading_message">Se descarcă %d%%</string>
     <string name="ent_error_dialog_content">Cel puțin unul din codurile introduse este incorect. Verificați codurile corporației și pe cele de licență și introduceți-le din nou.</string>
     <string name="ent_get_code_hint">Puteți obține codurile corporației și cele de licență de la superiorul dumneavoastră</string>
+    <string name="ent_install_dialog_content">Instalați aplicațiile și reporniți acum telefonul?</string>
+    <string name="ent_installing">Se instalează…</string>
     <string name="ent_invalid_agency">Codul Corporației este nevalid.</string>
     <string name="ent_invalid_qr">Codul QR este nevalid.</string>
     <string name="ent_licence_code">Codul de licență</string>
@@ -171,6 +176,8 @@ Le puteți de asemenea descărca separat."</string>
     <string name="import_photo_suc">Fotografii importate</string>
     <string name="input_space_finger">Setați acum</string>
     <string name="input_space_password">Setați acum</string>
+    <string name="install">Instalați</string>
+    <string name="install_error">"Nu s-a putut instala. Încercați din nou."</string>
     <string name="invalid_qr_code">Cod QR invalid</string>
     <string name="list_empty_text">Gol</string>
     <string name="list_empty_text_xspace">Instalați WeChat/QQ/Weibo, creați aplicații clonate și reîncercați.</string>

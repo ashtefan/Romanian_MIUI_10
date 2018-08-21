@@ -335,4 +335,12 @@ Dacă activați din nou datele mobile, operatorul vă poate taxa pentru trafic s
         <item quantity="other">Verificat %d zile la rând</item>
         <item quantity="one">Verificat %d dată</item>
     </plurals>
+    <plurals name="privacy_apps_enable_header_title">
+        <item quantity="other">Se pot ascunde %d aplicații</item>
+        <item quantity="one">Se poate ascunde %d aplicație</item>
+    </plurals>
+    <plurals name="privacy_apps_disable_header_title">
+        <item quantity="other">%d aplicații sunt ascunse</item>
+        <item quantity="one">%d aplicație este ascunsă</item>
+    </plurals>
 </resources>

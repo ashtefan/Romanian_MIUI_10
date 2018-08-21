@@ -1458,6 +1458,7 @@ Această setare afectează toți utilizatorii telefonului."</string>
     <string name="delete_or_keep_legacy_passwords_confirm_msg">Eliminați această amprentă?</string>
     <string name="delete_rule">Ștergeți regulile</string>
     <string name="delete_saved_network">Ștergeți rețelele salvate</string>
+    <string name="delete_sound_effect">\"Ștergeți\" sunetul</string>
     <string name="deleted_apps">Aplicații șterse</string>
     <string name="deletion_helper_automatic_title">Automat</string>
     <string name="deletion_helper_manual_title">Manual</string>
@@ -2304,6 +2305,8 @@ Puteți modifica acest lucru mai târziu în Setări &gt; Aplicații și notific
     <string name="keyboard_shortcuts_helper">Ajutor scurtături tastatură</string>
     <string name="keyboard_shortcuts_helper_summary">Afișează scurtăturile disponibile</string>
     <string name="keyguard_advance_setting_title">Setări avansate</string>
+    <string name="keyguard_security_setting_others">Altele</string>
+    <string name="keyguard_security_setting_privacy_policy">Politica de Confidențialitate</string>
     <string name="keyguard_vertical_clock_title">Ceas vertical</string>
     <string name="keywords_accounts">cont</string>
     <string name="keywords_airplane">Avion;Mod Avion;Aeroplan;Mod Aeroplan;Zbor;Mod Zbor</string>
@@ -4532,6 +4535,7 @@ Acest lucru este posibil datorită unui certificat de încredere instalat pe dis
     <string name="status_bar_settings_notification_shade_shortcut">Scurtătură în perdeaua de notificări</string>
     <string name="status_bar_settings_notification_sound">Sunet</string>
     <string name="status_bar_settings_notification_sound_custom">Sunet personalizat</string>
+    <string name="status_bar_settings_notification_use_app_icon">Utilizați pictogramele aplicației pentru notificări</string>
     <string name="status_bar_settings_notification_vibrate">Vibrare</string>
     <string name="status_bar_settings_show_carrier">Afişare nume operator</string>
     <string name="status_bar_settings_show_carrier_summary">Numele operatorului este în continuare afișat pe blocarea ecranului și în panoul notificărilor, atunci când această opţiune este dezactivată</string>

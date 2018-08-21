@@ -742,6 +742,7 @@ pentru a personaliza Galeria"</string>
     <string name="photo_editor_beautify_auto">Auto</string>
     <string name="photo_editor_beauty_compare">Original</string>
     <string name="photo_editor_crop_and_rotate">Decupare</string>
+    <string name="photo_editor_crop_auto">Auto</string>
     <string name="photo_editor_crop_reset">Resetare</string>
     <string name="photo_editor_crop_rotation_format">%d°</string>
     <string name="photo_editor_doodle">Mâzgălitură</string>

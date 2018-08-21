@@ -12,6 +12,10 @@
         <item>Aplicații active</item>
         <item>Aplicații în hibernare</item>
     </string-array>
+    <string-array name="emode_app_groups">
+        <item>Aplicațiile de sistem</item>
+        <item>Alte aplicații</item>
+    </string-array>
     <string-array name="thermal_entries">
         <item>Mod implicit control temperatură</item>
         <item>Mod performanță</item>
