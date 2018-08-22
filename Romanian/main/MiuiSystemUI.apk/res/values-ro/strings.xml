@@ -1365,6 +1365,7 @@ De asemenea, sunteți conectat la o rețea VPN, care vă poate monitoriza activi
     <string name="quick_settings_drivemode_label">Mod Automobil</string>
     <string name="quick_settings_dual_location_label">GPS dual</string>
     <string name="quick_settings_edit_label">Mai multe</string>
+    <string name="quick_settings_extreme_batterysaver_label">Modul Extrem de economisire a acumulatorului</string>
     <string name="quick_settings_flashlight_label">Lanternă</string>
     <string name="quick_settings_gps_label">GPS</string>
     <string name="quick_settings_hotspot_label">Hotspot</string>

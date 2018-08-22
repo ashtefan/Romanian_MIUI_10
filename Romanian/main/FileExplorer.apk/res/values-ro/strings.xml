@@ -405,6 +405,7 @@
     <string name="operation_reply">Comentariu</string>
     <string name="operation_send">Trimiteţi</string>
     <string name="operation_share">Partajați</string>
+    <string name="operation_show_privacy_policy">Arată politica de confidențialitate</string>
     <string name="operation_show_sys">Se afişează fişierele ascunse</string>
     <string name="operation_unfavorite">Eliminaţi din favorite</string>
     <string name="original_user_desc">Încărcați în mod regulat videoclipuri originale pentru a căștiga titlul de Creator</string>

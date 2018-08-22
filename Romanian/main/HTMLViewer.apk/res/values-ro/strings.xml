@@ -10,6 +10,7 @@
 accesați %s de pe alt dispozitiv conectat"</string>
     <string name="loading">Doar o secundă…</string>
     <string name="mibi_license">Acordul utilizatorului pentru serviciul Mi Credit</string>
+    <string name="open_wifi_connect_and_use_data_summary">continuați pentru a utiliza traficul, atingeți pentru a comuta la Wi-Fi și a verifica.</string>
     <string name="open_wifi_connect_summary">Atingeți pentru a vedea detalii.</string>
     <string name="open_wifi_connect_title">Conectat la %1$s</string>
     <string name="permdesc_accessDrm">Permite aplicației să acceseze conținutul protejat DRM.</string>

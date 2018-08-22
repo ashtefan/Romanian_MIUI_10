@@ -199,8 +199,9 @@
     <string name="toast_cancel_to_insert_image">"Nu s-a putut adăuga imaginea."</string>
     <string name="toast_message_add_image_fail">Adăugarea imaginii a eşuat</string>
     <string name="toast_notes_delete_success">Eliminată cu succces</string>
-    <string name="toast_notes_hidden">Ascunsă cu succes</string>
     <string name="toast_notes_hidden_count">%1$s ascunse su succes</string>
+    <string name="toast_notes_hidden_edit">Această notiță a fost ascunsă cu succes. Glisați în jos pentru a vedea notițele ascunse.</string>
+    <string name="toast_notes_hidden_home">Această notiță a fost ascunsă cu succes. Glisați în jos pentru a vedea notițele ascunse.</string>
     <string name="toast_notes_unhidden">Eliminată din ascunse cu succes</string>
     <string name="toast_notes_unhidden_count">%1$s nu mai sunt ascunse</string>
     <string name="toast_reach_text_limit_attachment">Nu puteţi adăuga atașamente noi pentru că nota este prea lungă</string>
