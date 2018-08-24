@@ -335,6 +335,10 @@ Dacă activați din nou datele mobile, operatorul vă poate taxa pentru trafic s
         <item quantity="other">Verificat %d zile la rând</item>
         <item quantity="one">Verificat %d dată</item>
     </plurals>
+    <plurals name="hide_txt_hint_with_blank_2">
+        <item quantity="other">    încă +%1$d caractere</item>
+        <item quantity="one">    încă +%1$d caracter</item>
+    </plurals>
     <plurals name="privacy_apps_enable_header_title">
         <item quantity="other">Se pot ascunde %d aplicații</item>
         <item quantity="one">Se poate ascunde %d aplicație</item>
@@ -342,5 +346,9 @@ Dacă activați din nou datele mobile, operatorul vă poate taxa pentru trafic s
     <plurals name="privacy_apps_disable_header_title">
         <item quantity="other">%d aplicații sunt ascunse</item>
         <item quantity="one">%d aplicație este ascunsă</item>
+    </plurals>
+    <plurals name="first_aid_result_summary_exception">
+        <item quantity="other">%1$d probleme necesită optimizare</item>
+        <item quantity="one">%1$d problemă necesită optimizare</item>
     </plurals>
 </resources>

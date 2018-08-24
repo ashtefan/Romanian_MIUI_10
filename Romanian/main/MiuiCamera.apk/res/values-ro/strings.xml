@@ -34,6 +34,7 @@
     <string name="accessibility_hdr_off">HDR oprit</string>
     <string name="accessibility_hdr_on">HDR activ</string>
     <string name="accessibility_intent_done_apply">Finalizat</string>
+    <string name="accessibility_intent_done_retry">Reluați</string>
     <string name="accessibility_mode_dismiss_button">Buton Închidere Selectare Moduri</string>
     <string name="accessibility_more">Mai multe</string>
     <string name="accessibility_open">Activat</string>
@@ -635,5 +636,6 @@ pentru a scoate în evidență chipul persoanei."</string>
     <string name="video_effect_entry_polaroid">Polaroid</string>
     <string name="video_file_name_format">"'VID'_yyyyMMdd_HHmmss"</string>
     <string name="video_reach_size_limit">Limită de dimensiune atinsă</string>
+    <string name="view_privacy_policy">Vizualizați Politica de Confidențialitate</string>
     <string name="wait">O secundă…</string>
 </resources>
