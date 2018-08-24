@@ -220,21 +220,33 @@
         <item quantity="other">%1$d comutatoare vor apărea în fereastra de notificări</item>
         <item quantity="one">%1$d comutator va apărea în fereastra de notificări</item>
     </plurals>
+    <plurals name="show_audio_logcat_countdown">
+        <item quantity="other">%1$d pași până la obținerea jurnalului audio</item>
+        <item quantity="one">%1$d pas până la obținerea jurnalului audio</item>
+    </plurals>
     <plurals name="show_cit_countdown">
-        <item quantity="other">Mai aveți de parcurs %1$d pași pentru a porni CIT.</item>
-        <item quantity="one">Mai aveți de parcurs %1$d pas pentru a porni CIT.</item>
+        <item quantity="other">"Mai aveți de parcurs %1$d pași pentru a porni CIT."</item>
+        <item quantity="one">"Mai aveți de parcurs %1$d pas pentru a porni CIT."</item>
     </plurals>
     <plurals name="show_dev_countdown">
         <item quantity="other">Mai aveți de parcurs %1$d pași pentru a deveni dezvoltator.</item>
         <item quantity="one">Mai aveți de parcurs %1$d pas pentru a deveni dezvoltator.</item>
     </plurals>
+    <plurals name="show_gps_logcat_countdown">
+        <item quantity="other">%1$d pași până la obținerea jurnalului GPS</item>
+        <item quantity="one">%1$d pas până la obținerea jurnalului GPS</item>
+    </plurals>
+    <plurals name="show_modem_logcat_countdown">
+        <item quantity="other">%1$d pași până la obținerea jurnalului modem</item>
+        <item quantity="one">%1$d pas până la obținerea jurnalului modem</item>
+    </plurals>
     <plurals name="show_pho_countdown">
-        <item quantity="other">Mai aveți de parcurs %1$d pași pentru a vizualiza informaţiile despre telefon.</item>
-        <item quantity="one">Mai aveți de parcurs %1$d pas pentru a vizualiza informaţiile despre telefon.</item>
+        <item quantity="other">"Mai aveți de parcurs %1$d pași pentru a vizualiza informaţiile despre telefon."</item>
+        <item quantity="one">"Mai aveți de parcurs %1$d pas pentru a vizualiza informaţiile despre telefon."</item>
     </plurals>
     <plurals name="show_rep_countdown">
-        <item quantity="other">Mai aveți de parcurs %1$d pași pentru a raporta o problemă.</item>
-        <item quantity="one">Mai aveți de parcurs %1$d pas pentru a raporta o problemă.</item>
+        <item quantity="other">"Mai aveți de parcurs %1$d pași pentru a raporta o problemă."</item>
+        <item quantity="one">"Mai aveți de parcurs %1$d pas pentru a raporta o problemă."</item>
     </plurals>
     <plurals name="show_reset_countdown">
         <item quantity="other">Parcurgeți %1$d pași pentru a reveni la setările din fabrică</item>

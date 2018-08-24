@@ -1860,6 +1860,7 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="section_title_system">Securitatea sistemului</string>
     <string name="security_scan_optimizing">Optimizare…</string>
     <string name="see_detail">Detalii</string>
+    <string name="see_more_content">Actualizați centrul de jocuri pentru a vedea mai multe noutăți</string>
     <string name="set_applock_password">Setați parola</string>
     <string name="set_mixed_password_name">Setați parola</string>
     <string name="set_numeric_password_name">Setați codul PIN</string>

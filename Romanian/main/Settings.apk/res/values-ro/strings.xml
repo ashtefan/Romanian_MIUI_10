@@ -3813,6 +3813,7 @@ Această setare afectează toţi utilizatorii acestui telefon."</string>
     <string name="saved_wifi">Gestionați rețelele Wi-Fi salvate</string>
     <string name="saved_wifi_delete">Ștergeți</string>
     <string name="scan_list_label">Rezultate scanare:</string>
+    <string name="sccret_code_error">Codul introdus este incorect.</string>
     <string name="screen">Ecran</string>
     <string name="screen_button">Butoane ecran</string>
     <string name="screen_button_tips">Glisați în jos pentru a ascunde butoanele de pe ecran</string>
@@ -4589,6 +4590,9 @@ Acest lucru este posibil datorită unui certificat de încredere instalat pe dis
     <string name="status_wimax_mac_address">Adresă MAC 4G</string>
     <string name="status_write_success">Succes!</string>
     <string name="statusbar_permission_desc">Următoarele permisiuni sunt disponibile doar pentru notificările importante</string>
+    <string name="stop_upload_audio_log">S-a finalizat obținerea jurnalului audio</string>
+    <string name="stop_upload_gps_log">S-a finalizat obținerea jurnalului GPS</string>
+    <string name="stop_upload_modem_log">S-a finalizat obținerea jurnalului modem</string>
     <string name="storage_detail_apps">Aplicații</string>
     <string name="storage_detail_audio">Audio</string>
     <string name="storage_detail_cached">Date în memoria cache</string>
@@ -5104,8 +5108,11 @@ Amprentele salvate vor fi de asemenea eliminate din acest profil și nu veți ma
     <string name="untitled_apn">Fără titlu</string>
     <string name="update_new_version">Este disponibilă o actualizare</string>
     <string name="update_progress_for_updates">Actualizare (%s)</string>
+    <string name="upload_audio_log">Porniți obținerea jurnalului audio</string>
     <string name="upload_debug_log_summary">Statisticile de utilizare care ne ajută să localizăm și să rezolvăm problemele pot include informații personale</string>
     <string name="upload_debug_log_title">Trimiteți date de diagnosticare în mod automat</string>
+    <string name="upload_gps_log">Porniți obținerea jurnalului GPS</string>
+    <string name="upload_modem_log">Porniți obținerea jurnalului modem</string>
     <string name="usage">Utilizare</string>
     <string name="usage_access">Acces la utilizare</string>
     <string name="usage_access_description">Accesul la utilizare permite unei aplicații să monitorizeze ce alte aplicații utilizați și cât de des, precum și operatorul, setările de limbă și alte detalii.</string>
