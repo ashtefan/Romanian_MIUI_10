@@ -695,7 +695,6 @@ Operatorul vă poate taxa suplimentar dacă activați din nou datele mobile."</s
     <string name="downloading">Se descarcă</string>
     <string name="dual_setting_simcard1">SIM 1</string>
     <string name="dual_setting_simcard2">SIM 2</string>
-    <string name="ellipsis">…</string>
     <string name="email">E-mail</string>
     <string name="empty_activity_title">" "</string>
     <string name="empty_app">Nicio aplicație</string>
@@ -746,9 +745,7 @@ Operatorul vă poate taxa suplimentar dacă activați din nou datele mobile."</s
     <string name="exo_download_notification_channel_name">Descărcări</string>
     <string name="exo_download_removing">Se elimină descărcările</string>
     <string name="exo_item_list">%1$s, %2$s</string>
-    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Mono</string>
-    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_selection_auto">Auto</string>
     <string name="exo_track_selection_none">Niciunul</string>
     <string name="exo_track_selection_title_audio">Audio</string>
