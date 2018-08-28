@@ -404,10 +404,11 @@ Cartelele de contact sunt dezactivate"</string>
     <string name="dialer_menu_description">Apăsați pentru a accesa tastatura</string>
     <string name="dialer_menu_title">Opțiuni meniu</string>
     <string name="dialer_returnToInCallScreen">Reveniţi la apelul în curs</string>
+    <string name="dialer_title_divider">" ｜ "</string>
     <string name="dialer_useDtmfDialpad">Utilizaţi tastatura DTMF</string>
     <string name="dialog_import">Importaţi Agenda</string>
     <string name="dialog_import_export">Import/Export contacte</string>
-    <string name="dialog_new_contact_account">Creaţi un contact în contul</string>
+    <string name="dialog_new_contact_account">Creaţi contacte în cont</string>
     <string name="dialog_new_group_account">Creaţi un grup în contul</string>
     <string name="dialog_phone_call_prohibited_message">Apelul nu a fost trimis</string>
     <string name="dialog_sync_add">Adăugaţi un grup de sincronizare</string>

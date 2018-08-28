@@ -1860,6 +1860,8 @@ Pentru mai multe detalii, contactați administratorul organizației."</string>
     <string name="factory_reset_summary">"Ștergeți toate datele din memoria internă a telefonului"</string>
     <string name="failed_to_check_find_device_status_content">Nu s-a putut stabili starea serviciului Localizare dispozitiv. Reîncercați peste un minut sau două.</string>
     <string name="failed_to_check_find_device_status_title">"Nu s-a putut stabili starea serviciului Localizare dispozitiv"</string>
+    <string name="failed_to_erase_text">Vă rugăm să dezactivați parola de blocare a ecranului înainte de a face operațiunea 1217.</string>
+    <string name="failed_to_erase_title">Operațiune interzisă</string>
     <string name="failed_to_open_app_settings_toast">Deschiderea setărilor pentru %1$s a eşuat</string>
     <string name="failed_to_shut_down_find_device_content">"Nu s-a putut opri serviciul Localizare dispozitiv. Reîncercați peste un minut sau două."</string>
     <string name="failed_to_shut_down_find_device_title">"Nu s-a putut opri serviciul Localizare dispozitiv"</string>
@@ -2962,6 +2964,9 @@ Selectaţi sistemul de operare de mai jos:"</string>
     <string name="nature_color">Implicit</string>
     <string name="navigation_guide_app_summary">Glisați spre stânga sau spre dreapta de la marginea ecranului din partea superioară a acestuia</string>
     <string name="navigation_guide_app_title">"Declanșează acțiunea aplicației"</string>
+    <string name="navigation_guide_appswitch_anim_summary">Glisați în lungul ecranului pornind de la margine pentru a reveni la aplicația anterioară</string>
+    <string name="navigation_guide_appswitch_anim_title">Treceți la aplicația anterioară</string>
+    <string name="navigation_guide_appswitch_click">Activați opțiunea \"Treceți la aplicația anterioară\" mai întâi</string>
     <string name="navigation_guide_appswitch_summary">Glisați spre stânga sau spre dreapta de la marginea ecranului și mențineți o perioadă</string>
     <string name="navigation_guide_appswitch_title">Comutați la aplicația anterioară</string>
     <string name="navigation_guide_back_summary">Glisați spre stânga sau spre dreapta de la marginea ecranului</string>
@@ -3340,7 +3345,7 @@ Acest lucru va permite aplicației să comute modul Nu deranjați și să modifi
     <string name="pick_up_gesture_wakeup_title">Trezire la ridicarea dispozitivului</string>
     <string name="picture_color_mode">Mod culoare</string>
     <string name="picture_color_mode_desc">Utilizați sRGB</string>
-    <string name="picture_in_picture_app_detail_summary">"Permite acestei aplicații să creeze o fereastră imagine-în-imagine cât timp aplicația este activă sau după ce o părăsiți(de exemplu, pentru a continua să vizualizați un videoclip). Această fereastră va fi afișată peste alte aplicații "</string>
+    <string name="picture_in_picture_app_detail_summary">"Permite acestei aplicații să creeze o fereastră imagine-în-imagine cât timp aplicația este activă sau după ce o părăsiți(de exemplu, pentru a continua să vizualizați un videoclip). Această fereastră va fi afișată peste celelalte aplicații pe care le utilizați."</string>
     <string name="picture_in_picture_app_detail_switch">Permite modul imagine-în-imagine</string>
     <string name="picture_in_picture_app_detail_title">Imagine-în-imagine</string>
     <string name="picture_in_picture_empty_text">Nicio aplicație instalată nu permite Imagine-în-imagine</string>

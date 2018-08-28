@@ -351,6 +351,8 @@
     <string name="preference_follow_wechat_title">WeChat</string>
     <string name="preference_follow_weibo_summary">\@MIUI</string>
     <string name="preference_follow_weibo_title">Sina Weibo</string>
+    <string name="preference_other">Altele</string>
+    <string name="preference_privacy_title">Politica de Confidențialitate</string>
     <string name="preference_settings">Setări</string>
     <string name="preference_use_degress_summary">Înlocuiți radianii cu unghiuri în funcțiile trigonometrice</string>
     <string name="preference_use_degress_title">Utilizați unghiuri</string>
