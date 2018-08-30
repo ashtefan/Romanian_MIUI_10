@@ -410,10 +410,6 @@
     <string name="resource_ranking">Populare</string>
     <string name="resource_ranking_free">Gratuite</string>
     <string name="resource_ranking_purchase">Cu plată</string>
-    <string name="resource_ring_ranking_list_divider">-</string>
-    <string name="resource_ring_ranking_list_rank_1">1</string>
-    <string name="resource_ring_ranking_list_rank_2">2</string>
-    <string name="resource_ring_ranking_list_rank_3">3</string>
     <string name="resource_ringtone_default">Tonuri de apel</string>
     <string name="resource_ringtone_playing_error">Eroare de redare</string>
     <string name="resource_ringtone_volume_mute">Modul Silenţios este activat</string>
