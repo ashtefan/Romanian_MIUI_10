@@ -1078,7 +1078,8 @@ Această caracteristică poate fi dezactivată din [Setări]"</string>
     <string name="charge_length_format">cu %1$s în urmă</string>
     <string name="charging_sounds_title">Sunet acumulator încărcat complet</string>
     <string name="check_find_device_status_failure_confirm">OK</string>
-    <string name="check_importance">Marcați ca important?</string>
+    <string name="check_importance">Reguli pentru gruparea notificărilor</string>
+    <string name="check_importance_dialog_cancel">Renunțați</string>
     <string name="check_update">Verificaţi pentru actualizări</string>
     <string name="checkbox_notification_same_as_incoming_call">Utilizaţi volumul apelurilor pentru notificări</string>
     <string name="checking_decryption">Verificare…</string>
@@ -1104,8 +1105,11 @@ Această caracteristică poate fi dezactivată din [Setări]"</string>
     <string name="clear_instant_app_data">Eliminați aplicația</string>
     <string name="clear_uri_btn_text">Revocați accesul</string>
     <string name="clear_user_data_text">Ștergeți datele</string>
+    <string name="close_aod">"Această caracteristică nu poate fi combinată cu \"Modul Activ permanent\". Dezactivați \"Modul Activ permanent\" mai întâi."</string>
     <string name="close_app">Închiderea aplicației curente</string>
     <string name="close_demo_mode">Renunțați</string>
+    <string name="close_fod">"Nu veți mai putea debloca telefonul cu amprenta atunci când ecranul este oprit. Deblocarea cu amprentă va funcționa doar când ecranul este activ."</string>
+    <string name="close_fod_aod">"Nu veți mai putea debloca telefonul cu amprenta atunci când ecranul este oprit. \"Modul Activ permanent\" nu va mai fi disponibil, de asemenea. Deblocarea cu amprentă va funcționa doar când ecranul este activ."</string>
     <string name="close_gesture">Închidere utilizând gesturi</string>
     <string name="close_miui_optimization_title">Dezactivați optimizarea MIUI</string>
     <string name="close_optimization_message">Dispunerea textului, conturile și alte componente ale MIUI pot fi afectate după ce veți dezactiva această caracteristică.</string>
@@ -2113,6 +2117,7 @@ Când activați crearea automată a copiei de rezervă, datele dispozitivului ș
     <string name="handy_mode_enable">Mod Operare cu o mână</string>
     <string name="handy_mode_size">Dimensiune ecran</string>
     <string name="handy_mode_tips">Glisați spre stânga sau spre dreapta de la butonul Acasă pentru a minimiza ecranul mai aproape de-o parte sau de alta.</string>
+    <string name="handy_mode_tips_full_screen">"Atunci când utilizați gesturi pe ecranul complet, puteți activa modul Utilizare cu o mână utilizând Asistentul de ecran. Puteți de asemenea comuta la utilizarea butoanelor în locul gesturilor pe ecran complet."</string>
     <string name="haptic_feedback_enable_title">Vibrare la atingere</string>
     <string name="haptic_feedback_level">Intensitate vibrare</string>
     <string name="hardkeyboard_category">Setări pentru tastatura fizică</string>
@@ -4922,6 +4927,7 @@ O abordare Google asupra sincronizării datelor, care vă permite accesul la age
     <string name="title_hdmi_color_calibration">Presetare corecţie de culoare</string>
     <string name="title_layout_current">Dimensiunea textului</string>
     <string name="title_layout_current2">Dimensiunea textului</string>
+    <string name="to_close">Dezactivați</string>
     <string name="toast_lockscreen_glogin_empty_password">Introduceţi parola</string>
     <string name="toast_need_login">Conectaţi-vă la contul dvs. Mi</string>
     <string name="total">Nu deranjați</string>

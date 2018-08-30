@@ -332,6 +332,7 @@
     <string name="uninstall_xspace_dialog_title_format">Dezinstalați aplicația clonată \"%s\"?</string>
     <string name="unknown_artist_name">Artist necunoscut</string>
     <string name="unnamed_folder_name">Dosar</string>
+    <string name="use_theme_screen_cells_title">Permiteți temei să se suprapună peste dispunerea ecranului</string>
     <string name="wallpaper">Imagine de fundal</string>
     <string name="wallpaper_auto_change_title">Blocare ecran</string>
     <string name="wallpaper_failed_message">"Nu s-a putut aplica imaginea de fundal"</string>

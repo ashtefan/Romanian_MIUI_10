@@ -762,7 +762,7 @@ Operatorul vă poate taxa suplimentar dacă activați din nou datele mobile."</s
 "&lt;li&gt;Dacă doriți ca o aplicație să ruleze în fundal, blocați-o în Recente sau adăugați-o în lista excepțiilor de mai jos. Maxim 4 aplicații pot rula în fundal când modul Extrem de economisire a acumulatorului este activ.&lt;/li&gt;"
 "&lt;li&gt;Modul Extrem de economisire a acumulatorului dezactivează implicit NFC-ul. Puteți modifica acest lucru în Setări.&lt;/li&gt;"
 "&lt;li&gt;Pentru a vă asigura că puteți utiliza toate caracteristicile telefonului dvs. în mod normal, modul Extrem de economisire a acumulatorului se va dezactiva automat când acumulatorul va fi încârcat la cel puțin 30%.&lt;/li&gt;</string>
-    <string name="extreme_power_save_mode_summary">Modul Extrem de economisire a acumulatorului restricționează activitățile din fundal, oprește sincronizarea și reduce iluminarea ecranului.</string>
+    <string name="extreme_power_save_mode_summary">Modul Extrem de economisire a acumulatorului restricționează activitățile din fundal și oprește sincronizarea.</string>
     <string name="extreme_power_save_mode_title">Modul Extrem de economisire a acumulatorului</string>
     <string name="finger_remind_message">Adăugați mai întâi amprenta. Atingeți pentru a merge la Setări.</string>
     <string name="fingerprint_identify_msg">Activați deblocarea cu amprentă</string>
