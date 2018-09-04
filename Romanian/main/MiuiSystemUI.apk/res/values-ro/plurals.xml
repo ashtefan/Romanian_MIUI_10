@@ -64,6 +64,18 @@
         <item quantity="other">%1$d h și %2$d m</item>
         <item quantity="one">%1$d h și %2$d m</item>
     </plurals>
+    <plurals name="keyguard_extreme_power_info_could_use_hour_time_text">
+        <item quantity="other">%d ore disponibile</item>
+        <item quantity="one">%d oră disponibil</item>
+    </plurals>
+    <plurals name="keyguard_extreme_power_info_could_use_min_time_text">
+        <item quantity="other">%d minute disponibile</item>
+        <item quantity="one">%d minut disponibil</item>
+    </plurals>
+    <plurals name="keyguard_extreme_power_info_could_use_time_text">
+        <item quantity="other">%1$d h și %2$d m disponibile</item>
+        <item quantity="one">%1$d h și %2$d m disponibil</item>
+    </plurals>
     <plurals name="kg_password_default_pin_message">
         <item quantity="other">Introduceți codul PIN SIM, mai aveți %d încercări rămase.</item>
         <item quantity="one">Introduceți codul PIN SIM, mai aveți %d încercare rămasă până când va trebui să contactați operatorul pentru deblocarea telefonului.</item>

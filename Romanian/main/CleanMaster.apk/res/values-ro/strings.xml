@@ -340,7 +340,7 @@
     <string name="notify_when">Atenționează-mă când dimensiunea coșului de gunoi atinge 100 MB</string>
     <string name="ok">OK</string>
     <string name="onekeyclean_boost_available">%s disponibil</string>
-    <string name="onekeyclean_boost_cleaned">%s Golit</string>
+    <string name="onekeyclean_boost_cleaned">Golit %s</string>
     <string name="onekeyclean_boosted_title">Golit cu succes</string>
     <string name="onekeyclean_boosting_title">Creștere viteză</string>
     <string name="onekeyclean_card_btn">Curățați acum</string>

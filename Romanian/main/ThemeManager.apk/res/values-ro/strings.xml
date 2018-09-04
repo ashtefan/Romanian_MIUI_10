@@ -99,6 +99,9 @@
     <string name="download_failed">"Nu s-a putut descărca"</string>
     <string name="download_preview_failed">Încărcarea previzualizării a eşuat</string>
     <string name="download_success">Descărcare finalizată</string>
+    <string name="exit_extreme_mode_dialog_agree">De acord</string>
+    <string name="exit_extreme_mode_dialog_cancel">Renunț</string>
+    <string name="exit_extreme_mode_dialog_title">Dezactivați modul Extrem</string>
     <string name="exo_controls_fastforward_description">Repede înainte</string>
     <string name="exo_controls_fullscreen_description">Mod ecran complet</string>
     <string name="exo_controls_next_description">Piesa următoare</string>
@@ -129,6 +132,9 @@
     <string name="exo_track_surround_5_point_1">Sunet surround 5.1</string>
     <string name="exo_track_surround_7_point_1">Sunet surround 7.1</string>
     <string name="exo_track_unknown">Unknown</string>
+    <string name="extreme_mode_dialog_message">"Această caracteristică nu este disponibilă în modul Extrem. Dezactivați modul Extrem pentru a o putea utiliza."</string>
+    <string name="extreme_mode_dialog_ok">Am înțeles</string>
+    <string name="extreme_mode_dialog_title">Alertă</string>
     <string name="fail_to_add_account">Nu s-a putut adăuga contul</string>
     <string name="favorite_list">Favorite</string>
     <string name="favorite_list_format">Favorit %1$s</string>

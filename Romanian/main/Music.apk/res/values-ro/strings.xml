@@ -69,6 +69,7 @@
     <string name="album_label">Coperți de album</string>
     <string name="album_name">Album</string>
     <string name="album_search_title">Album</string>
+    <string name="all_album_count">Toate albumele (%d)</string>
     <string name="all_artist">Toţi artiştii</string>
     <string name="all_downloads">Toate descărcările</string>
     <string name="all_fileter">Toate</string>
@@ -264,8 +265,9 @@ este oferit în principal de către Ultimate Inc."</string>
     <string name="dialog_media_not_found">"Nu se poate descărca. Cardul SD nu este disponibil."</string>
     <string name="dialog_not_show_again">"Nu arăta din nou"</string>
     <string name="dialog_queued_body">Acest fișier este în coada de așteptare pentru descărcarea ulterioară.</string>
-    <string name="dialog_show_more_backup">Sincronizați melodiile locale</string>
-    <string name="dialog_show_more_optimize_all">Optimizați informațiile despre melodie</string>
+    <string name="dialog_renew_failure">Ne pare rău; acțiunea a eșuat</string>
+    <string name="dialog_renew_positive_text">DA, DORESC SĂ FIU PRO</string>
+    <string name="dialog_renew_success">Mulțumim pentru confirmare</string>
     <string name="dialog_song_sort_type">Sortați melodiile</string>
     <string name="dialog_song_sort_type_name">După nume</string>
     <string name="dialog_song_sort_type_playing_times">După numărul redărilor</string>
@@ -316,6 +318,8 @@ este oferit în principal de către Ultimate Inc."</string>
     <string name="download_confirm_text">Muzică Mi va descărca și instala \"%s\"</string>
     <string name="download_connect_wifi_dialog_message">Trebuie să fiți conectat la Wi-Fi pentru a descărca această melodie. Vă conectați acum?</string>
     <string name="download_connect_wifi_dialog_title">Conectați-vă la Wi-Fi</string>
+    <string name="download_dialog_fail">"Nu s-a putut descărca"</string>
+    <string name="download_dialog_success">Descărcată cu succes</string>
     <string name="download_done_btn">Descărcată</string>
     <string name="download_error">Eșuat</string>
     <string name="download_error_insufficient_space">Spațiu insuficient</string>
@@ -336,6 +340,8 @@ este oferit în principal de către Ultimate Inc."</string>
     <string name="download_paused_in_power_save_mode">Sarcinile de descărcare sunt oprite când modul Economisire energie este activ</string>
     <string name="download_pending">Se așteaptă descărcarea</string>
     <string name="download_processing">Descărcare…</string>
+    <string name="download_progress">%d%%</string>
+    <string name="download_progress_detail" formatted="false">%.1fM/%.1fM</string>
     <string name="download_quality">Calitate descărcare</string>
     <string name="download_quality_summary">Setări suplimentare pentru melodiile pe care le descărcați</string>
     <string name="download_queued">Pusă în coada de așteptare</string>
@@ -372,9 +378,11 @@ este oferit în principal de către Ultimate Inc."</string>
     <string name="downloading_apk">Se descarcă… Vedeți progresul în Peredeaua de notificări.</string>
     <string name="downloading_empty">Gol</string>
     <string name="downloading_pause_apk">Oprit. Reluați descărcarea din Perdeaua de notificări.</string>
-    <string name="downloads_operating">Descărcare…</string>
-    <string name="editmode_menu_delete">Ștergeți</string>
-    <string name="editmode_menu_share">Distribuiți</string>
+    <string name="due_date">Data expirării: %s</string>
+    <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
+    <string name="durationformatshort">%2$d:%5$02d</string>
+    <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
+    <string name="edit_playlist_info">Editați informațiile listei de redare</string>
     <string name="empty_page_no_album">Niciun album.</string>
     <string name="empty_page_no_artist">Niciun artist.</string>
     <string name="empty_page_no_document">Niciun fişier audio.</string>
@@ -384,6 +392,7 @@ este oferit în principal de către Ultimate Inc."</string>
     <string name="enable_auto_payment_success">Reînnoire în mod automat</string>
     <string name="enable_auto_payment_success_message">Reînnoirea automată a fost activată. Următoarea achitare: %s.</string>
     <string name="enabled">Activat</string>
+    <string name="enjoy_hungama_pro">Bucurați-vă de Hungama PRO</string>
     <string name="enter_garbage_clean">Curăță stocarea internă.</string>
     <string name="eq_auto">Personalizată</string>
     <string name="eq_blues">Blues</string>
@@ -513,6 +522,7 @@ este oferit în principal de către Ultimate Inc."</string>
     <string name="global_search_title_prenatal">Muzică prenatală</string>
     <string name="global_search_title_radar">Recunoaștere melodii</string>
     <string name="handle_later">Nu acum</string>
+    <string name="hd_quality_audio">Calitate audio HD</string>
     <string name="headset_and_audio_effect_category">Căști și efecte audio</string>
     <string name="headset_and_audio_effect_summary">Căști și egalizator</string>
     <string name="headset_and_audio_effect_title">Căști și efecte audio</string>
@@ -524,9 +534,11 @@ este oferit în principal de către Ultimate Inc."</string>
     <string name="home_tab_online">Muzică online</string>
     <string name="hot_icon_in_fast_indexer">H</string>
     <string name="hungama">Hungama</string>
+    <string name="hungama_batch_download_alert_summary">Doar membrii PRO pot descărca mai multe melodii. Vreți să deveniți membru PRO acum?</string>
     <string name="hungama_category_playlist">Listă de redare</string>
     <string name="hungama_category_radio">Radio</string>
     <string name="hungama_category_video">Video</string>
+    <string name="hungama_free_download_out_summary">"Nu mai puteți descărca melodii în mod gratuit. Vreți să obțineți titlu de membru PRO pentru a descărca nelimitat melodii?"</string>
     <string name="hungama_pro">Hungama Pro</string>
     <string name="hungama_subscribe_message">Cumpărați titlul de membru PRO pentru a descărca muzică la calitate înaltă</string>
     <string name="hungama_subscribe_positive_button">Cumpărați titlul de membru PRO</string>
@@ -541,6 +553,10 @@ este oferit în principal de către Ultimate Inc."</string>
     <string name="impunity_declaration_summary">Afişaţi Termenii Serviciului de fiecare dată când se deschide aplicația Muzică</string>
     <string name="impunity_declaration_title">Termenii Serviciului</string>
     <string name="in_searching_please_wait">Căutare…</string>
+    <string name="individuation_card_login_button">Autentificați-vă</string>
+    <string name="individuation_card_login_message">"Autentificați-vă pentru a descoperi mai multe melodii pe care le îndrăgiți"</string>
+    <string name="individuation_card_title">Pentru dumneavoastră</string>
+    <string name="individuation_cart_login_title">Doriți să vedeți mai multe recomandări?</string>
     <string name="individuation_recommend_message">Activați recomandările pentru a primi sugestii personalizate bazate pe preferințele dvs.</string>
     <string name="individuation_recommend_switch_message">Dezactivarea acestei caracterisitici va afecta serviciile personalizate Muzică Mi. Dezactivați oricum?</string>
     <string name="individuation_recommend_title">Recomandări</string>
@@ -821,6 +837,7 @@ este oferit în principal de către Ultimate Inc."</string>
     <string name="privacy_tip_content">"Utilizați acceleratorul Xunlei pentru creșterea vitezei de descărcare? URL-ul de descărcare va fi încărcat în serverele Xunlei. De asemenea se vor încărca și detaliile contului dvs Mi pentru verificarea abonării la acest serviciu."</string>
     <string name="privacy_tip_ok">OK</string>
     <string name="privacy_tip_title">Utilizați acceleratorul Xunlei?</string>
+    <string name="pro_member">Membru PRO</string>
     <string name="project_device">Telefon Mi</string>
     <string name="project_device_mobile">Dispozitiv mobil</string>
     <string name="prompt_grant_write_settings_permission">Permiteți modificarea setărilor de sistem</string>
@@ -860,10 +877,8 @@ este oferit în principal de către Ultimate Inc."</string>
     <string name="remaining">Rămas în această lună:</string>
     <string name="remove">Eliminaţi</string>
     <string name="remove_download">Eliminați</string>
-    <string name="remove_from_nowplaying">Eliminați din lista de redare</string>
-    <string name="renew">Reînnoiţi:</string>
-    <string name="renew_1">Reînnoiţi</string>
-    <string name="renew_period">"Expiră la: "</string>
+    <string name="renew_dialog_title">"Go Pro
+Be Happy"</string>
     <string name="repeat_all_notif">Se repetă toate melodiile.</string>
     <string name="repeat_current_notif">Se repetă melodia actuală.</string>
     <string name="request_share_info">Doar o secundă…</string>
@@ -883,8 +898,7 @@ este oferit în principal de către Ultimate Inc."</string>
     <string name="s5">Creați un eveniment în calendar</string>
     <string name="s6">Permiteți serviciului de Reclame să creeze un eveniment în calendar?</string>
     <string name="s7">Testați serviciul de Reclame</string>
-    <string name="save">Salvați</string>
-    <string name="save_to_playlist">Salvați ca listă de redare</string>
+    <string name="save_changes">Salvați modificările</string>
     <string name="search_album_and_lyric">Căutați coperți de albume și versuri</string>
     <string name="search_empty">"Nu s-a găsit nimic"</string>
     <string name="search_for_album">Album</string>
@@ -959,6 +973,7 @@ este oferit în principal de către Ultimate Inc."</string>
     <string name="sleep_mode_canceled">Temporizator oprit</string>
     <string name="sleep_mode_summary">Se opreşte redarea după un anumit timp</string>
     <string name="sleep_mode_title">Temporizator</string>
+    <string name="sliding_pro_center">Centrul PRO</string>
     <string name="song_exist_in_playlist">Melodia există deja în lista de redare</string>
     <string name="song_info">Detalii melodie</string>
     <string name="song_is_empty">Numele melodiei nu poate fi necompletat.</string>
@@ -1064,6 +1079,8 @@ este oferit în principal de către Ultimate Inc."</string>
     <string name="ultra_high_quality">Cea mai ridicată</string>
     <string name="unknown_album_name">Album necunoscut</string>
     <string name="unknown_artist_name">Artist necunoscut</string>
+    <string name="unlimited_downloads">Descărcări nelimitate</string>
+    <string name="unlimited_offline_songs">Melodii offline nelimitate</string>
     <string name="update_now">ACTUALIZAȚI ACUM</string>
     <string name="upgrade">Actualizare:</string>
     <string name="upgrade_force">"Am întrerupt serviciul nostru actual de streaming din cauza unor probleme de drepturi de autor. Actualizaţi la cea mai nouă versiune a aplicației Muzică pentru a asculta muzică la calitate înaltă."</string>
@@ -1089,7 +1106,7 @@ este oferit în principal de către Ultimate Inc."</string>
     <string name="vip_renew_message">"Nu veţi putea să ascultaţi muzică la calitate înaltă, dar unele melodii vor fi disponibile la calitate standard."</string>
     <string name="vip_renew_title">Abonament expirat</string>
     <string name="vip_required">Obțineți un pachet de Melodii Premium pentru a reda această melodie. Deocamdată a fost exclusă din listă.</string>
-    <string name="vip_required_with_song">Obțineți un pachet de Melodii Premium pentru a reda “%s”. Deocamdată a fost exclusă din listă.</string>
+    <string name="vip_required_with_song">%s este disponibil doar membrilor PRO. Această melodie a fost omisă acum.</string>
     <string name="vip_tomorrow_auto_renew_message">Abonamentul dvs. de Muzică va fi reînnoit în mod automat mâine seară. Asigurați-vă că aveți suficiente credite Mi în cont pentru a finaliza această plată.</string>
     <string name="vip_tomorrow_renew_message">"Nu veți mai putea reda muzică online la calitate ridicată, dar unele melodii vor fi disponibile la calitate standard."</string>
     <string name="warning_tip_cancel">Descărcați</string>
