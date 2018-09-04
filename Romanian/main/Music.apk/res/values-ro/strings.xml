@@ -340,8 +340,6 @@ este oferit în principal de către Ultimate Inc."</string>
     <string name="download_paused_in_power_save_mode">Sarcinile de descărcare sunt oprite când modul Economisire energie este activ</string>
     <string name="download_pending">Se așteaptă descărcarea</string>
     <string name="download_processing">Descărcare…</string>
-    <string name="download_progress">%d%%</string>
-    <string name="download_progress_detail" formatted="false">%.1fM/%.1fM</string>
     <string name="download_quality">Calitate descărcare</string>
     <string name="download_quality_summary">Setări suplimentare pentru melodiile pe care le descărcați</string>
     <string name="download_queued">Pusă în coada de așteptare</string>
@@ -379,9 +377,6 @@ este oferit în principal de către Ultimate Inc."</string>
     <string name="downloading_empty">Gol</string>
     <string name="downloading_pause_apk">Oprit. Reluați descărcarea din Perdeaua de notificări.</string>
     <string name="due_date">Data expirării: %s</string>
-    <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
-    <string name="durationformatshort">%2$d:%5$02d</string>
-    <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
     <string name="edit_playlist_info">Editați informațiile listei de redare</string>
     <string name="empty_page_no_album">Niciun album.</string>
     <string name="empty_page_no_artist">Niciun artist.</string>
