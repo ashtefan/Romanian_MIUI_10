@@ -100,8 +100,11 @@ Trebuie să acceptați Politica de Confidențialitate Kika înainte de a utiliza
     <string name="terms_privacy_policy_input_method_kika">Politica de Confidențialitate Kika</string>
     <string name="title_fingerprint">Setați parola</string>
     <string name="user_agreement">Termenii serviciului</string>
+    <string name="voice_assist_advice">Mi AI vă permite să utilizați controale vocale, însă consumă mai multă energie (+1% în fiecare oră).</string>
+    <string name="voice_assist_condition">"Veți putea utiliza Mi AI în aceste cazuri:
+1. Când ecranul este pornit.
+2. Când ascultați muzică cu ecranul stins."</string>
     <string name="voice_assist_desp">Rostiți \"Mi AI\" în telefon. Asistentul vocal Mi vă va recunoaște vocea și va putea controla telefonul.</string>
-    <string name="voice_assist_desp_screen_light">După ce ecranul se deschide, rostiți \"Mi AI\" în telefon. Mi AI vă va recunoaște vocea și veți putea controla telefonul.</string>
     <string name="voice_assist_title">Trezire prin voce</string>
     <string name="welcome">Bine aţi venit</string>
 </resources>

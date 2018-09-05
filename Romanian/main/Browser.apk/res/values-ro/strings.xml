@@ -230,6 +230,9 @@
     <string name="data_monitor">Monitorizare utilizare date</string>
     <string name="data_monitor_dialog_message">Se pare că ceva vă crește traficul de date mobile. Deschideți pagina de pornire pentru a opri acest lucru.</string>
     <string name="data_traffic_continue">Continuați</string>
+    <string name="data_traffic_download_cancel">Renunțați</string>
+    <string name="data_traffic_download_prompt">Videoclipul curent poate fi descărcat doar prin Wi-Fi</string>
+    <string name="data_traffic_download_setting">Setări</string>
     <string name="data_traffic_goto">Trafic liber de date</string>
     <string name="data_traffic_prompt_free_data">Utilizarea datelor mobile pentru a urmări videoclipuri va crește utilizarea datelor mobile. Vă rugăm să obțineți un plan gratuit de date.</string>
     <string name="data_traffic_prompt_message">Utilizarea datelor mobile pentru a urmări videoclipuri va crește utilizarea datelor mobile. Dacă depășiți limita de date, operatorul vă poate taxa suplimentar.</string>

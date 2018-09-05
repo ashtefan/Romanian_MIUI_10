@@ -506,6 +506,8 @@
     <string name="toast_select_white_need_remove">Selectaţi elementele pentru a fi şterse</string>
     <string name="toast_selecte_group_restore_succeed">Fotografii restabilite</string>
     <string name="toast_uninstall_success">Dezinstalare finalizată</string>
+    <string name="toast_updater_close_4g_text">"Aplicațiile nu vor putea fi actualizate utilizând datele mobile (4G)"</string>
+    <string name="toast_updater_open_4g_text">Aplicațiile vor fi actualizate utilizând datele mobile (4G)</string>
     <string name="total_clean">Curățat în total: %s</string>
     <string name="total_clean_text">Curățat</string>
     <string name="unlike">Nu, mulțumesc</string>

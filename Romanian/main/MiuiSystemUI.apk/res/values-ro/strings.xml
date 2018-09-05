@@ -1057,6 +1057,7 @@ Utilizați doar încărcătorul furnizat de producător."</string>
     <string name="miui_ringer_standard_description">Redu la tăcere sunetele de apel pentru apelurile primite și pentru notificări</string>
     <string name="miui_ringer_total">Nu deranjați</string>
     <string name="miui_ringer_total_description">Redu la tăcere sunetele și dezactivează vibrațiile pentru toate elementele, exceptând alarma</string>
+    <string name="miui_screen_rotation_freeze_message">Rotire automată dezactivată.</string>
     <string name="miui_toast_zen_dnd_to_off">Sunetele și vibrațiile au fost restabilite la Normal</string>
     <string name="miui_toast_zen_standard_to_off">Sunetele de apel au fost restabilite la Normal</string>
     <string name="miui_toast_zen_standard_to_off_when_shield_media">Sunetele de apel, ca și sunetele pentru notificări și cele multimedia, vor fi redate.</string>
@@ -1559,6 +1560,8 @@ monitorizată"</string>
     <string name="status_bar_clear_all_button">Goliți</string>
     <string name="status_bar_clock_date_format">EEEE, d MMMM</string>
     <string name="status_bar_clock_date_format_12">EEEE, d MMMM</string>
+    <string name="status_bar_clock_date_time_format">H:mm d MMMM</string>
+    <string name="status_bar_clock_date_time_format_12">aah:mm d MMMM</string>
     <string name="status_bar_date_format">"EEEE
 d MMMM"</string>
     <string name="status_bar_date_format_12">"EEEE

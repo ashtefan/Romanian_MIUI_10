@@ -4532,9 +4532,11 @@ Acest lucru este posibil datorită unui certificat de încredere instalat pe dis
     <string name="status_bar_settings_basic_settings">Setări de bază</string>
     <string name="status_bar_settings_custom_carrier">Editați numele operatorului</string>
     <string name="status_bar_settings_custom_wifi_name">Editaţi numele Wi-Fi</string>
+    <string name="status_bar_settings_customer_feedback">feedback</string>
     <string name="status_bar_settings_enable_notification">Afişare notificări</string>
     <string name="status_bar_settings_expand_top_notification">Extindeți notificarea din partea superioară</string>
     <string name="status_bar_settings_expandable_under_keyguard">Arată în blocarea securizată a ecranului</string>
+    <string name="status_bar_settings_function_description">Despre această funcție</string>
     <string name="status_bar_settings_long_click_sort">Apăsați și țineți apăsat pentru a alege un comutator</string>
     <string name="status_bar_settings_manage_notification">Notificările aplicaţiilor</string>
     <string name="status_bar_settings_no_carrier">Niciunul</string>
@@ -4565,6 +4567,11 @@ Acest lucru este posibil datorită unui certificat de încredere instalat pe dis
     <string name="status_bar_settings_toggle_collapse_after_clicked">Se restrânge după atingere</string>
     <string name="status_bar_settings_toggle_position">Poziţia comutatoarelor</string>
     <string name="status_bar_settings_user_fold">Dosar notificări</string>
+    <string name="status_bar_settings_user_fold_description1">Dosarul de notificări a fost introdus de la MIUI 9. Acestă funcție filtrează notificările neimportante și le grupează într-un dosar separat.</string>
+    <string name="status_bar_settings_user_fold_description2">MIUI va reține notificările pe care le atingeți și apoi va utiliza criterii multiple pentru a determina dacă acestea sunt importante.</string>
+    <string name="status_bar_settings_user_fold_description3">"Dacă notificările pe care dvs. le considerați importante ajung în continuare în dosarul de Notificări, raportați-ne acest lucru. Vom aprecia feedback-ul dvs."</string>
+    <string name="status_bar_settings_user_fold_disable">Oprit</string>
+    <string name="status_bar_settings_user_fold_enable">Pornit</string>
     <string name="status_bar_settings_user_fold_summary">Toate notificările neimportante vor fi afișate într-un dosar separat</string>
     <string name="status_bar_style_list">Combinate</string>
     <string name="status_bar_style_page">Separate</string>

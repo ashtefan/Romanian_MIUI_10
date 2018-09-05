@@ -424,7 +424,7 @@ Sample Rate"</string>
     <string name="card_title_MOcall_forwarding">Apel efectuat redirecționat</string>
     <string name="card_title_MTcall_forwarding">Apelul primit este redirecționat</string>
     <string name="card_title_call_deflected">Apel deviat</string>
-    <string name="card_title_call_ended">Apel încheiat</string>
+    <string name="card_title_call_ended">"Apel încheiat "</string>
     <string name="card_title_callconnectedect">Apel conectat prin transfer explicit de apel</string>
     <string name="card_title_callconnectingect">Conectare apel prin transfer explicit de apel</string>
     <string name="card_title_calliswaiting">Apel în așteptare</string>
@@ -444,7 +444,7 @@ Sample Rate"</string>
     <string name="card_title_incoming_barred">Apelurile primite sunt restricționate</string>
     <string name="card_title_incoming_call">Apel de intrare</string>
     <string name="card_title_multipartycall">Apel Multiparty</string>
-    <string name="card_title_on_hold">În aşteptare</string>
+    <string name="card_title_on_hold">"În aşteptare "</string>
     <string name="card_title_outgoing_barred">Apelurile efectuate sunt restricționate</string>
     <string name="card_title_redialing">Se încearcă din nou</string>
     <string name="card_title_unconditionalCF">Redirecționarea necondiționată a apelurilor este activată</string>
