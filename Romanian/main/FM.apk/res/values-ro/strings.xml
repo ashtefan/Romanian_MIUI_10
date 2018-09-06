@@ -58,7 +58,6 @@
     <string name="toast_sleep_mode">Radio FM se va opri în %s</string>
     <string name="toast_sleep_mode_exit">Deconectare automată anulată</string>
     <string name="turn_off_fm">Dezactivaţi radio FM</string>
-    <string name="txt_divider">" | "</string>
     <string name="txt_sleep_mode">Modul repaus</string>
     <string name="using_recorder_cancel">Refuzați</string>
     <string name="using_recorder_confirm">Permiteți</string>
