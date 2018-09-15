@@ -134,6 +134,7 @@ Nu puteți mări zona tastaturii și bara de navigare."</string>
     <string name="accessibility_shortcut_service_on_lock_screen_title">Permiteți din blocarea ecranului</string>
     <string name="accessibility_shortcut_service_title">Scurtătură serviciu</string>
     <string name="accessibility_summary_default_combination">%1$s / %2$s</string>
+    <string name="accessibility_summary_source">Furnizat de către %s</string>
     <string name="accessibility_summary_state_disabled">OPRIT</string>
     <string name="accessibility_summary_state_enabled">PORNIT</string>
     <string name="accessibility_sync_disabled">Sincronizare dezactivată</string>
@@ -1244,6 +1245,7 @@ Această caracteristică poate fi dezactivată din [Setări]"</string>
     <string name="credentials_reset_warning_plural">Parolă incorectă. Mai aveţi dreptul la %1$d încercări înainte ca stocarea acreditărilor să fie ştearsă.</string>
     <string name="credentials_settings_not_available">Setările pentru stocarea acreditărilor nu sunt accesibile acestui cont de utilizator</string>
     <string name="credentials_title">Stocarea acreditărilor</string>
+    <string name="credentials_title_verification">Verificare</string>
     <string name="credentials_unlock" />
     <string name="credentials_unlock_hint">Introduceţi parola pentru spaţiul de stocare a certificatelor.</string>
     <string name="credentials_wrong_password">Parolă incorectă.</string>

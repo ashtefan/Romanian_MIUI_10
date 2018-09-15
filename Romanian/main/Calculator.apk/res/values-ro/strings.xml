@@ -472,8 +472,10 @@
     <string name="tax_param_error">Introduceți corect primele de asigurare</string>
     <string name="tax_result_real_get">După impozitare</string>
     <string name="tax_social_insurance">Asigurare socială</string>
-  <string name="tax_thershold_foreign">%s (Foreign nationals)</string>
-  <string name="tax_thershold_native">%s (Mainland China)</string>
+    <string name="tax_thershold_foreign">%s (Monede naționale străine)</string>
+    <string name="tax_thershold_native">%s (Mainland China)</string>
+    <string name="tax_thershold_native_new">%s (nouă)</string>
+    <string name="tax_thershold_native_new_description">Taxele vor fi calculate în conformitate cu noile legi de impozitare începând cu 1 Octombrie 2018</string>
     <string name="tax_threshold">Prag lipsă impozitare</string>
     <string name="tax_title_primary"/>
     <string name="tax_title_secondary"/>
@@ -563,7 +565,7 @@
   <string name="unit_data_display_currency_nok">Norwegian krone</string>
   <string name="unit_data_display_currency_nzd">New Zealand dollar</string>
   <string name="unit_data_display_currency_omr">Omani rial</string>
-  <string name="unit_data_display_currency_php">Philippine piso</string>
+  <string name="unit_data_display_currency_php">Peso filipinez</string>
   <string name="unit_data_display_currency_pln">Polish złoty</string>
   <string name="unit_data_display_currency_qar">Qatari riyal</string>
     <string name="unit_data_display_currency_ron">Leu românesc</string>
@@ -693,7 +695,7 @@
     <string name="unit_data_short_length_cun">cun</string>
     <string name="unit_data_short_length_dm">dm</string>
     <string name="unit_data_short_length_fen">fen</string>
-    <string name="unit_data_short_length_fm">fm</string>
+    <string name="unit_data_short_length_fm">ftm</string>
     <string name="unit_data_short_length_ft">ft</string>
     <string name="unit_data_short_length_fur">fur</string>
     <string name="unit_data_short_length_gongli">gongli</string>

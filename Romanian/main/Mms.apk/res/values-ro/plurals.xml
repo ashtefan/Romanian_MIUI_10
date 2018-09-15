@@ -31,6 +31,10 @@
         <item quantity="zero">%d mesaje</item>
         <item quantity="one">%d mesaj</item>
     </plurals>
+    <plurals name="mark_number_dialog_subtitle">
+        <item quantity="other">Marcat ca %2$s de către %1$d persoane</item>
+        <item quantity="one">Marcat ca %2$s de către %1$d persoană</item>
+    </plurals>
     <plurals name="message_count">
         <item quantity="other">%1$s mesaje</item>
         <item quantity="one">%1$s mesaj</item>

@@ -21,6 +21,7 @@
     <string name="add_to_secret_successful">Adăugat în albumul secret</string>
     <string name="add_to_share_album_not_delete">"Nu se poate șterge fotografia din Albumul Partajat"</string>
     <string name="added_to_favorites">Adăugată la Favorite</string>
+    <string name="added_to_favorites_desc">Adăugată la Favorite</string>
     <string name="added_to_favorites_tip">Adăugată în albumul \"Favorite\"</string>
     <string name="adding">Adăugare…</string>
     <string name="adding_recipients">Adăugare destinatari…</string>
@@ -98,7 +99,7 @@
     <string name="app_name_view_picture">Vizualizare imagini</string>
     <string name="app_name_view_video">Vizualizare videoclipuri</string>
     <string name="apply">Aplicaţi</string>
-    <string name="assistant_page_label">Asistent</string>
+    <string name="assistant_page_label">Povești</string>
     <string name="associate_face_album">Selectați un album</string>
     <string name="auto_backup_introduce">Faceți în mod automat o copie de rezervă pentru fotografii și videoclipuri. Pentru ca această caracteristică să funcționeze în mod normal este necesar un cont Mi.</string>
     <string name="auto_download_media_title">Descărcați fotografiile din Mi Cloud în mod automat</string>
@@ -202,6 +203,25 @@
     <string name="cannot_remove_creator">Nu se poate elimina creatorul</string>
     <string name="cannot_send_message">Imposibil de trimis mesajul</string>
     <string name="cannot_send_message_reason">Niciun destinatar valid</string>
+    <string name="card_delete_description">"Această poveste nu va mai apărea din nou. O ștergeți oricum?"</string>
+    <string name="card_delete_negative_text">Renunțați</string>
+    <string name="card_delete_positive_text">Ștergeți</string>
+    <string name="card_delete_title">Ștergeți povestea</string>
+    <string name="card_title_annual_selection">Trecere în revistă a anului</string>
+  <string name="card_title_from_to">%1$s - %2$s</string>
+  <string name="card_title_last2years_someone">BFFs</string>
+    <string name="card_title_last_week_end">Weekend-ul trecut</string>
+    <string name="card_title_last_year_today">În această zi anul trecut</string>
+    <string name="card_title_lastweek_meet">Împreună</string>
+    <string name="card_title_one_day">O zi memorabilă</string>
+    <string name="card_title_past_year_today">În această zi de-a lungul anilor</string>
+    <string name="card_title_period_last_month">"Trecerea în revistă a lunii trecute"</string>
+    <string name="card_title_period_last_week">"Trecerea în revistă a săptămânii trecute"</string>
+    <string name="card_title_period_six_month">Ultimele 6 luni</string>
+    <string name="card_title_period_three_month">Ultimele 3 luni</string>
+    <string name="card_title_recent_place">%1$s recent</string>
+    <string name="card_title_someone">Prietenie</string>
+  <string name="card_title_somewhere">%1$s</string>
     <string name="cast_devices_unavailable_desc">Asigurați-vă că acest telefon dar și proiectorul sunt conectate la aceeași rețea Wi-Fi</string>
     <string name="cast_devices_unavailable_title">"Nu s-a găsit proiectorul"</string>
     <string name="change_to_face_mode">Afișați doar chipul</string>
@@ -226,7 +246,7 @@
     <string name="cleaner_screen_shot_action">Goliți</string>
     <string name="cleaner_screen_shot_description">Ștergeți capturile de ecran de care nu mai aveți nevoie.</string>
     <string name="cleaner_screen_shot_title">Ștergeți capturile de ecran</string>
-    <string name="cleaner_slim_action">Se pornește optimizarea…</string>
+    <string name="cleaner_slim_action">Porniți optimizarea</string>
     <string name="cleaner_slim_description">Păstrați elementele optimizate pe telefon. Fișierele originale vor fi stocate în Mi Cloud.</string>
     <string name="cleaner_slim_start">Optimizați</string>
     <string name="cleaner_slim_title">Optimizați fotografiile</string>
@@ -368,6 +388,7 @@
     <string name="empty_recommend_back">Înapoi</string>
     <string name="empty_recommend_face_page_view">Nu mai există recomandări</string>
     <string name="empty_relation">"Numele grupului nu poate fi necompletat"</string>
+    <string name="empty_title_no_cards">Poveștile dumneavoastră vor apărea aici.</string>
     <string name="empty_title_no_photos">Nicio fotografie sau videoclip</string>
     <string name="enable_auto_upload_tip">Activați sincronizarea cu MiCloud pentru acest album?</string>
     <string name="enable_auto_upload_title">Activați sincronizarea cu Mi Cloud</string>
@@ -649,6 +670,7 @@ pentru a personaliza Galeria"</string>
     <string name="merge_album_title">Asociați cu o persoană</string>
     <string name="messagelist_sender_self">Eu</string>
     <string name="micloud_introduce">Salvați în mod automat fotografiile și videoclipurile(este necesar un cont Mi)</string>
+    <string name="more">Mai multe</string>
     <string name="more_album_hint">, etc.</string>
     <string name="more_face">Mai multe persoane care seamănă</string>
     <string name="more_face_album_name">Mai multe persoane</string>
@@ -699,6 +721,7 @@ pentru a personaliza Galeria"</string>
     <string name="operation_edit_video">Editați</string>
     <string name="operation_enable_auto_upload">Activați sincronizarea cu Mi Cloud</string>
     <string name="operation_failed">Operaţiune eşuată</string>
+    <string name="operation_favorites">Favorite</string>
     <string name="operation_force_top">Fixați</string>
     <string name="operation_hide">Faceți invizibil</string>
     <string name="operation_in_process">Procesare…</string>
@@ -917,6 +940,7 @@ pentru a personaliza Galeria"</string>
     <string name="remove_from_secret_successful">Eliminat din albumul secret</string>
     <string name="remove_to_album_title">Asociați cu</string>
     <string name="remove_to_other_album">Asociați cu o altă persoană</string>
+    <string name="removed_from_favorites_desc">Eliminată din Favorite</string>
     <string name="remover_edit_type_free">Obiecte</string>
     <string name="remover_edit_type_line">Linii</string>
     <string name="remover_erase_aera_too_big">Aria de ștergere este prea mare</string>
@@ -925,6 +949,8 @@ pentru a personaliza Galeria"</string>
     <string name="rename_album">Redenumiți albumul</string>
     <string name="rename_album_failed">"Nu s-a putut redenumi"</string>
     <string name="rename_album_succeeded">Redenumit cu succes</string>
+    <string name="rename_dialog_hint">Introduceți titlul</string>
+    <string name="rename_dialog_title">Redenumiți povestea</string>
     <string name="rename_face_album">Schimbaţi numele</string>
     <string name="rename_fail_msg">Schimbare nume eşuată</string>
     <string name="rename_from_contact">Nume din agendă</string>
@@ -1084,6 +1110,14 @@ pentru a personaliza Galeria"</string>
     <string name="storage_description_usb">Stocarea USB</string>
     <string name="storage_description_xspace">Date aplicații duale</string>
     <string name="storage_no_space">Spațiu insuficient</string>
+    <string name="story_action_remove">Ștergeți din poveste</string>
+    <string name="story_action_share">Partajați</string>
+    <string name="story_option_menu_rename">Redenumiți</string>
+    <string name="story_remove_confirm_message">"Fotografiile eliminate nu vor mai apărea în poveste. Le veți putea găsi totuși în Galerie."</string>
+    <string name="story_remove_confirm_positive">Eliminați</string>
+    <string name="story_remove_confirm_title">Se elimină fotografiile</string>
+    <string name="story_rename_invalid_char">"Nu se poate utiliza \"%s\" în titlul poveștii. Utilizați litere, cifre și caractere chinezești."</string>
+    <string name="story_rename_invalid_prefix">"Titlul poveștii nu poate începe cu \".\" sau \"_\""</string>
     <string name="sub_discard_confirm_message">Salvați modificările?</string>
     <string name="sub_discard_negative_btn">Renunțați</string>
     <string name="sub_discard_positive_btn">Salvați</string>

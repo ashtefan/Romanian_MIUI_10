@@ -65,6 +65,7 @@
     <string name="other_settings_user_experience">Programul Experiență Utilizator</string>
     <string name="other_settings_user_experience_summary">Ajutați la îmbunătățirea produselor și a serviciilor pe care vi le oferim prin trimiterea datelor de utilizare anonime. Detalii</string>
     <string name="other_settings_user_experience_summary_index">Detalii</string>
+    <string name="poco_agree_terms_other">(Inclusiv Politica de Confidențialitate a lansatorului POCO și Acordul Utilizatorului)</string>
     <string name="pref_title_data_slot">Cartela SIM preferată pentru date</string>
     <string name="pref_title_voice_slot">Cartela SIM preferată pentru voce</string>
     <string name="privacy_policy">Politica de confidențialitate</string>

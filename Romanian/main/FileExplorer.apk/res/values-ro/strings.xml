@@ -119,10 +119,10 @@
     <string name="count_down">Numărătoare inversă: %1$s</string>
     <string name="create_shortcut_success">Scurtătură adăugată cu succes</string>
     <string name="daily_clockin">Verificați</string>
-    <string name="data_consumption_cancel">Ieşire</string>
+    <string name="data_consumption_cancel">"Nu sunt de acord"</string>
     <string name="data_consumption_checkbox_hint">"Nu se afişează din nou"</string>
     <string name="data_consumption_confirm">OK</string>
-    <string name="data_consumption_message">Această aplicație necesită o conexiune la internet prin Wi-Fi pentru a funcţiona în mod normal.</string>
+    <string name="data_consumption_message">"Exploratorul de fișiere trebuie să se conecteze la rețea pe durata utilizării. Sunteți de acord?"</string>
     <string name="data_consumption_message1">Exploratorul de fișiere trebuie să se conecteze la internet pentru a putea vedea stickerele și videoclipurile populare.</string>
     <string name="data_consumption_title">Conexiune internet</string>
     <string name="decompress_cancel">Anulaţi</string>

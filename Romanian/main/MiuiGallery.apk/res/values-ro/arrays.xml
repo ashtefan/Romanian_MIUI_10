@@ -43,4 +43,89 @@
         <item>Bunic din partea mamei</item>
         <item>Bunică din partea mamei</item>
     </string-array>
+    <string-array name="card_last_week_day">
+        <item>Lunea trecută</item>
+        <item>Marțea trecută</item>
+        <item>Miercurea trecută</item>
+        <item>Joia trecută</item>
+        <item>Vinerea trecută</item>
+    </string-array>
+    <string-array name="chinese_holiday_last_year">
+        <item>"Ajunul Noului An Chinezesc trecut"</item>
+        <item>Anul Nou Chinezesc trecut</item>
+        <item>Festivalul Lanternelor trecut</item>
+        <item>Festivalul Bărcilor Dragonilor trecut</item>
+        <item>Festivalul Qixi trecut</item>
+        <item>Festivalul de la Mijlocul Toamnei trecut</item>
+    </string-array>
+    <string-array name="chinese_holiday_past_year">
+        <item>"Ajunul Noului An Chinezesc de-a lungul anilor"</item>
+        <item>Anul Nou Chinezesc de-a lungul anilor</item>
+        <item>Festivalul Lanternelor de-a lungul anilor</item>
+        <item>Festivalul Bărcilor Dragonilor de-a lungul anilor</item>
+        <item>Festivalul Qixi de-a lungul anilor</item>
+        <item>Festivalul de la Mijlocul Toamnei de-a lungul anilor</item>
+    </string-array>
+    <string-array name="holiday_last_year">
+        <item>"Ziua Anului Nou trecut"</item>
+        <item>"Ziua Sf. Valentin trecut"</item>
+        <item>Ziua Muncii trecută</item>
+        <item>"Ziua Copilului trecută"</item>
+        <item>Ziua Națională trecută</item>
+        <item>Crăciunul trecut</item>
+    </string-array>
+    <string-array name="holiday_past_year">
+        <item>"Ziua Anului Nou de-a lungul anilor"</item>
+        <item>"Ziua Sf. Valentin de-a lungul anilor"</item>
+        <item>Ziua Muncii de-a lungul anilor</item>
+        <item>"Ziua Copilului de-a lungul anilor"</item>
+        <item>Ziua Națională de-a lungul anilor</item>
+        <item>Crăciunul de-a lungul anilor</item>
+    </string-array>
+    <string-array name="month_last_year">
+        <item>Ianuarie anul trecut</item>
+        <item>Februarie anul trecut</item>
+        <item>Martie anul trecut</item>
+        <item>Aprilie anul trecut</item>
+        <item>Mai anul trecut</item>
+        <item>Iunie anul trecut</item>
+        <item>Iulie anul trecut</item>
+        <item>August anul trecut</item>
+        <item>Septembrie anul trecut</item>
+        <item>Octombrie anul trecut</item>
+        <item>Noiembrie anul trecut</item>
+        <item>Decembrie anul trecut</item>
+    </string-array>
+    <string-array name="month_past_year">
+        <item>Amintiri din Ianuarie</item>
+        <item>Amintiri din Februarie</item>
+        <item>Amintiri din Martie</item>
+        <item>Amintiri din Aprilie</item>
+        <item>Amintiri din Mai</item>
+        <item>Amintiri din Iunie</item>
+        <item>Amintiri din Iulie</item>
+        <item>Amintiri din August</item>
+        <item>Amintiri din Septembrie</item>
+        <item>Amintiri din Octombrie</item>
+        <item>Amintiri din Noiembrie</item>
+        <item>Amintiri din Decembrie</item>
+    </string-array>
+    <string-array name="season_last_year">
+        <item>Primăvara trecută</item>
+        <item>Vara trecută</item>
+        <item>Toamna trecută</item>
+        <item>Iarna trecută</item>
+    </string-array>
+    <string-array name="season_past_year">
+        <item>Amintiri din primăvară</item>
+        <item>Amintiri din vară</item>
+        <item>Amintiri din toamnă</item>
+        <item>Amintiri din iarnă</item>
+    </string-array>
+    <string-array name="season_recap">
+        <item>Trecere în revistă primăvară</item>
+        <item>Trecere în revistă vară</item>
+        <item>Trecere în revistă toamnă</item>
+        <item>Trecere în revistă iarnă</item>
+    </string-array>
 </resources>
