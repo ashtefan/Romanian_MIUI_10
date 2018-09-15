@@ -56,7 +56,7 @@
     <string name="ai_scene_mode_use_hint_text">"Deschideți Ai-Scene Camera, identificați scenariul potrivit pentru fotografie 
  și optimizați fotografia în funcție de acest scenariu"</string>
     <string name="audio_focus_exit_button_text">Închidere focusare audio</string>
-    <string name="back_bokeh_use_hint">"Asigurați-vă că obiectul nu se află la mai mult de 1,5 metri."</string>
+    <string name="back_bokeh_use_hint">Mențineți subiectul la mai puțin de 1,5 metri pentru a obține cele mai bune efecte</string>
     <string name="beauty_fragment_tab_name_3d_beauty">Înfrumusețare</string>
     <string name="beauty_fragment_tab_name_3d_makeup">Machiaj</string>
     <string name="beauty_fragment_tab_name_3d_remodeling">Remodelare</string>
@@ -166,6 +166,7 @@
     <string name="face_beauty_intelligent_level_3">Ridicat</string>
     <string name="face_beauty_smart">Inteligent</string>
     <string name="face_score_info">Scor: %.1f</string>
+    <string name="fps960_toast">Captarea la viteză redusă va începe când temporizatorul atinge punctul alb</string>
     <string name="front_camera_hint_text_place">"Realizarea de selfie-uri este mai facilă
 dacă rotiți telefonul"</string>
     <string name="front_camera_hint_text_rotate">Rotiți telefonul</string>
@@ -204,6 +205,7 @@ Curățați lentila pentru un efect îmbunătățit."</string>
     <string name="module_name_capture">Fotografie</string>
     <string name="module_name_fun">Clip scurt</string>
     <string name="module_name_manual">Manual</string>
+    <string name="module_name_new_slow_motion">Mișcare cu viteză redusă</string>
     <string name="module_name_panorama">Panoramă</string>
     <string name="module_name_portrait">Portret</string>
     <string name="module_name_square">Pătrat</string>
@@ -238,6 +240,8 @@ Curățați lentila pentru un efect îmbunătățit."</string>
     <string name="portrait_mode_too_far_hint">Plasați obiectul la cel mult 2 metri</string>
     <string name="portrait_mode_use_hint">"Modul Portret estompează fundalul
 pentru a scoate în evidență chipul persoanei."</string>
+    <string name="portrait_mode_use_hint_for_bokeh">"Încercați modul Portret.
+Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="pref_advance_settings">Setări adiţionale</string>
     <string name="pref_ai_detect">Detecție AI</string>
     <string name="pref_audio_focus_entry_front">Pe frunte</string>
@@ -519,6 +523,9 @@ pentru a scoate în evidență chipul persoanei."</string>
     <string name="pref_google_lens">Lentile Google</string>
     <string name="pref_groupshot_with_primitive_title">Salvați, de asemenea, și fotografiile originale</string>
     <string name="pref_manual_exposure_title">Timp expunere</string>
+    <string name="pref_new_slow_motion_video_quality_240_720only">Puteți înregistra doar videoclipuri 720P cu 240FPS</string>
+    <string name="pref_new_slow_motion_video_quality_entry_1080p">FHD 1080P</string>
+    <string name="pref_new_slow_motion_video_quality_entry_720p">HD 720P</string>
     <string name="pref_priority_storage_title">Salvaţi pe cardul SD</string>
     <string name="pref_qc_focus_position_title">Focalizare</string>
     <string name="pref_retain_camera_mode_summary">Comută camera la modul utilizat anterior când deschideți aplicația.</string>

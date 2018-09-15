@@ -70,6 +70,10 @@
         <item quantity="other">Cartela SIM poate stoca %1$d contacte.</item>
         <item quantity="one">Cartela SIM poate stoca %1$d contact.</item>
      </plurals>
+    <plurals name="foundTooManyContacts_plurals">
+        <item quantity="other">S-au găsit mai mult de %d contacte.</item>
+        <item quantity="one">S-a găsit mai mult de %d contact.</item>
+    </plurals>
     <plurals name="group_add_success_toast">
         <item quantity="other">%1$d contacte adăugate</item>
         <item quantity="one">%1$d contact adăugat</item>
@@ -98,6 +102,10 @@
         <item quantity="other">%1$d numere</item>
         <item quantity="one">%1$d număr</item>
      </plurals>
+    <plurals name="label_duplicate_count_plurals">
+        <item quantity="other">(%1$d)</item>
+        <item quantity="one">(%1$d)</item>
+    </plurals>
     <plurals name="listFoundAllContacts">
         <item quantity="other">Au fost găsite %d  persoane din agendă</item>
         <item quantity="one">A fost găsită o persoană în agendă</item>
@@ -110,6 +118,10 @@
         <item quantity="other">%d  persoane din agendă cu numere de telefon</item>
         <item quantity="one">O persoană din agendă cu număr de telefon</item>
       </plurals>
+    <plurals name="merge_contact_message_plurals">
+        <item quantity="other">%1$d contacte cu informații parțial identice</item>
+        <item quantity="one">%1$d contact cu informații parțiale identice</item>
+    </plurals>
     <plurals name="merge_info">
         <item quantity="other">au fost îmbinate din %0$d surse</item>
         <item quantity="one">nu au fost îmbinate</item>
@@ -156,9 +168,17 @@
         <item quantity="one">%1$d contact recent</item>
      </plurals>      
     <plurals name="searchFoundContacts">
-        <item quantity="other">Au fost găsite %d  persoane din agendă</item>
-        <item quantity="one">A fost găsită o persoană din agendă</item>
+        <item quantity="other">%d găsite</item>
+        <item quantity="one">1 găsit</item>
      </plurals>
+    <plurals name="select_all_exceed_plurals">
+        <item quantity="other">"Selectați mai puțin de %1$d; nu se pot selecta toate"</item>
+        <item quantity="one">"Selectați mai puțin de %1$d; nu se pot selecta toate"</item>
+    </plurals>
+    <plurals name="select_exceed_plurals">
+        <item quantity="other">Selectați mai puțin de %1$d</item>
+        <item quantity="one">Selectați mai puțin de %1$d</item>
+    </plurals>
     <plurals name="smart_group_member_count">
         <item quantity="other">%1$d persoane</item>
         <item quantity="one">%1$d persoană</item>

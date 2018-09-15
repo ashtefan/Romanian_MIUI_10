@@ -45,4 +45,8 @@
         <item>Notițe vocale</item>
         <item>Creați notițe utilizând motorul nostru integrat de recunoaștere vocală și atașați înregistrările vocale notițelor dvs.</item>
     </string-array>
+    <string-array name="second_guide_contents_pad_or_inter">
+        <item>Notițe vocale</item>
+        <item>Acum puteți crea notițe vocale. Doar apăsați pictograma, înregistrați vocea și salvați fișierul audio în cadrul notiței.</item>
+    </string-array>
 </resources>

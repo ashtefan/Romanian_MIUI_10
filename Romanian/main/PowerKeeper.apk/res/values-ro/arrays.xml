@@ -23,7 +23,7 @@
     <string-array name="thermal_summaries">
         <item>Prioritizați controlul temperaturii</item>
         <item>Prioritizați performanța</item>
-        <item>Configurație dezactivată în modul Economisire extremă a energiei</item>
+        <item>"Nu funcționează în modul Extrem"</item>
     </string-array>
     <string-array name="power_mode_entries">
         <item>Performanță</item>

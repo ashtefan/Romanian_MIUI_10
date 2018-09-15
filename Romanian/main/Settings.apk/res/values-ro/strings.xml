@@ -278,12 +278,15 @@ Administratorul dumneavoastră poate monitoriza și administra setările, accesu
     <string name="animator_duration_scale_title">Scară durată Animator</string>
     <string name="another_migration_already_in_progress">O altă migrare este deja în curs.</string>
     <string name="anti_spam">Listă blocări</string>
+    <string name="aod_close_color_inversion">"Această caracteristică nu poate fi combinată cu inversarea culorilor. Dezactivați inversarea culorilor mai întâi."</string>
+    <string name="aod_got_it">Am înțeles</string>
     <string name="aod_mode_summary">Arată întotdeauna ora, data și mesajele când ecranul este oprit.</string>
     <string name="aod_mode_time_summary">Programați ora la care telefonul ar trebui să comute la modul Activ permanent</string>
     <string name="aod_mode_time_title">Programați</string>
     <string name="aod_mode_title">Mod activ permanent</string>
     <string name="aod_mode_turn_off">Oprit</string>
     <string name="aod_mode_turn_on">Pornit</string>
+    <string name="aod_to_close">Dezactivați</string>
     <string name="apn_apn">APN</string>
     <string name="apn_auth_type">Tip de autentificare</string>
     <string name="apn_auth_type_chap">CHAP</string>
@@ -343,9 +346,9 @@ Administratorul dumneavoastră poate monitoriza și administra setările, accesu
     <string name="app_launch_open_domain_urls_title">Accesare linkuri suportate</string>
     <string name="app_launch_other_defaults_title">Alte setări implicite</string>
     <string name="app_launch_supported_domain_urls_title">Linkuri suportate</string>
-    <string name="app_link_open_always">Deschide în această aplicație</string>
+    <string name="app_link_open_always">Deschideți</string>
     <string name="app_link_open_ask">Întreabă de fiecare dată</string>
-    <string name="app_link_open_never">Nu deschide în această aplicație</string>
+    <string name="app_link_open_never">"Nu deschide"</string>
     <string name="app_list_memory_use">Utilizare aplicație</string>
     <string name="app_list_preference_none">Niciuna</string>
     <string name="app_memory_use">Utilizarea memoriei</string>
@@ -926,15 +929,19 @@ Sample Rate"</string>
     <string name="bootloader_device_bind_fail">"Nu s-a putut verifica; așteptați un minut sau două și reîncercați"</string>
     <string name="bootloader_device_bind_msg">Se pregătește adăugarea contului și a dispozitivului…</string>
     <string name="bootloader_device_bind_no_account">Conectați-vă mai întâi la contul Mi</string>
+    <string name="bootloader_device_bind_no_data_network">Dezactivați Wi-Fi-ul și adăugați contul și dispozitivul utilizând datele mobile.</string>
     <string name="bootloader_device_bind_no_network">Conectați-vă la rețea și reîncercați</string>
     <string name="bootloader_device_bind_no_sim">Inserați cartela SIM și reîncercați.</string>
     <string name="bootloader_device_bind_server_code">"Nu s-a putut adăuga. Codul de eroare:"</string>
+    <string name="bootloader_device_bind_server_token_expired_1">"Nu s-a putut verifica. Încercați să adăugați contul și dispozitivul din nou."</string>
+    <string name="bootloader_device_bind_server_token_expired_2">"Nu s-a putut verifica. Autentificați-vă în cont din nou și reluați."</string>
     <string name="bootloader_device_bind_sim_invalid">Cartela SIM nu este validă. Înlocuiți-o și reîncercați.</string>
     <string name="bootloader_locked_answer_1">"Blocăm telefoanele pentru a ne asigura că sunt în siguranță și că datele personale nu sunt furnizate unor terțe părți. Dacă trebuie să accesați modul Fastboot și să instalați un ROM, puteți debloca telefonul."</string>
     <string name="bootloader_locked_answer_1_warning">"Atenție: Nu veți mai putea utiliza \"Localizarea dispozitivului\" după ce veți debloca telefonul."</string>
     <string name="bootloader_locked_answer_2">"1. Asigurați-vă că ați introdus o cartelă SIM în telefon.
-2. Apăsați butonul \"Adăugați un cont\" de mai jos pentru a asocia contul Mi cu acest telefon.
-3. Descărcați utilitarul de deblocare de pe site-ul nostru. Pentru a putea debloca telefonul aveți nevoie de un PC. Descărcați de aici:"</string>
+2. Dezactivați Wi-Fi-ul și activați datele mobile. Asigurați-vă că dispozitivul se poate conecta la internet utilizând datele mobile.
+3. Apăsați butonul \"Adăugați un cont\" de mai jos pentru a asocia contul Mi cu acest telefon.
+4. Descărcați utilitarul de deblocare de pe site-ul nostru. Pentru a putea debloca telefonul aveți nevoie de un PC. Descărcați de aici:"</string>
     <string name="bootloader_locked_answer_2_no_sim">"1. Atingeți butonul \"Adăugare cont\" de mai jos pentru a asocia contul Mi acestui dispozitiv.
 2. Descărcați utilitarul de deblocare de pe site-ul nostru. Țineți cont că pentru a debloca telefonul veți avea nevoie de un computer. Descărcați de aici:"</string>
     <string name="bootloader_locked_check_status">Adăugați contul și dispozitivul</string>
@@ -1439,7 +1446,7 @@ Această setare afectează toți utilizatorii telefonului."</string>
     <string name="default_apps_title">Implicite</string>
     <string name="default_assist_title">Aplicație de asistare</string>
     <string name="default_browser_title">Browser</string>
-    <string name="default_browser_title_none">Niciun Browser implicit</string>
+    <string name="default_browser_title_none">Neselectat</string>
     <string name="default_calendar_app_title">Aplicația Calendar</string>
     <string name="default_contacts_app_title">Aplicația Contacte</string>
     <string name="default_emergency_app">Aplicația pentru Urgențe</string>
@@ -1449,7 +1456,7 @@ Această setare afectează toți utilizatorii telefonului."</string>
     <string name="default_launcher_title">Lansator implicit</string>
     <string name="default_map_app_title">Aplicația pentru hărți</string>
     <string name="default_notification_assistant">Asistent notificări</string>
-    <string name="default_phone_title">Aplicația de Telefon</string>
+    <string name="default_phone_title">Apelare</string>
     <string name="default_rule_name">Regula programată nr. 1</string>
     <string name="default_sound">Sunet prestabilit</string>
     <string name="default_spell_checker">Corectorul ortografic implicit</string>
@@ -1666,7 +1673,7 @@ Această setare afectează toți utilizatorii telefonului."</string>
     <string name="does_not_exist">Aplicaţia nu există.</string>
     <string name="domain_url_section_title">Aplicații instalate</string>
     <string name="domain_urls_apps_summary_off">Nicio aplicație nu suportă accesarea link-urilor</string>
-    <string name="domain_urls_summary_none">Nu deschide linkurile suportate</string>
+    <string name="domain_urls_summary_none">"Nu deschide linkurile suportate"</string>
     <string name="domain_urls_summary_one">Deschideți %s</string>
     <string name="domain_urls_summary_some">Deschideți %s și alte URL-uri</string>
     <string name="domain_urls_title">Accesare linkuri</string>
@@ -1864,8 +1871,8 @@ Pentru mai multe detalii, contactați administratorul organizației."</string>
     <string name="factory_reset_summary">"Ștergeți toate datele din memoria internă a telefonului"</string>
     <string name="failed_to_check_find_device_status_content">Nu s-a putut stabili starea serviciului Localizare dispozitiv. Reîncercați peste un minut sau două.</string>
     <string name="failed_to_check_find_device_status_title">"Nu s-a putut stabili starea serviciului Localizare dispozitiv"</string>
-    <string name="failed_to_erase_text">Vă rugăm să dezactivați parola de blocare a ecranului înainte de a face operațiunea 1217.</string>
-    <string name="failed_to_erase_title">Operațiune interzisă</string>
+    <string name="failed_to_erase_text">Dezactivați parola de blocare a ecranului înainte de a introduce codul \"1217\".</string>
+    <string name="failed_to_erase_title">"Nu s-a putut finaliza această acțiune"</string>
     <string name="failed_to_open_app_settings_toast">Deschiderea setărilor pentru %1$s a eşuat</string>
     <string name="failed_to_shut_down_find_device_content">"Nu s-a putut opri serviciul Localizare dispozitiv. Reîncercați peste un minut sau două."</string>
     <string name="failed_to_shut_down_find_device_title">"Nu s-a putut opri serviciul Localizare dispozitiv"</string>
@@ -1967,6 +1974,7 @@ Pentru mai multe detalii, contactați administratorul organizației."</string>
     <string name="floating_window_switch_label_disable">Dezactivaţi fereastra plutitoare</string>
     <string name="fluency_mode">Animații de sistem</string>
     <string name="fluency_mode_confirm_and_reboot">Reporniți acum</string>
+    <string name="following_us_title">Urmăriți-ne</string>
     <string name="font_size_exhuge">Imens</string>
     <string name="font_size_huge">Imens</string>
     <string name="font_size_large">Mai mare</string>
@@ -2204,7 +2212,7 @@ Puteți modifica acest lucru mai târziu în Setări &gt; Aplicații și notific
     <string name="high_power_system">Optimizarea acumulatorului nu este disponibilă</string>
     <string name="history_details_title">Detalii istoric</string>
     <string name="home">Setări Acasă</string>
-    <string name="home_app">Aplicație Acasă</string>
+    <string name="home_app">Lansator</string>
     <string name="home_key">Butonul Acasă</string>
     <string name="home_work_profile_not_supported">"Nu suportă profiluri personalizate de servici"</string>
     <string name="http_invoke_app">Aplicații web</string>
@@ -2970,7 +2978,7 @@ Selectaţi sistemul de operare de mai jos:"</string>
     <string name="navigation_guide_app_summary">Glisați spre stânga sau spre dreapta de la marginea ecranului din partea superioară a acestuia</string>
     <string name="navigation_guide_app_title">"Declanșează acțiunea aplicației"</string>
     <string name="navigation_guide_appswitch_anim_summary">Glisați în lungul ecranului pornind de la margine pentru a reveni la aplicația anterioară</string>
-    <string name="navigation_guide_appswitch_anim_title">Treceți la aplicația anterioară</string>
+    <string name="navigation_guide_appswitch_anim_title">Reveniți la aplicația anterioară</string>
     <string name="navigation_guide_appswitch_click">Activați opțiunea \"Treceți la aplicația anterioară\" mai întâi</string>
     <string name="navigation_guide_appswitch_summary">Glisați spre stânga sau spre dreapta de la marginea ecranului și mențineți o perioadă</string>
     <string name="navigation_guide_appswitch_title">Comutați la aplicația anterioară</string>
@@ -3083,7 +3091,7 @@ Selectaţi sistemul de operare de mai jos:"</string>
     <string name="no_connected_devices">Niciun dispozitiv conectat</string>
     <string name="no_data_usage">Fără utilizare date</string>
     <string name="no_default_apps">Nicio aplicație implicită.</string>
-    <string name="no_default_home">Niciun ecran Acasă implicit</string>
+    <string name="no_default_home">Neselectat</string>
     <string name="no_device_admins">Nu există nicio aplicație administrator de dispozitive disponibilă</string>
     <string name="no_internet_access_remember">Nu întreba din nou pentru această rețea</string>
     <string name="no_internet_access_text">Rețeaua Wi-Fi %1$s nu are acces la internet. Rămâneți conectat?</string>
@@ -4041,7 +4049,7 @@ Pentru a utiliza fixarea ecranului:
     <string name="search_handy_mode">Modul operare cu o mână</string>
     <string name="search_hint">Setări căutare</string>
     <string name="search_home_key">Acasă</string>
-    <string name="search_input_hint">Căutare Setări</string>
+    <string name="search_input_hint">Căutați în Setări</string>
     <string name="search_input_txt_na">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
     <string name="search_key_settings_title">Butoane;Taste</string>
     <string name="search_lab_functions_title">Caracteristici Beta,Lab function</string>
@@ -4195,8 +4203,8 @@ Pentru a utiliza fixarea ecranului:
     <string name="security_encryption_progress_dialog_open">Criptare…</string>
     <string name="security_encryption_rejected_via_home_manager">"Această caracteristică nu este suportată în versiunea demo."</string>
     <string name="security_encryption_title">Criptați telefonul utilizând parola de Blocare a ecranului</string>
-    <string name="security_input">Introducere Securitate</string>
-    <string name="security_input_hint">Introduceți parola utilizând tastatura de securitate</string>
+    <string name="security_input">Tastatură securizată</string>
+    <string name="security_input_hint">Utilizați tastatura securizată când introduceți parole</string>
     <string name="security_keyguard_category_name">Blocare ecran</string>
     <string name="security_password_category_name">Blocare ecran</string>
     <string name="security_passwords_title">Confidențialitate</string>
@@ -4463,7 +4471,7 @@ Codul PIN poate fi incorect."</string>
     <string name="smartcover_lock_or_unlock_screen_tittle">Mod husă inteligentă</string>
     <string name="smartcover_sensitive_summary">Blocați/deblocați telefonul în mod automat utilizând o husă inteligentă</string>
     <string name="smartcover_sensitive_title">Husă inteligentă</string>
-    <string name="sms_application_title">Aplicaţie SMS prestabilită</string>
+    <string name="sms_application_title">Mesagerie</string>
     <string name="sms_change_default_dialog_text" formatted="false">Utilizaţi %s în loc de %s ca aplicaţie pentru SMS?</string>
     <string name="sms_change_default_dialog_title">Înlocuiţi aplicaţia pentru SMS?</string>
     <string name="sms_change_default_no_previous_dialog_text">Utilizaţi %s ca aplicaţie pentru SMS-uri?</string>
@@ -4532,7 +4540,7 @@ Acest lucru este posibil datorită unui certificat de încredere instalat pe dis
     <string name="status_bar_settings_basic_settings">Setări de bază</string>
     <string name="status_bar_settings_custom_carrier">Editați numele operatorului</string>
     <string name="status_bar_settings_custom_wifi_name">Editaţi numele Wi-Fi</string>
-    <string name="status_bar_settings_customer_feedback">feedback</string>
+    <string name="status_bar_settings_customer_feedback">Feedback</string>
     <string name="status_bar_settings_enable_notification">Afişare notificări</string>
     <string name="status_bar_settings_expand_top_notification">Extindeți notificarea din partea superioară</string>
     <string name="status_bar_settings_expandable_under_keyguard">Arată în blocarea securizată a ecranului</string>

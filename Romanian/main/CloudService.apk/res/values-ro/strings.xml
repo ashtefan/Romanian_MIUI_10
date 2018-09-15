@@ -315,7 +315,7 @@ Utilizați alt cont"</string>
     <string name="micloud_main_see_unsynced_data">Verificați datele de sincronizat</string>
     <string name="micloud_main_set_internet">Reţea</string>
     <string name="micloud_main_simple_last_sync_time">Ultima sincronizare： %s</string>
-    <string name="micloud_main_simple_off">Sincronizare Oprită</string>
+    <string name="micloud_main_simple_off">Sincronizarea este oprită</string>
     <string name="micloud_main_simple_pending">În așteptare</string>
     <string name="micloud_main_simple_synced">Sincronizate</string>
     <string name="micloud_main_simple_syncing">Se sincronizează</string>

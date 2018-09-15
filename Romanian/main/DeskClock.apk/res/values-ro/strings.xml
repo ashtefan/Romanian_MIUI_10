@@ -63,7 +63,7 @@
     <string name="edit_systemtime">Editaţi data şi ora sistemului</string>
     <string name="elapsed_time_format">+%s</string>
     <string name="every_day">În fiecare zi</string>
-    <string name="expired_timers_dismissed">Temporizator oprit</string>
+    <string name="expired_timers_dismissed">Temporizator oprit cu succes</string>
     <string name="force_touch_add_alarm">Adăugați o alarmă</string>
     <string name="force_touch_enter_stopwatch">Cronometru</string>
     <string name="force_touch_enter_timer">Temporizator</string>
@@ -75,7 +75,7 @@
     <string name="install_weather_app_error">"Nu s-a putut încărca aplicația"</string>
     <string name="install_weather_app_loading">Doar o secundă…</string>
     <string name="invalid_time">Oră nevalidă: %3$s %1$d: %2$d</string>
-    <string name="invalid_timer_length">Interval nevalid pentru temporizator</string>
+    <string name="invalid_timer_length">"Durată temporizator nevalidă"</string>
     <string name="keep_screen_on">Menține ecranul activ</string>
     <string name="label">Setaţi o etichetă</string>
     <string name="label_pref_summary">Etichetă</string>
@@ -192,7 +192,7 @@
     <string name="timer_clock_alert_text">Setați temporizatorul</string>
     <string name="timer_continue">Continuaţi</string>
     <string name="timer_continue_timer">Reporniți temporizatorul</string>
-    <string name="timer_created">Temporizator creat</string>
+    <string name="timer_created">Temporizator creat cu succes</string>
     <string name="timer_end_time">Temporizatorul se va opri la %s</string>
     <string name="timer_end_time_format">HH:mm dd MMM</string>
     <string name="timer_end_time_format_today">HH:mm</string>

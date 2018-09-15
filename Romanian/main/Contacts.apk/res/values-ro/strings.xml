@@ -55,7 +55,6 @@
     <string name="btn_split_contact">Separaţi</string>
     <string name="button_cancel_scan">Stop</string>
     <string name="button_join_service_number">Adăugare număr serviciu</string>
-    <string name="button_my_center">Profil</string>
     <string name="button_scan">Rescanaţi</string>
     <string name="caching_vcard_message">Fişierele vCard se stochează în memoria telefonului…</string>
     <string name="caching_vcard_title">Se stochează în cache</string>
@@ -191,6 +190,7 @@
     <string name="composer_failed_to_get_database_infomation">Nu s-au putut obţine informaţii din baza de date.</string>
     <string name="composer_has_no_exportable_contact">Nu există contacte în agendă ce pot fi exportate. Dacă aveţi contacte în agenda telefonului, este posibil ca exportul acestora de pe telefon să fie interzis de unii furnizori de date.</string>
     <string name="composer_not_initialized">Compozitorul vCard nu a pornit în mod corespunzător.</string>
+    <string name="conference_call_disable_tip">"Nu se pot efectua apeluri. Asigurați-vă că telefonul este conectat la o rețea 4G cu suport VoLTE."</string>
     <string name="config_export_dir">/mnt/sdcard</string>
     <string name="config_export_extensions_to_consider" />
     <string name="config_export_file_extension">vcf</string>
@@ -492,7 +492,6 @@ Motivul: \"%s\""</string>
     <string name="firewall_setting">Listă blocări</string>
     <string name="force_touch_miprofile">Carte de vizită</string>
     <string name="force_touch_new_contact">Contact nou</string>
-    <string name="foundTooManyContacts">S-au găsit peste %d contacte</string>
     <string name="frequentList">Frecvent</string>
     <string name="full_name">Nume</string>
     <string name="gallery">Galerie</string>
@@ -606,7 +605,6 @@ Motivul: \"%s\""</string>
     <string name="lunarBirthdayLabelsGroup">Zi de naştere lunară</string>
     <string name="lunar_calendar">Calendar lunar</string>
     <string name="lunar_leap">Salt la lună</string>
-    <string name="lunar_yue">月</string>
     <string name="make_primary">Reţineţi această alegere</string>
     <string name="map_custom">Vizualizaţi adresa %s</string>
     <string name="map_home">Vizualizaţi adresa de domiciliu</string>
@@ -667,7 +665,6 @@ Motivul: \"%s\""</string>
     <string name="menu_splitAggregate">Separaţi</string>
     <string name="menu_sync_remove">Eliminaţi grup de sincronizare</string>
     <string name="menu_viewContact">Vizualizaţi contactul din agendă</string>
-    <string name="merge_contact_message">%1$d contacte cu date parţial identice</string>
     <string name="messageShortcutActivityTitle">Alegeţi un număr pentru trimiterea mesajului</string>
     <string name="miprofile_account_type">Cont Mi</string>
     <string name="miprofile_alertdialog_edit">Introduceţi numele</string>
@@ -1031,8 +1028,6 @@ Apăsaţi pictograma Îmbinare de mai jos pentru a începe.</string>
     <string name="search_wipe_data">Organizare;Contacte</string>
     <string name="searching_vcard_message">Se caută date vCard pe cardul SD…</string>
     <string name="select_all">Selectaţi toate</string>
-    <string name="select_all_exceed">"Selectați nu mai mult de %1$d, nu se pot selecta toate"</string>
-    <string name="select_exceed">Selectați nu mai mult de %1$d</string>
     <string name="select_groups">Selectaţi grupurile</string>
     <string name="select_none">Nimic selectat</string>
     <string name="select_show_contacts">Listă contacte</string>

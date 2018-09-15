@@ -80,6 +80,7 @@
     <string name="cloud_state_disabled">Activați sincronizarea cu Mi Cloud pentru a sincroniza mesajele</string>
     <string name="cloud_state_sync_finished">Sincronizat cu Mi Cloud</string>
     <string name="cloud_state_syncing">Sincronizare cu Mi Cloud…</string>
+    <string name="cmcc_privacy">Acordul de Confidențialitate al operatorului China Mobile</string>
     <string name="compressing">Imaginea este prea mare. Se comprimă…</string>
     <string name="confirm">Confirmaţi</string>
     <string name="confirm_add_blacklist_dialog_dspt">Adăugaţi acest număr în lista blocărilor?</string>
@@ -97,8 +98,7 @@
     <string name="confirm_export_dialog_description">Conversațiile anterioare cu acest contact nu vor mai fi ascunse</string>
     <string name="confirm_export_dialog_title">Eliminaţi din contacte private</string>
     <string name="confirm_no_block_positive">Nu blocaţi şi restabiliţi</string>
-    <string name="confirm_no_block_title">"Deblocaţi şi restabiliţi toate mesajele trimise de la acest număr?
-(Numărul va fi adăugat în lista excepțiilor.)"</string>
+    <string name="confirm_no_block_title">"Deblocaţi numerele selectate? Acestea vor fi adăugate în lista excepțiilor, dar elementele blocate anterior nu vor apărea în căsuța de mesaje."</string>
     <string name="confirm_rate_limit">Un număr mare de mesaje multimedia sunt trimise.</string>
     <string name="confirm_restore_all_title">Restabiliți toate mesajele trimise de pe acest număr?</string>
     <string name="confirm_restore_checkbox">Restabiliţi mesajele blocate</string>
@@ -145,11 +145,7 @@
     <string name="delivery_toast_body_more">Mesaj primit de %1$s și alte %2$d persoane</string>
     <string name="dialog_message_fake_cell_detect_error">Corectați informațiile despre acest mesaj? Pentru aceasta, MIUI trebuie să încarce numărul de telefon (%1$s), conținutul mesajului și informațiile despre locație pe serverele sale.</string>
     <string name="dialog_message_mx">Mesageria Mi vă permite să trimiteți mesaje altor utilizatori de dispozitive MIUI fără costuri. Un mesaj SMS este necesar pentru activarea Mesageriei Mi. Operatorul vă va taxa pentru acest mesaj. Trebuie să acceptați \"%1$s\" și \"%2$s\" înainte de a utiliza Mesageria Mi.</string>
-    <string name="dialog_message_mx_rcs">Mesageria Mi vă permite să trimiteți mesaje altor utilizatori de dispozitive MIUI și abonați ai China Mobile fără costuri. Un mesaj SMS este necesar pentru activarea Mesageriei Mi. Operatorul vă va taxa pentru acest mesaj. Trebuie să acceptați \"%1$s\" și \"%2$s\" înainte de a utiliza Mesageria Mi. Sunteți de acord?</string>
     <string name="dialog_message_networking">Aplicația de Mesagerie trebuie să se conecteze la Internet și să vă acceseze locația pentru a vă furniza Mesageria Inteligentă, Recunoașterea ID-ului expeditorului și alte servicii. Trebuie să acceptați \"%1$s\" și \"%2$s\" înainte de a utiliza aceste servicii. Permiteți?</string>
-    <string name="dialog_message_networking_mx">Mesageria Mi vă permite să trimiteți mesaje altor utilizatori de dispozitive MIUI fără costuri. Un mesaj SMS este necesar pentru activarea Mesageriei Mi. Operatorul vă va taxa pentru acest mesaj. Trebuie să acceptați \"%1$s\" și \"%2$s\" înainte de a utiliza Mesageria Mi. Aplicația de mesagerie trebuie să se conecteze la Internet și să vă acceseze locația pentru a vă furniza Mesageria Inteligentă, Recunoașterea ID-ului expeditorului și alte servicii. Permiteți?</string>
-    <string name="dialog_message_networking_mx_rcs">Mesageria Mi vă permite să trimiteți mesaje altor utilizatori de dispozitive MIUI și abonați ai China Mobile fără costuri. Un mesaj SMS este necesar pentru activarea Mesageriei Mi. Operatorul vă va taxa pentru acest mesaj. Trebuie să acceptați \"%1$s\" și \"%2$s\" înainte de a utiliza Mesageria Mi. Aplicația de mesagerie trebuie să se conecteze la Internet și să vă acceseze locația pentru a vă furniza Mesageria Inteligentă, Recunoașterea ID-ului expeditorului și alte servicii. Permiteți?</string>
-    <string name="dialog_message_networking_rcs">Mesageria China Mobile vă permite să trimiteți mesaje altor utilizatori ai acestei rețele fără costuri. Trebuie să acceptați \"%1$s\" și \"%2$s\" înainte de a utiliza Mesageria China Mobile. Aplicația de mesagerie trebuie să se conecteze la Internet și să vă acceseze locația pentru a vă furniza Mesageria Inteligentă, Recunoașterea ID-ului expeditorului și alte servicii. Permiteți?</string>
     <string name="dialog_message_rcs">Mesageria China Mobile vă permite să trimiteți mesaje altor utilizatori ai acestei rețele fără costuri. Trebuie să acceptați \"%1$s\" și \"%2$s\" înainte de a utiliza Mesageria China Mobile. Sunteți de acord?</string>
     <string name="dialog_message_sms_report">"Mesajele nedorite și informațiile despre expeditor vor fi încărcate la MIUI când le raportați. Acestea vor fi folosite doar pentru a îmbunătăți filtrele spam ale MIUI."</string>
     <string name="dialog_title_fake_cell_detect_error">Corectare</string>
@@ -534,7 +530,7 @@
     <string name="recommend_bar_cancel">Ignorați</string>
     <string name="recommend_bar_message_mx">Mesageria Mi vă permite să trimiteți mesaje către alte dispozitive MIUI fără a fi taxat.</string>
     <string name="recommend_bar_message_mx_rcs">Mesageria Mi vă permite să trimiteți mesaje către alte dispozitive MIUI și către alți utilizatori China Mobile fără a fi taxat.</string>
-    <string name="recommend_bar_message_rcs">Mesageria China Mobile vă permite să trimiteți mesaje către alți utilizatori ai rețelei fără a fi taxat.</string>
+    <string name="recommend_bar_message_rcs">Mesageria China Mobile vă permite să trimiteți mesaje către alți utilizatori ai acestei rețele fără a fi taxat.</string>
     <string name="recommend_bar_message_smart_message">Copiați parolele unica, urmăriți colete, utilizați meniuri inteligente și multe altele</string>
     <string name="recommend_bar_ok">Activați</string>
     <string name="recommend_bar_title_mx_rcs">Mesageria Mi</string>

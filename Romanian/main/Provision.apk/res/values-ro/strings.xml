@@ -5,6 +5,14 @@
     <string name="agree_terms">"Am citit și sunt de acord cu Termenii Serviciului și Politica de Confidențialitate."</string>
     <string name="agree_terms_input_method_facemoji">"Am citit și sunt de acord cu Politica de Confidențialitate Facemoji."</string>
     <string name="agree_terms_input_method_kika">"Am citit și sunt de acord cu Politica de Confidențialitate Kika."</string>
+    <string name="ai_button_desc">Utilizați acest buton pentru a declanșa Mi AI și a realiza operațiuni pe telefon utilizând doar vocea</string>
+    <string name="ai_button_double_press">Apăsare dublă</string>
+    <string name="ai_button_double_press_desc">Configurați Mi AI</string>
+    <string name="ai_button_long_press">Apăsați și mențineți apăsat</string>
+    <string name="ai_button_long_press_desc">Rostiți comanda și eliberați butonul</string>
+    <string name="ai_button_single_press">Apăsați</string>
+    <string name="ai_button_single_press_desc">Declanșați Mi AI</string>
+    <string name="ai_button_title">Despre butonul AI</string>
     <string name="app_name">Provision</string>
     <string name="application_permissions">Permisiunile aplicației</string>
     <string name="back">Înapoi</string>

@@ -284,8 +284,8 @@ Dacă activați din nou datele mobile, operatorul vă poate taxa pentru trafic s
         <item quantity="one">o aplicație găsită</item>
     </plurals>
     <plurals name="reset_data_dialog_ok_tick">
-        <item quantity="other">Resetare la valorile de fabrică(%ds)</item>
-        <item quantity="one">Resetare la valorile de fabrică(%ds)</item>
+        <item quantity="other">Resetare la valorile de fabrică (%ds)</item>
+        <item quantity="one">Resetare la valorile de fabrică (%ds)</item>
     </plurals>
     <plurals name="section_clear_acc_item_right_tips">
         <item quantity="other">%d aplicații blocate așteaptă să fie curățate</item>
@@ -354,6 +354,10 @@ Dacă activați din nou datele mobile, operatorul vă poate taxa pentru trafic s
     <plurals name="privacy_apps_disable_header_title">
         <item quantity="other">%d aplicații sunt ascunse</item>
         <item quantity="one">%d aplicație este ascunsă</item>
+    </plurals>
+    <plurals name="first_aid_card_float_window_summary">
+        <item quantity="other">%d aplicații pot fi afișate incorect. Restricționați afișarea notificărilor plutitoare.</item>
+        <item quantity="one">%d aplicație poate fi afișată incorect. Restricționați afișarea notificărilor plutitoare.</item>
     </plurals>
     <plurals name="first_aid_result_summary_exception">
         <item quantity="other">%1$d probleme necesită optimizare</item>

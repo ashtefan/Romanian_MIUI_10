@@ -45,6 +45,8 @@ această opțiune va fi activată în mod automat în spațiul secundar."</strin
     <string name="confirmDelete">Eliminați</string>
     <string name="confirmSecondSpacePassword">Confirmați parola pentru Spațiul Secundar</string>
     <string name="confirm_airspace_password">Confirmați parola pentru %s</string>
+    <string name="confirm_close_password_desc">"Nu veți mai putea accesa Spațiul Secundar din Blocarea ecranului după ce dezactivați parola. O dezactivați oricum?"</string>
+    <string name="confirm_close_password_title">Se dezactivează parola</string>
     <string name="confirm_main_space_password">Confirmați parola pentru Spațiul Principal</string>
     <string name="confirm_restore">"Nu arăta"</string>
     <string name="contactData">Contacte</string>

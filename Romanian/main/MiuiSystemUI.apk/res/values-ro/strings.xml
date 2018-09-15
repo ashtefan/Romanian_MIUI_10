@@ -647,7 +647,7 @@ Dacă reactivaţi datele, puteţi fi taxat de către operator.</string>
     <string name="face_unlock_offset_top">Ridicați puțin telefonul</string>
     <string name="face_unlock_open_eye">Deschideți ochii mai larg</string>
     <string name="face_unlock_passwork">Utilizați parola</string>
-    <string name="face_unlock_passwork_and_fingerprint">Utilizați parola sau datele faciale</string>
+    <string name="face_unlock_passwork_and_fingerprint">Utilizați parola sau amprenta</string>
     <string name="face_unlock_quality">"Nu v-am putut vedea chipul foarte clar"</string>
     <string name="face_unlock_reenter_content">Algoritmul de deblocare facială s-a actualizat. Atingeți pentru a înregistra datele faciale din nou.</string>
     <string name="face_unlock_reenter_title">Înregistrați din nou datele faciale.</string>
@@ -656,6 +656,7 @@ Dacă reactivaţi datele, puteţi fi taxat de către operator.</string>
     <string name="face_unlock_rise">Lăsați capul mai jos</string>
     <string name="face_unlock_rotated_left">Mișcați capul către dreapta</string>
     <string name="face_unlock_rotated_right">Mișcați capul către stânga</string>
+    <string name="face_unlock_sc_status">Glisați în jos pe ecran pentru a deschide Camera</string>
     <string name="face_unlock_stay_away_screen">Stați la 25-40 cm de ecran</string>
     <string name="failed_to_open_app_settings_toast">"Accesarea setărilor pentru %1$s a eșuat"</string>
     <string name="fingerprint_add_text">Interfața de recunoaștere a amprentei a fost actualizată. Adăugați amprenta din nou.</string>
@@ -750,7 +751,7 @@ Odată ce se va răci îndeajuns, va rula în mod normal."</string>
     <string name="incorrect_pukcode">Cod PUK incorect</string>
     <string name="input_password_after_boot_msg">Introduceți parola pentru a debloca telefonul</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_calling">"Nu se poate comuta între cele două spații în timpul unui apel"</string>
-    <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">"Nu se poate comuta între cele două spații când Controlul Parental este activ"</string>
+    <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">"Nu se poate comuta între spații când Controlul Parental este activ"</string>
     <string name="input_password_after_boot_msg_must_enter_owner_space">Trebuie să accesați Spațiul principal după repornirea telefonului</string>
     <string name="input_password_handle_sdcard_fs">"Nu se poate accesa Spațiul Secundar din Blocarea ecranului. Accesați-l din Spațiul Principal."</string>
     <string name="input_password_hint_text">Introduceți parola</string>

@@ -113,6 +113,7 @@
     <string name="cd_list_item_collapse">restrâns</string>
     <string name="cd_list_item_expanded">extins</string>
     <string name="cd_percent">procent</string>
+    <string name="cd_scanning">scanează</string>
     <string name="cd_settings">setări</string>
     <string name="cd_sort_type">tip sortare</string>
     <string name="clean_content_all">Tot</string>
@@ -120,7 +121,7 @@
     <string name="clean_content_three">3 elemente</string>
     <string name="clean_content_two">2 elemente</string>
     <string name="clean_content_zero">Nimic</string>
-    <string name="clean_summary">S-au curățat %1$s fișiere</string>
+    <string name="clean_summary">S-au curățat %1$s</string>
     <string name="clear_bigfiles">Ștergeți fișierele mari, fotografiile dublate și alte lucruri inutile</string>
     <string name="clear_immediately">Ștergeţi acum</string>
     <string name="clear_safe_notify">Widget perdea de notificări</string>

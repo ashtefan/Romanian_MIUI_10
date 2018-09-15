@@ -612,6 +612,10 @@ Operatorul vă poate taxa suplimentar dacă activați din nou datele mobile."</s
     <string name="descx_quick_scan_preparation">Doar o secundă…</string>
     <string name="detail_app_button">Informaţii aplicaţie</string>
     <string name="details_subtitle">Detalii despre utilizare</string>
+    <string name="device_manager_apply_step_1">Activați administrarea dispozitivului pentru această aplicație?</string>
+    <string name="device_manager_apply_step_2">"Activarea administrării dispozitivului pentru această aplicație poate duce la expunerea datelor personale ale dvs.
+Toate datele de pe telefon pot fi șterse iar parola pentru Blocarea ecranului poate fi resetată."</string>
+    <string name="device_manager_apply_step_3">Asigurați-vă că înțelegeți toate riscurile posibile înainte de a începe. Activați administrarea dispozitivului pentru această aplicație acum?</string>
     <string name="diagnostic_attention_dialog_message">"Diagnosticarea pentru %1$s este în curs. Așteptați finalizarea procesului și reîncercați."</string>
     <string name="dialog_app_roaming_message">%1$s nu pot utiliza datele mobile în roaming. Când sunteţi în roaming internațional, doar aplicațiile pe care le-ați adăugat la excepţii pot utiliza datele mobile.</string>
     <string name="dialog_app_roaming_title">Roamingul internațional nu este activat pentru %1$s</string>
@@ -842,9 +846,10 @@ Operatorul vă poate taxa suplimentar dacă activați din nou datele mobile."</s
     <string name="first_aid_item4_content">Acumulator</string>
     <string name="first_aid_item5_content">Alte probleme</string>
     <string name="first_aid_result_feedback_button">Trimiteți</string>
-    <string name="first_aid_result_feedback_summary">"Nu pot rezolva problemele telefonului meu."</string>
+    <string name="first_aid_result_feedback_summary">"Scanarea kitului de Prim ajutor nu a găsit nicio problemă dar eu am remarcat câteva."</string>
     <string name="first_aid_result_feedback_title">Feedback</string>
     <string name="first_aid_result_summary_normal">Totul arată bine!</string>
+    <string name="first_aid_result_summary_not_finished">"Scanarea nu s-a finalizat. Unele riscuri pot fi nedectate."</string>
     <string name="first_aid_scanning_item1">Se caută probleme de performanță…</string>
     <string name="first_aid_scanning_item2">Se caută probleme de rețea…</string>
     <string name="first_aid_scanning_item3">Se caută setări incorecte…</string>
@@ -1606,7 +1611,7 @@ Această activitate scade durata de viață a acumulatorului."</string>
     <string name="power_center_repeat">Repetare</string>
     <string name="power_center_scan_item_title_GPS">Ajustați acuratețea GPS-ului</string>
     <string name="power_center_scan_item_title_abnormal">Probleme legate de acumulator</string>
-    <string name="power_center_scan_item_title_abnormal_apps">Aplicație care consumă în mod excesiv acumulatorul</string>
+    <string name="power_center_scan_item_title_abnormal_apps">Aplicații care descarcă acumulatorul</string>
     <string name="power_center_scan_item_title_auto_invoke">Pornire în lanț</string>
     <string name="power_center_scan_item_title_auto_start">Pornire automată</string>
     <string name="power_center_scan_item_title_battery_details">Detalii utilizare acumulator</string>
@@ -1658,7 +1663,7 @@ Această activitate scade durata de viață a acumulatorului."</string>
     <string name="power_save_mode_summary">Monitorizează procesele în fundal și dezactivează sincronizarea.</string>
     <string name="power_save_on_time_end_time_summary_na">La</string>
     <string name="power_save_on_time_start_time_summary_na">De la</string>
-    <string name="power_save_started_summary_text">"power_save_started_summary_text&gt;Economisirea acumulatorului este activă. Aceasta reduce activitățile din fundal ale aplicațiilor, oprește sincronizarea și reduce animațiile de sistem."</string>
+    <string name="power_save_started_summary_text">"Economisirea acumulatorului este activă. Aceasta reduce activitățile din fundal ale aplicațiilor, oprește sincronizarea și reduce animațiile de sistem."</string>
     <string name="power_save_summary_text">"Activați Economisirea acumulatorului pentru a reduce activitatea în fundal a aplicațiilor, opriți sincronizarea și ascundeți animațiile de sistem."</string>
     <string name="power_save_title_text">Economisire acumulator</string>
     <string name="power_screen">Ecran</string>

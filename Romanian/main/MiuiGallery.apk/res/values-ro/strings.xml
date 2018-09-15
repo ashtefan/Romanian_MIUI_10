@@ -261,6 +261,9 @@
     <string name="cloudfolder_name_reserved">Numele albumului este rezervat</string>
     <string name="collage__talkback_effect">Efect %d</string>
     <string name="collage_choose">Selectați</string>
+    <string name="collage_drawable_normal_date_format">dd/MM/yyyy</string>
+    <string name="collage_drawable_rect_date_month_day">dd MMM</string>
+    <string name="collage_drawable_rect_date_year">yyyy</string>
     <string name="collage_margin_text">Margini</string>
     <string name="collage_mirror">Oglindă</string>
     <string name="collage_poster_global_cat_text">LĂBUȚE</string>
@@ -864,6 +867,10 @@ pentru a personaliza Galeria"</string>
     <string name="play_gif_desc">Redă animația GIF</string>
     <string name="play_video_desc">Redă videoclipul</string>
     <string name="preparing_data">Doar o secundă…</string>
+    <string name="privacy_permission_request_message">Aplicația Galerie are nevoie de acces la %3$s. Informațiile colectate vor fi utilizate în acord cu %1$s și cu %2$s. Permiteți?</string>
+    <string name="privacy_permission_request_negative">Restricționați</string>
+    <string name="privacy_permission_request_positive">Permiteți</string>
+    <string name="privacy_permission_request_title">Sunt necesare permisiuni</string>
     <string name="projection_cancel">Renunțați</string>
     <string name="projection_checkbox_text">Reține acest ecran</string>
     <string name="projection_device_connection_failed">"Nu s-a putut conecta la proiector"</string>
@@ -1168,10 +1175,15 @@ pentru a personaliza Galeria"</string>
     <string name="video_editor_auto_trim">Auto ajustare</string>
     <string name="video_editor_auto_trim_tip">Auto ajustare…</string>
     <string name="video_editor_cancel">Renunțați</string>
+    <string name="video_editor_cancel_download">Renunțați</string>
     <string name="video_editor_done">Terminat</string>
     <string name="video_editor_down_load_later">MAi târziu</string>
     <string name="video_editor_down_load_no_wifi_tips">Conectați-vă la Wi-Fi pentru a descărca</string>
     <string name="video_editor_down_load_now">Descărcați</string>
+    <string name="video_editor_download">Descărcați</string>
+    <string name="video_editor_download_failed_for_notwork">"Nu s-a putut descărca. Conectați-vă la rețea și încercați din nou."</string>
+    <string name="video_editor_download_without_wifi_msg">"Utilizarea datelor mobile pentru descărcarea fișierelor va crește traficul de date. Dacă depășiți planul de date, operatorul vă poate taxa suplimentar."</string>
+    <string name="video_editor_download_without_wifi_title">Avertisment utilizare date</string>
     <string name="video_editor_encode_video">Codificare videoclip…</string>
     <string name="video_editor_encode_video_error">"Nu s-a putut codifica videoclipul"</string>
     <string name="video_editor_fatal_error">Eroare necunoscută</string>
@@ -1210,6 +1222,8 @@ pentru a personaliza Galeria"</string>
     <string name="video_editor_res_download_mobil_network_confirm_msg">Descărcați coloanele sonore utilizând datele mobile?</string>
     <string name="video_editor_res_download_mobil_network_confirm_title">Utilizați datele mobile</string>
     <string name="video_editor_res_not_load_dialog_msg">Descărcați coloanele sonore pentru a utiliza această caracteristică (peste 20MB).</string>
+    <string name="video_editor_return">Înapoi</string>
+    <string name="video_editor_save">Salvați</string>
   <string name="video_editor_smart_effect_beat">Beats</string>
     <string name="video_editor_smart_effect_big_film">Epic</string>
     <string name="video_editor_smart_effect_cadence">Ritm</string>
