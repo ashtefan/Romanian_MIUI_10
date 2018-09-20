@@ -32,7 +32,6 @@
     <string name="agenda_settings_credit">Arată facturile de plată</string>
     <string name="agenda_settings_elecbill">Arată facturile de electricitate și gaz</string>
     <string name="agenda_settings_loan">Arată informațiile despre ratele bancare</string>
-    <string name="agree">De acord</string>
     <string name="alipay_init">Inițializare Alipay…</string>
     <string name="alipay_init_success">Alipay a fost inițializată cu succes​</string>
     <string name="alipay_scan">Scaner</string>
@@ -744,7 +743,6 @@ Unele comenzi trimise prin SF Express de către vânzători din afara Taobao, Tm
     <string name="notification_title">Adăugat la Favorite</string>
     <string name="notification_title_fail">"Nu s-a putut adăuga plata"</string>
     <string name="notification_title_success">Plată adăugată cu succes</string>
-    <string name="open_installed_app">Deschideți</string>
     <string name="opened">Pornit</string>
     <string name="order_date_label">Data comenzii: %1$s</string>
     <string name="order_detail">Detalii</string>
@@ -884,8 +882,6 @@ Unele comenzi trimise prin SF Express de către vânzători din afara Taobao, Tm
     <string name="search_tip">Căutare…</string>
     <string name="security">Securitate</string>
     <string name="send_action_title">Adăugați la Favorite</string>
-    <string name="send_shortcut_failed">"Nu s-a putut trimite"</string>
-    <string name="send_shortcut_success">Plasată pe Ecranul principal</string>
     <string name="service_unavailiable">Conectați-vă la rețea și reîncercați.</string>
     <string name="setting_address">Adăugați locații frecventate</string>
     <string name="setting_authorization_canceled_dialog_cancel">Renunțați</string>
@@ -1069,7 +1065,6 @@ Unele comenzi trimise prin SF Express de către vânzători din afara Taobao, Tm
     <string name="unusual_weather_setting_tip">Orașele pentru care se primesc avertizări meteo pot fi modificate din aplicația Meteo.</string>
     <string name="uploads_disabled">"Nu s-au putut încărca fișierele"</string>
     <string name="user_id">ID utilizator: %s</string>
-    <string name="user_notice_title">Atenție</string>
     <string name="walk">Mers</string>
     <string name="weibo_name">Postare nouă</string>
     <string name="weibo_parent">Weibo</string>
@@ -1094,6 +1089,5 @@ Unele comenzi trimise prin SF Express de către vânzători din afara Taobao, Tm
     <string name="xspace_resolver_activity_title">Selectați aplicația</string>
     <string name="year_month_day_all_format_en">dd/MM/yyyy HH:mm:ss</string>
     <string name="year_month_day_format">dd/MM/yyyy</string>
-    <string name="yellow_page_website">Site oficial</string>
     <string name="yesterday">Ieri</string>
 </resources>

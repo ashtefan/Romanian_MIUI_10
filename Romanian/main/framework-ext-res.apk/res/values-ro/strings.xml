@@ -164,6 +164,8 @@
     <string name="switch_brand_desc_tv">Servicii de securitate furnizate de către Spaces Mobile</string>
     <string name="switch_desc_tv">Două spații de lucru. Un singur telefon.</string>
     <string name="switching_tv">Comutare…</string>
+    <string name="talk_back_water_mark_string1">TalkBack este activat</string>
+    <string name="talk_back_water_mark_string2">Apăsați și mențineți apăsate butoanele \"Volum+\" și \"Volum-\" timp de 3 secunde pentru a dezactiva</string>
     <string name="total">Nu deranjați</string>
     <string name="total_description">Redu la tăcere și elimină vibrațiile pentru toate elementele, cu excepția alarmei</string>
     <string name="total_title">DND</string>

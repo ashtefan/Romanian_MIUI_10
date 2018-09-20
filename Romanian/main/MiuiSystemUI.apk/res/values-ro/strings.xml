@@ -1777,7 +1777,6 @@ Telefonul se poate încălzi dacă:
     <string name="usb_debugging_title">Permiteţi depanarea USB?</string>
     <string name="usb_device_confirm_prompt">Deschideţi %1$s la conectarea acestui dispozitiv USB?</string>
     <string name="usb_device_permission_prompt">Permiteţi aplicaţiei %1$s să acceseze dispozitivul USB?</string>
-    <string name="usb_function_charging_text">Conectat în modul încărcare</string>
     <string name="usb_mode_dont_ask">Memorează această alegere</string>
     <string name="usb_mode_mount_storage_title">Activaţi stocarea USB?</string>
     <string name="usb_mode_notification">Stocare USB</string>

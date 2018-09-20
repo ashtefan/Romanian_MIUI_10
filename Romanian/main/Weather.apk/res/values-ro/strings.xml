@@ -86,7 +86,7 @@
     <string name="button_sure_abandon">Renunțați la modificări?</string>
     <string name="card_vote_item_vs">VS</string>
     <string name="change_alert">Verificați conexiunea la rețea și reîncercați</string>
-    <string name="china_version_first_start_network_msg">"Utilizând acest produs, sunteți de acord cu %1$s și %2$s ale Xiaomi. Pentru a vă furniza informații cât mai precise despre starea vremii, aplicația va accesa informațiile despre locație și trebuie să se conecteze la rețea. Sunteți de acord?"</string>
+    <string name="china_version_first_start_network_msg">"Trebuie să fiți de acord cu %1$s și %2$s ale Xiaomi pentru a putea utiliza aplicația Meteo. Aplicația trebuie să vă poată accesa locația și să se poată conecta la internet pentru a funcționa în mod normal. Sunteți de acord?"</string>
     <string name="city_exceeded_warning">Puteți adăuga până la 10 orașe</string>
     <string name="clear_net_mock_success">Rețea fictivă curățată cu succes</string>
     <string name="common_loading_text">Doar o secundă…</string>
@@ -95,8 +95,9 @@
     <string name="content_desc_activity_main_add_city_manage">Gestionare orașe</string>
     <string name="content_desc_activity_main_more_settings">Mai multe setări</string>
     <string name="content_desc_back_button">Înapoi</string>
+    <string name="content_desc_city_manage_del">Ștergeți</string>
+    <string name="content_desc_city_manage_edit">Gestionați orașele</string>
     <string name="content_desc_close_button">Închideți</string>
-    <string name="content_desc_edit_city_manage">Gestionați locațiile</string>
     <string name="daily_forcast_drawer_on_bottom">Ascunde</string>
     <string name="daily_forcast_no_stable_direction">Adiere</string>
     <string name="daily_forcast_no_wind">0</string>
@@ -263,7 +264,7 @@ Apăsați pe ecran pentru a adăuga manual sau pentru a repoziționa orașul"</s
     <string name="update_setting_title_text">Actualizează Informațiile meteo</string>
     <string name="updated_a_moment_ago">Actualizată chiar acum</string>
     <string name="updating">Actualizare…</string>
-    <string name="user_agreement">Termenii Serviciului</string>
+    <string name="user_agreement">Acordul Utilizatorului</string>
     <string name="video_dialog_no_play"/>
     <string name="video_dialog_play"/>
     <string name="video_dialog_subtitle"/>

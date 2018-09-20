@@ -494,10 +494,12 @@
     <string name="card_main_deepclean_wechat_action">Goliți</string>
     <string name="card_main_deepclean_wechat_summary">Goliți cache-ul WeChat pentru a elibera spațiu de stocare</string>
     <string name="card_main_deepclean_wechat_title">Cache WeChat</string>
+    <string name="card_main_deepclean_whatsapp_title">Curățare WhatsApp</string>
     <string name="card_main_gamebooster_summary">Crește stabilitatea conexiunii pentru jocuri</string>
     <string name="card_main_gamebooster_title">Creștere viteză de gaming</string>
     <string name="card_main_hbassistant_summary">Utilizați această unealtă pentru a apuca mai repede plicurile</string>
     <string name="card_main_hbassistant_title">Asistent Red envelope</string>
+    <string name="card_main_hwtest_title">Test hardware</string>
     <string name="card_main_monthreport_action">Vizualizați</string>
     <string name="card_main_netcheck_action">Test</string>
     <string name="card_main_netcheck_summary">Testați conexiunea pentru a detecta problemele legate de rețea</string>
