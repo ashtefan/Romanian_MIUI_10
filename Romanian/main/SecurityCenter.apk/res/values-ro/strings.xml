@@ -928,8 +928,8 @@ Toate datele de pe telefon pot fi șterse iar parola pentru Blocarea ecranului p
     <string name="gb_first_window_antimsg_summary_quick_answer">Utilizați răspunsuri rapide</string>
     <string name="gb_first_window_antimsg_summary_transparent_show">Vedeți textul pe un fundal transparent</string>
     <string name="gb_first_window_antimsg_title">Notificări convenabile</string>
-    <string name="gb_first_window_gamebox_summary_four">Utilizați răspunsuri rapide, faceți înregistrări ale ecranului și capturi de ecran</string>
-    <string name="gb_first_window_gamebox_summary_six">Goliți memoria cache, faceți înregistrări și capturi de ecran</string>
+    <string name="gb_first_window_gamebox_summary_four">Goliți memoria cache, faceți înregistrări ale ecranului și capturi de ecran</string>
+    <string name="gb_first_window_gamebox_summary_six">Utilizați răspunsuri rapide, faceți înregistrări și capturi de ecran</string>
     <string name="gb_first_window_handsfree_summary">Activați difuzorul în în mod automat</string>
     <string name="gb_first_window_handsfree_title">Apeluri mâini-libere</string>
     <string name="gb_first_window_start">Porniți redarea</string>
