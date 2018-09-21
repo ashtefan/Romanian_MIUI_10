@@ -91,6 +91,11 @@
         <item>Ploaie</item>
         <item>Ninsoare</item>
     </string-array>
+    <string-array name="pref_tab_restore_array">
+        <item>Întreabă întotdeauna</item>
+        <item>Deschide</item>
+        <item>Închide</item>
+    </string-array>
     <string-array name="google">
         <item>Google</item>
         <item>google.com</item>
