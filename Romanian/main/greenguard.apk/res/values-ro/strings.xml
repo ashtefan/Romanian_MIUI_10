@@ -85,7 +85,6 @@ pe celălalt dispozitiv."</string>
     <string name="freerun_btn_ok">Ok</string>
     <string name="freerun_btn_uninstall">dezinstalați</string>
     <string name="freerun_camera_info_can_not_get">Nu s-au putut obține informații despre Cameră.</string>
-    <string name="freerun_chat_record_upload_server_url">https://%1$s/mdm/devices/commands/uploadChatsFile</string>
     <string name="freerun_check_license_content">Se verifică EULA...</string>
     <string name="freerun_check_license_title">EULA</string>
     <string name="freerun_device_removed">Dispozitivul va fi eliminat de către server.</string>
@@ -94,28 +93,22 @@ pe celălalt dispozitiv."</string>
     <string name="freerun_geoFence_in_tips">Notă: Restricția geografică a fost aplicată. Unele funcții ale dispozitivului vor fi indisponibile.</string>
     <string name="freerun_geoFence_out_tips">Restricția geografică a fost eliminată. Toate funcțiile dispozitivului sunt disponibile.</string>
     <string name="freerun_init_device_tip">Se activează dispozitivul…</string>
-    <string name="freerun_log_upload_server_url_normal">https://%1$s/mdm/devices/uploadLogFile</string>
-    <string name="freerun_mam_server_url">https://%1$s/iosapp/app</string>
     <string name="freerun_new_notice">Ați primit un mesaj nou</string>
     <string name="freerun_service_label_alarm">Execuție temporizată</string>
     <string name="freerun_service_label_app_status_sync">Serviciul de Sincronizare a Stării Aplicației</string>
     <string name="freerun_service_label_mdm">Serviciul principal MDM</string>
     <string name="freerun_service_label_pn">Serviciul PN</string>
     <string name="freerun_service_label_push_exe">Execuție PN</string>
-    <string name="freerun_symbol_colon">:</string>
     <string name="freerun_timeFence_in_tips">Notă: Restricția legată de timp a fost aplicată. Unele funcții ale dispozitivului vor fi indisponibile.</string>
     <string name="freerun_timeFence_out_tips">Restricția legată de timp a fost eliminată. Toate funcțiile dispozitivului sunt disponibile.</string>
     <string name="freerun_uninstall_app_tips">%s este în lista neagră și nu poate fi instalată; vă rugăm să o dezinstalați.</string>
     <string name="freerun_uninstall_installedapp">Vă rugăm să dezinstalați %s; instalați versiunea personalizată.</string>
-    <string name="freerun_user_server_url">https://%1$s/cgi-bin/dynamic_parser.cgi</string>
     <string name="from_who">de la【%s】</string>
     <string name="go_to_password">Parolă de Autorizare</string>
     <string name="guarder">%s vă gestionează dispozitivul.</string>
     <string name="last_time">%s minute rămase</string>
     <string name="loading">Se încarcă...</string>
     <string name="mi_loading_qr">Se generează codul QR…</string>
-    <string name="mi_push_app_id">2882303761517748370</string>
-    <string name="mi_push_app_key">5231774853370</string>
     <string name="min">min</string>
     <string name="mon">Lun</string>
     <string name="my_qr">Codul QR al aplicației Kite Guard</string>
@@ -146,9 +139,7 @@ pe celălalt dispozitiv."</string>
     <string name="search_menu_title">Căutați</string>
     <string name="server_error">A apărut o eroare de server. Încercați din nou.</string>
     <string name="show_name">FamilyGuard</string>
-    <string name="space">  </string>
     <string name="stable_build">Stabilă</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="string_from"/>
     <string name="sun">Dum</string>
     <string name="temporary_unlock">deblocare temporară</string>
@@ -166,7 +157,6 @@ pe celălalt dispozitiv."</string>
     <string name="verify_password">Introduceți parola</string>
     <string name="wes">Mie</string>
     <string name="what_app_can_use">Aplicații disponibile</string>
-    <string name="xiaomi_update_sdk_bytes_unit">%1$sB</string>
     <string name="xiaomi_update_sdk_connect_download_manager_fail">Conectarea aplicației de Gestionare a Descărcărilor a eșuat; vă rugăm verificați starea acesteia în Gestionarea Aplicațiilor.</string>
     <string name="xiaomi_update_sdk_dialog_message">"Vă prezentăm versiunea %1$s
 Dimensiune: %2$s"</string>
@@ -174,8 +164,6 @@ Dimensiune: %2$s"</string>
 Dimensiunea actualizării Delta: %2$s"</string>
     <string name="xiaomi_update_sdk_dialog_title">Actualizare a %1$s!</string>
     <string name="xiaomi_update_sdk_external_storage_unavailable">Spațiu de stocare insuficient; vă rugăm să verificați cardul SD.</string>
-    <string name="xiaomi_update_sdk_kilobytes_unit">%1$s KB</string>
-    <string name="xiaomi_update_sdk_megabytes_unit">%1$s MB</string>
     <string name="yesterday">ieri</string>
     <string name="your_guardian">protectorul dumneavoatră 【%1$s】 vă sugerează să dezinstalați 【%2$s】</string>
 </resources>
