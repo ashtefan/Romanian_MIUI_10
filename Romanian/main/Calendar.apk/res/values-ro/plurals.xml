@@ -103,6 +103,10 @@
         <item quantity="other">%d zile lucrătoare</item>
         <item quantity="one">%d zi lucrătoare</item>
     </plurals>
+    <plurals name="event_reminders_to_max">
+        <item quantity="other">Se pot seta cel mult %d memento-uri</item>
+        <item quantity="one">Se poate seta cel mult %d memento</item>
+    </plurals>
     <plurals name="Ndays_after">
         <item quantity="other">%1$d天后</item>
         <item quantity="one">%1$d天后</item>

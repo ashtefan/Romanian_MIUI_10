@@ -316,6 +316,13 @@
         <item>Transparent</item>
         <item>Fundal alb</item>
     </string-array>
+    <string-array name="edit_event_dislike">
+        <item>Nu este tipul de eveniment pe care vreau să-l creez</item>
+        <item>Mai multe Setări</item>
+        <item>Unele Setări nu pot fi determinate</item>
+        <item>Doar am aruncat o privire</item>
+        <item>"Nu vreau să-ți spun"</item>
+    </string-array>
     <string-array name="aqi_level_simple_desc">
         <item>优</item>
         <item>良</item>

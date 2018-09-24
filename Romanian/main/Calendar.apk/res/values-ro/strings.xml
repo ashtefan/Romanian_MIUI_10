@@ -194,6 +194,7 @@
     <string name="edit_event_confirm_message">Renunțați la modificări?</string>
     <string name="edit_event_countdown_name_empty_hint">Introduceți numele evenimentului</string>
     <string name="edit_event_countdown_name_hint">Eveniment</string>
+    <string name="edit_event_dislike_title">De ce ați renunțat?</string>
     <string name="edit_event_from_label">De la</string>
     <string name="edit_event_input_year">Introduceți anul</string>
     <string name="edit_event_label">Detalii</string>
@@ -238,7 +239,6 @@
   <string name="event_lunar_month">Lună</string>
     <string name="event_reminder_allday_day_zero">În acea zi la %2$s</string>
     <string name="event_reminder_value_zero">Înainte de eveniment</string>
-    <string name="event_reminders_to_max">Nu se pot seta %d memento-uri</string>
     <string name="event_title">Titlu</string>
     <string name="event_view">Vizualizaţi evenimentul</string>
     <string name="every_weekday">În fiecare zi lucrătoare (Luni – Vineri)</string>
