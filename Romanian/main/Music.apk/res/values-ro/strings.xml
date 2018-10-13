@@ -443,6 +443,7 @@ este oferit în principal de către Ultimate Inc."</string>
     <string name="exo_track_surround_5_point_1">Sunet spațial 5.1</string>
     <string name="exo_track_surround_7_point_1">Sunet spațial 7.1</string>
     <string name="exo_track_unknown">Necunoscut</string>
+    <string name="expand_button_title">Avansat</string>
     <string name="expired">Expirat</string>
     <string name="expires">Expiră în această lună:</string>
     <string name="fail_to_fetch_payment_page_url">"Nu s-au putut obține informațiile despre plată"</string>
@@ -1088,7 +1089,8 @@ Be Happy"</string>
     <string name="upgrade_to">Actualizaţi la</string>
     <string name="upgrade_waringing">"Veţi avea posibilitatea să ascultaţi doar muzică stocată off-line."</string>
     <string name="user_agreement">Acordul utilizatorului</string>
-    <string name="valid_period">Valid : %s</string>
+    <string name="v7_preference_off">OPRIT</string>
+    <string name="v7_preference_on">PORNIT</string>
     <string name="version_info">Versiune</string>
     <string name="video_play_cellular">"Dispozitivul dvs. nu este conectat la Wi-Fi. Utilizați datele mobile?"</string>
     <string name="video_replay_btn">Redați din nou</string>
