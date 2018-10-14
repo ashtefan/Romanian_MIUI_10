@@ -1163,6 +1163,7 @@ De asemenea, sunteți conectat la o rețea VPN, care vă poate monitoriza activi
     <string name="no_tiles_add">Nicio filă de adăugat</string>
     <string name="no_weather_description">Obțineți informații despre starea vremii &gt;</string>
     <string name="not_support_multi_window">"Aplicația curentă nu suportă modul Ecran scindat"</string>
+    <string name="notch_sos_status_bar_title">SOS</string>
     <string name="notification_all_categories">Toate categoriile</string>
     <string name="notification_app_settings">Personalizați: %1$s</string>
     <string name="notification_channel_alerts">Alerte</string>
@@ -1552,6 +1553,8 @@ De asemenea, sunteți conectat la o rețea VPN, care vă poate monitoriza activi
     <string name="snooze_option_30_min">30 de minute</string>
     <string name="snooze_undo">ANULEAZĂ</string>
     <string name="snoozed_for_time">Redus la tăcere pentru %1$s</string>
+    <string name="sos_status_bar_summary">atingeți pentru a ieși</string>
+    <string name="sos_status_bar_title">SOS</string>
     <string name="speed_bump_explanation">Notificările mai puțin urgente mai jos</string>
     <string name="ssl_ca_cert_warning">"Rețeaua poate fi
 monitorizată"</string>
