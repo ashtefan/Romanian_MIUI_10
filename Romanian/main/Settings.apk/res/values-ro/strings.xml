@@ -1559,7 +1559,6 @@ Această setare afectează toți utilizatorii telefonului."</string>
     <string name="dialog_title_hdmi_color_calibration">Presetare corecţie de culoare</string>
     <string name="dialog_title_login">Conectaţi-vă la contul dvs. Mi</string>
     <string name="dialog_yes">Da</string>
-    <string name="digital_clock_dot">:</string>
     <string name="direct_boot_unaware_dialog_message">"Notă: După o repornire, această aplicație nu poate porni până nu deblocați telefonul"</string>
     <string name="disableNetwork">dezactivați rețeaua</string>
     <string name="disable_overlays">Dezactivați suprascrierile HW</string>
