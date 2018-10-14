@@ -1811,7 +1811,7 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="report_error">"Nu s-a putut raporta mesajul"</string>
     <string name="report_only">Selectați mesajul de raportat</string>
     <string name="report_success">Mesaj raportat</string>
-    <string name="report_warning">"Raportați %1$s SMS către Mi? Aceste mesaje și numerele de telefon de la care provin vor fi încărcate pe serverele Mi pentru revizuire. Orice informații personale asociate cu aceste mesaje vor fi întotdeauna păstrate anonim."</string>
+    <string name="report_warning">"Raportați %1$s SMS către Mi? Aceste mesaje și numerele de telefon de la care provin vor fi încărcate pe serverele Mi pentru revizuire. Orice informații personale asociate cu aceste mesaje vor fi întotdeauna păstrate anonime."</string>
     <string name="report_warning_title">Raportați mesajul</string>
     <string name="reset_data_dialog_message">"Acest dispozitiv nu este asociat contului dvs. Mi. Nu se poate restaura sau reseta parola. Faceți mai întâi o copie de rezervă a tuturor elementelor importante și faceți o resetare la valorile din fabrică. Toate datele vor fi șterse definitiv iar cardul SD va fi formatat pe durata procesului de resetare."</string>
     <string name="reset_data_dialog_ok">Resetare la valorile din fabrică</string>
@@ -2236,7 +2236,7 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="tc_sms_report_receive_num">Numărul destinatarului</string>
     <string name="tc_sms_report_send_num">Numărul de telefon al operatorului</string>
     <string name="tc_sms_report_summary">Ajutaţi-ne să îmbunătăţim această funcție prin trimiterea unui raport, atunci când informaţiile despre datele utilizate sunt incorecte sau eşuează actualizarea</string>
-    <string name="tc_sms_report_tips_dialog_message">"Este trimis un mesaj SMS pentru a obține cele mai recente informații despre utilizarea datelor mobile de la operator. În cazul în care considerați că informațiile nu sunt corecte, trimiteți-ne un mesaj."</string>
+    <string name="tc_sms_report_tips_dialog_message">"Se trimite un mesaj SMS pentru a obține cele mai recente informații despre utilizarea datelor mobile de la operator. În cazul în care considerați că informațiile nu sunt corecte, trimiteți-ne un mesaj."</string>
     <string name="tc_sms_report_tips_dialog_title">SMS de utilizare a datelor</string>
     <string name="tc_sms_report_title">Eroare raport de utilizare a datelor</string>
     <string name="tc_sms_report_toast_text">Obţinere informaţii…</string>

@@ -239,8 +239,8 @@ Dacă activați din nou datele mobile, operatorul vă poate taxa pentru trafic s
         <item quantity="one">%d risc,</item>
     </plurals>
     <plurals name="hints_handle_item_text_virus_number">
-        <item quantity="other">%d trojani,</item>
-        <item quantity="one">%d trojan,</item>
+        <item quantity="other">%d trojani</item>
+        <item quantity="one">%d trojan</item>
     </plurals>
     <plurals name="white_list_risk_app_header">
         <item quantity="other">Aplicații periculoase: %d</item>

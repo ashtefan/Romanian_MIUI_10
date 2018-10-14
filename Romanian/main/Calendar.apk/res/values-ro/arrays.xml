@@ -48,6 +48,13 @@
         <item>Acest eveniment și cele următoare</item>
         <item>Toate evenimentele</item>
     </string-array>
+    <string-array name="edit_event_dislike">
+        <item>Nu este tipul de eveniment pe care vreau să-l creez</item>
+        <item>Mai multe Setări</item>
+        <item>Unele Setări nu pot fi determinate</item>
+        <item>Doar am aruncat o privire</item>
+        <item>"Nu îți spun"</item>
+    </string-array>
     <string-array name="gemini_info">
         <item>gemeni</item>
         <item>Gemeni</item>
@@ -315,13 +322,6 @@
     <string-array name="widget_style_list">
         <item>Transparent</item>
         <item>Fundal alb</item>
-    </string-array>
-    <string-array name="edit_event_dislike">
-        <item>Nu este tipul de eveniment pe care vreau să-l creez</item>
-        <item>Mai multe Setări</item>
-        <item>Unele Setări nu pot fi determinate</item>
-        <item>Doar am aruncat o privire</item>
-        <item>"Nu vreau să-ți spun"</item>
     </string-array>
     <string-array name="aqi_level_simple_desc">
         <item>优</item>
