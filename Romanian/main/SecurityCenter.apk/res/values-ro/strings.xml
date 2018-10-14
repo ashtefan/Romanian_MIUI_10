@@ -1298,7 +1298,7 @@ răspunsul operatorului"</string>
     <string name="mi_service_app_detail">Detalii utilizare date</string>
     <string name="mi_service_traffic_detail">Detalii Framework</string>
     <string name="mian_page_primary_txt">Roaming internaţional</string>
-    <string name="midrop_post_notification_contentText">"Încercați Mi Drop. Este rapid și nu conține reclame."</string>
+    <string name="midrop_post_notification_contentText">Transferați fișiere la viteze de până la 50 Mbps cu Mi Drop.</string>
     <string name="midrop_post_notification_contentTitle">Trebuie să transferați fișiere?</string>
     <string name="mixed_need_to_confirm">Introduceți din nou pentru confirmare</string>
     <string name="mixed_password_confirmed_header_confirm">Setată cu succes. Atingeți pentru a confirma.</string>

@@ -560,7 +560,7 @@ Dacă reactivaţi datele, puteţi fi taxat de către operator.</string>
     <string name="dock_forced_resizable">Este posibil ca aplicația să nu funcționeze in modul ecran scindat.</string>
     <string name="dock_keyguard_locked_failed_to_dock_text">"Modul ecran scindat nu este suportat în Blocarea ecranului."</string>
     <string name="dock_non_resizeble_failed_to_dock_text">"Aplicația nu suportă modul ecran scindat"</string>
-    <string name="drag_to_add_tiles">Trageți pentru a adăuga file</string>
+    <string name="drag_to_add_tiles">Atingeți și mențineți apăsat pentru a adăuga sau a reordona elementele</string>
     <string name="drag_to_remove_tiles">Trageți aici pentru a elimina</string>
     <string name="drive_mode_tip">Modul Automobil activat</string>
     <string name="drive_mode_tip_idle">Modul Automobil este activat</string>
@@ -998,9 +998,11 @@ Utilizați doar încărcătorul furnizat de producător."</string>
     <string name="local_backup_password_toast_confirmation_mismatch">Parolele nu se potrivesc</string>
     <string name="local_backup_password_toast_success">Noua parolă pentru copia de rezervă a fost setată</string>
     <string name="local_backup_password_toast_validation_failure">"Nu s-a putut seta parola de rezervă"</string>
+    <string name="lock_screen_carrier_airplane_mode_on">Mod Avion</string>
     <string name="lock_screen_date">EEEE, d MMMM</string>
     <string name="lock_screen_date_12">EEEE, d MMMM</string>
-    <string name="lock_screen_no_sim_card">Fără cartelă SIM</string>
+    <string name="lock_screen_no_sim_card_emergency_only">Doar apeluri de urgență</string>
+    <string name="lock_screen_no_sim_card_no_service">Fără serviciu</string>
     <string name="lock_wallpaper_enter">Introduceți</string>
     <string name="lock_wallpaper_learn_more">Mai multe</string>
     <string name="lockscreen_access_pattern_area">Zonă model.</string>
@@ -1409,6 +1411,7 @@ De asemenea, sunteți conectat la o rețea VPN, care vă poate monitoriza activi
     <string name="quick_settings_sync_label">Sincronizare</string>
     <string name="quick_settings_tethering_label">Tethering</string>
     <string name="quick_settings_time_label">Ora</string>
+    <string name="quick_settings_toast_drag_to_enable_custom_tile">Pentru a adăuga un element, apăsați și mențineți apăsat iar apoi mutați-l în partea de sus a panoului.</string>
     <string name="quick_settings_user_label">Eu</string>
     <string name="quick_settings_user_new_user">Utilizator nou</string>
     <string name="quick_settings_user_title">Utilizator</string>
@@ -1436,7 +1439,7 @@ De asemenea, sunteți conectat la o rețea VPN, care vă poate monitoriza activi
     <string name="recents_accessibility_split_screen_top">Ecran scindat în sus</string>
     <string name="recents_app_info_button_label">Informații despre aplicație</string>
     <string name="recents_caption_resize">Selectați dispunerea noii sarcini</string>
-    <string name="recents_drag_hint_message">Trageți elementele aici</string>
+    <string name="recents_drag_hint_message">Atingeți și mențineți apăsată o aplicație, apoi mutați-o aici.</string>
     <string name="recents_empty_message">Nu sunt elemente recente</string>
     <string name="recents_empty_message_dismissed_all">Ați eliminat toate elementele</string>
     <string name="recents_empty_message_multi_window">Deschideți aplicațiile din Ecranul principal</string>
@@ -1699,6 +1702,7 @@ Telefonul se poate încălzi dacă:
     <string name="torch_activity_hint">Ţineţi apăsată [iconița] pentru a activa lanterna în blocarea ecranului</string>
     <string name="torch_activity_name">Lanternă</string>
     <string name="torch_closed">Lanternă deconectată</string>
+    <string name="torch_high_temperature_warning">"Telefonul este supraîncălzit. Nu se poate folosi lanterna acum."</string>
     <string name="torch_opened">Lanternă conectată</string>
     <string name="track_frame_time">Profil randare GPU</string>
     <string name="transition_animation_scale_title">Scală animație de tranziție</string>
@@ -1901,6 +1905,8 @@ Orice utilizator poate actualiza aplicații pentru toți ceilalți utilizatori."
     <string name="wireless_charge_reset_device_detail">Asigurați-vă că poziția telefonului în baza de încărcare este corectă</string>
     <string name="wireless_charge_stop">S-a oprit încărcarea wireless</string>
     <string name="wrong_password">Parolă incorectă</string>
+    <string name="yoigo_mcc">214</string>
+    <string name="yoigo_mnc">04</string>
     <string name="zen_alarm_warning">"Nu veți mai auzi următoarea alarmă %1$s"</string>
     <string name="zen_alarm_warning_indef">"Nu veți mai auzi următoarea alarmă %1$s decât dacă dezactivați asta până atunci"</string>
     <string name="zen_alarms_introduction">"Nu veți mai fi deranjat de sunete și vibrații, cu excepția alarmei. Veți auzi în continuare orice veți dori să redați inclusiv muzica, videoclipurile și jocurile."</string>

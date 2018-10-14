@@ -48,10 +48,10 @@
     <string name="cloud_app_restore_wifi_prompt">Restaurați dintr-o copie de rezervă Mi Cloud.</string>
     <string name="cloud_back_up_date_format">HH:mm dd.MM.yyyy</string>
     <string name="cloud_back_up_detail_discription">"Atunci când dispozitivul va fi conectat la Wi-Fi se va crea o copie de rezervă în Mi Cloud pentru următoarele elemente: 
-*\u0009\u0009\u0009\u0009Aplicații, dispunerea iconițelor pe ecranul principal și imaginile de fundal 
-*\u0009\u0009\u0009\u0009Alarmă, ceas și setările pentru timp 
-*\u0009\u0009\u0009\u0009Setările notificărilor 
-*\u0009\u0009\u0009\u0009Setările MIUI și ale sistemului 
+*  Aplicații, dispunerea iconițelor pe ecranul principal și imaginile de fundal 
+*  Alarmă, ceas și setările pentru oră 
+*  Setările notificărilor 
+*  Setările MIUI și ale sistemului 
 Notă: Datele aplicațiilor instalate nu vor fi salvate în Mi Cloud!"</string>
     <string name="cloud_back_up_frequence_choice_title">Program creare copie de rezervă</string>
     <string name="cloud_back_up_frequence_long">La fiecare 7 zile</string>
@@ -110,6 +110,7 @@ Notă: Datele aplicațiilor instalate nu vor fi salvate în Mi Cloud!"</string>
     <string name="download_meta_failed">"Nu s-au putut încărca datele."</string>
     <string name="download_settings">Se descarcă setările pentru ecranul de pornire %s%%</string>
     <string name="download_settings_fail">Nu s-au putut descărca setările ecranului de pornire</string>
+    <string name="error_num_placeholder">--</string>
     <string name="error_retry_later">Eșuat; vă rugăm încercați mai târziu.</string>
     <string name="error_unknown">Ceva a mers prost</string>
     <string name="get_device_id_error">"Nu s-a putut obține ID-ul dispozitivului"</string>
@@ -118,6 +119,10 @@ Notă: Datele aplicațiilor instalate nu vor fi salvate în Mi Cloud!"</string>
     <string name="home_restore_error">"Nu s-a putut restaura Ecranul principal"</string>
     <string name="lack_of_storage">Nu există suficient spațiu de stocare</string>
     <string name="latest_backup_time_loading">Se încarcă…</string>
+    <string name="load_backup_failed">Încărcarea copiilor de rezervă a eșuat</string>
+    <string name="loading_progress_num">(%s%%)</string>
+    <string name="loading_user_backup">Se încarcă copiile de rezervă ale utilizatorului…</string>
+    <string name="main_space">Spațiul principal</string>
     <string name="managespace_delete_backup">Ștergeți</string>
     <string name="menu_item_managespace">Gestionați spațiul</string>
     <string name="menu_item_sort">Sortare după</string>
@@ -135,6 +140,8 @@ Notă: Datele aplicațiilor instalate nu vor fi salvate în Mi Cloud!"</string>
     <string name="open_wifi">>Porniți Wi-Fi acum</string>
     <string name="open_wifi_description">Conectaţi-vă la o rețea Wi-Fi pentru a restabili aplicațiile</string>
     <string name="open_wifi_setting">Setări Wi-Fi</string>
+    <string name="pattern_backup_name_with_home">%1$s (%2$s%3$s: %4$s)</string>
+    <string name="pattern_backup_name_without_home">%1$s (%2$s%3$s)</string>
     <string name="process_whole_recovery">Restabilire \"%s\"</string>
     <string name="provision_error_connect_msg">"Testați rețeaua și încercați din nou. Copiile de rezervă nu sunt disponibile când telefonul este offline."</string>
     <string name="provision_error_connect_title">"Nu se poate conecta"</string>
@@ -161,8 +168,8 @@ Notă: Datele aplicațiilor instalate nu vor fi salvate în Mi Cloud!"</string>
     <string name="restore_task_in_process">Restaurare…</string>
     <string name="restore_unfinished">Restaurare; încercați din nou mai târziu</string>
     <string name="retry">Reîncercaţi</string>
-    <string name="self_phone">Acest telefon</string>
-    <string name="self_phone_home">Acest telefon: %s</string>
+    <string name="second_space">Spațiul secundar</string>
+    <string name="self_device">"Al acestui telefon "</string>
     <string name="settings_backup">Setări de sistem</string>
     <string name="size_unknown">Dimensiune necunoscută</string>
     <string name="start_backup_to_micloud">Creare copie de rezervă pentru aplicații în Mi Cloud</string>
@@ -172,6 +179,7 @@ Notă: Datele aplicațiilor instalate nu vor fi salvate în Mi Cloud!"</string>
     <string name="title_alert_restore_error">"Restaurarea a eșuat"</string>
     <string name="total_space">Spațiu total: %s</string>
     <string name="try_again">Atingeți pentru a încerca din nou</string>
+    <string name="try_continue">Atingeți pentru a continua</string>
     <string name="unsupported_home">Vă rugăm să actualizați la cel mai recent SO.</string>
     <string name="wait_icon_download">Se descarcă pictogramele aplicațiilor</string>
 </resources>

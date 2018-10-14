@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="dialog_confirm_delete_downloads_message">
+        <item quantity="other">Ștergeți %d descărcări?</item>
+        <item quantity="one">Ștergeți %d descărcare?</item>
+    </plurals>
+    <plurals name="download_info_count_deleted_tasks">
+        <item quantity="other">%s descărcări au fost șterse</item>
+        <item quantity="one">%s descărcare a fost ștearsă</item>
+    </plurals>
     <plurals name="sniff_find_resource">
         <item quantity="other">S-au găsit %d elemente</item>
         <item quantity="one">S-a găsit 1 element</item>

@@ -1093,7 +1093,7 @@ Această caracteristică poate fi dezactivată din [Setări]"</string>
     <string name="checking_decryption">Verificare…</string>
     <string name="checking_find_device_status">Se verifică starea serviciului Localizare dispozitiv…</string>
     <string name="checking_for_updates">Verificare actualizări…</string>
-    <string name="choose_assist_title">Alegeți Aplicația de asistare</string>
+    <string name="child_mode_settings">Control parental</string>
     <string name="choose_profile">Selectați profilul</string>
     <string name="choose_smartcover_type">Selectați tipul husei</string>
     <string name="choose_spell_checker">Selectați corectorul ortografic</string>
@@ -1305,6 +1305,9 @@ Pentru a relua utilizarea telefonului, trebuie să efectuaţi o resetare la valo
     <string name="daltonizer_mode_tritanomaly">Tritanomalie (albastru-galben)</string>
     <string name="daltonizer_type">Mod corecție</string>
     <string name="daltonizer_type_overridden">Suprascris de către %1$s</string>
+    <string name="dangerous_option">Opțiuni dezvoltator cu risc ridicat</string>
+    <string name="dangerous_option_hint">%1$s este activată. Atingeți pentru a modifica setările.</string>
+    <string name="dangerous_option_hint_title">Opțiune cu risc ridicat activată</string>
     <string name="dashboard_title">Setări</string>
     <string name="data_limit">Limita de date</string>
     <string name="data_saver_off">Oprit</string>
@@ -1556,6 +1559,7 @@ Această setare afectează toți utilizatorii telefonului."</string>
     <string name="dialog_title_hdmi_color_calibration">Presetare corecţie de culoare</string>
     <string name="dialog_title_login">Conectaţi-vă la contul dvs. Mi</string>
     <string name="dialog_yes">Da</string>
+    <string name="digital_clock_dot">:</string>
     <string name="direct_boot_unaware_dialog_message">"Notă: După o repornire, această aplicație nu poate porni până nu deblocați telefonul"</string>
     <string name="disableNetwork">dezactivați rețeaua</string>
     <string name="disable_overlays">Dezactivați suprascrierile HW</string>
@@ -1935,6 +1939,7 @@ Pentru mai multe detalii, contactați administratorul organizației."</string>
     <string name="fingerprint_manage_tittle">Amprentă</string>
     <string name="fingerprint_not_identified_msg">"Nu s-a putut citi amprenta. Introduceți parola"</string>
     <string name="fingerprint_not_recognized">Nerecunoscută</string>
+    <string name="fingerprint_others_title">Altele</string>
     <string name="fingerprint_payment">Plăți prin amprentă</string>
     <string name="fingerprint_removal_failed">"Nu s-a putut elimina amprenta; încercați din nou mai târziu"</string>
     <string name="fingerprint_swipe_for_notifications_summary">Pentru a verifica notificările, glisați în jos pe senzorul de amprentă de pe spatele telefonului.</string>
@@ -2124,6 +2129,15 @@ Când activați crearea automată a copiei de rezervă, datele dispozitivului ș
     <string name="gxzw_add_fingerprint_put_finger_message">Apăsați pe ecran și ridicați degetul după ce simțiți o vibrație. Repetați de câteva ori.</string>
     <string name="gxzw_add_fingerprint_put_finger_title">Apăsați și ridicați degetul după ce simțiți o vibrație</string>
     <string name="gxzw_add_fingerprint_title">Adăugați o amprentă</string>
+    <string name="gxzw_anim_light">Neon</string>
+    <string name="gxzw_anim_metal">Metal</string>
+    <string name="gxzw_anim_pulse">Puls</string>
+    <string name="gxzw_anim_rhythm">Ritm</string>
+    <string name="gxzw_anim_title">Animație amprentă</string>
+    <string name="gxzw_dialog_message">"Pentru a putea utiliza în mod normal senzorul de amprentă încorporat, nu folosiți folii de protecție. În cazul în care totuși considerați necesară o folie de protecție, alegeți una compatibilă și autorizată."</string>
+    <string name="gxzw_dialog_not_show_again">"Nu arăta din nou"</string>
+    <string name="gxzw_dialog_ok">Am înțeles</string>
+    <string name="gxzw_dialog_title">Despre senzorul de amprentă încorporat în ecran</string>
     <string name="handy_mode">Modul Operare cu o mână</string>
     <string name="handy_mode_enable">Mod Operare cu o mână</string>
     <string name="handy_mode_size">Dimensiune ecran</string>
@@ -2567,7 +2581,7 @@ cât cel pentru Spațiul principal"</string>
     <string name="lockpassword_choose_your_pin_header">Setați codul PIN</string>
     <string name="lockpassword_choose_your_pin_header_second_space">"Setați codul PIN 
  pentru Spațiul secundar"</string>
-    <string name="lockpassword_choose_your_pin_title">Introduceți între 4 și 16 cifre</string>
+    <string name="lockpassword_choose_your_pin_title" formatted="false">Introduceți %d-%d cifre</string>
     <string name="lockpassword_confirm_for_second_user">Confirmați parola pentru Spațiul Secundar</string>
     <string name="lockpassword_confirm_passwords_dont_match">Parolele nu corespund</string>
     <string name="lockpassword_confirm_pins_dont_match">"Codurile PIN nu corespund"</string>
@@ -2821,6 +2835,7 @@ Sunt alți utilizatori pe acest dispozitiv.
     <string name="menu_use_uss">Utilizați Uss</string>
     <string name="mi_pay">Portofel Mi</string>
     <string name="mi_pay_summary">Emulator Card autobus/Plată Mi/Card</string>
+    <string name="mi_service">Servici Mi</string>
     <string name="mi_service_app_detail">Detalii utilizare date</string>
     <string name="mi_shopping_mall">Magazin Mi</string>
     <string name="mi_upi_settings">Cont Mi Pay</string>
@@ -2853,6 +2868,7 @@ Sunt alți utilizatori pe acest dispozitiv.
     <string name="miui_lab_super_resolution_desc">Face imaginile mai clare</string>
     <string name="miui_lab_super_resolution_title">Super rezoluție</string>
     <string name="miui_master_clear_summary">Șterge toate datele de pe dispozitiv</string>
+    <string name="miui_optimization_disabled">Dezactivați optimizarea MIUI</string>
     <string name="miui_sos_audio_summary">Redă un mesaj SOS după ce contactul de urgență răspunde</string>
     <string name="miui_sos_audio_title">Mesaj vocal SOS</string>
     <string name="miui_sos_call_log_duration">Durată</string>
@@ -4517,6 +4533,7 @@ Codul PIN poate fi incorect."</string>
     <string name="skip_label">Omiteţi</string>
     <string name="skip_lock_screen_confirm_msg">"Notificările, controalele playerului muzical și scurtăturile nu vor fi afișate în Blocarea ecranului."</string>
     <string name="skip_step">Omiteţi</string>
+    <string name="slight_pause">,</string>
     <string name="slot_number">(Slot %1$d)</string>
     <string name="slot_status_title">Informaţie IMEI</string>
     <string name="smallwindow_smartcover_title">Husă frontală cu fantă pentru ecran</string>
@@ -4892,6 +4909,7 @@ Luați în calcul utilizarea unui ^1 mai rapid pentru o mai bună performanță.
     <string name="suw_back_button_label">Înapoi</string>
     <string name="suw_more_button_label">Mai multe</string>
     <string name="suw_next_button_label">Următorul</string>
+    <string name="switch_access_service_on">Comutați Accesul</string>
     <string name="switch_off_text">Oprit</string>
     <string name="switch_on_text">Pornit</string>
     <string name="switch_screen_button_order">Butoane în oglindă</string>
@@ -5181,7 +5199,7 @@ Amprentele salvate vor fi de asemenea eliminate din acest profil și nu veți ma
     <string name="unlock_set_unlock_password_title">Parolă complexă</string>
     <string name="unlock_set_unlock_pattern_summary">Desenați cu degetul un model simplu pentru a debloca telefonul</string>
     <string name="unlock_set_unlock_pattern_title">Model</string>
-    <string name="unlock_set_unlock_pin_summary">Introduceți 4-16 cifre pentru a debloca telefonul</string>
+    <string name="unlock_set_unlock_pin_summary" formatted="false">Introduceți %d-%d cifre pentru a debloca telefonul</string>
     <string name="unlock_set_unlock_pin_title">Parolă numerică</string>
     <string name="unlock_set_unlock_summary">Setaţi o blocare pentru ecran</string>
     <string name="unlock_setup_wizard_fingerprint_details">Odată ce ați setat o metodă de blocare a ecranului, puteți seta și amprenta în Setări &gt; Securitate.</string>

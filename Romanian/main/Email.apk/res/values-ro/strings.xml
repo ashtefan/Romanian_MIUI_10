@@ -167,6 +167,7 @@ Actualizaţi acum?"</string>
   <string name="add_account_keywords">Adăugarea de conturi de e-mail, adăugarea de conturi de e-mail;add mail account</string>
     <string name="add_attachment">Atașaţi fișiere</string>
     <string name="add_calendar">Reamintire</string>
+    <string name="add_file_exception">Adăugați o excepție. Vă rugăm să încercați să adăugați din alte părți.</string>
     <string name="add_label">Adăugaţi un dosar</string>
     <string name="add_pre_message_attachments">Adăugați atașamentele de pre-mesaj?</string>
     <string name="add_pre_message_attachments_no">Nu se adaugă</string>

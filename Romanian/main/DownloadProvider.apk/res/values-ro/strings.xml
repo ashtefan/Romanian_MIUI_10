@@ -48,7 +48,6 @@
     <string name="notif_title_single_downloading">Se descarcă %1$s</string>
     <string name="notification_download_complete">Descărcare finalizată</string>
     <string name="notification_download_failed">Descărcare nereuşită</string>
-    <string name="notification_download_failed_more">Descărcarea a %1$d fişiere a eșuat</string>
     <string name="notification_download_success_more">Au fost descărcate %1$d fişiere</string>
     <string name="notification_need_wifi_for_size">Dimensiunea fişierului necesită conectarea la Wi-Fi.</string>
     <string name="notification_paused_in_background">Întreruptă în fundal</string>

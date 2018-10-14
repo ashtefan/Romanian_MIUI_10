@@ -63,7 +63,6 @@
     <string name="dialog_btn_ok_disabled_net">Setări de rețea</string>
     <string name="dialog_cannot_resume">Descărcarea a fost întreruptă. Nu poate fi reluată.</string>
     <string name="dialog_confirm_delete_checkbox_message">Ștergeți, de asemenea, fișierele locale</string>
-    <string name="dialog_confirm_delete_downloads_message">Ştergeţi %d sarcini?</string>
     <string name="dialog_confirm_delete_the_download_item_message">Ştergeţi aceste sarcini?</string>
     <string name="dialog_content_limit0">Restricționați descărcările</string>
     <string name="dialog_content_limit_max">Nelimitat</string>
@@ -99,7 +98,6 @@
     <string name="download_filesize_unknown">Necunoscut</string>
     <string name="download_from">Sursa:</string>
     <string name="download_in_process">În curs de descărcare</string>
-    <string name="download_info_count_deleted_tasks">%s descărcări eliminate</string>
     <string name="download_info_start_deleted_tasks">Ştergeţi descărcările</string>
     <string name="download_list_get_free_vip">Xunlei trial</string>
     <string name="download_list_get_hightspeed_flow_auto_open">Accelerarea descărcărilor Xunlei este activată</string>
@@ -361,9 +359,7 @@ pe toate dispozitivele cu Xunlei"</string>
     <string name="sniff_no_result_text">Niciun rezultat găsit</string>
     <string name="sniff_result_empty_prompt">Rezultate ale căutării web</string>
     <string name="sniff_result_num_prefix">Găsită</string>
-    <string name="sniff_result_num_video_suffix">elemente</string>
     <string name="sniff_result_num_website_suffix">site-uri internet</string>
-    <string name="sniff_result_website_intro">Total &lt;font color=\"#6699ff\"&gt;%1$d&lt;/font&gt; elemente | Sursa: %2$s</string>
     <string name="sniff_search_assoicate_sizeinfo">Dimensiune: %1$s</string>
     <string name="sniff_search_install">Instalați</string>
     <string name="sniff_shortcut_cloudconfig_btn">Am înțeles</string>

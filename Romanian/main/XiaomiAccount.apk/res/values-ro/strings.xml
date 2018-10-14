@@ -365,7 +365,7 @@ link-ul din e-mailul pe care vi l-am trimis."</string>
     <string name="passport_skip_login">Omiteţi conectarea</string>
     <string name="passport_skip_register">Omiteţi conectarea</string>
     <string name="passport_skip_setup_account_msg">Puteți configura un cont Mi mai târziu în Setări.</string>
-    <string name="passport_skip_setup_account_title">Omiteţi configurarea</string>
+    <string name="passport_skip_setup_account_title">"Nu utilizați Mi Cloud?"</string>
     <string name="passport_sms_send_success">Trimis</string>
     <string name="passport_sms_verification_code_login">Autentificare prin cod SMS</string>
     <string name="passport_sync_account_data">Sincronizare informații cont…</string>

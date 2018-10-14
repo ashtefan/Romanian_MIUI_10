@@ -913,6 +913,7 @@ Contactaţi furnizorul de servicii pentru a obţine o altă cartelă SIM."</stri
     <string name="notification_channel_voice_mail">Mesaje vocale</string>
     <string name="notification_channel_vpn">Stare VPN</string>
     <string name="notification_channel_wfc">Apelare prin Wi-Fi</string>
+    <string name="notification_description">Stare apel vocal</string>
      <string name="notification_header_divider_symbol">•</string>
     <string name="notification_header_divider_symbol_with_spaces">" • "</string>
      <string name="notification_hidden_by_policy_text">Conținut ascuns de politica curentă</string>
@@ -1418,12 +1419,14 @@ Ascultarea la volum ridicat pentru perioade lungi de timp vă poate afecta auzul
      <string name="ssl_ca_cert_noti_managed">De %s</string>
      <string name="ssl_certificate">Certificat de securitate</string>
      <string name="ssl_certificate_is_valid">Certificatul este valid.</string>
-     <string name="stk_cc_ss_to_dial">Solicitarea SS este modificată în solicitare APELARE.</string>
-    <string name="stk_cc_ss_to_dial_video">Solicitarea SS este modificată în solicitare APEL Video.</string>
+      <string name="status_communication_speaker_summary">Un apel hands-free este în curs. Redarea audio se va face în continuare în difuzor când sunt conectate căștile.</string>
+      <string name="status_communication_summary">Există un apel în curs. Puteți ajusta doar volumul apelului acum.</string>
+      <string name="stk_cc_ss_to_dial">Solicitarea SS este modificată în solicitare APELARE.</string>
+     <string name="stk_cc_ss_to_dial_video">Solicitarea SS este modificată în solicitare APEL Video.</string>
      <string name="stk_cc_ss_to_ss">Solicitarea SS este modificată într-o nouă solicitare SS.</string>
      <string name="stk_cc_ss_to_ussd">Solicitarea SS este modificată în solicitare USSD.</string>
      <string name="stk_cc_ussd_to_dial">Solicitarea USSD este modificată în solicitare APELARE.</string>
-    <string name="stk_cc_ussd_to_dial_video">Solicitarea USSD este modificată în solicitare APEL Video.</string>
+     <string name="stk_cc_ussd_to_dial_video">Solicitarea USSD este modificată în solicitare APEL Video.</string>
      <string name="stk_cc_ussd_to_ss">Solicitarea USSD este modificată în solicitare SS.</string>
      <string name="stk_cc_ussd_to_ussd">Solicitarea USSD este modificată într-o nouă solicitare USSD.</string>
      <string name="storage_internal">Stocare internă partajată</string>

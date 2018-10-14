@@ -316,6 +316,7 @@
     <string name="no_network">"Nu s-a putut conecta la rețea"</string>
     <string name="no_sim">Nicio cartelă SIM detectată.</string>
     <string name="noon">PM</string>
+    <string name="not_supported_due_to_language">Această caracteristică este valabilă doar pentru limba Chineză</string>
     <string name="note">Notă</string>
     <string name="organization">Organizație</string>
     <string name="percent"/>

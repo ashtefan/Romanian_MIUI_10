@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="google">
+        <item>Google</item>
+        <item>google.com</item>
+        <item>http://www.google.com/favicon.ico</item>
+        <item>http://www.google.com/search?hl={language}&amp;ie={inputEncoding}&amp;source=android-browser&amp;q={searchTerms}</item>
+        <item>UTF-8</item>
+        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;market={language}</item>
+    </string-array>
     <string-array name="pref_fling_on_border_gesture_entries">
         <item>Derulare înainte-înapoi</item>
         <item>Comutare file</item>
@@ -17,6 +25,11 @@
         <item>Vizualizare verticală</item>
         <item>Vizualizare orizontală</item>
     </string-array>
+    <string-array name="pref_tab_restore_array">
+        <item>Întreabă întotdeauna</item>
+        <item>Deschide</item>
+        <item>Închide</item>
+    </string-array>
     <string-array name="pref_text_zoom_choices">
         <item>Foarte mic</item>
         <item>Mic</item>
@@ -29,6 +42,14 @@
         <item>Desktop</item>
         <item>iPhone</item>
         <item>iPad</item>
+    </string-array>
+    <string-array name="readmode_theme_background_color">
+        <item>alb</item>
+        <item>bej</item>
+        <item>maro</item>
+        <item>verde</item>
+        <item>gri</item>
+        <item>negru</item>
     </string-array>
     <string-array name="shortcut_dialog_delete">
         <item>Ștergeți</item>
@@ -90,18 +111,5 @@
         <item>Nimic</item>
         <item>Ploaie</item>
         <item>Ninsoare</item>
-    </string-array>
-    <string-array name="pref_tab_restore_array">
-        <item>Întreabă întotdeauna</item>
-        <item>Deschide</item>
-        <item>Închide</item>
-    </string-array>
-    <string-array name="google">
-        <item>Google</item>
-        <item>google.com</item>
-        <item>http://www.google.com/favicon.ico</item>
-        <item>http://www.google.com/search?hl={language}&amp;ie={inputEncoding}&amp;source=android-browser&amp;q={searchTerms}</item>
-        <item>UTF-8</item>
-        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;market={language}</item>
     </string-array>
 </resources>

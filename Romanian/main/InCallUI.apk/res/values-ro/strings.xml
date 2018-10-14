@@ -224,6 +224,7 @@
     <string name="video_conference_caller_info_name">"Apel videoconferință al lui %1$s"</string>
     <string name="video_crbt_title">"Se redă videoclipul de apel al apelantului"</string>
     <string name="voicemail">Căsuța vocală</string>
+    <string name="volume_boost_text">Creșterea volumului a reușit</string>
     <string name="wait_prompt_str">"Trimiteţi următoarele tonuri?
 "</string>
     <string name="waiting_close_airplane_mode">Doar o secundă…</string>
