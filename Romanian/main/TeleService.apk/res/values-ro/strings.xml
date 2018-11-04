@@ -1614,7 +1614,7 @@ Perioada următoare începe în %2$d zile (%3$s)"</string>
     <string name="tty_mode_option_title">Mod TTY</string>
     <string name="turn_off_dual_4g_failed">"Nu s-a putut opri modul Dual 4G."</string>
     <string name="turn_on_dual_4g_failed">"Nu s-a putut activa modul Dual 4G."</string>
-    <string name="turnover_mute_summary">Când telefonul este așezat pe o suprafață orizontală, întoarcerea lui cu ecranul în jos va dezactiva soneria</string>
+    <string name="turnover_mute_summary">Când telefonul este așezat pe o suprafață orizontală, întoarcerea lui cu ecranul în jos va dezactiva soneria, vibrațiile și va opri pulsarea LED-ulului de notificare.</string>
     <string name="turnover_mute_title">Întoarcere pentru a dezactiva soneria</string>
     <string name="undefined">Nimic</string>
     <string name="unknown">Necunoscut</string>

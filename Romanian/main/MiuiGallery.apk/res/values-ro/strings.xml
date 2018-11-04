@@ -292,6 +292,7 @@
     <string name="collage_poster_global_summer_flower_text">VARĂ</string>
     <string name="collage_poster_global_tea_text">PAUZA DE CEAI</string>
     <string name="collage_rotate">Rotire</string>
+    <string name="collage_select_image_range">Colajele pot conține 1-4 fotografii</string>
     <string name="collage_title_layout">Dispunere</string>
     <string name="collage_title_poster">Poster</string>
     <string name="collaps_people">Ascundeți</string>
@@ -553,6 +554,7 @@ efecte pentru fotografii"</string>
     <string name="finish_fill_baby">Creare</string>
     <string name="flash_off">Nu s-a utilizat blițul</string>
     <string name="flash_on">S-a utilizat blițul</string>
+    <string name="frame_not_support_image_ratio">"Această rată de aspect nu este suportată"</string>
     <string name="free_view_desc">Vizualizare 3D</string>
     <string name="gallery_setting">Galerie</string>
     <string name="gallery_sync_disable_toast">Sincronizarea fotografiilor din Galeria este dezactivată</string>
@@ -725,6 +727,7 @@ pentru a personaliza Galeria"</string>
     <string name="operation_in_process">Procesare…</string>
     <string name="operation_move_to_other_albums">Mutați în Alte albume</string>
     <string name="operation_not_show_in_photos_tab">"Nu arăta în Fotografii"</string>
+    <string name="operation_produce">Creativitate</string>
     <string name="operation_projection">Distribuiți</string>
     <string name="operation_remove_face">Eliminați</string>
     <string name="operation_remove_from_face_album">Eliminaţi din album</string>
@@ -767,10 +770,12 @@ pentru a personaliza Galeria"</string>
     <string name="photo_editor_beauty_compare">Original</string>
     <string name="photo_editor_crop_and_rotate">Decupare</string>
     <string name="photo_editor_crop_auto">Auto</string>
+    <string name="photo_editor_crop_auto_tips">Decupată în mod automat</string>
     <string name="photo_editor_crop_reset">Resetare</string>
     <string name="photo_editor_crop_rotation_format">%d°</string>
     <string name="photo_editor_doodle">Mâzgălitură</string>
     <string name="photo_editor_filter">Filtru</string>
+    <string name="photo_editor_frame">Ramă</string>
     <string name="photo_editor_label">Editați</string>
     <string name="photo_editor_long_crop">Decupare</string>
     <string name="photo_editor_miui_beauty">Înfrumusețare</string>
@@ -825,6 +830,7 @@ pentru a personaliza Galeria"</string>
     <string name="photo_editor_talkback_redo">Fă din nou</string>
     <string name="photo_editor_talkback_undo">Refă</string>
     <string name="photo_editor_text">Text</string>
+    <string name="photo_movie_select_image_range">Clipurile pot conține 3-6 fotografii</string>
     <string name="photo_page_save_uri_image_fail">"Nu s-a putut salva în Galerie"</string>
     <string name="photo_page_save_uri_image_ok">Fotografia a fost salvată în Galerie</string>
     <string name="photo_print_menu_loading">Încărcare extensie…</string>
@@ -1036,6 +1042,7 @@ pentru a personaliza Galeria"</string>
     <string name="secret_reason_unknow_reasons">Eroare necunoscută</string>
     <string name="secret_reason_video_not_support">"Nu s-au putut adăuga videoclipurile în albumul ascuns"</string>
     <string name="see_ignore_faces">"Vedeți persoanele pe care le-ați ignorat"</string>
+    <string name="select_image_operation">Se adaugă fotografii</string>
     <string name="select_item_face">"Este '%s'?"</string>
     <string name="select_origin_tip">Fișierul original (%s)</string>
     <string name="send_file_beautify_failed">"Nu s-a putut partaja"</string>
@@ -1184,6 +1191,7 @@ pentru a personaliza Galeria"</string>
     <string name="unpublish_failed">Eşuare</string>
     <string name="unpublish_succeeded">Album nepublicat</string>
     <string name="unpublishing">Anulare…</string>
+    <string name="unsupport_video">"%s nu funcționează cu videoclipuri"</string>
     <string name="user_agree">De acord</string>
     <string name="user_agreement2">Termenii serviciului</string>
     <string name="user_agreement4">Politica de confidențialitate</string>

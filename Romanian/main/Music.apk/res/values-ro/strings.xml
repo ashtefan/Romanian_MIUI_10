@@ -1050,10 +1050,12 @@ Be Happy"</string>
     <string name="toast_download_error_by_not_login">Conectați-vă la contul Mi și încercați din nou.</string>
     <string name="toast_download_error_by_vip_required">Obțineți un pachet de Melodii Premium pentru a descărca această melodie.</string>
     <string name="toast_download_in_process">Descărcare în curs</string>
+    <string name="toast_is_pro">"Sunteți deja membru PRO."</string>
     <string name="toast_new_playlist_name_no_enter">"Nu se poate crea un nou paragraf"</string>
     <string name="toast_new_playlist_name_too_long">Numele listei de redare este prea lung</string>
     <string name="toast_normal_songs_for_download">Calitatea melodiilor descărcate a fost stabilită la Standard</string>
     <string name="toast_normal_songs_for_stream">Calitatea melodiilor ascultate online a fost stabilită la Standard</string>
+    <string name="toast_not_pro">Această funcție este disponibilă doar membrilor PRO.</string>
     <string name="toast_stream_normal">În prezent se redau melodiile la calitate standard. Obțineți un pachet de Melodii Premium pentru a asculta la calitate înaltă.</string>
     <string name="toast_uhd_songs_for_download">Calitatea melodiilor descărcate a fost stabilită la Ridicată</string>
     <string name="toast_uhd_songs_for_stream">Calitatea melodiilor ascultate online a fost stabilită la Ridicată</string>

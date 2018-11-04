@@ -363,4 +363,10 @@ Dacă activați din nou datele mobile, operatorul vă poate taxa pentru trafic s
         <item quantity="other">%1$d probleme necesită optimizare</item>
         <item quantity="one">%1$d problemă necesită optimizare</item>
     </plurals>
+    <plurals name="game_booster_incoming_call_duration_p1">
+        <item quantity="other">%1$s:</item>
+    </plurals>
+    <plurals name="game_booster_incoming_call_duration_p2">
+        <item quantity="other">%1$s</item>
+    </plurals>
 </resources>

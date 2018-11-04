@@ -30,6 +30,10 @@
     <string name="cancel_alarm_description">Anulați alarma</string>
     <string name="cloud_service_state_open_reminder">Activați sincronizarea cu Mi Cloud pentru a sincroniza notițele.</string>
     <string name="cloud_trash_bin_title">Ștergeți notițele din Mi Cloud</string>
+    <string name="cta_confirm_cancel">"Nu permiteți"</string>
+    <string name="cta_confirm_ok">Permiteți</string>
+    <string name="cta_dialog_message">Aplicația de Notițe necesită permisiunile de conectare la internet, înregistrare audio și acces la contacte pentru a funcționa în mod normal. Permiteți?</string>
+    <string name="cta_dialog_title">Permisiuni necesare</string>
     <string name="cta_reminder">Aplicația de Notițe trebuie să aibă permisiunea de a se conecta la internet, de înregistrare audio și de acces la contacte pentru a funcționa în mod normal. Permiteți?</string>
     <string name="date_time_picker_alarm_reminder">Alarmă</string>
     <string name="date_time_picker_dialog_title">Setați data și ora</string>

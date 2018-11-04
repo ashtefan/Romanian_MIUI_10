@@ -33,9 +33,12 @@
     <string-array name="screenrecorder_settings_sound">
         <item>Mut</item>
         <item>Microfon</item>
-        <item>Difuzor</item>
+        <item>Sunete de sistem</item>
     </string-array>
-   
+    <string-array name="screenrecorder_settings_storage_location">
+        <item>Stocarea internă</item>
+        <item>Stocarea externă</item>
+    </string-array>
     <string-array name="screenrecorder_utils_support_high_frames_cpu">
         <item>Qualcomm Technologies, Inc SDM845</item>
         <item>Qualcomm Technologies, Inc MSM8998</item>

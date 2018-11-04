@@ -16,6 +16,33 @@
     <string name="bugreport_dump_start_notification_title">Creare raport…</string>
     <string name="bugreport_tool_log_dumping_desc">Durează aproximativ un minut</string>
     <string name="bugreport_tool_log_dumping_title">Se crează raportul cu erori</string>
+    <string name="catch_full_log_action_cancel">Renunțare</string>
+    <string name="catch_full_log_action_complete">Finalizare și încărcare</string>
+    <string name="catch_full_log_action_start">Generați jurnalul</string>
+    <string name="catch_full_log_add_original_photo">Adăugați o fotografie</string>
+    <string name="catch_full_log_add_photo">Adăugați o fotografie</string>
+    <string name="catch_full_log_add_photo_dialog_content">"Dacă problema raportată este legată de calitatea camerei foto, adăugați o fotografie originală (nedecupată) pentru a ne ajuta să localizăm problema. Adăugați o fotografie acum?"</string>
+    <string name="catch_full_log_dialog_confirm_text">Mergeți la ecranul Acasă</string>
+    <string name="catch_full_log_dialog_content">"MIUI generează un jurnal. Acest lucru poate afecta productivitatea generală a dispozitivului. Dacă nu puteți reproduce problema pe care doriți să o raportați, mergeți înapoi la jurnale și apăsați \"Renunțare\"."</string>
+    <string name="catch_full_log_dump_hprof_failed">"Nu s-au putut genera jurnalele cu erori"</string>
+    <string name="catch_full_log_item_content_catch_direct">"Pași:
+1. Mergeți înapoi la funcția pe care doriți să o raportați și reproduceți-o.
+2. Reveniți la această pagină și atingeți \"Finalizare și încărcare\"."</string>
+    <string name="catch_full_log_item_content_need_open">"Pași:
+1. Atingeți \"Generare jurnal\".
+2. Mergeți înapoi la funcția pe care doriți să o raportați și reproduceți-o.
+3. Reveniți la această pagină și atingeți \"Finalizare și încărcare\"."</string>
+    <string name="catch_full_log_item_title_audio">Audio, înregistrare sunet și volum în apeluri</string>
+    <string name="catch_full_log_item_title_bt">Bluetooth</string>
+    <string name="catch_full_log_item_title_dump_heap">Încetinire</string>
+    <string name="catch_full_log_item_title_gps">Servicii de localizare</string>
+    <string name="catch_full_log_item_title_sensor">Senzori</string>
+    <string name="catch_full_log_item_title_signal">Telefon, semnal și rețele mobile</string>
+    <string name="catch_full_log_item_title_wifi">Wi-Fi și Mi Drop</string>
+    <string name="catch_full_log_notification_content">Atingeți pentru a reveni la jurnale</string>
+    <string name="catch_full_log_notification_title">Se generează jurnalul…</string>
+    <string name="catch_full_log_start_dump_hprof">Se generează jurnalul pentru încetinire</string>
+    <string name="catch_full_log_submit_directly">Trimiteți</string>
     <string name="close_feedback_main">Ascundeți</string>
     <string name="cta_cancel">Anulaţi</string>
     <string name="cta_confirm">OK</string>
@@ -296,13 +323,14 @@
     <string name="tab_title_report">Feedback</string>
     <string name="time_in_justnow">Chiar acum</string>
     <string name="title_answer_feedback_main">Am găsit răspunsurile!</string>
-    <string name="title_bbs_feedback_main">Aflați mai multe despre gama de telefoane Xiaomi</string>
+    <string name="title_catch_full_log">Jurnale</string>
     <string name="title_customer_service">Serviciu clienți</string>
     <string name="title_frequent_question_feedback_main">Întrebări frecvente</string>
     <string name="title_mi_family">Dispozitive Mi din apropiere</string>
     <string name="title_nonsystem_app">Alte aplicaţii</string>
     <string name="title_same_question_feedback_main">Probleme similare pe forumul MIUI</string>
     <string name="title_system_app">Aplicaţii MIUI</string>
+    <string name="toast_catch_full_log_catching">Puteți genera un singur jurnal odată.</string>
     <string name="toast_description_required">Descrierea este necesară</string>
     <string name="toast_feedback_collect_store">Colectare jurnale…</string>
     <string name="toast_feedback_network_unavailable">"Nu se poate conecta la rețea"</string>

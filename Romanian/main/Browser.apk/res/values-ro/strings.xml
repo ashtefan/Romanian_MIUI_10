@@ -417,6 +417,8 @@ pentru a vedea filele deschise pe alte dispozitive"</string>
     <string name="guide_motor_text">motor</string>
     <string name="guide_politics_text">politică</string>
     <string name="guide_skip">Omiteți</string>
+    <string name="guide_slide_down">Vă rugăm glisați în jos</string>
+    <string name="guide_slide_up">Vă rugăm glisați în sus</string>
     <string name="guide_sports_text">sport</string>
     <string name="guide_start_experience">Porniți</string>
     <string name="guide_tech_text">tehnologie</string>

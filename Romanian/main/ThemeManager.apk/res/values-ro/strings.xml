@@ -78,6 +78,7 @@
     <string name="component_category_finest_title">Recomandate</string>
     <string name="component_category_more_title">Altele</string>
     <string name="component_title_ringtone">Sunete de apel</string>
+    <string name="component_title_settings_video_wallpaper">Imagini de fundal cu efecte speciale</string>
     <string name="component_title_video_wallpaper">Clipuri de fundal</string>
     <string name="component_title_wallpaper">Imagini de fundal</string>
     <string name="current_using_desktop_wallpaper_text">Ecranul principal</string>
@@ -535,6 +536,9 @@
     <string name="theme_current_using_has_update">Este disponibilă o actualizare</string>
     <string name="theme_description_title_customized">Personalizat</string>
     <string name="theme_description_title_default">Prestabilit</string>
+    <string name="theme_detail_tab_comment">Comentarii</string>
+    <string name="theme_detail_tab_recommend">Recomandate</string>
+    <string name="theme_detail_tab_theme">Teme</string>
     <string name="theme_empty_redirect">Înapoi la Teme</string>
     <string name="theme_favorite_add_fail">Nu se poate adăuga tema la favorite</string>
     <string name="theme_favorite_add_success">Temă adăugată la favorite</string>

@@ -4,19 +4,10 @@
         <item>Băiat</item>
         <item>Fată</item>
     </string-array>
-    <string-array name="collage_month">
-        <item>Ian</item>
-        <item>Feb</item>
-        <item>Mar</item>
-        <item>Apr</item>
-        <item>Mai</item>
-        <item>Iun</item>
-        <item>Iul</item>
-        <item>Aug</item>
-        <item>Sep</item>
-        <item>Oct</item>
-        <item>Nov</item>
-        <item>Dec</item>
+    <string-array name="menu_copy_or_move">
+        <item>Mutați</item>
+        <item>Copiați</item>
+        <item>@string/cancel</item>
     </string-array>
     <string-array name="owner_relation">
         <item>Tată</item>

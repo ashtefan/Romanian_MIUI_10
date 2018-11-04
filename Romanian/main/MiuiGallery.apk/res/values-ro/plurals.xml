@@ -76,6 +76,10 @@
         <item quantity="other">%d videoclipuri</item>
         <item quantity="one">%d videoclip</item>
     </plurals>
+    <plurals name="creation_max_image">
+        <item quantity="other">Selectați maxim %d fotografii</item>
+        <item quantity="one">Selectați cel mult %d fotografie</item>
+    </plurals>
     <plurals name="custom_select_title_items_selected">
         <item quantity="other">%d elemente selectate</item>
         <item quantity="one">%d element selectat</item>

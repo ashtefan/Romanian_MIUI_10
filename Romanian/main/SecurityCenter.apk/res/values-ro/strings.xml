@@ -57,6 +57,7 @@
     <string name="activity_title_virus_settings">Setări</string>
     <string name="activity_title_white_list">Excepții</string>
     <string name="ad_btn_default_text">Aflați mai multe</string>
+    <string name="ad_split_screen_title">Vă rugăm să comutați la modul Ecran complet pentru a debloca</string>
     <string name="ad_update_time">Ultima actualizare la %s</string>
     <string name="ad_update_time_unKnown">Nu se cunoaște când a fost actualizată ultima dată</string>
     <string name="adb_install_no_network">Conectați-vă la rețea și încercați din nou</string>
@@ -809,9 +810,6 @@ Toate datele de pe telefon pot fi șterse iar parola pentru Blocarea ecranului p
     <string name="first_aid_card_airplane_button">Dezactivați</string>
     <string name="first_aid_card_airplane_summary">Dezactivați modul Avion pentru a putea efectua apeluri și pentru a vă conecta la rețea</string>
     <string name="first_aid_card_airplane_title">"Nu se pot efectua apeluri și nu se poate conecta la rețea"</string>
-    <string name="first_aid_card_apn_button">Remediați</string>
-    <string name="first_aid_card_apn_summary">APN-urile s-au modificat. Remediați pentru a vă putea conecta la rețea.</string>
-    <string name="first_aid_card_apn_title">"Nu se poate conecta la rețea"</string>
     <string name="first_aid_card_consume_power_button1">Restricționați</string>
     <string name="first_aid_card_consume_power_button2">Dezactivați</string>
     <string name="first_aid_card_consume_power_button3">Dezactivați</string>
@@ -911,6 +909,7 @@ Toate datele de pe telefon pot fi șterse iar parola pentru Blocarea ecranului p
     <string name="gamebooster_main_activity_back">Înapoi</string>
     <string name="gamebooster_network_dialog_message">Permiteți aplicației de Securitate să se conecteze la rețea pentru a utiliza toate caracteristicile Creșterii vitezei în jocuri?</string>
     <string name="gamebooster_network_dialog_title">"Unele caracteristici nu sunt disponibile"</string>
+    <string name="gamebox_app_not_find">Instalați mai întâi aplicația.</string>
     <string name="gamebox_qq_not_find">Instalați mai întâi QQ și încercați din nou.</string>
     <string name="gamebox_type_close">"Nu arăta"</string>
     <string name="gamebox_type_float">Scurtătură fixată</string>
@@ -984,6 +983,7 @@ Toate datele de pe telefon pot fi șterse iar parola pentru Blocarea ecranului p
     <string name="gs_game_shortcut">Îmbunătățiți experiența de joc</string>
     <string name="gs_gamebox">Scurtături în jocuri</string>
     <string name="gs_gamebox_detail">Afișează panoul cu scurtăturile din jocuri</string>
+    <string name="gs_gamebox_slip">Glisați în jos pe ecran pentru a deschide</string>
     <string name="gs_only_self_start_for_list">Restricționați procesele din fundal pentru a economisi acumulatorul pentru jocuri</string>
     <string name="gs_open_game_booster">Creștere viteză</string>
     <string name="gs_open_game_booster_summary">Creșteți viteza rețelei pentru jocuri</string>
@@ -2141,6 +2141,7 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="summary_permission">Protejează-mi confidențialitatea faţă de aplicații terțe potențial periculoase</string>
     <string name="summary_permission_root">Se pare că aveți activat accesul la root. Acest lucru poate duce la scăderea gradului de siguranță.</string>
     <string name="summary_power_optimizer">"Se reduce performanța dispozitivului atunci când acumulatorul este descărcat"</string>
+    <string name="summary_rcs_switch">Trimiteți SMS-uri utilizatorilor China Mobile fără a fi taxat</string>
     <string name="summary_realname_verify">Verificați-vă identitatea pentru a spori gradul de securitate a plăților.</string>
     <string name="summary_restrict_data_usage">Ați restricționat utilizarea datelor pentru această aplicație.</string>
     <string name="summary_show_notification">Goliți cache-ul, vedeți starea acumulatorului și blocați elemente în Panoul de notificări</string>
@@ -2318,6 +2319,7 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="title_permission_root">Acces root</string>
     <string name="title_permission_yes">Gestionare permisiuni activată</string>
     <string name="title_power_optimizer">Economisire acumulator</string>
+    <string name="title_rcs_switch">Activați mesageria China Mobile</string>
     <string name="title_realname_verify">Verificare ID</string>
     <string name="title_reply">Lasați un comentariu</string>
     <string name="title_restrict_data_usage">"%s nu se poate conecta la internet?"</string>

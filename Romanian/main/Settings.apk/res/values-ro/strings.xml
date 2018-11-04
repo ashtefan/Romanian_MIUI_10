@@ -1023,6 +1023,7 @@ Această caracteristică poate fi dezactivată din [Setări]"</string>
     <string name="calls_title">Apeluri</string>
     <string name="camera_double_tap_power_gesture_desc">Deschidere rapidă a aplicației de Cameră foto fără deblocarea ecranului</string>
     <string name="camera_double_tap_power_gesture_title">Atingeți de două ori pentru deschiderea Camerei foto</string>
+    <string name="camera_front">Frontală %s</string>
     <string name="camera_gesture_desc">Deschidere a aplicației de Cameră foto prin rotirea de două ori a încheieturii mâinii</string>
     <string name="camera_gesture_title">Rotire dublă a încheieturii pentru deschiderea Camerei</string>
     <string name="camera_key_action_app_title">Deschideţi aplicaţia</string>
@@ -1037,6 +1038,7 @@ Această caracteristică poate fi dezactivată din [Setări]"</string>
     <string name="camera_key_action_shortcut_wake">Blocare dispozitiv</string>
     <string name="camera_key_action_title">Butonul Mi</string>
     <string name="camera_key_action_toggle_title">Comutare la declanşare</string>
+    <string name="camera_rear">Posterioară %s</string>
     <string name="cancel">Anulaţi</string>
     <string name="cancel_action">Anulaţi</string>
     <string name="cancel_alert">Renunțați la modificări?</string>
@@ -1308,6 +1310,7 @@ Pentru a relua utilizarea telefonului, trebuie să efectuaţi o resetare la valo
     <string name="dangerous_option">Opțiuni dezvoltator cu risc ridicat</string>
     <string name="dangerous_option_hint">%1$s este activată. Atingeți pentru a modifica setările.</string>
     <string name="dangerous_option_hint_title">Opțiune cu risc ridicat activată</string>
+    <string name="dangerous_option_switch_title">Notifică despre caracteristicile cu risc ridicat</string>
     <string name="dashboard_title">Setări</string>
     <string name="data_limit">Limita de date</string>
     <string name="data_saver_off">Oprit</string>
@@ -1504,6 +1507,7 @@ Această setare afectează toți utilizatorii telefonului."</string>
     <string name="device_available_memory">Spațiu de stocare disponibil</string>
     <string name="device_battery">Acumulator</string>
     <string name="device_build_id">Număr versiune</string>
+    <string name="device_camera">Camera</string>
     <string name="device_cellular_network">Scanare rețele mobile</string>
     <string name="device_complete_parameters">Specificații complete</string>
     <string name="device_cpu">Procesor</string>
@@ -4636,6 +4640,7 @@ Acest lucru este posibil datorită unui certificat de încredere instalat pe dis
     <string name="status_bar_settings_notification_sound_custom">Sunet personalizat</string>
     <string name="status_bar_settings_notification_use_app_icon">Utilizați pictogramele aplicației pentru notificări</string>
     <string name="status_bar_settings_notification_vibrate">Vibrare</string>
+    <string name="status_bar_settings_peek_notification_icon">Afișează pictograme pentru notificările primite</string>
     <string name="status_bar_settings_show_carrier">Afişare nume operator</string>
     <string name="status_bar_settings_show_carrier_summary">Numele operatorului este în continuare afișat pe blocarea ecranului și în panoul notificărilor, atunci când această opţiune este dezactivată</string>
     <string name="status_bar_settings_show_carrier_under_keyguard">Afișează numele operatorului când telefonul este blocat</string>
