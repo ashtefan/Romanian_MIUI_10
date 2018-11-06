@@ -84,13 +84,11 @@
     <string name="app_downloads">%s descărcări</string>
     <string name="app_label">Descărcări</string>
     <string name="artist">Artişti</string>
-    <string name="artist_album">Albume</string>
     <string name="artist_area_all">Toate</string>
     <string name="artist_area_china">China</string>
     <string name="artist_area_europe_usa">Europa/USA</string>
     <string name="artist_area_japan">Japonia</string>
     <string name="artist_area_korea">Coreea</string>
-    <string name="artist_favor">Recomandate</string>
     <string name="artist_gender_all">Toate</string>
     <string name="artist_gender_female">Feminin</string>
     <string name="artist_gender_group">Trupe</string>
@@ -98,7 +96,6 @@
     <string name="artist_home_search_hint">Căutați artiști</string>
     <string name="artist_is_empty">Numele artistului nu poate fi necompletat.</string>
     <string name="artist_name">Artist</string>
-    <string name="artist_news">Noutăți</string>
     <string name="artist_search_title">Artist</string>
     <string name="artist_view">Artist</string>
     <string name="asset_sync_alert_not_now">Nu acum</string>
@@ -214,9 +211,6 @@
     <string name="connecting_apk">Conectare…</string>
     <string name="continue_backup">Continuați</string>
     <string name="count_format">%2$1.1fK</string>
-    <string name="cp_info_first">"Serviciul de streaming
-este oferit în principal de către Ultimate Inc."</string>
-    <string name="create_order_fail">"Nu s-au putut aranja, încercați din nou."</string>
     <string name="create_playlist">Creaţi o listă de redare</string>
     <string name="create_playlist_failure">"Nu s-a putut crea lista de redare"</string>
     <string name="current_album">Coperta de album curentă</string>
@@ -290,7 +284,6 @@ este oferit în principal de către Ultimate Inc."</string>
     <string name="disable_auto_payment_success">Dezactivat</string>
     <string name="disable_auto_payment_success_message">"Reînnoirea automată a fost dezactivată. După expirarea abonamentului actual, va trebui să vă abonați din nou pentru a putea descărca melodii."</string>
     <string name="disallow_add_to_fm">"Nu se pot adăuga melodii la Radio FM"</string>
-    <string name="disallow_add_to_personal_radio">"Nu se pot adăuga melodii la Radio personal"</string>
     <string name="do_not_remind_this_version">"Nu-mi aminti de această versiune"</string>
     <string name="download">Descărcaţi</string>
     <string name="download_added_to_list">Adăugată în lista de descărcare</string>
@@ -553,7 +546,6 @@ este oferit în principal de către Ultimate Inc."</string>
     <string name="individuation_card_login_message">"Autentificați-vă pentru a descoperi mai multe melodii pe care le îndrăgiți"</string>
     <string name="individuation_card_title">Pentru dumneavoastră</string>
     <string name="individuation_cart_login_title">Doriți să vedeți mai multe recomandări?</string>
-    <string name="individuation_recommend_message">Activați recomandările pentru a primi sugestii personalizate bazate pe preferințele dvs.</string>
     <string name="individuation_recommend_switch_message">Dezactivarea acestei caracterisitici va afecta serviciile personalizate Muzică Mi. Dezactivați oricum?</string>
     <string name="individuation_recommend_title">Recomandări</string>
     <string name="input_hint_prefix">Introduceți %1$s</string>
@@ -564,11 +556,6 @@ este oferit în principal de către Ultimate Inc."</string>
     <string name="is_scanning">Verificare stocare…</string>
     <string name="is_scanning_support_online">"Verificare stocare…
 (Între timp, puteți reda muzică online)"</string>
-    <string name="karaoke_message">Descărcați și instalați extensia Karaoke pentru a utiliza această caracteristică.</string>
-    <string name="karaoke_my_studio">Studioul meu</string>
-    <string name="karaoke_negative_text">Mai târziu</string>
-    <string name="karaoke_positive_text">OK</string>
-    <string name="karaoke_title">Introducere Karaoke</string>
     <string name="keep_queued_download">Păstrați</string>
     <string name="ktv_playlist">Listă de redare KTV</string>
     <string name="language_page_confirm">Confirmați</string>
@@ -590,8 +577,6 @@ este oferit în principal de către Ultimate Inc."</string>
     <string name="local_page_album_more">Vedeți tot</string>
     <string name="local_page_artist">Artiști pe care îi urmăriți</string>
     <string name="local_page_artist_more">Mai multe melodii ale %s</string>
-    <string name="local_page_custom_subtitle">Melodii noi în fiecare zi</string>
-    <string name="local_page_custom_title">Pentru tine</string>
     <string name="local_page_playlist">Liste de redare</string>
     <string name="local_page_song_all">Toate melodiile</string>
     <string name="local_page_song_download">Melodii din telefon</string>
@@ -646,7 +631,6 @@ este oferit în principal de către Ultimate Inc."</string>
     <string name="miuishare_app_name">Partajare MIUI</string>
     <string name="miuishare_no_network">"Nu se poate conecta la rețea."</string>
     <string name="miuishare_publish">Trimiteţi</string>
-    <string name="miuishare_share_done">Partajat cu succes</string>
     <string name="miuishare_share_editor_title">Distribuiţi</string>
     <string name="miuishare_title_more">Mai multe</string>
     <string name="miuishare_title_share">Distribuiţi</string>
@@ -661,7 +645,7 @@ este oferit în principal de către Ultimate Inc."</string>
     <string name="more">Mai multe</string>
     <string name="more_about_artist">Mai multe despre %s</string>
     <string name="more_add_song_list">Adăugați în lista de redare curentă</string>
-    <string name="more_milink">Mi Link</string>
+    <string name="more_milink_and_bluetooth">Mi Link și Bluetooth</string>
     <string name="more_online_artist">Mai multe</string>
     <string name="more_online_billboard">Mai multe</string>
     <string name="more_online_fm">Mai multe</string>
@@ -691,9 +675,7 @@ este oferit în principal de către Ultimate Inc."</string>
     <string name="nav_online_artist">Artişti</string>
     <string name="nav_online_billboard">Topuri muzicale</string>
     <string name="nav_online_fm">Radio</string>
-    <string name="nav_online_playlist">Liste de redare</string>
     <string name="network_error_and_retry">"Nu s-a putut conecta; atingeți pentru a reîncerca"</string>
-    <string name="network_failure">Verificaţi conexiunea şi încercaţi din nou.</string>
     <string name="network_request_error">"Nu se poate conecta la rețea"</string>
     <string name="network_settings_error">"Nu se poate conecta la rețea"</string>
     <string name="network_traffic">Utilizare date</string>
@@ -709,7 +691,6 @@ este oferit în principal de către Ultimate Inc."</string>
     <string name="no_local_songs">Gol</string>
     <string name="no_local_songs_selected">"Nu se pot trimite melodii deoarece nu au fost descărcate"</string>
     <string name="no_local_source_find">"Nu s-a putut găsi melodia"</string>
-    <string name="no_online_song_selected">Nicio melodie selectată</string>
     <string name="no_results_return">Niciun rezultat al căutării</string>
     <string name="no_scanned_songs">Gol</string>
     <string name="no_song">Nicio melodie</string>
@@ -904,7 +885,6 @@ Be Happy"</string>
     <string name="search_history_clear_all">Goliți</string>
     <string name="search_instant_online_music">Online</string>
     <string name="search_menu_title">Căutați</string>
-    <string name="search_title">Căutaţi</string>
     <string name="search_title_album">Albume</string>
     <string name="search_title_singer">Artişti</string>
     <string name="search_title_song">Melodii</string>
@@ -922,7 +902,6 @@ Be Happy"</string>
     <string name="selected_count">Au fost selectate %1$d din %2$d</string>
     <string name="send_to">Distribuiţi</string>
     <string name="send_to_title">Trimiteţi la (%1$s)</string>
-    <string name="server_error">A apărut o eroare; așteptați un minut sau două și reîncercați.</string>
     <string name="service_and_settings">Serviciu și setări</string>
     <string name="service_stop">Serviciu întrerupt</string>
     <string name="set_as_ring">Setați ca ton de apel</string>
@@ -963,6 +942,8 @@ Be Happy"</string>
     <string name="shuffle_music">Amestecați lista de redare</string>
     <string name="shuffle_off_notif">Amestecare melodii dezactivată.</string>
     <string name="shuffle_on_notif">Amestecare melodii activată.</string>
+    <string name="similar_albums">Albume similare</string>
+    <string name="similar_playlists">Liste de redare similare</string>
     <string name="similar_songs">Melodii similare</string>
     <string name="similar_videos">Videoclipuri similare</string>
     <string name="sleep_mode">Temporizator</string>
@@ -993,7 +974,6 @@ Be Happy"</string>
     <string name="storage_internal">Stocare internă</string>
     <string name="storage_sd_card">Card SD</string>
     <string name="storage_usb">Stocare USB</string>
-    <string name="stream_quality">Calitate redare</string>
     <string name="streamloadingtext">Conectare la %s</string>
     <string name="suggest_text">Persoanelor cărora le-a plăcut aceasta, de asemenea, le-a plăcut</string>
     <string name="sync_only_in_wifi">Se sincronizează doar prin Wi-Fi</string>
