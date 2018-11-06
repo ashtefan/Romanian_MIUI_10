@@ -570,6 +570,8 @@ Dacă reactivaţi datele, puteţi fi taxat de către operator.</string>
     <string name="empty_shade_text">Fără notificări</string>
     <string name="enable_adb">Depanare USB</string>
     <string name="enable_adb_summary">Mod depanare la conectare USB</string>
+    <string name="enable_atrace">Activați ATrace</string>
+    <string name="enable_atrace_summary">Capturați evenimentele kernel utilizând ATrace</string>
     <string name="enable_bluetooth_confirmation_ok">Activați</string>
     <string name="enable_bluetooth_message">Pentru a conecta tastatura la tabletă, activați mai întâi Bluetooth-ul.</string>
     <string name="enable_bluetooth_title">Activați Bluetooth-ul?</string>

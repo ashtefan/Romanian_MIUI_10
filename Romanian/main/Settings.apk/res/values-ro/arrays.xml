@@ -1417,6 +1417,10 @@ Notă: Doar pentru Ubuntu 8.04!"</item>
         <item>Căutare</item>
         <item>Setări</item>
     </string-array>
+    <string-array name="status_bar_settings_notification_style_entries">
+        <item>MIUI</item>
+        <item>Android</item>
+    </string-array>
     <string-array name="timezone_filters">
         <item>America</item>
         <item>Europa</item>

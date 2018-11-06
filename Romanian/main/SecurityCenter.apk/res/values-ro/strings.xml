@@ -1388,7 +1388,6 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="note_call_none">Niciun apel</string>
     <string name="note_list_none">Lista este goală</string>
     <string name="note_sms_none">Niciun mesaj</string>
-    <string name="notification_battery_consume_abnormal_summary">S-a utilizat %2$s din acumulator în ultimele %1$d minute</string>
     <string name="notification_battery_consume_abnormal_title">Acumulatorul se descărcă foarte rapid</string>
     <string name="notification_exit_extreme_mode_text">Acumulatorul este încărcat la peste %s</string>
     <string name="notification_exit_extreme_mode_title">S-a dezactivat modul Extrem de economisire a acumulatorului</string>
@@ -1603,6 +1602,11 @@ Această activitate scade durata de viață a acumulatorului."</string>
     <string name="power_center_charge_time">%1$s până la încărcarea completă</string>
     <string name="power_center_hints_scan_danger_result">Puteți remedia problemele legate de acumulator acum</string>
     <string name="power_center_list_item_auto_brightness">Ajustați iluminarea ecranului în mod automat</string>
+    <string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
+    <string name="power_center_list_item_battery_health_model_voltage">%s V</string>
+    <string name="power_center_list_item_battery_health_model_volume">%s mAh</string>
+    <string name="power_center_list_item_battery_status_capacity">mAh</string>
+    <string name="power_center_list_item_battery_status_temperature">℃</string>
     <string name="power_center_list_item_battery_status_time">h</string>
     <string name="power_center_list_item_close_bluetooth">Dezactivați Bluetooth-ul</string>
     <string name="power_center_list_item_deep_save_title">Setări avansate</string>
