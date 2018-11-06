@@ -254,7 +254,6 @@ Administratorul dumneavoastră poate monitoriza și administra setările, accesu
     <string name="allow_bind_app_widget_activity_allow_bind_title">Creaţi widgetul şi permiteţi accesul?</string>
     <string name="allow_bind_app_widget_activity_always_allow_bind">Permiteţi întotdeauna ca %1$s să creeze widgeturi şi să acceseze datele acestora</string>
     <string name="allow_data_usage_title">Permiteți utilizarea datelor mobile în roaming</string>
-    <string name="allow_device_id_access">Aplicații cu identificarea dispozitivului</string>
     <string name="allow_mock_location">Permiteţi locaţiile fictive</string>
     <string name="allow_mock_location_summary">Permiteţi locaţiile fictive</string>
     <string name="allow_overlay_description">Această permisiune face ca o aplicație să fie afișată peste alte aplicații pe care le utilizați și poate interfera cu utilizarea acelor aplicații sau poate modifica modul în care acestea sunt afișate sau se comportă.</string>
@@ -1520,7 +1519,6 @@ Această setare afectează toți utilizatorii telefonului."</string>
     <string name="device_display_layout_title">Caracteristici</string>
     <string name="device_edit_title">Editaţi numele dispozitivului</string>
     <string name="device_feedback">Trimiteți feedback despre acest dispozitiv</string>
-    <string name="device_id">Identificarea dispozitivului</string>
     <string name="device_info_default">Necunoscut</string>
     <string name="device_info_label">Informaţii despre dispozitiv</string>
     <string name="device_info_not_available">Indisponibil</string>
@@ -3507,7 +3505,6 @@ Acest lucru va permite aplicației să comute modul Nu deranjați și să modifi
     <string name="pref_manage_bg_network">"Gestionați conectarea în fundal la rețea a aplicațiilor"</string>
     <string name="pref_new_installed_preconfig_title">"Setări implicite pentru aplicațiile noi"</string>
     <string name="pref_operational_key">Butoane de navigare</string>
-    <string name="pref_show_lunar_calendar_title">Afișează calendarul tradițional chinezesc în Blocarea ecranului</string>
     <string name="pref_title_lang_selection">Preferințe pentru limbă</string>
     <string name="pref_title_update_notification">Notificări utilizare date</string>
     <string name="pref_volume_launch_camera_summary">Apăsați de două ori butonul de Volum- pentru a accesa Camera foto</string>
@@ -3839,11 +3836,6 @@ Interfață UT: %5$s"</string>
     <string name="resolver_settings_label">Aranjați</string>
     <string name="restore_default_apn">Se restabilesc setările APN implicite.</string>
     <string name="restore_default_apn_completed">Resetarea setărilor APN prestabilite a fost finalizată.</string>
-    <string name="restore_device_id_content">Resetați recomandările personalizate</string>
-    <string name="restore_device_id_title">Restaurați identificatorul dispozitivului</string>
-    <string name="restore_dialog_content">Restaurarea identificatorului dispozitivului va reseta recomandările personalizate.</string>
-    <string name="restore_dialog_positive">Restaurați</string>
-    <string name="restore_dialog_title">Memento</string>
     <string name="restr_pin_enter_admin_pin">Introduceți codul PIN al administratorului</string>
     <string name="restrict_background_blacklisted">Utilizarea datelor în fundal este dezactivată</string>
     <string name="restrict_bg_app">Restricționați</string>
@@ -4636,6 +4628,7 @@ Acest lucru este posibil datorită unui certificat de încredere instalat pe dis
     <string name="status_bar_settings_enable_notification">Afişare notificări</string>
     <string name="status_bar_settings_expand_top_notification">Extindeți notificarea din partea superioară</string>
     <string name="status_bar_settings_expandable_under_keyguard">Arată în blocarea securizată a ecranului</string>
+    <string name="status_bar_settings_function_description">Despre această funcție</string>
     <string name="status_bar_settings_long_click_sort">Apăsați și țineți apăsat pentru a alege un comutator</string>
     <string name="status_bar_settings_manage_notification">Notificările aplicaţiilor</string>
     <string name="status_bar_settings_no_carrier">Niciunul</string>

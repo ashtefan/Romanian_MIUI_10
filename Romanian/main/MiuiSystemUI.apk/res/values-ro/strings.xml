@@ -1660,8 +1660,8 @@ Glisaţi în jos pentru a bloca"</string>
     <string name="structure_face_delete_data_dialog_msg_retry">Încercați din nou</string>
     <string name="structure_face_delete_data_dialog_title">"Nu s-a putut lansa Camera"</string>
     <string name="structure_face_hardware_abnormal_btn">Am înțeles</string>
-    <string name="structure_face_hardware_abnormal_msg">"A apărut o eroare harrware. Reporniți telefonul. Dacă nici acest lucru nu ajută, contactați Serviciul Clienți la numărul 400–100–5678 pentru a obține ajutor."</string>
-    <string name="structure_face_hardware_abnormal_title">Eroare hardware</string>
+    <string name="structure_face_hardware_abnormal_msg">"Nu s-au putut înregistra datele faciale datorită unei erori de laser. Contactați Serviciul Clienți pentru a obține ajutor."</string>
+    <string name="structure_face_hardware_abnormal_title">Eroare de laser</string>
     <string name="structure_face_modules_abnormal_btn">Reporniți</string>
     <string name="structure_face_modules_abnormal_msg">"Nu s-au putut înregistra datele faciale datorită unei erori a modulului optic. Reporniți dispozitivul și încercați din nou."</string>
     <string name="structure_face_modules_abnormal_title">Eroare de modul optic</string>
@@ -1679,7 +1679,6 @@ Glisaţi în jos pentru a bloca"</string>
     <string name="structure_face_unlock_model_other_title">Recunoaștere facială</string>
     <string name="structure_face_unlock_not_same_person">"Trebuie să urmați singur toți pașii. Nu schimbați locul cu altcineva."</string>
     <string name="structure_face_unlock_really_person">"Se pare că v-ați înlocuit chipul cu un obiect."</string>
-    <string name="structure_face_unlock_tof_covered">"Nu s-au putut adăuga datele faciale. Îndepărtați-vă de ecran."</string>
     <string name="switch_bar_off">Oprită</string>
     <string name="switch_bar_on">Pornită</string>
     <string name="switch_system_user">Treceți la Spațiul principal</string>
