@@ -1602,6 +1602,11 @@ Această activitate scade durata de viață a acumulatorului."</string>
     <string name="power_center_charge_time">%1$s până la încărcarea completă</string>
     <string name="power_center_hints_scan_danger_result">Puteți remedia problemele legate de acumulator acum</string>
     <string name="power_center_list_item_auto_brightness">Ajustați iluminarea ecranului în mod automat</string>
+    <string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
+    <string name="power_center_list_item_battery_health_model_voltage">%s V</string>
+    <string name="power_center_list_item_battery_health_model_volume">%s mAh</string>
+    <string name="power_center_list_item_battery_status_capacity">mAh</string>
+    <string name="power_center_list_item_battery_status_temperature">℃</string>
     <string name="power_center_list_item_battery_status_time">h</string>
     <string name="power_center_list_item_close_bluetooth">Dezactivați Bluetooth-ul</string>
     <string name="power_center_list_item_deep_save_title">Setări avansate</string>
