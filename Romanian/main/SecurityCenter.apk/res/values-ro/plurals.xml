@@ -112,10 +112,6 @@ Dacă activați din nou datele mobile, operatorul vă poate taxa pentru trafic s
         <item quantity="other">Au fost găsite %d probleme ale acumulatorului; reparați-le</item>
         <item quantity="one">A fost găsită %d problemă a acumulatorului; reparați-o</item>
     </plurals>
-    <plurals name="notification_battery_consume_abnormal_summary">
-        <item quantity="other">S-a descărcat %2$d%% din acumulator în ultimele %1$d minute</item>
-        <item quantity="one">S-a descărcat %2$d%% din acumulator în ultimul %1$d minut</item>
-    </plurals>
     <plurals name="power_center_menu_text">
         <item quantity="other">elemente</item>
         <item quantity="one">element</item>

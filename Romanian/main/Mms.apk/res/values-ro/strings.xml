@@ -6,7 +6,7 @@
     <string name="addBlackList">Blocați</string>
     <string name="add_attachment">Adăugaţi ataşamente</string>
     <string name="add_contact">vCard</string>
-    <string name="add_miui_contact">Contact</string>
+    <string name="add_miui_contact">Card Mi</string>
     <string name="add_music">Adăugaţi muzică</string>
     <string name="add_number_to_sender">Adăugaţi numărul la %s</string>
     <string name="add_picture">Adăugaţi fotografia</string>
@@ -142,6 +142,7 @@
     <string name="delete_wild_sims_title">Ștergeți numerele de telefon selectate</string>
     <string name="delivery_report_activity">Raport de expediere</string>
     <string name="delivery_toast_body">Mesaj primit de %s</string>
+    <string name="delivery_toast_body_more">Mesaj primit de %1$s și alte %2$d persoane</string>
     <string name="dialog_message_fake_cell_detect_error">Corectați informațiile despre acest mesaj? Pentru aceasta, MIUI trebuie să încarce numărul de telefon (%1$s), conținutul mesajului și informațiile despre locație pe serverele sale.</string>
     <string name="dialog_message_mx">Mesageria Mi vă permite să trimiteți mesaje altor utilizatori MIUI fără costuri. Un mesaj SMS este necesar pentru activarea Mesageriei Mi. Operatorul vă va taxa pentru acest mesaj. Trebuie să acceptați \"%1$s\" și \"%2$s\" înainte de a utiliza Mesageria Mi.</string>
     <string name="dialog_message_networking">Aplicația de Mesagerie trebuie să utilizeze Pagini Aurii pentru a putea furniza recunoașterea ID-ului expeditorului. Aplicația de Mesagerie și Pagini Aurii trebuie să se conecteze la internet și să vă acceseze locația pentru a funcționa în mod normal. Permiteți?</string>
@@ -520,10 +521,9 @@
     <string name="rcs_service_agreement">Acordul Serviciului</string>
     <string name="rcs_setting">Setări mesagerie China Mobile</string>
     <string name="rcs_silence_message">Redu la tăcere notificările pentru mesaje</string>
-    <string name="rcs_summary_auto_resend_mms">"Convertiți mesajele multimedia China Mobile în mesaje MMS după ce mesajul original nu a putut fi trimis. Operatorul vă va taxa pentru acest mesaj."</string>
+    <string name="rcs_summary_auto_resend_mms">"Convertiți mesajele multimedia China Mobile în mesaje SMS după ce mesajul original nu a putut fi trimis. Operatorul vă va taxa pentru acest mesaj."</string>
     <string name="rcs_summary_auto_resend_sms">"Convertiți mesajele text China Mobile în mesaje SMS după ce mesajul original nu a putut fi trimis. Operatorul vă va taxa pentru acest mesaj."</string>
     <string name="rcs_summary_silence_message">Redu la tăcere notificările pentru mesaje atunci când rulează clientul desktop</string>
-    <string name="rcs_unavailable">"Nu se poate utiliza mesageria China Mobile acum. Cartela SIM China Mobile nu este cartela de date implicită."</string>
     <string name="rcs_wait_for_retry_text">Se așteaptă…</string>
     <string name="received_at_time">Primit la: %1s</string>
     <string name="received_label">"Primit: "</string>
