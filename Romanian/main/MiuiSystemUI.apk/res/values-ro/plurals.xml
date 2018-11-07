@@ -28,17 +28,13 @@
         <item quantity="other">Cod PUK incorect, %d încercări rămase</item>
         <item quantity="one">Cod PUK incorect, %d încercare rămasă</item>
     </plurals>
-    <plurals name="keyguard_charging_info_charging_full_need_hour_time__text">
-        <item quantity="other">Circa %d ore până la încărcarea completă</item>
-        <item quantity="one">Circa %d oră până la încărcarea completă</item>
+    <plurals name="input_password_after_timeout_msg">
+        <item quantity="other">Introducerea parolei este necesară după %d ore de inactivitate</item>
+        <item quantity="one">Introducerea parolei este necesară după %d oră de inactivitate</item>
     </plurals>
-    <plurals name="keyguard_charging_info_charging_full_need_min_time__text">
-        <item quantity="other">Circa %d minute până la încărcarea completă​</item>
-        <item quantity="one">Circa %d minut până la încărcarea completă​</item>
-    </plurals>
-    <plurals name="keyguard_charging_info_charging_full_need_time__text">
-        <item quantity="other">Circa %1$d h și %2$d m până la încărcarea completă</item>
-        <item quantity="one">Circa %1$d h și %2$d m până la încărcarea completă</item>
+    <plurals name="input_pattern_after_timeout_msg">
+        <item quantity="other">Desenarea modelului este necesară după %d ore de inactivitate</item>
+        <item quantity="one">Desenarea modelului este necesară după %d oră de inactivitate</item>
     </plurals>
     <plurals name="keyguard_charging_info_could_use_hour_time_text">
         <item quantity="other">Circa %d ore rămase</item>

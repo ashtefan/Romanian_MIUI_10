@@ -353,7 +353,7 @@ Dacă nu faceți actualizarea, și aplicațiile clonate pot funcționa necorespu
     <string name="start_new_fingerprint_tips">"Utilizați amprenta pentru Spațiul secundar
 pentru a accesa Spațiul secundar din Blocarea ecranului"</string>
     <string name="start_setting_guide_desc_title">Sunt câteva lucruri de setat</string>
-    <string name="stop_xspace_alert_content">"Ați șters toate aplicațiile clonate. Ștergeți și conturile și datele aplicațiilor clonate? După aceasta, va trebui să creați din nou aplicațiile duale când veți avea nevoie de ele."</string>
+    <string name="stop_xspace_alert_content">"Toate aplicațiile clonate și datele acestora vor fi șterse permanent. Va trebui să reporniți telefonul pentru a aplica această modificare. Ștergeți conturile acum?"</string>
     <string name="stop_xspace_alert_title">Se șterg conturile aplicațiilor clonate</string>
     <string name="summary_switch_apps_settings">Selectați aplicațiile utilizate în Spațiul curent</string>
     <string name="support_desc">Servicii de securitate oferite de Spaces Mobile</string>
@@ -425,6 +425,7 @@ Unele aplicații clonate necesită suportul Google Services Framework. În acest
     <string name="xspace_label">Aplicații clonate</string>
     <string name="xspace_loading_msg">Se încarcă aplicațiile…</string>
     <string name="xspace_qq_title">QQ</string>
+    <string name="xspace_remove">"Ștergeți conturile aplicațiilor clonate"</string>
     <string name="xspace_setting_label">Setări aplicații clonate</string>
     <string name="xspace_uninstall_completed">Aplicația clonată a fost dezinstalată cu succes</string>
     <string name="xspace_uninstall_dialog_content">Dezinstalarea unei aplicații clonate va șterge și toate datele acesteia.</string>

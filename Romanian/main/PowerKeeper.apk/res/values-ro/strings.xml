@@ -20,7 +20,12 @@
     <string name="app_invisible_title">Aplicații invizibile</string>
     <string name="app_list_title">Selectați aplicațiile</string>
     <string name="app_name">Acumulator și performanță</string>
-    <string name="background">Aplicaţia se execută în fundal</string>
+    <string name="app_preload_policies_summary">"Utilizați învățarea mecanică pentru a anticipa aplicațiile cel mai probabil de utilizat și pentru a încărca resursele în avans."</string>
+    <string name="app_preload_policies_title">Pre-încărcare AI</string>
+    <string name="appconfig_active_app_dialog_title">Gestionați aplicațiile active</string>
+    <string name="atrace_saved">Salvat cu succes</string>
+    <string name="atrace_saving">Se salvează jurnalul ATrace…</string>
+    <string name="atrace_start">Se înregistrează jurnalul ATrace…</string>
     <string name="base_info">Informații de bază</string>
     <string name="cloud_addr_info">Informații Cloud</string>
     <string name="cloud_china_addr">Actualizați datele serverului din China</string>

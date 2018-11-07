@@ -273,9 +273,11 @@ link-ul din e-mailul pe care vi l-am trimis."</string>
     <string name="passport_input_password_for_login">Acest număr este asociat cu un cont existent, introduceți parola dvs.</string>
     <string name="passport_input_password_hint">Introduceți parola</string>
     <string name="passport_input_phone_hint">Introduceţi numărul de telefon</string>
+    <string name="passport_input_phone_password">Vă rugăm introduceți parola pentru numărul de telefon %s</string>
     <string name="passport_input_vcode_hint">Introduceți codul de verificare</string>
     <string name="passport_input_voice_captcha_hint">Introduceți codul de verificare vocală</string>
     <string name="passport_input_voice_hint">Introduceți codul vocal</string>
+    <string name="passport_international_register_by_email">Creați un cont utilizând adresa de e-mail</string>
     <string name="passport_license_host_unreachable">Nu se poate conecta la rețea. Puteți vizualiza această pagină la %s.</string>
     <string name="passport_license_info_collapse">Restrângeți</string>
     <string name="passport_license_info_open">Detalii</string>
@@ -368,6 +370,7 @@ link-ul din e-mailul pe care vi l-am trimis."</string>
     <string name="passport_skip_setup_account_title">"Nu utilizați Mi Cloud?"</string>
     <string name="passport_sms_send_success">Trimis</string>
     <string name="passport_sms_verification_code_login">Autentificare prin cod SMS</string>
+    <string name="passport_sms_verification_code_login_or_register">Autentificați-vă sau creați un cont prin SMS</string>
     <string name="passport_sync_account_data">Sincronizare informații cont…</string>
     <string name="passport_sync_account_data_failed_warning">Informațiile despre contul dumneavoastră se sincronizează acum, vă puteți conecta utilizând ID-ul contului Mi. Dacă doriți să vă conectați utilizând numărul de telefon sau adresa de e-mail, așteptați până când informațiile sunt sincronizate în totalitate.</string>
     <string name="passport_talkback_image_captcha">Cod imagine de verificare</string>

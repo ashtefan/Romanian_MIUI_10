@@ -962,6 +962,8 @@ Sample Rate"</string>
     <string name="bootloader_status_unlocked">Deblocat</string>
     <string name="bootloader_status_unlocked_info">Acest telefon este deblocat</string>
     <string name="bootloader_summary">Actualizați dispozitivul prin USB</string>
+    <string name="bootloader_tips">"După ce vă adăugați contul Mi, nu vă deconectați de la acesta, reveniți la setările din fabrică sau ștergeți datele aplicațiilor de sistem. Dacă faceți vreunul din lucrurile de mai sus, adăugați contul dvs. din nou sau nu veți mai putea debloca telefonul."</string>
+    <string name="bootloader_tips_ok">Am înțeles</string>
     <string name="breathing_light_color_menu_title">Culoare indicator luminos intermitent</string>
     <string name="breathing_light_color_summary">Culoare indicator luminos intermitent pt. notificări</string>
     <string name="breathing_light_freq_summary">Pulsare indicator luminos intermitent la notificări noi</string>
@@ -1018,6 +1020,12 @@ Această caracteristică poate fi dezactivată din [Setări]"</string>
     <string name="call_manager_enable_summary">Permiteți acestui serviciu să administreze modul de realizare a apelurilor.</string>
     <string name="call_manager_enable_title">Activați administratorul de apeluri</string>
     <string name="call_manager_title">Administrator apeluri</string>
+    <string name="call_records_name_1">Gheorghe Popescu</string>
+    <string name="call_records_name_2">Marius Coman</string>
+    <string name="call_records_name_3">Radu Nicoară</string>
+    <string name="call_records_summary_1">9:35 AM | 26 de secunde | Digi Mobil</string>
+    <string name="call_records_summary_2">16 August | 1min și 16sec | Orange</string>
+    <string name="call_records_summary_3">16 August | 2min și 24sec | Vodafone</string>
     <string name="call_settings_primary_user_only">Modificați setările apelurilor în spațiul principal</string>
     <string name="call_settings_summary">Activaţi mesageria vocală, redirecţionarea apelurilor, apel în aşteptare, ID apelant</string>
     <string name="call_settings_title">Setări apel</string>
@@ -2344,6 +2352,7 @@ Puteți modifica acest lucru mai târziu în Setări &gt; Aplicații și notific
     <string name="keyboard_shortcuts_helper">Ajutor scurtături tastatură</string>
     <string name="keyboard_shortcuts_helper_summary">Afișează scurtăturile disponibile</string>
     <string name="keyguard_advance_setting_title">Setări avansate</string>
+    <string name="keyguard_notification_status_title">Notificări</string>
     <string name="keyguard_security_setting_others">Altele</string>
     <string name="keyguard_security_setting_privacy_policy">Politica de Confidențialitate</string>
     <string name="keyguard_vertical_clock_title">Ceas vertical</string>
@@ -2424,6 +2433,7 @@ Puteți modifica acest lucru mai târziu în Setări &gt; Aplicații și notific
     <string name="launch_google_search">Lansare asistent Google</string>
     <string name="launch_recents">Lansați Recente</string>
     <string name="launch_voice_assistant">Lansează asistentul vocal</string>
+    <string name="launcher_icon">Pictograme</string>
     <string name="launcher_title">Ecran principal și Recente</string>
     <string name="launching_cit">Lansare CIT</string>
     <string name="launching_pho">Lansare info telefon…</string>
@@ -3361,6 +3371,8 @@ Acest lucru va permite aplicației să comute modul Nu deranjați și să modifi
     <string name="page_layout_31">Jack Tang</string>
     <string name="page_layout_32">Magazin Play</string>
     <string name="page_layout_33">Google</string>
+    <string name="page_layout_34">Telefon</string>
+    <string name="page_layout_35">Notițe</string>
     <string name="page_layout_4">Muzică</string>
     <string name="page_layout_5">Video</string>
     <string name="page_layout_6">Aplicaţii</string>
@@ -6098,6 +6110,7 @@ puteţi utiliza, de asemenea, reţelele altor utilizatori"</string>
     <string name="wizard_back">Înapoi</string>
     <string name="wizard_finish">Finalizat</string>
     <string name="wizard_next">Înainte</string>
+    <string name="words_title">Text</string>
     <string name="work_alarm_ringtone_title">Sunet implicit al alarmei de servici</string>
     <string name="work_mode_label">Mod Servici</string>
     <string name="work_mode_summary">Permite rularea profilului de Servici, inclusiv aplicații, sincronizare în fundal precum și alte caracteristici înrudite</string>

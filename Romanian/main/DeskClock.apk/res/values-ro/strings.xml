@@ -150,7 +150,7 @@
     <string name="settings">Setări</string>
     <string name="shut_down_keep_screen">"Ecranul nu va fi păstrat pornit"</string>
     <string name="shutdown_alarm_disable_summary">Alarma nu va mai suna dacă închideți telefonul</string>
-    <string name="shutdown_alarm_enable_summary">Alarma va suna chiar dacă închideți telefonul</string>
+    <string name="shutdown_alarm_enable_summary">"Alarma va suna dacă este setată peste cel puțin 5 după ce opriți telefonul"</string>
     <string name="shutdown_alarm_title">Pornire telefon</string>
     <string name="silent_alarm_summary">Silenţios</string>
     <string name="skip_alarm_once_hint">Amânați o dată în %s</string>

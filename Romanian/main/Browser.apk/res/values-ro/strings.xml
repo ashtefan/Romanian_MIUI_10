@@ -401,6 +401,8 @@ pentru a vedea filele deschise pe alte dispozitive"</string>
     <string name="google_bookmarks">Google</string>
     <string name="green_kid_block_request">Site-ul a fost reclamat de către părinții care l-au vizitat.</string>
     <string name="guide_chosen_type_main_title">Spuneți-ne ce vă place</string>
+    <string name="guide_chosen_type_main_title_behind">ce vă place</string>
+    <string name="guide_chosen_type_main_title_front">Spuneți-ne</string>
     <string name="guide_chosen_type_subtitle">Scrieți ce vă interesează pentru a primi recomandări relevante</string>
     <string name="guide_entertainment_text">amuzament</string>
     <string name="guide_fashion_text">modă</string>

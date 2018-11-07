@@ -74,6 +74,7 @@
     <string name="show_screen_touch_summary">Se indică atingerile ecranului printr-un punct alb</string>
     <string name="sound_source">Sursă sunet</string>
     <string name="sound_source_summary">Sunete de sistem sau microfon</string>
+    <string name="sound_source_summary_without_system_sounds">Utilizați microfonul sau opriți sunetele</string>
     <string name="start">Start</string>
     <string name="start_recording">Începeți înregistrarea</string>
     <string name="stop_by_second_space">Comutarea între spații va opri înregistrarea</string>

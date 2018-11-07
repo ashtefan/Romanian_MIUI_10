@@ -490,6 +490,7 @@
     <string name="rename_alert">"Dacă modificați extensia acestui fișier, nu veți putea să-l deschideţi."</string>
     <string name="rename_alert2">Fișierul nu va mai fi vizibil după ce îi veți modifica extensia.</string>
     <string name="rename_failed">"Nu se poate redenumi %1$s"</string>
+    <string name="rename_input_null">Introduceți noul nume de fișier</string>
     <string name="repair_done">Restaurate</string>
     <string name="repair_error">"Nu s-au putut restaura"</string>
     <string name="repair_file">Restaurați fișierele criptate</string>

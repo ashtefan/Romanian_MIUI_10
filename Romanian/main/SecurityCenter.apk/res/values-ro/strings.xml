@@ -863,7 +863,7 @@ Toate datele de pe telefon pot fi șterse iar parola pentru Blocarea ecranului p
     <string name="fod_finger_notice_title">Plasați degetul pe ecran</string>
     <string name="fod_finger_windows_tips">Verificați amprenta</string>
     <string name="fod_tips_split_screen_more_than_half">Introduceți parola</string>
-    <string name="forbid_autobright_summary">"Iluminarea ecranului va rămâne constantă când vă jucați"</string>
+    <string name="forbid_autobright_summary">"Iluminarea automată a ecranului va fi dezactivată când vă jucați și va fi restaurată atunci când terminați jocul"</string>
     <string name="forbid_autobright_title">Depanați iluminarea ecranului</string>
     <string name="foreground_traffic">În prim plan: %s</string>
     <string name="forget_password_button_text"><u>Am uitat parola</u></string>
@@ -990,6 +990,7 @@ Toate datele de pe telefon pot fi șterse iar parola pentru Blocarea ecranului p
     <string name="gs_performance_mode">Mod performanță</string>
     <string name="gs_performance_mode_detail">Creșteți utilizarea procesorului pentru a asigura o performanță sporită</string>
     <string name="gs_sign_notification">Amintește-mi să verific în fiecare zi la ora 20.00</string>
+    <string name="gs_slip_gamebox_detail">Utilizați cursorul pentru a afișa panoul cu scurtături. Opțiunile de răspuns rapid și de înregistrare a ecranului sunt disponibile.</string>
     <string name="guide_get_operator_error">"&lt;font color='#33b4ff'&gt;&lt;U&gt;Operator eronat?&lt;/U&gt;&lt;/font&gt;"</string>
     <string name="guide_operator_text">"Operatorul dvs. curent este: "</string>
     <string name="guide_quck_open">Activați</string>

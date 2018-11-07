@@ -23,4 +23,8 @@
         <item>Curăță</item>
         <item>Curăță și notifică</item>
     </string-array>
+    <string-array name="wechat_sort">
+        <item>Dată</item>
+        <item>Dimensiune</item>
+    </string-array>
 </resources>

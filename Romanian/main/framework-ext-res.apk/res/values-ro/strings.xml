@@ -185,5 +185,6 @@
     <string name="voice_input_error_other">A apărut o eroare. Așteptați un minut sau două și încercați din nou.</string>
     <string name="wifi_assistant_wifi_no_internet">Această rețea Wi-Fi nu are acces la internet</string>
     <string name="wifi_assistant_wifi_no_internet_detail">Atingeți pentru a vedea detalii</string>
+    <string name="xspace_head">Aplicație clonată</string>
     <string name="xspace_resolver_activity_title">Selectați aplicația</string>
 </resources>

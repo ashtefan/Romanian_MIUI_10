@@ -134,7 +134,7 @@
     <string name="do_not_ask">Nu arăta din nou</string>
     <string name="do_not_support_video_calls_by_remote">"Apelurile video nu sunt suportate pe celălalt telefon"</string>
     <string name="emergency_call_dialog_number_for_display">Număr de urgenţă</string>
-    <string name="inCallLabel">Interfață apelare</string>
+    <string name="inCallLabel">Apelare</string>
     <string name="incall_call_type_label_sip">Apel prin internet</string>
     <string name="incall_error_supp_service_conference">Teleconferinţa nu se poate efectua.</string>
     <string name="incall_error_supp_service_hangup">Apelul nu poate fi încheiat.</string>
