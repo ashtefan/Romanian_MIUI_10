@@ -16,7 +16,6 @@
     <string name="alter_message_delete">Ştergeţi?</string>
     <string name="alter_message_switch_mode">Comutaţi modurile?</string>
     <string name="alter_message_switch_mode_message">Când comutați modurile, setările anterioare nu se vor mai regăsi la această aplicație.</string>
-    <string name="appconfig_active_app_dialog_title">Gestionați aplicațiile active</string>
     <string name="app_invisible_title">Aplicații invizibile</string>
     <string name="app_list_title">Selectați aplicațiile</string>
     <string name="app_name">Acumulator și performanță</string>
