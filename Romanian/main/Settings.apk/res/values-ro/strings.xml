@@ -5715,7 +5715,6 @@ Atingeți butonul (+) pentru a adăuga cuvinte"</string>
     <string name="wifi_calling_mode_title">Preferințe apelare</string>
     <string name="wifi_calling_off_explanation">Când apelarea prin Wi-Fi este activă, telefonul dumneavoastră poate ruta apelurile prin Wi-Fi sau prin rețeaua operatorului, dependent de opțiunile dumneavoastră sau în funcție de puterea semnalului. Înainte de a activa această caracteristică, consultați operatorul pentru detalii despre taxe sau alte informații.</string>
     <string name="wifi_calling_roaming_mode_dialog_title">Preferință roaming</string>
-    <string name="wifi_calling_roaming_mode_summary">%1$s</string>
     <string name="wifi_calling_roaming_mode_title">Preferință roaming</string>
     <string name="wifi_calling_settings_title">Apelare prin Wi-Fi</string>
     <string name="wifi_calling_suggestion_summary">Utilizați Wi-Fi în locul rețelei mobile</string>
