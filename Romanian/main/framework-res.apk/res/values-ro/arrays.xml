@@ -42,12 +42,6 @@
         <item>Încearcă să activeze BT</item>
     </string-array>
    
-    <string-array name="config_globalActionsList">
-        <item>pornire</item>
-        <item>repornire</item>
-        <item>raportare erori</item>
-        <item>utilizatori</item>
-    </string-array>
     <string-array name="config_system_condition_providers">
         <item>numărătoare inversă</item>
         <item>program</item>
