@@ -36,7 +36,6 @@
     <string name="download_queued">În coadă</string>
     <string name="download_remaining">Timp rămas: %s</string>
     <string name="download_running">În desfășurare</string>
-    <string name="download_running_percent">În curs, %d%%</string>
     <string name="download_unknown_title">Fără titlu</string>
     <string name="enter_garbage_clean">Curăţare stocare internă.</string>
     <string name="insufficient_space">Nu este suficient spațiu în memoria internă a dispozitivului</string>
