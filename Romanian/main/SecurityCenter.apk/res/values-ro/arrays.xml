@@ -82,6 +82,11 @@
         <item>Dezactivează și notifică</item>
         <item>Doar notifică</item>
     </string-array>
+    <string-array name="traffic_package_type">
+        <item>Plan de date lunar</item>
+        <item>Plan de date zilnic</item>
+        <item>Plan de date nelimitat</item>
+    </string-array>
     <string-array name="alarm_repeat_type">
         <item>O dată</item>
         <item>În fiecare zi</item>

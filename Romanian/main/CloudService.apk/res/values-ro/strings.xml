@@ -393,7 +393,7 @@ Utilizați alt cont"</string>
     <string name="micloud_privacy_cloud_off">Sincronizarea este oprită</string>
     <string name="micloud_privacy_cloud_sync">Activați serviciile Mi Cloud</string>
     <string name="micloud_privacy_explanation">Acordați permisiunea de activare a serviciilor Mi Cloud</string>
-    <string name="micloud_privacy_licence_agreed">Sunt de acord cu Politica de Confidențialitate Mi Cloud.</string>
+    <string name="micloud_privacy_licence_agreed">Sunt de acord cu &lt;a href=app://com.miui.cloudservice.gdpr.license&gt;&lt;u&gt;Politica de Confidențialitate Mi Cloud&lt;/u&gt;&lt;/a&gt;.</string>
     <string name="micloud_privacy_licence_privacy_policy">Politica de Confidențialitate</string>
     <string name="micloud_privacy_more">Mai multe</string>
     <string name="micloud_privacy_progress_content">Se acordă autorizarea…</string>

@@ -221,12 +221,12 @@
     <string name="app_manager_reset_app_preferences_button">Resetați aplicațiile</string>
     <string name="app_manager_reset_app_preferences_desc">"Această acțiune va reseta toate preferințele pentru:
 
- "&lt;li&gt;Aplicațiile dezactivate&lt;/li&gt;"
- "&lt;li&gt;Notificările aplicațiilor dezactivate&lt;/li&gt;"
- "&lt;li&gt;Aplicațiile implicite&lt;/li&gt;"
- "&lt;li&gt;Restricțiile datelor în fundal pentru aplicații&lt;/li&gt;"
+"&lt;li&gt;Aplicațiile dezactivate&lt;/li&gt;"
+"&lt;li&gt;Notificările aplicațiilor dezactivate&lt;/li&gt;"
+"&lt;li&gt;Aplicațiile implicite&lt;/li&gt;"
+"&lt;li&gt;Restricțiile datelor în fundal pentru aplicații&lt;/li&gt;"
 
- Nu veți pierde datele aplicațiilor."</string>
+Nu veți pierde datele aplicațiilor."</string>
     <string name="app_manager_reset_app_preferences_title">Resetați preferințele aplicației?</string>
     <string name="app_manager_search_prompt">"Nu s-a găsit niciun rezultat? Încercați să afișați rezultatele din toate aplicațiile."</string>
     <string name="app_manager_show_all_apps">Arată toate aplicațiile</string>
@@ -554,15 +554,6 @@
     <string name="convenient_summary">Introduceți o dată parola pentru a debloca toate aplicațiile</string>
     <string name="correction_attention_dialog_message">Se modifică setările. Așteptați încheierea procesului și reîncercați.</string>
     <string name="cpu_usage_android_system">Sistem Android</string>
-    <string name="cpu_usage_app_bg_restrict_default">Auto (recomandat)</string>
-    <string name="cpu_usage_app_bg_restrict_default_short">Auto</string>
-    <string name="cpu_usage_app_bg_restrict_full">Restricționați activitatea din fundal</string>
-    <string name="cpu_usage_app_bg_restrict_no_limit">"Nu restricționa"</string>
-    <string name="cpu_usage_app_bg_restrict_partly">După %s</string>
-    <string name="cpu_usage_app_bg_restrict_partly_short">După %s</string>
-    <string name="cpu_usage_app_bg_restrict_title">Setări pentru activități în fundal</string>
-    <string name="cpu_usage_app_tip_can_not_restrict_system_app">"Nu se pot restricționa serviciile de sistem"</string>
-    <string name="cpu_usage_app_uninstalled_toast">Această aplicație este dezinstalată</string>
     <string name="cpu_usage_process_run_time_little_time">Mai puțin de un minut</string>
     <string name="cpu_usage_view_action_btn_text">Atingeți pentru a vizualiza</string>
     <string name="create_shortcut">Creați o scurtătură pe Ecranul principal pentru Creșterea vitezei în jocuri</string>
@@ -572,6 +563,13 @@
     <string name="current_network_state_not_need_diagnose">Conexiunea la internet este normală.</string>
     <string name="customize_limit_pkg">%s (personalizat)</string>
     <string name="customizer_mode_user_define_name">Regulile mele</string>
+    <string name="daily_card_setting_fragment_daily_card_brand">Operator</string>
+    <string name="daily_card_setting_fragment_daily_card_brand_value">Selectați operatorul</string>
+    <string name="daily_card_setting_fragment_daily_card_setting">Setări pentru planul de date zilnic</string>
+    <string name="daily_card_setting_fragment_daily_card_summary">"MIUI va seta limitele de date și aplicațiile cu acces nelimitat la date, conform operatorului selectat. Dacă operatorul dvs. nu este listat, selectați \"Altul\" și setați manual planul de date."</string>
+    <string name="daily_card_setting_fragment_daily_package">Limită zilnică de date</string>
+    <string name="daily_card_setting_fragment_month_package">Pachet lunar de date</string>
+    <string name="daily_card_setting_fragment_package_summary">Dacă planul zilnic de date conține un pachet lunar de date, acesta va fi utilizat înaintea limitei zilnice.</string>
     <string name="daily_limit_and_lock_screen">Avertisment utilizare date</string>
     <string name="daily_limit_network_available_body">Atingeți pentru a vizualiza statisticile de utilizare a datelor.</string>
     <string name="daily_limit_over_message">Ați depășit limita zilnică de utilizare a datelor.</string>
@@ -622,6 +620,8 @@ Toate datele de pe telefon pot fi șterse iar parola pentru Blocarea ecranului p
     <string name="diagnostic_attention_dialog_message">"Diagnosticarea pentru %1$s este în curs. Așteptați finalizarea procesului și reîncercați."</string>
     <string name="dialog_app_roaming_message">%1$s nu pot utiliza datele mobile în roaming. Când sunteţi în roaming internațional, doar aplicațiile pe care le-ați adăugat la excepţii pot utiliza datele mobile.</string>
     <string name="dialog_app_roaming_title">Roamingul internațional nu este activat pentru %1$s</string>
+    <string name="dialog_change_package_type_summary">Modificarea planului de date va reseta toate setările pentru utilizarea datelor (de ex. limitele de date) la valoarea lor implicită. Modificați planul de date oricum?</string>
+    <string name="dialog_change_package_type_title">Modificare tip plan de date</string>
     <string name="dialog_msg_auto_start_declare">Unele aplicații pot indica în mod greșit că MIUI le-a împiedicat să pornească. Verificați permisiunile care au fost acordate aplicațiilor individuale în Setări > Aplicații.</string>
     <string name="dialog_msg_stop_virus_scan">"Opriți scanarea de securitate înainte de a fi terminată?"</string>
     <string name="dialog_no_longer_alert">"Nu arăta din nou"</string>
@@ -764,12 +764,6 @@ Toate datele de pe telefon pot fi șterse iar parola pentru Blocarea ecranului p
     <string name="exo_track_surround_5_point_1">Sunet surround 5.1</string>
     <string name="exo_track_surround_7_point_1">Sunet surround 7.1</string>
     <string name="exo_track_unknown">Necunoscut</string>
-    <string name="extreme_add_white_list_summary">Adăugați până la 4 aplicații</string>
-    <string name="extreme_add_white_list_title">Excepții pentru rularea în fundal</string>
-    <string name="extreme_power_save_description">&lt;li&gt;"Modul Extrem de economisire a acumulatorului oprește toate activitățile din fundal ale unei aplicații după ce o părăsiți și reveniți la Ecranul principal. Această aplicație nu va mai afișa notificări și nici nu va mai primi actualizări."&lt;/li&gt;"
-"&lt;li&gt;Dacă doriți ca o aplicație să ruleze în fundal, blocați-o în Recente sau adăugați-o în lista excepțiilor de mai jos. Maxim 4 aplicații pot rula în fundal când modul Extrem de economisire a acumulatorului este activ.&lt;/li&gt;"
-"&lt;li&gt;Modul Extrem de economisire a acumulatorului dezactivează implicit NFC-ul. Puteți modifica acest lucru în Setări.&lt;/li&gt;"
-"&lt;li&gt;Pentru a vă asigura că puteți utiliza toate caracteristicile telefonului dvs. în mod normal, modul Extrem de economisire a acumulatorului se va dezactiva automat când acumulatorul va fi încârcat la cel puțin 30%.&lt;/li&gt;</string>
     <string name="extreme_power_save_mode_card_summary">Activați modul Extrem pentru a economisi energia atunci când nivelul acumulatorului este scăzut.</string>
     <string name="extreme_power_save_mode_title">Modul Extrem de economisire a acumulatorului</string>
     <string name="finger_remind_message">Adăugați mai întâi amprenta. Atingeți pentru a merge la Setări.</string>
@@ -1149,6 +1143,9 @@ Operatorul vă poate taxa suplimentar dacă veți continua utilizarea datelor mo
     <string name="main_button_usage_adjusting">Modificare…</string>
     <string name="main_button_usage_adjusting_bill">Modificare…</string>
     <string name="main_button_usage_package_setting">Setaţi limita utilizării datelor</string>
+    <string name="main_daily_card_guide_dialog_ok">Setați</string>
+    <string name="main_daily_card_guide_dialog_summary">Puteți alege între zilnic, lunar sau nelimitat. Setați acum planul de date?</string>
+    <string name="main_daily_card_guide_dialog_title">Setați planul de date</string>
     <string name="main_daily_package">Plan de date zilnic</string>
     <string name="main_indicator_title">Activare</string>
     <string name="main_leisure_remained">Trafic de date rămas</string>
@@ -1177,7 +1174,7 @@ răspunsul operatorului"</string>
     <string name="main_toolbar_internet_by_wifi">Wi-Fi</string>
     <string name="main_toolbar_purchase">Suplinire</string>
     <string name="main_toolbar_statistic">Statistică</string>
-    <string name="main_used_bill">%s CNY</string>
+    <string name="main_traffic_detail">Utilizare date</string>
     <string name="man_add_application">Adăugați aplicațiile cu pornire automată manual</string>
     <string name="manage_hybrid_permissions">"Gestionați permisiunile aplicației"</string>
     <string name="managed_user_title">Toate aplicațiile de Servici</string>
@@ -1217,15 +1214,8 @@ răspunsul operatorului"</string>
     <string name="megabyteShort">MB</string>
     <string name="megabyte_per_second">MB/s</string>
     <string name="memory_check_content">Eliberați %s</string>
-    <string name="memory_clean_btn_click_text">Creșteți viteza de reacție</string>
-    <string name="memory_clean_cleaning_title">Golire memorie cache</string>
-    <string name="memory_clean_click_tip">Creșteți viteza de reacție</string>
     <string name="memory_clean_memory_size_tip">Cache</string>
     <string name="memory_clean_no_need_clean">Totul arată bine</string>
-    <string name="memory_clean_no_running_process">Nicio sarcină de curățat</string>
-    <string name="memory_clean_running_process_title">Monitorizare aplicații (%d)</string>
-    <string name="memory_cleaned_memory_info">Memorie disponibilă</string>
-    <string name="memory_cleaned_memory_up">A fost crescută viteza de reacție</string>
     <string name="memory_clear_unused">Goliți memoria cache (%s)</string>
     <string name="menu_add">Adăugați</string>
     <string name="menu_bl_call_log">Vedeți apelurile blocate</string>
@@ -1385,20 +1375,18 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="news_change">Modificați</string>
     <string name="nickname">Pseudonim</string>
     <string name="no_game">"Nu s-au găsit jocurile"</string>
+    <string name="not_limited_brand">Nelimitat</string>
     <string name="note">Notați</string>
     <string name="note_call_none">Niciun apel</string>
     <string name="note_list_none">Lista este goală</string>
     <string name="note_sms_none">Niciun mesaj</string>
     <string name="notification_battery_consume_abnormal_title">Acumulatorul se descărcă foarte rapid</string>
-    <string name="notification_exit_extreme_mode_text">Acumulatorul este încărcat la peste %s</string>
-    <string name="notification_exit_extreme_mode_title">S-a dezactivat modul Extrem de economisire a acumulatorului</string>
     <string name="notification_exit_power_save_mode">Economisirea acumulatorului este dezactivată</string>
     <string name="notification_exit_power_save_mode_subtitle">Acumulator încărcat %s.</string>
     <string name="notification_mask_summary">Ascunde conținutul notificărilor din Blocarea ecranului și din Perdeaua de notificări</string>
     <string name="notification_mask_title">Ascundeți conținutul</string>
     <string name="notification_masked_item">Ascunde notificările</string>
     <string name="notification_masked_subtitle">Ascunde notificările din aplicațiile protejate cu Blocarea aplicațiilor</string>
-    <string name="notification_open_extreme_mode_text">S-a activat modul Extrem de economisire a acumulatorului</string>
     <string name="notification_summary_cmcc_app_check">Atingeți pentru a vizualiza detalii.</string>
     <string name="notify_channel_name_security">Securitate sistem</string>
     <string name="notify_daily_data_usage_body">Pentru a limita în mod automat utilizarea datelor, configuraţi planul lunar de date.</string>
@@ -1422,46 +1410,15 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="ok">OK</string>
     <string name="ok_button">OK</string>
     <string name="old_sdk_deny_warning">"Această aplicație nu este compatibilă cu cele mai recente cerințe Android privind permisiunile. Permisiunile neacordate pot afecta modul în care funcționează aplicația."</string>
-    <string name="om_btn_text_quick_fix">Optimizați</string>
-    <string name="om_cpu_overload_activity_title">Aplicațiile ce utilizează intens procesorul</string>
-    <string name="om_cpu_overload_app_fixed">Toate problemele au fost rezolvate</string>
-    <string name="om_cpu_overload_app_name">Aplicațiile ce utilizează intens procesorul</string>
-    <string name="om_cpu_overload_detail">A utilizat %1$s din capacitatea procesorului pentru %2$s</string>
-    <string name="om_cpu_overload_proc_activity_title">Probleme</string>
-    <string name="om_cpu_overload_proc_title">Probleme</string>
-    <string name="om_cpu_usage_warn_title_text">"Această aplicație vă poate încetini
-telefonul"</string>
-    <string name="om_formatted_percent_string">%s%%</string>
-    <string name="om_ill_proc_activity_title">Probleme</string>
-    <string name="om_ill_proc_handle_uninstall_prompt">Dezinstalați această aplicație pentru a rezolva problemele de utilizare a acumulatorului.</string>
-    <string name="om_ill_proc_handle_unstaill_title">Dezinstalați %s?</string>
-    <string name="om_ill_proc_type_alarm_detail">Reparați problemele legate de activitățile din fundal</string>
-    <string name="om_ill_proc_type_alarm_title">Această aplicație trezește frecvent telefonul și descarcă acumulatorul</string>
-    <string name="om_ill_proc_type_cpu_detail">Reparați problemele legate de supraîncărcarea procesorului</string>
-    <string name="om_ill_proc_type_cpu_title">Această aplicație solicită procesorul și descarcă acumulatorul</string>
-    <string name="om_ill_proc_type_gps_detail">Reparați problemele legate de utilizarea GPS-ului</string>
-    <string name="om_ill_proc_type_gps_title">Această aplicație utilizează frecvent GPS-ul și descarcă acumulatorul</string>
-    <string name="om_ill_proc_type_radio_detail">Reparați problemele legate de conexiunea la rețea</string>
-    <string name="om_ill_proc_type_radio_title">Această aplicație se conectează frecvent la rețea și descarcă acumulatorul</string>
-    <string name="om_ill_proc_type_wakelock_detail">Reparați problemele legate de modul inactivitate</string>
-    <string name="om_ill_proc_type_wakelock_title">Această aplicație blochează intrarea telefonului în modul inactiv și descarcă acumulatorul</string>
-    <string name="om_ill_proc_type_wifiscan_detail">Reparați problemele legate de scanarea rețelelor Wi-Fi</string>
-    <string name="om_ill_proc_type_wifiscan_title">Această aplicație caută frecvent rețelele Wi-Fi și descarcă acumulatorul</string>
     <string name="om_lock_app_locked_app">Blocată</string>
-    <string name="om_lock_app_locked_app_occupy_memory">"Blocarea multor aplicații reduce performanța telefonului"</string>
-    <string name="om_lock_app_tip_msg">Atingeți pentru a bloca</string>
     <string name="om_lock_app_unlocked_app">Deblocată</string>
-    <string name="om_media_scan_time_warn_title">"Serverul media rulează în fundal.
-Această activitate scade durata de viață a acumulatorului."</string>
-    <string name="om_media_scan_timeout_proc_detail">Serverul media rulează în fundal. Puteți să-i restricționați activitatea.</string>
-    <string name="om_media_scan_timeout_proc_name">Server media</string>
-    <string name="om_memory_clean_cleaning_text">Creștere viteză de reacție…</string>
-    <string name="om_notify_cpu_load_too_high_summary">Restricționați activitatea din fundal pentru a crește viteza de reacție</string>
-    <string name="om_notify_cpu_load_too_high_title">Utilizarea procesorului de către %s este prea mare</string>
-    <string name="om_notify_need_clean_memory_summary">Goliți memoria cache pentru a crește viteza de reacție</string>
-    <string name="om_notify_need_clean_memory_title">Dimensiunea cache a atins %s</string>
-    <string name="om_other_processes">Alte sarcini</string>
-    <string name="om_other_processes_cpu_usage_summary">Media utilizării procesorului este mai mică decât %s%%</string>
+    <string name="om_locked_apps_summary">Aplicațiile blocate vor fi ignorate de către creșterea vitezei.</string>
+    <string name="om_memory_clean_memory_info_text">%1$s / %2$s</string>
+    <string name="om_not_finish_speedboost">Creșterea vitezei este necesară</string>
+    <string name="om_promotion">Reclamă</string>
+    <string name="om_running_locked_apps">Aplicații cu rulare blocată</string>
+    <string name="om_running_system_apps">Aplicații de sistem care rulează</string>
+    <string name="om_running_third_apps">Aplicații terțe care rulează</string>
     <string name="om_settings_cpu_over_load_notify">Utilizare procesor</string>
     <string name="om_settings_cpu_over_load_summary">Arată o notificare când utilizarea procesorului este prea intensă</string>
     <string name="om_settings_lock_app">Blocare aplicații</string>
@@ -1507,7 +1464,6 @@ Această activitate scade durata de viață a acumulatorului."</string>
     <string name="optimize_result_button_see_detaills">Detalii</string>
     <string name="optimize_result_button_to_set">Setați</string>
     <string name="optimize_result_button_update_now">Actualizați</string>
-    <string name="optimize_result_header_view_summary">Creșteți viteza</string>
     <string name="optimize_result_summary_sucurity_risk">Unele caracteristici de securitate sunt dezactivate. Activați-le pentru a vă face telefonul mai sigur:</string>
     <string name="optimize_result_summary_system_default_settings">"Utilizarea aplicațiilor MIUI implicite crește nivelul de stabilitate și securitate al sistemului."</string>
     <string name="optimize_result_title_sucurity_risk">Au fost găsite riscuri de securitate</string>
@@ -1690,6 +1646,7 @@ Această activitate scade durata de viață a acumulatorului."</string>
     <string name="pref_category_daily_package_tile">Plan de date zilnic</string>
     <string name="pref_category_extra_package_tile">Pachet de suplimentare</string>
     <string name="pref_category_half_year_package_tile">Pachet de date semianual</string>
+    <string name="pref_category_package_type_title">Tip plan de date</string>
     <string name="pref_category_title_module_settings">Setări module</string>
     <string name="pref_category_title_other">Setări adiţionale</string>
     <string name="pref_category_title_securitycenter_settings">Generale</string>
@@ -1728,17 +1685,23 @@ Această activitate scade durata de viață a acumulatorului."</string>
     <string name="pref_roaming_daily_limit_setting_cat_title">Limita zilnică de date</string>
     <string name="pref_roaming_setting_gategory">Setări</string>
     <string name="pref_special_package_setting">Plan de date personalizat</string>
-    <string name="pref_special_package_setting_summary">Gestionați limita de date înafara orelor de vârf, pachetele de suplimentare, planul zilnic de date și utilizarea datelor</string>
+    <string name="pref_special_package_setting_summary">Gestionați limita de date înafara orelor de vârf, pachetele de suplimentare și utilizarea datelor</string>
     <string name="pref_summary_upload_data_usage">Raportați informațiile despre utilizarea datelor pentru a ne ajuta să îmbunătățim serviciile MIUI. Procesul de raportare va fi gestionat în concordanță cu Politica noastră de Confidențialitate.</string>
     <string name="pref_title_declaration">Indicații importante</string>
     <string name="pref_title_diagnostics_show_float_notification">Notificări plutitoare</string>
     <string name="pref_title_manual_check_virus_db_update">Căutați actualizări</string>
     <string name="pref_title_over_traffic_limit_warning">La depășire</string>
     <string name="pref_title_traffic_limit_number">Dimensiune</string>
+    <string name="pref_title_traffic_package_type">Tip plan de date</string>
     <string name="pref_title_traffic_speed_state">Afişaţi viteza rețelei</string>
     <string name="pref_title_update_notification">Afişaţi utilizarea datelor în panoul notificărilor</string>
     <string name="pref_title_upload_data_usage">Raportați informații despre utilizarea datelor</string>
+    <string name="pref_traffic_daily_package">Plan zilnic de date</string>
+    <string name="pref_traffic_daily_package_brand">Furnizor plan zilnic de date</string>
     <string name="pref_traffic_manage_title">Utilizarea datelor</string>
+    <string name="pref_traffic_monthly_package">Plan lunar de date</string>
+    <string name="pref_traffic_package_type_summary">Lunar/Zilnic/Nelimitat</string>
+    <string name="pref_traffic_unlimited_package">Plan de date nelimitat</string>
     <string name="pref_warning_values">Nivelul de avertizare al utilizării datelor</string>
     <string name="pref_whitelist_setting">Excepții utilizare date în roaming</string>
     <string name="preferred_app_entries_browser">Browser</string>
@@ -2397,11 +2360,19 @@ Datele rămase includ datele reportate din luna anterioară."</string>
     <string name="traffic_setting_fragment_button1_text">Anulaţi</string>
     <string name="traffic_setting_fragment_button2_text">Salvaţi</string>
     <string name="traffic_setting_fragment_city">Oraș</string>
+    <string name="traffic_setting_fragment_daily_summary">Datele mobile sunt actualizate zilnic</string>
+    <string name="traffic_setting_fragment_daily_title">Plan de date zilnic</string>
     <string name="traffic_setting_fragment_default">Selectați</string>
     <string name="traffic_setting_fragment_find_brand">"&lt;font color='#33b4ff'&gt;&lt;U&gt;Nu cunoașteți operatorul?&lt;/U&gt;&lt;/font&gt;"</string>
     <string name="traffic_setting_fragment_loacation_alert_nomore">"Nu arăta din nou"</string>
+    <string name="traffic_setting_fragment_month_summary">Planul de date și minutele pentru apeluri sunt actualizate lunar</string>
+    <string name="traffic_setting_fragment_month_title">Plan de date lunar</string>
+    <string name="traffic_setting_fragment_next">Următorul</string>
+    <string name="traffic_setting_fragment_not_limited_summary">Opțiuni pentru date mobile nelimitate</string>
+    <string name="traffic_setting_fragment_not_limited_title">Plan de date nelimitat</string>
     <string name="traffic_setting_fragment_operator">Operator</string>
     <string name="traffic_setting_fragment_operator_setting">Setări operator</string>
+    <string name="traffic_setting_fragment_packege_type">Setări plan de date</string>
     <string name="traffic_setting_fragment_province">Provincie</string>
     <string name="traffic_setting_fragment_send_num">Numărul de telefon al operatorului</string>
     <string name="traffic_setting_fragment_send_num_tips">Introduceţi numărul de telefon</string>

@@ -214,6 +214,7 @@
     <string name="corpus_hint_apps">Căutați aplicații</string>
     <string name="corpus_label_apps">Aplicații</string>
     <string name="cta_desc">"Ideal pentru scurtături, informații și caracteristicile favorite"</string>
+    <string name="cta_dialog_miot_text_all">Pentru a asigura funcționarea corespunzătoare, Mi Home poate avea nevoie de accesare a rețelei, a locației, permisiunea de activare a Bluetooth, utilizarea rețelei mobile, microfon și citirea agendei. Confirmați acest lucru?</string>
     <string name="cta_dialog_negative">Ieșiți</string>
     <string name="cta_dialog_positive">De acord</string>
     <string name="cta_dialog_text_all">Pentru a utiliza Asistentul inteligent va trebui să citiți și să fiți de acord cu %1$s\"Acordul Utilizatorului\" %2$s și %3$s \"Politica de Confidențialitate\" %4$s. Serviciul necesită de asemenea conectarea la internet și accesarea serviciilor de localizare. Captarea conținutului utilizată de unele servicii necesită de asemenea conectarea la internet. Sunteți de acord?</string>
@@ -740,7 +741,7 @@ Unele comenzi trimise prin SF Express de către vânzători din afara Taobao, Tm
     <string name="mi_sport">Mi Fit</string>
     <string name="mi_sport_go_install">Descărcați</string>
     <string name="mi_wallet">Portofel Mi</string>
-    <string name="miot_device_card_title">Mi Home</string>
+    <string name="miot_device_card_title">Mi home</string>
     <string name="miot_device_cta_and">și</string>
     <string name="miot_device_cta_end">. (</string>
     <string name="miot_device_cta_message">Adăugați dispozitivele inteligente pentru a le controla după placul dvs. Atingeți Autorizare pentru a vă da acordul</string>

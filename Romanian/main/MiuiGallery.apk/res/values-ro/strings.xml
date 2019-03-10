@@ -362,6 +362,11 @@
     <string name="disable_auto_upload_tip">Dezactivați sincronizarea în MiCloud pentru acest album?</string>
     <string name="disable_auto_upload_title">Dezactivați sincronizarea cu Mi Cloud</string>
     <string name="do_not_remind_me">"Nu arăta din nou"</string>
+    <string name="document_provider_guide_step_1">1. Atingeți butonul \"Mai multe\".</string>
+    <string name="document_provider_guide_step_2">2. Atingeți \"Afișează stocarea internă\".</string>
+    <string name="document_provider_guide_step_3">3. Atingeți butonul de meniu lateral.</string>
+    <string name="document_provider_guide_step_4">4. Selectați \"Card SD\".</string>
+    <string name="document_provider_guide_step_5">5. Atingeți \"Selectare\".</string>
     <string name="double_tap_to_higher_definition">Atingeți din nou de 2 ori pentru previzualizarea HD</string>
     <string name="download_canceled">Descărcarea a fost întreruptă</string>
     <string name="download_error_format">"Nu s-a putut descărca %s"</string>
@@ -466,6 +471,18 @@
     <string name="exit_video_play">Ieșire</string>
     <string name="expand_desc">Mai multe</string>
     <string name="expand_people">Arată mai multe persoane</string>
+    <string name="ext_sdcard_first_entrance_request_failed_text">Aplicația Galerie va salva elementele în memoria internă în schimb. Puteți modifica acest lucru din Setări &gt; Stocare &gt; Setări pentru stocare.</string>
+    <string name="ext_sdcard_first_entrance_request_failed_title">"Nu s-au putut acorda permisiunile."</string>
+    <string name="ext_sdcard_guide_first_page_button_text">Următorul</string>
+    <string name="ext_sdcard_guide_last_page_button_text">Acordați permisiuni</string>
+    <string name="ext_sdcard_guide_text">"Aplicația de Galerie are nevoie de permisiunea dvs. de accesare a cardului SD. Iată ce puteți face:"</string>
+    <string name="ext_sdcard_operation_failed_text">Aplicația de Galerie are nevoie de permisiunea dvs. de accesare a cardului SD.</string>
+    <string name="ext_sdcard_operation_failed_title">"Nu s-a putut finaliza acțiunea"</string>
+    <string name="ext_sdcard_permission_request_button_text">Am înțeles</string>
+    <string name="ext_sdcard_permission_request_reason">Aplicația de Galerie are nevoie de permisiunea dvs. de accesare a cardului SD. Acest lucru vă permite să ștergeți și să editați fotografiile și videoclipurile stocate pe cardul SD.</string>
+    <string name="ext_sdcard_permission_request_title">Permiteți aplicației de Galerie să acceseze cardul SD</string>
+    <string name="ext_sdcard_request_failed_button_text">OK</string>
+    <string name="ext_sdcard_request_succeed_toast_text">"Sunteți gata!"</string>
     <string name="face_album_empty">"Sunt prea puține fotografii pentru recunoașterea persoanelor.
 Faceți mai multe fotografii prietenilor!"</string>
     <string name="face_album_empty_syncing">Se sincronizează datele; reveniți mai târziu</string>

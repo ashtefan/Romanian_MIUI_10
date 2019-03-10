@@ -560,6 +560,7 @@ Dacă reactivaţi datele, puteţi fi taxat de către operator.</string>
     <string name="dock_forced_resizable">Este posibil ca aplicația să nu funcționeze in modul ecran scindat.</string>
     <string name="dock_keyguard_locked_failed_to_dock_text">"Modul ecran scindat nu este suportat în Blocarea ecranului."</string>
     <string name="dock_non_resizeble_failed_to_dock_text">"Aplicația nu suportă modul ecran scindat"</string>
+    <string name="download_lock_wallpaper">Atingeți de două ori pentru a descărca Caruselul de imagini de fundal</string>
     <string name="drag_to_add_tiles">Atingeți și mențineți apăsat pentru a adăuga sau a reordona elementele</string>
     <string name="drag_to_remove_tiles">Trageți aici pentru a elimina</string>
     <string name="drive_mode_tip">Modul Automobil activat</string>

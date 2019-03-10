@@ -76,9 +76,9 @@ Dacă activați din nou datele mobile, operatorul vă poate taxa pentru trafic s
         <item quantity="other">"Accesul la rețea este restricționat pentru &lt;font color='#ff0000'>%d&lt;/font> aplicații"</item>
         <item quantity="one">"Accesul la rețea este restricționat pentru &lt;font color='#ff0000'>%d&lt;/font> aplicație"</item>
     </plurals>
-    <plurals name="om_ill_proc_multi_app_title">
-        <item quantity="other">"%d aplicații nu funcționează corect și descarcă acumulatorul"</item>
-        <item quantity="one">"%d aplicație nu funcționează corect și descarcă acumulatorul"</item>
+    <plurals name="om_locked_apps_title">
+        <item quantity="other">%d aplicații blocate</item>
+        <item quantity="one">%d aplicație blocată</item>
     </plurals>
     <plurals name="power_center_battery_day">
         <item quantity="other">"%d zile "</item>

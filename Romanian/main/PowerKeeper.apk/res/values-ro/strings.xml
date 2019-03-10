@@ -67,8 +67,8 @@ Economisirea acumulatorului va trata selectiv aplicațiile importante."</string>
     <string name="hide_mode_ultimate_desc">Modul Extrem este activat. Aplicațiile din fundal vor fi înghețate. Dezactivați economisirea acumulatorului pentru a părăsi modul Extrem.</string>
     <string name="hide_system_app">Ascunde aplicațiile de sistem</string>
     <string name="high">Performanţă</string>
-    <string name="high_temp_state">Temperatură ridicată</string>
-    <string name="high_temp_state_message">Protecție la temperatură ridicată; datele, hotspot-ul Wi-Fi, GPS-ul, camera, etc. vor fi restricționate</string>
+    <string name="high_temp_state">Supraîncălzire</string>
+    <string name="high_temp_state_message">Telefonul se supraîncălzește. Datele mobile, hotspot-ul Wi-Fi, GPS-ul și camera vor fi restricționate.</string>
     <string name="hints_loading_text">Doar o secundă…</string>
     <string name="important_warning">Atenție</string>
     <string name="invalid_size_value">"Nu s-a putut obține dimensiunea pachetului."</string>
