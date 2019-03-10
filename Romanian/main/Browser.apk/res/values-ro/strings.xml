@@ -68,6 +68,8 @@
     <string name="action_menu_text_share">Partajaţi</string>
     <string name="action_menu_text_snapshot">Salvați pagina</string>
     <string name="action_menu_text_video">Video</string>
+    <string name="action_menu_toast_incognito_off">Dezactivați modul Incognito</string>
+    <string name="action_menu_toast_incognito_on">Activați modul Incognito</string>
     <string name="action_menu_toolbox">Unelte</string>
     <string name="action_menu_useful_page">Adaugă la Utile</string>
     <string name="action_menu_useful_page_added">Adăugat în pagina de start</string>
@@ -115,6 +117,7 @@
     <string name="agree_permissions_request">Permiteți</string>
     <string name="alert_tips">Acest site poate prezenta un risc de securitate</string>
     <string name="allow">Permiteţi</string>
+    <string name="app_download_market_text">Utilizați Mi Market pentru a descărca, mai rapid și mai sigur</string>
     <string name="app_new_version">Cea mai recentă versiune a aplicației este instalată deja</string>
     <string name="app_update_install">Pregătit pentru instalarea versiunii actualizate</string>
     <string name="application_name">Browser</string>
@@ -229,6 +232,7 @@
     <string name="contextmenu_dial_dot">Apelaţi…</string>
     <string name="contextmenu_download_image">Salvaţi imaginea</string>
     <string name="contextmenu_download_image_as">Salvaţi imaginea</string>
+    <string name="contextmenu_incognito">Mod Incognito</string>
     <string name="contextmenu_manually_block_ad">Etichetați ca și reclamă</string>
     <string name="contextmenu_map">Hartă</string>
     <string name="contextmenu_openlink">Deschideţi</string>
@@ -288,8 +292,11 @@
     <string name="document_download_background_btn">Descărcare în fundal</string>
     <string name="document_download_cancel_btn">Renunțați</string>
     <string name="document_download_failed">"Descărcarea a eșuat"</string>
+    <string name="document_download_immediate">Descărcați imediat</string>
+    <string name="document_download_normal">Descărcați în mod normal</string>
     <string name="document_download_official">Descărcare versiune oficială</string>
     <string name="document_download_open_direct">Deschideți direct</string>
+    <string name="document_download_recommending">Descărcare sigură(Recomandat)</string>
     <string name="document_download_title">Descărcare</string>
     <string name="document_open_file">Deschideți %s</string>
     <string name="document_open_message">Pentru a îmbunătăți experiența de citire și a vă asigura securitatea, utilizați aplicația personalizată WPS</string>
@@ -302,10 +309,9 @@
     <string name="download_completed">Descărcat</string>
     <string name="download_default_path_txt">Memorează această alegere</string>
     <string name="download_dialog_default_path_invalid">"Locația de descărcare selectată nu este validă. Se salvează în locaţia prestabilită…"</string>
-    <string name="download_dialog_file_length_hint_txt">"Mărime fişier: "</string>
+    <string name="download_dialog_file_length_default_txt">Doar o secundă…</string>
     <string name="download_dialog_file_length_lessthan1kb">Mai puţin de 1 KB</string>
     <string name="download_dialog_file_length_nolength_error_txt">"Descărcare eşuată"</string>
-    <string name="download_dialog_file_length_nolength_txt">Doar o secundă…</string>
     <string name="download_failed">"Nu s-a putut descărca"</string>
     <string name="download_filter_all">Toate</string>
     <string name="download_filter_apk">.apk</string>
@@ -932,6 +938,7 @@ Rețineți că fișierele pe care le descărcați și marcajele vor fi totuși s
     <string name="not_now">Nu acum</string>
     <string name="not_remind_again">Memorează alegerea mea</string>
     <string name="notif_install_successful">Descărcare finalizată</string>
+    <string name="novel_toast_hint">Acest site a fost adăugat în raft</string>
     <string name="ok">OK</string>
     <string name="open_app_confirm_message">Permiteți acestei pagini să deschidă %s?</string>
     <string name="open_cloud_sync">Activați sincronizarea cu Mi Cloud</string>
@@ -1007,8 +1014,7 @@ Rețineți că fișierele pe care le descărcați și marcajele vor fi totuși s
     <string name="pref_file_downlaod_save_reset_default_settings">Restabiliţi locaţia implicită</string>
     <string name="pref_file_download_default_path_prefix">Locaţie prestabilită: %s</string>
     <string name="pref_file_download_save_modify_default_path">Locaţie de descărcare</string>
-    <string name="pref_fling_on_border">Glisare de la margini</string>
-    <string name="pref_fling_on_border_title_summary">Glisaţi de la marginea din stânga sau din dreapta</string>
+    <string name="pref_fling_gesture">Gesturi glisare</string>
     <string name="pref_font_size_category">Dimensiunea textului în paginile web</string>
     <string name="pref_force_userscalable">Forţaţi activarea zoomului</string>
     <string name="pref_force_userscalable_summary">"Supr. solic. pt. control zoom"</string>
@@ -1061,7 +1067,6 @@ Rețineți că fișierele pe care le descărcați și marcajele vor fi totuși s
     <string name="pref_security_show_security_warning">Afişaţi avertismentele de securitate</string>
     <string name="pref_security_show_security_warning_summary">"Afişaţi avertismentul dacă apare o problemă de securitate a site-ului"</string>
     <string name="pref_set_homepage_to">Setați ca</string>
-    <string name="pref_slide_back_forward">Glisați înainte sau înapoi</string>
     <string name="pref_tab_restore">Recuperați ultima pagină la pornire</string>
     <string name="pref_ua_string">Agent utilizator</string>
     <string name="pref_version_info">Informaţii despre versiune</string>
@@ -1269,6 +1274,7 @@ Aplicația Browser trebuie să se conecteze la internet pentru a funcționa în 
     <string name="suggestion_more_news">MAI MULTE ȘTIRI</string>
     <string name="suggestion_more_news_start_title_text">Știri înrudite</string>
     <string name="suggestion_sliding_ads_info_mark_text">RECLAME</string>
+    <string name="suggestion_sliding_item_more_text">MAI MULTE</string>
     <string name="suggestion_topic_subtitle_hyphen">Focus</string>
     <string name="suggestion_translation_more">VEDEȚI MAI MULTE</string>
     <string name="switchText">DA</string>

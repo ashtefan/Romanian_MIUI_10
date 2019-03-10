@@ -8,7 +8,7 @@
         <item>UTF-8</item>
         <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;market={language}</item>
     </string-array>
-    <string-array name="pref_fling_on_border_gesture_entries">
+    <string-array name="pref_fling_gesture_entries">
         <item>Derulare înainte-înapoi</item>
         <item>Comutare file</item>
         <item>Nimic</item>

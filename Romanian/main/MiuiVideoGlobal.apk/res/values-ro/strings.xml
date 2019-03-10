@@ -43,6 +43,7 @@
     <string name="do_not_show_this_again">"Nu arăta din nou"</string>
     <string name="lp_advance_sound">Îmbunătățire sunet</string>
     <string name="explore_on_mi_video">Descoperiți mai multe cu Mi Video</string>
+    <string name="failed_to_fetch_data">"Nu s-au putut încărca informațiile."</string>
     <string name="lp_brightness">Iluminare</string>
     <string name="lp_fullscreen">Ecran complet</string>
     <string name="lp_setting">Setări</string>
