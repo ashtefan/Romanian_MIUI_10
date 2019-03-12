@@ -1414,6 +1414,7 @@ Cartela SIM va fi blocată după o altă încercare greşită."</string>
     <string name="sim_service_setting">Mi SIM și Mi Roaming</string>
     <string name="simulate_color_space">Simulați spațiul de culoare</string>
     <string name="singleContactImportedMsg">Contact importat</string>
+    <string name="sip_account_disable">"Acest cont nu este activ. Nu se pot prelua apeluri."</string>
     <string name="sip_account_list">Conturi SIP</string>
     <string name="sip_accounts">Conturi pentru apelare prin internet (SIP)</string>
     <string name="sip_accounts_title">Conturi</string>
@@ -1431,6 +1432,7 @@ Cartela SIM va fi blocată după o altă încercare greşită."</string>
     <string name="sip_menu_discard">Renunţaţi</string>
     <string name="sip_menu_save">Salvaţi</string>
     <string name="sip_profile_create_error">"Nu s-a putut crea un nou profil SIP"</string>
+    <string name="sip_receive_call_disable">"Nu se pot prelua apeluri. Permiteți mai întâi acceptarea apelurilor."</string>
     <string name="sip_receive_calls">Primiţi apeluri de intrare</string>
     <string name="sip_receive_calls_summary">Reduce durata de funcţionare a bateriei</string>
     <string name="sip_save_register_error">"Nu s-a putut înregistra și salva un nou profil SIP"</string>

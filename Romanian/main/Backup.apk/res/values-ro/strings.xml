@@ -436,6 +436,7 @@ Vă rugăm eliberați cel puțin %s."</string>
     <string name="trans_disconnected_tips_message">Dispozitivul la distanță este deconectat. Vă rugăm sa îl reconectați manual sau întrerupeți transferul.</string>
     <string name="trans_disconnected_tips_title">Dispozitivul la distanță este deconectat</string>
     <string name="trans_generate_qr_code_failed">"Nu s-a putut crea codul QR"</string>
+    <string name="trans_generate_qrcode_failed">"Nu s-a putut crea codul QR. Închideți alte aplicații și reîncercați."</string>
     <string name="trans_install_guide_button_start">Start</string>
     <string name="trans_install_guide_page_title">Instalați Mi Mover pe vechiul telefon</string>
     <string name="trans_install_guide_scan_install_tip">"Scanați acest cod QR cu vechiul telefon

@@ -3,11 +3,13 @@
     <string name="action_add_to_workspace">Adăugați la Spațiul de lucru</string>
     <string name="activity_not_found">"Aplicaţia nu este instalată pe telefon"</string>
     <string name="add_screen">Adăugați un ecran</string>
+    <string name="announce_for_app_move_in_folder">A fost mutată în poziția %1$d din dosar</string>
     <string name="announce_for_checked">%1$s, verificat</string>
     <string name="announce_for_choose_default_screen">Setați ecranul %1$d ca și ecran Acasă implicit</string>
     <string name="announce_for_close_default_preview">S-au închis setările implicite ale ecranului Acasă</string>
     <string name="announce_for_close_folder">Dosar închis</string>
     <string name="announce_for_close_launcher_menu">Meniu închis</string>
+    <string name="announce_for_create_folder_with_app">S-a creat un dosar cu %1$s</string>
     <string name="announce_for_delete_gadget_and_widget">Widget</string>
     <string name="announce_for_delete_item">%1$s a fost șters</string>
     <string name="announce_for_drag_enter_delete_zone">S-au mutat elementele în zona de dezinstalare</string>
@@ -30,6 +32,7 @@
     <string name="announce_for_open_launcher_menu">S-a deschis meniul</string>
     <string name="announce_for_show_uninstall_dialog">A apărut căsuța de dialog pentru dezinstalare. Renunțați sau confirmați.</string>
     <string name="announce_for_unchecked">%1$s, neverificat</string>
+    <string name="announce_for_widget_span">Lățime %1$d, înălțime %2$d</string>
     <string name="app_already_exist">Aplicaţia există deja</string>
     <string name="app_being_backup_message">Aplicația este în curs de rezervare</string>
     <string name="app_being_restored_message">Aplicaţia este în curs de restabilire</string>
@@ -275,12 +278,14 @@
     <string name="recommend_apk_size_and_desc">%1$d MB | %2$s</string>
     <string name="recommend_apps_default_title">Gol</string>
     <string name="recommend_apps_no_data">Nu există date</string>
+    <string name="recommend_apps_no_data_toast">Nicio recomandare deocamdată.</string>
     <string name="recommend_apps_notice">Aplicaţii promovate</string>
     <string name="recommend_apps_notice_nodata">Aplicații promovate (Nu există date)</string>
     <string name="recommend_apps_switch_title">Aplicaţii promovate</string>
     <string name="recommend_apps_tips">"Această caracteristică trebuie să se conecteze la internet pentru a funcţiona în mod normal. Pentru a dezactiva opţiunea, atingeți numele acestui dosar."</string>
     <string name="recommend_loading">Încărcare</string>
-    <string name="refresh">Reîmprospătați</string>
+    <string name="recommend_refresh">Reîmprospătați</string>
+    <string name="recommend_xout">"Nu afișa"</string>
     <string name="reset_description_first_time">Puteți restaura dispunerea %1$s în 2 ore</string>
     <string name="reset_description_others">Puteți restaura dispunerea %1$s</string>
     <string name="reset_fail">"Nu s-a putut restaura"</string>

@@ -19,7 +19,7 @@
     <string name="catch_full_log_action_cancel">Renunțare</string>
     <string name="catch_full_log_action_complete">Finalizare și încărcare</string>
     <string name="catch_full_log_action_start">Generați jurnalul</string>
-    <string name="catch_full_log_add_original_photo">Adăugați o fotografie</string>
+    <string name="catch_full_log_add_original_photo">Adăugați o fotografie originală sau un scurt videoclip</string>
     <string name="catch_full_log_add_photo">Adăugați o fotografie</string>
     <string name="catch_full_log_add_photo_dialog_content">"Dacă problema raportată este legată de calitatea camerei foto, adăugați o fotografie originală (nedecupată) pentru a ne ajuta să localizăm problema. Adăugați o fotografie acum?"</string>
     <string name="catch_full_log_dialog_confirm_text">Mergeți la ecranul Acasă</string>
@@ -107,7 +107,7 @@
     <string name="feedback_report_remind_login_desc">Conectați-vă la contul Mi pentru ca inginerii noștri să vă poată contacta.</string>
     <string name="feedback_report_remind_login_desc2">"Puteți vedea, de asemenea, progresul raportului în \"Rapoartele mele\"."</string>
     <string name="feedback_retest_label">Pașii pentru reproducerea problemei</string>
-    <string name="feedback_select_images">Adăugați imagini</string>
+    <string name="feedback_select_images">Adăugați o imagine sau un scurt videoclip</string>
     <string name="feedback_select_modem_log">Adăugați rapoartele modem-ului</string>
     <string name="feedback_select_modem_log_not_select_desc">"Nu a fost selectat \"Adăugați jurnale modem\""</string>
     <string name="feedback_select_modem_log_select_desc">Selectat \"Adăugați jurnale modem\"</string>
@@ -327,12 +327,14 @@
     <string name="title_answer_feedback_main">Am găsit răspunsurile!</string>
     <string name="title_catch_full_log">Jurnale</string>
     <string name="title_customer_service">Serviciu clienți</string>
+    <string name="title_first_aid">Primul ajutor</string>
     <string name="title_frequent_question_feedback_main">Întrebări frecvente</string>
     <string name="title_mi_family">Dispozitive Mi din apropiere</string>
     <string name="title_nonsystem_app">Alte aplicaţii</string>
     <string name="title_same_question_feedback_main">Probleme similare pe forumul MIUI</string>
     <string name="title_system_app">Aplicaţii MIUI</string>
     <string name="toast_catch_full_log_catching">Puteți genera un singur jurnal odată.</string>
+    <string name="toast_catch_full_log_open_failed">"Nu s-a putut porni înregistrarea jurnalului."</string>
     <string name="toast_description_required">Descrierea este necesară</string>
     <string name="toast_feedback_collect_store">Colectare jurnale…</string>
     <string name="toast_feedback_network_unavailable">"Nu se poate conecta la rețea"</string>
@@ -343,7 +345,7 @@
     <string name="toast_fill_brackets">Din raportul dvs. lipsesc câteva informaţii</string>
     <string name="toast_loading_app_id">Obținere informații…</string>
     <string name="toast_log_not_exists">"Jurnalul solicitat a fost șters sau nu există"</string>
-    <string name="toast_log_too_large">"Nu se poate încărca. Fișierul este prea mare."</string>
+    <string name="toast_log_too_large">"Nu se poate încărca. Jurnalul este prea mare."</string>
     <string name="toast_module_required">Selectați elementul</string>
     <string name="toast_network_unavailable">"Nu s-a putut trimite raportul. Nu se poate conecta la rețea."</string>
     <string name="toast_pending_log_collection">Colectare jurnale…</string>
@@ -353,7 +355,7 @@
     <string name="toast_report_copied_to_clipboard">Raportul a fost copiat în clipboard</string>
     <string name="toast_report_sent_failed">"Imposibil de trimis raportul"</string>
     <string name="toast_report_sent_succeed">Raportul a fost trimis</string>
-    <string name="toast_screenshot_too_large">"Nu se pot încărca fișiere mai mari decât 10 MB."</string>
+    <string name="toast_screenshot_too_large">"Nu se pot încărca imagini sau videoclipuri mai mari de 10 MB."</string>
     <string name="toast_third_packagename_required">Introduceți numele aplicației</string>
     <string name="toast_title_required">Descrieți problema</string>
     <string name="topic_author">1#</string>

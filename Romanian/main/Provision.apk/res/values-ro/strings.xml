@@ -116,4 +116,5 @@ Trebuie să acceptați Politica de Confidențialitate Kika înainte de a utiliza
     <string name="voice_assist_desp">Rostiți \"Mi AI\" în telefon. Asistentul vocal Mi vă va recunoaște vocea și va putea controla telefonul.</string>
     <string name="voice_assist_title">Trezire prin voce</string>
     <string name="welcome">Bine aţi venit</string>
+    <string name="zone_picker_title">Selectați fusul orar</string>
 </resources>

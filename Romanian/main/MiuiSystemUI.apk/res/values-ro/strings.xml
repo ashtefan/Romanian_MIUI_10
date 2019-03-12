@@ -1555,7 +1555,7 @@ De asemenea, sunteți conectat la o rețea VPN, care vă poate monitoriza activi
     <string name="snooze_option_30_min">30 de minute</string>
     <string name="snooze_undo">ANULEAZĂ</string>
     <string name="snoozed_for_time">Redus la tăcere pentru %1$s</string>
-    <string name="sos_status_bar_summary">atingeți pentru a ieși</string>
+    <string name="sos_status_bar_summary">Atingeți pentru a ieși</string>
     <string name="sos_status_bar_title">SOS</string>
     <string name="speed_bump_explanation">Notificările mai puțin urgente mai jos</string>
     <string name="ssl_ca_cert_warning">"Rețeaua poate fi
@@ -1570,7 +1570,7 @@ monitorizată"</string>
     <string name="status_bar_clock_date_format">EEEE, d MMMM</string>
     <string name="status_bar_clock_date_format_12">EEEE, d MMMM</string>
     <string name="status_bar_clock_date_time_format">H:mm d MMMM</string>
-    <string name="status_bar_clock_date_time_format_12">h:mmaa d MMMM</string>
+    <string name="status_bar_clock_date_time_format_12">h:mm aa, E, d MMM</string>
     <string name="status_bar_date_format">"EEEE
 d MMMM"</string>
     <string name="status_bar_date_format_12">"EEEE
@@ -1765,7 +1765,7 @@ Telefonul se poate încălzi dacă:
     <string name="unimportant_desc">Toate notificările neimportante vor fi afișate într-un dosar separat.</string>
     <string name="unimportant_title">Neimportante</string>
     <string name="unknown">Necunoscut</string>
-    <string name="unlock_camera_steady">Vă rugăm să nu vă mișcați</string>
+    <string name="unlock_camera_steady">"Țineți telefonul nemișcat"</string>
     <string name="unlock_failed">Eroare internă</string>
     <string name="unlock_failed_face_not_found">Se detectează</string>
     <string name="unlock_label">Deblochează</string>

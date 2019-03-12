@@ -2852,6 +2852,7 @@ Sunt alți utilizatori pe acest dispozitiv.
     <string name="menu_stats_unplugged">%1$s de la deconectare</string>
     <string name="menu_use_uss">Utilizați Uss</string>
     <string name="mi_pay">Portofel Mi</string>
+    <string name="mi_pay_indonesia">Cont Mi Pay</string>
     <string name="mi_pay_summary">Emulator Card autobus/Plată Mi/Card</string>
     <string name="mi_service">Servici Mi</string>
     <string name="mi_service_app_detail">Detalii utilizare date</string>
@@ -4644,7 +4645,7 @@ Acest lucru este posibil datorită unui certificat de încredere instalat pe dis
     <string name="status_bar_settings_basic_settings">Setări de bază</string>
     <string name="status_bar_settings_custom_carrier">Editați numele operatorului</string>
     <string name="status_bar_settings_custom_wifi_name">Editaţi numele Wi-Fi</string>
-    <string name="status_bar_settings_customer_feedback">feedback</string>
+    <string name="status_bar_settings_customer_feedback">Feedback</string>
     <string name="status_bar_settings_enable_notification">Afişare notificări</string>
     <string name="status_bar_settings_expand_top_notification">Extindeți notificarea din partea superioară</string>
     <string name="status_bar_settings_expandable_under_keyguard">Arată în blocarea securizată a ecranului</string>

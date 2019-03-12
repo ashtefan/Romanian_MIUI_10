@@ -83,6 +83,7 @@
     <string name="change_password">Schimbați parola</string>
     <string name="change_phone_number">Schimbaţi numărul de telefon</string>
     <string name="cloud_service">Mi Cloud</string>
+    <string name="collect_diagnosis_log">Generați un raport de diagnoză</string>
     <string name="completed">Finalizat!</string>
     <string name="confirm_activate_email">Verificată</string>
     <string name="confirm_bundled_phone_dialog_title">Confirmați numărul de telefon asociat</string>
@@ -110,7 +111,10 @@
     <string name="device_list__header">Dispozitivele mele</string>
     <string name="device_list_title">Lista de dispozitive</string>
     <string name="device_name">Numele dispozitivului</string>
-    <string name="device_trust_info">Dispozitiv de încredere</string>
+    <string name="diagnosis_log_send_failed">"Nu s-a putut trimite jurnalul."</string>
+    <string name="diagnosis_log_sent_format">"Jurnal trimis cu succes.
+ID:%s
+Trimmiteți acest cod supervizorului."</string>
     <string name="empty_device_list_notice">Niciun dispozitiv</string>
     <string name="error_dup_binded_email">Această adresă de e-mail este deja asociată cu un alt cont Mi.</string>
     <string name="error_invalid_bind_address">Adresa de e-mail introdusă este incorectă.</string>
@@ -137,7 +141,7 @@
     <string name="find_device_request_error">A apărut o eroare de server; așteptați un minut sau două și reîncercați</string>
     <string name="find_device_request_prepare_error">"Nu s-a putut obține starea; încercați din nou mai târziu"</string>
     <string name="find_device_unknown_error">"Nu s-a putut obține starea dispozitivului; așteptați un minut sau două și reîncercați"</string>
-    <string name="first_login_time">Prima tentativă de conectare: %s</string>
+    <string name="for_diagnosis_usage_only">Utilizat doar pentru probleme legate de localizare.</string>
     <string name="get_back_pwd">Resetare parolă</string>
     <string name="get_device_list_failed">"Nu se poate obține lista dispozitivelor"</string>
     <string name="get_phone_bind_exceed_limit">"Puteți asocia cel mult 3 conturi Mi cu un număr de telefon. Nu se pot adăuga conturi noi</string>
@@ -185,6 +189,7 @@
     <string name="oauth_getting_scopes">Verificare cont…</string>
     <string name="oauth_scopes_intro">&lt;font color=#%1$s&gt;%2$s&lt;/font&gt; va obține următoarele permisiuni:&lt;br&gt; &lt;br&gt; %3$s</string>
     <string name="oauth_title">Conectați-vă utilizând contul Mi</string>
+    <string name="ok">OK</string>
     <string name="other_devices_title">Alte dispozitive</string>
     <string name="passport_Resend">Trimiteți din nou</string>
     <string name="passport_access_denied">Acces refuzat</string>
@@ -444,7 +449,9 @@ link-ul din e-mailul pe care vi l-am trimis."</string>
     <string name="search_user_detail_path">Setări/Contul Mi/Informații personale</string>
     <string name="search_user_detail_top_key_words">Informații personale,Modificare fotografie de profil,Modificare nume utilizator,Modificare pseudonim,Modificare dată de naștere,Modificare sex</string>
     <string name="select_location_title">Selectați locația dumneavoastră</string>
+    <string name="send_diagnosis_log">Trimiteți jurnalul de diagnoză</string>
     <string name="send_email_activate_message">E-mailul de verificare a fost trimis</string>
+    <string name="sending">Se trimite…</string>
     <string name="service_error">Eroare serviciu</string>
     <string name="set_success">Modificat cu succes</string>
     <string name="sign_in">Autentificare</string>
@@ -454,8 +461,7 @@ link-ul din e-mailul pe care vi l-am trimis."</string>
     <string name="sms_send_success">Trimis</string>
     <string name="sns_access_token_expired_warning">Conectarea contului a expirat. Logați-vă din nou pentru a reconecta acest cont.</string>
     <string name="talkback_scan_barcode">Scanați codul QR</string>
-    <string name="trusted_browsers">Browsere de încredere</string>
-    <string name="trusted_browsers_prompt">Acest browser nu va mai fi considerat de încredere dacă veți șterge cookie-urile.</string>
+    <string name="temporary_not_available">"Această funcție nu este disponibilă momentan."</string>
     <string name="turn_off_find_device_failed_title">"Nu se poate dezactiva Localizarea dispozitivului"</string>
     <string name="turning_off_find_device">Se dezactivează Localizarea dispozitivului…</string>
     <string name="unbind_sns_description">"După ce vă veți deconecta de la acest cont, nu veți putea utiliza %s pentru a vă accesa contul dvs. Mi."</string>
