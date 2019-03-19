@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="action_settings">Setări</string>
+    <string name="activity_title_fakecell">Protecție împotriva stațiilor de bază false</string>
+    <string name="app_name">Furnizor pași</string>
+    <string name="detect_fakecell">Recunoaștere SMS-uri de la stații de bază false</string>
+    <string name="forbidden_fakecell">"Nu conecta la stațiile de bază false"</string>
+    <string name="forbidden_fakecell_summary">Previne conectarea telefonului dvs. la stații de bază false</string>
+    <string name="foreground_text">Utilizați serviciul în fundal pentru a promova nivelul activ</string>
+    <string name="foreground_title">Serviciu în Fundal</string>
+    <string name="hello_world">Salutare lume!</string>
+    <string name="joyose_name">Joyose</string>
+    <string name="lab_switch_server">Server comutare</string>
+    <string name="not_support_forbidden_fakecell">"Dispozitivul dvs. nu suportă protecție la nivel de procesor împotriva stațiilor de bază false."</string>
+    <string name="permstep_description">"Permite aplicației să citească informațiile despre pași din telefon"</string>
+    <string name="permstep_label">Citire Pași</string>
+    <string name="restart_details">Activarea sau dezactivarea acestei caracteristici implică repornirea telefonului. Reporniți acum?</string>
+    <string name="restart_later">Mai târziu</string>
+    <string name="restart_now">Reporniți acum</string>
+    <string name="support_forbidden_fakecell">Notă: Restricționarea conexiunii la stațiile de bază false poate scădea semnalul în zonele cu acoperire scăzută.</string>
+    <string name="switch_international">Comută la servere externe</string>
+    <string name="switch_to_official">Comută la serverul oficial</string>
+    <string name="switch_to_staging">Comută la serverul staging</string>
+</resources>

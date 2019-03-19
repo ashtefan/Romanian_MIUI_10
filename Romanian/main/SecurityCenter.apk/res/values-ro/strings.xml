@@ -489,6 +489,7 @@ Nu veți pierde datele aplicațiilor."</string>
     <string name="card_main_applock_summary">Protejați aplicațiile selectate printr-o parolă.</string>
     <string name="card_main_applock_title">Blocare aplicații</string>
     <string name="card_main_deepclean_action">Goliți</string>
+    <string name="card_main_deepclean_facebook_title">Curățare Facebook</string>
     <string name="card_main_deepclean_qq_title">Curățare QQ</string>
     <string name="card_main_deepclean_summary">Ștergeți fișierele inutile</string>
     <string name="card_main_deepclean_title">Curățare profundă</string>

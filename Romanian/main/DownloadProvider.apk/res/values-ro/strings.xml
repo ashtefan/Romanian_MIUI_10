@@ -38,7 +38,7 @@
     <string name="download_running">În desfășurare</string>
     <string name="download_unknown_title">Fără titlu</string>
     <string name="enter_garbage_clean">Curăţare stocare internă.</string>
-    <string name="insufficient_space">Nu este suficient spațiu în memoria internă a dispozitivului</string>
+    <string name="insufficient_space">"Nu este suficient spațiu în memoria internă a dispozitivului"</string>
     <string name="mobile_recommended_title">Utilizare date mobile</string>
     <string name="notif_text_engine_off">Accelerator Xunlei dezactivat.</string>
     <string name="notif_text_engine_on">Accelerare…</string>
@@ -46,7 +46,7 @@
     <string name="notif_title_multiple_downloading">Se descarcă %1$d fişiere</string>
     <string name="notif_title_single_downloading">Se descarcă %1$s</string>
     <string name="notification_download_complete">Descărcare finalizată</string>
-    <string name="notification_download_failed">Descărcare nereuşită</string>
+    <string name="notification_download_failed">Descărcare nereuşită.</string>
     <string name="notification_download_success_more">Au fost descărcate %1$d fişiere</string>
     <string name="notification_need_wifi_for_size">Dimensiunea fişierului necesită conectarea la Wi-Fi.</string>
     <string name="notification_paused_in_background">Întreruptă în fundal</string>
@@ -66,10 +66,10 @@
     <string name="permlab_accessAllDownloads">Accesarea tuturor descărcărilor din sistem</string>
     <string name="permlab_downloadCacheNonPurgeable">Rezervare spaţiu în memoria cache de descărcare</string>
     <string name="permlab_downloadCompletedIntent">Trimitere notificări de descărcare</string>
-    <string name="permlab_downloadManager">Accesare manager de descărcare</string>
-    <string name="permlab_downloadManagerAdvanced">Funcţii avansate ale managerului de descărcare</string>
-    <string name="permlab_downloadWithoutNotification">descarcă fişiere fără notificare</string>
-    <string name="permlab_seeAllExternal">Vizualizare desc. pe stocarea USB</string>
+    <string name="permlab_downloadManager">Accesare manager de descărcare.</string>
+    <string name="permlab_downloadManagerAdvanced">Funcţii avansate ale managerului de descărcare.</string>
+    <string name="permlab_downloadWithoutNotification">Descarcă fişiere fără notificare</string>
+    <string name="permlab_seeAllExternal">Vizualizare descărcări pe cardul SD</string>
     <string name="privacy_notif_content">Atingeţi pentru a vizualiza detaliile.</string>
     <string name="privacy_notif_title">Accelerator Xunlei activat</string>
     <string name="privacy_tip_cancel">Anulaţi</string>
@@ -89,8 +89,8 @@
     <string name="wifi_recommended_title">Adăugați pentru descărcarea ulterioară?</string>
     <string name="wifi_required_body" formatted="false">"Conectați-vă la Wi-Fi pentru a finaliza descărcarea %s.
     
- Atingeţi %s  pentru a începe această descărcare data viitoare când vă conectaţi la o reţea Wi-Fi."</string>
-    <string name="wifi_required_title">Acest fișier este prea mare pentru rețeaua operatorului</string>
+Atingeţi %s pentru a începe această descărcare data viitoare când vă conectaţi la o reţea Wi-Fi."</string>
+    <string name="wifi_required_title">Acest fișier este prea mare pentru a fi descărcat prin date mobile</string>
     <string name="xl_speedup_experience_notify_context">"Dacă sunteți membru Xunlei veți beneficia de viteză ridicată de descărcare"</string>
     <string name="xl_speedup_experience_notify_title">Membru Xunlei</string>
     <string name="xl_speedup_notify_button_experience">Încercați în mod gratuit</string>

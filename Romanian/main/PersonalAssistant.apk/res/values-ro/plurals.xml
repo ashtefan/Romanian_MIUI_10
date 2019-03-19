@@ -4,6 +4,10 @@
         <item quantity="other">În %d zile</item>
         <item quantity="one">În %d zi</item>
     </plurals>
+    <plurals name="book_start_interval">
+        <item quantity="other">Pleacă în %d zile</item>
+        <item quantity="one">Pleacă în %d zi</item>
+    </plurals>
     <plurals name="days_ago">
         <item quantity="other">cu %1$d z în urmă</item>
     </plurals>
@@ -32,6 +36,10 @@
     </plurals>
     <plurals name="mins_ago">
         <item quantity="other">cu %1$d min în urmă</item>
+    </plurals>
+    <plurals name="miot_device_camera_size">
+        <item quantity="other">%d camere inteligente</item>
+        <item quantity="one">%d cameră inteligentă</item>
     </plurals>
     <plurals name="payment_record_dialog_delete_message">
         <item quantity="other">Ștergeți %s elemente din plată?</item>

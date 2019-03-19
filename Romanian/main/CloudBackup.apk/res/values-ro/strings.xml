@@ -110,15 +110,17 @@ Notă: Datele aplicațiilor instalate nu vor fi salvate în Mi Cloud!"</string>
     <string name="download_meta_failed">"Nu s-au putut încărca datele."</string>
     <string name="download_settings">Se descarcă setările pentru ecranul de pornire %s%%</string>
     <string name="download_settings_fail">Nu s-au putut descărca setările ecranului de pornire</string>
-    <string name="error_retry_later">Eșuat; vă rugăm încercați mai târziu.</string>
+    <string name="error_num_placeholder">--</string>
+    <string name="error_retry_later">"Nu s-a putut finaliza acțiunea. Așteptați un minut sau două și încercați din nou…"</string>
     <string name="error_unknown">Ceva a mers prost</string>
     <string name="get_device_id_error">"Nu s-a putut obține ID-ul dispozitivului"</string>
-    <string name="home_hint_global_launcher">Ecran principal Poco</string>
-    <string name="home_hint_other_launcher">Alt Ecran principal</string>
+    <string name="home_hint_global_launcher">Lansator POCO</string>
+    <string name="home_hint_other_launcher">Alt lansator</string>
     <string name="home_restore_error">"Nu s-a putut restaura Ecranul principal"</string>
     <string name="lack_of_storage">Nu există suficient spațiu de stocare</string>
     <string name="latest_backup_time_loading">Se încarcă…</string>
-    <string name="load_backup_failed">Încărcarea copiilor de rezervă a eșuat</string>
+    <string name="load_backup_failed">"Încărcarea copiilor de rezervă a eșuat"</string>
+    <string name="loading_progress_num">(%s%%)</string>
     <string name="loading_user_backup">Se încarcă copiile de rezervă ale utilizatorului…</string>
     <string name="main_space">Spațiul principal</string>
     <string name="managespace_delete_backup">Ștergeți</string>
@@ -138,6 +140,8 @@ Notă: Datele aplicațiilor instalate nu vor fi salvate în Mi Cloud!"</string>
     <string name="open_wifi">>Porniți Wi-Fi acum</string>
     <string name="open_wifi_description">Conectaţi-vă la o rețea Wi-Fi pentru a restabili aplicațiile</string>
     <string name="open_wifi_setting">Setări Wi-Fi</string>
+    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
+    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
     <string name="process_whole_recovery">Restabilire \"%s\"</string>
     <string name="provision_error_connect_msg">"Testați rețeaua și încercați din nou. Copiile de rezervă nu sunt disponibile când telefonul este offline."</string>
     <string name="provision_error_connect_title">"Nu se poate conecta"</string>
@@ -176,6 +180,6 @@ Notă: Datele aplicațiilor instalate nu vor fi salvate în Mi Cloud!"</string>
     <string name="total_space">Spațiu total: %s</string>
     <string name="try_again">Atingeți pentru a încerca din nou</string>
     <string name="try_continue">Atingeți pentru a continua</string>
-    <string name="unsupported_home">Vă rugăm să actualizați la cel mai recent SO.</string>
+    <string name="unsupported_home">Actualizați MIUI la cea mai recentă versiune.</string>
     <string name="wait_icon_download">Se descarcă pictogramele aplicațiilor</string>
 </resources>

@@ -6,6 +6,7 @@
     <string name="act_find_city_hint">Introduceţi locaţia</string>
     <string name="act_find_city_hot_attractions_title">Locații populare</string>
     <string name="act_find_city_hot_city_title">Orașe populare</string>
+    <string name="act_location_error_to_find_city">"Nu s-au putut găsi informațiile despre localizare. Puteți adăuga manual un oraș."</string>
     <string name="act_set_city_find_side">Localizare</string>
     <string name="act_set_city_find_side_error">"Localizare eşuată"</string>
     <string name="act_weather_find_city_added">Oraş adăugat</string>
@@ -16,12 +17,13 @@
     <string name="activity_alert_detail_title"/>
     <string name="activity_find_city_dialog_cancel">Anulaţi</string>
     <string name="activity_find_city_dialog_message">Permiteţi aplicației Meteo să vă acceseze locația pentru a obține informații acurate despre locație.</string>
-    <string name="activity_find_city_dialog_message_global">Permiteți aplicației Meteo să vă acceseze locația și comutați la modul acuratețe ridicată de localizare pentru a primi informații relevante referitoare la locație.</string>
+    <string name="activity_find_city_dialog_message_global">Activați serviciile de localizare și permiteți dispozitivului să determine locația utilizând rețelele Wi-Fi.</string>
     <string name="activity_find_city_dialog_set">Setări</string>
     <string name="activity_find_city_dialog_title">Acces la locaţie</string>
     <string name="activity_main_alert"/>
     <string name="activity_main_clickable">&gt;</string>
     <string name="activity_main_one_alert"/>
+    <string name="activity_main_pub_time">Publicat la %1$s</string>
     <string name="activity_main_time_format">E</string>
     <string name="activity_main_update_time">Actualizat %1$s</string>
     <string name="activity_main_update_time_expire">Date expirate</string>
@@ -121,6 +123,9 @@
 Glisați în jos pentru a actualiza sau verificați setările de rețea"</string>
      <string name="data_provided_by">Date furnizate parțial de către</string>
     <string name="edit_city">Gestionați locațiile</string>
+    <string name="empty_view_net_loading">Se actualizează…</string>
+    <string name="empty_view_net_unavailable">"Nu s-a putut conecta la rețea"</string>
+    <string name="empty_view_refresh">Încercați din nou</string>
     <string name="eu_region_version_first_start_network_msg">"Utilizând acest produs, sunteți de acord ca acesta să se conecteze la rețea, să colecteze, să proceseze și să utilizeze informațiile personale, inclusiv coordonatele orașelor pe care le căutați și alte tipuri de date specificate în Politica noastră de Confidențialitate. Consultați Politica de Confidențialitate pentru a afla cum colectăm și procesăm informațiile. Apăsând \"Sunt de acord\", acceptați %1$s și %2$s Xiaomi."</string>
     <string name="feedback_cloudy">Înnorat</string>
     <string name="feedback_foggy">Cețos</string>
@@ -141,12 +146,14 @@ Glisați în jos pentru a actualiza sau verificați setările de rețea"</string
     <string name="hourly_forecast_date">d/M</string>
     <string name="hourly_forecast_title_24_hours_desc">Prognoza pe 24 de ore</string>
     <string name="hourly_forecast_title_hourly_desc">Prognoza orară</string>
+    <string name="index_item_downloading">Se descarcă</string>
     <string name="index_item_experience_now">Instalați acum</string>
     <string name="index_item_install_dialog"/>
     <string name="index_item_install_dialog_cancel"/>
     <string name="index_item_install_dialog_open"/>
     <string name="index_item_install_now">Instalați acum</string>
     <string name="index_item_installing">Se instalează</string>
+    <string name="index_item_installing2">Se instalează</string>
     <string name="indices_desc_humidity">Umiditate %1$s%%</string>
     <string name="indices_desc_pressure">%1$s mb</string>
     <string name="indices_title_feel">Temperatură resimțită</string>
@@ -154,13 +161,14 @@ Glisați în jos pentru a actualiza sau verificați setările de rețea"</string
     <string name="information_settings_title">Informații meteo</string>
     <string name="install">Instalați</string>
     <string name="international_details_pressure_title">PRESIUNE</string>
-    <string name="international_details_real_feel_title">TEMPERATURA RESIMȚITĂ®</string>
+    <string name="international_details_real_feel_title">@string/indices_title_feel</string>
     <string name="international_details_title">Detalii</string>
     <string name="international_details_uv_index_title">INDICE UV</string>
     <string name="international_details_wind_title">VÂNT</string>
     <string name="it_is_going_to_rain">"Va ploua"</string>
     <string name="locate_fail_detail_err">"Nu se poate obține locația.
 Apăsați pe ecran pentru a adăuga manual sau pentru a repoziționa orașul"</string>
+    <string name="location_provider_btn_text">Activați serviciile de localizare</string>
     <string name="location_tag">Localizare GPS</string>
     <string name="menu_location">Locaţii</string>
     <string name="menu_speaker">Suport vocal</string>
@@ -185,7 +193,7 @@ Apăsați pe ecran pentru a adăuga manual sau pentru a repoziționa orașul"</s
     <string name="no_data">Nu există date</string>
     <string name="no_network_btn">Reîncercați</string>
     <string name="no_vote_ratio">Contra %1$s%%</string>
-    <string name="open">Deschideți</string>
+    <string name="open">Deschideți acum</string>
     <string name="open_browser">Deschideți în browser</string>
     <string name="open_now">Deschideți</string>
     <string name="other_settings">Alte setări</string>
@@ -210,6 +218,7 @@ Apăsați pe ecran pentru a adăuga manual sau pentru a repoziționa orașul"</s
     <string name="pull_fresh_updated">Actualizată cu succes</string>
     <string name="pull_fresh_updating">Actualizare…</string>
     <string name="radar_cloud_image_title">Hartă radar</string>
+    <string name="radar_cloud_update_time">Înainte %1$s</string>
     <string name="rainfall_settings_summary">Alerte de precipitații</string>
     <string name="rainfall_settings_title">Precipitații</string>
     <string name="real_time_sunrise">Răsărit %1$s</string>
@@ -224,9 +233,9 @@ Apăsați pe ecran pentru a adăuga manual sau pentru a repoziționa orașul"</s
     <string name="retry">Încercați din nou</string>
     <string name="search_weather">Meteo</string>
     <string name="search_weather_keywords">Temperatură;Prognoză meteo;Meteo;Calitatea aerului;Grad de poluare;Umiditate</string>
-    <string name="set">Setări</string>
     <string name="set_degree_centigrade">°C</string>
     <string name="set_fahrenheit">°F</string>
+    <string name="settings">Setări</string>
     <string name="share">Partajați</string>
     <string name="share_button">Distribuiţi prin</string>
     <string name="share_menu_title">Distribuiți</string>
@@ -251,6 +260,7 @@ Apăsați pe ecran pentru a adăuga manual sau pentru a repoziționa orașul"</s
     <string name="traffic_control_today_numbers">Astăzi: %1$s</string>
     <string name="traffic_control_tomorrow_numbers">Mâine: %1$s</string>
     <string name="traffic_controls">Restricții de trafic</string>
+    <string name="translate_notification_info">Se traduce în fundal…</string>
     <string name="tts_report_aqi"/>
     <string name="tts_report_defautl_head"/>
     <string name="tts_report_split"/>
@@ -266,6 +276,7 @@ Apăsați pe ecran pentru a adăuga manual sau pentru a repoziționa orașul"</s
     <string name="unit_wind">Unitatea de măsură pentru viteza vântului</string>
     <string name="update_night_setting_summary_text">Actualizează datele meteo între 23:00 și 07:00</string>
     <string name="update_night_setting_title_text">Actualizare automată peste noapte</string>
+    <string name="update_notification_info">Se actualizează datele în fundal…</string>
     <string name="update_setting_title_text">Actualizează Informațiile meteo</string>
     <string name="updated_a_moment_ago">Actualizată chiar acum</string>
     <string name="updating">Actualizare…</string>
@@ -277,6 +288,9 @@ Apăsați pe ecran pentru a adăuga manual sau pentru a repoziționa orașul"</s
     <string name="view_forecast_item_yesterday">Ieri</string>
     <string name="view_indexes_item_today">Astăzi</string>
     <string name="view_indexes_item_tommorrow">Mâine</string>
+    <string name="weather_alert_channel_name">Alerte</string>
+    <string name="weather_introduce">Întotdeauna alături, pe ploaie sau soare.</string>
+    <string name="weather_service_channel_name">Servicii în fundal</string>
     <string name="wind_direction_no_data">Viteza vântului</string>
     <string name="wind_power_unit_default">0</string>
     <string name="wind_unit">%1$s km/h</string>

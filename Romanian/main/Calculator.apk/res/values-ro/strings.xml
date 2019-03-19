@@ -12,6 +12,7 @@
     <string name="activating">Activare…</string>
     <string name="address">Adresă</string>
     <string name="afternoon">PM</string>
+    <string name="allow">De acord</string>
     <string name="am">AM</string>
     <string name="angle">deg</string>
     <string name="app_name">Calculator</string>
@@ -27,6 +28,7 @@
     <string name="cal_result_format">= %s</string>
     <string name="cal_text_copied">Text copiat</string>
     <string name="cancel">Renunțați</string>
+    <string name="children_education">"Educația copilului"</string>
     <string name="check_phone_error_title">Sincronizarea este oprită</string>
     <string name="check_phone_io_error">"Nu s-a putut conecta la rețea"</string>
     <string name="choose_currency">Selectați moneda</string>
@@ -69,8 +71,12 @@
     <string name="deleteDesc">ștergeți</string>
     <string name="description_content">Înafară de caracteristicile de bază, aplicația Calculator funcționează ca și convertor multifuncțional, calculator de taxe și dobânzi. Asigurați-vă că vă puteți descurca fără aceste caracteristici înainte de a dezinstala aplicația.</string>
     <string name="description_title">Despre aplicația Calculator</string>
-    <string name="deselect_all">Deselectați</string>
-    <string name="devided_by_zero_reminder_message">"Nu se poate împărți la zero"</string>
+    <string name="dialog_privacy_content">Înafara funcțiilor de bază de calculator, aplicația noastră conține de asemenea un calculator științific și un convertor pentru diverse unități. Unele caracteristici necesită conectarea la internet pentru a funcționa în mod normal. Trebuie să citiți și să acceptați %1$s și %2$s înainte de a utiliza aplicația Calculator.</string>
+    <string name="dialog_privacy_title">Termenii și Condițiile</string>
+    <string name="dialog_rating_desc_ask">Ce părere aveți despre aplicația Calculator?</string>
+    <string name="dialog_rating_desc_less">Ne puteți da și un feedback?</string>
+    <string name="dialog_rating_desc_perfect">Super! Acordați o notă aplicației și în Magazinul de aplicații?</string>
+    <string name="dialog_rating_title">Acordați o notă aplicației noastre</string>
     <string name="digit0">0</string>
     <string name="digit1">1</string>
     <string name="digit2">2</string>
@@ -95,11 +101,10 @@
     <string name="equalDesc">egal</string>
     <string name="error">Eroare</string>
     <string name="error_fomrat">Format eronat</string>
-    <string name="error_forbidden">Sincronizarea a fost oprită datorită problemelor legate de contul dvs. Mi.</string>
-    <string name="error_not_acceptable">Sincronizarea a fost oprită.</string>
-    <string name="error_title">"Nu s-a putut sincroniza"</string>
-    <string name="error_unauthorized">Sincronizarea a fost oprită datorită multiplelor încercări de autentificare.</string>
-    <string name="evening">PM</string>
+    <string name="exit">Ieșiți</string>
+    <string name="extra_deduction_instruction">Detalii deducere</string>
+    <string name="extra_deduction_tips">Atingeți butonul din colțul de sus pentru a vedea detaliile deducerii.</string>
+    <string name="extra_deduction_title">Deducții suplimentare</string>
     <string name="factorial">!</string>
     <string name="factorialDesc">factorial</string>
     <string name="fmt_chinese_date">N月e</string>
@@ -163,6 +168,7 @@
     <string name="from_unit_short">km/h</string>
     <string name="fund"/>
     <string name="fund_loan">Împrumut de la Fond</string>
+    <string name="further_education">Educație viitoare</string>
     <string name="global_network_confirm_content">Convertorul valutar trebuie să se conecteze la internet pentru a funcționa normal.</string>
     <string name="global_search_key_area_convertion">Arie;Convertor arie;Conversie arie</string>
     <string name="global_search_key_calculation">Calculare;Calculator;Convertor unități de măsură;Convertor;Conversie unități de măsură</string>
@@ -179,8 +185,10 @@
     <string name="global_search_key_word_figure">Simboluri financiare</string>
     <string name="golbal_search_calculator_setting">Calculator;Setări calculator;Setări</string>
     <string name="golbal_search_path_calculator_setting">Aplicații de sistem/Calculator/Setări</string>
+    <string name="help_content_desc">Ajutor</string>
+    <string name="home_loan">Credit ipotecar</string>
     <string name="home_title_calculator">Calculator</string>
-    <string name="hybrid_provider">Furnizat de către %1$s</string>
+    <string name="house_rent">Chirie</string>
     <string name="im">IM</string>
     <string name="immersion_button_close_description">închideți</string>
     <string name="income_type"/>
@@ -209,8 +217,15 @@
     <string name="leftParenDesc">paranteză stânga</string>
     <string name="lg">log</string>
     <string name="lgDesc">logaritm</string>
+    <string name="license_host_unreachable">"Nu s-a putut conecta la rețea. Verificați setările de rețea și încercați din nou."</string>
     <string name="ln">ln</string>
     <string name="lnDesc">logaritm natural</string>
+    <string name="loading">Doar o secundă…</string>
+    <string name="loading_fail_message_no_network">"Nu s-a putut conecta la rețea. Atingeți aici pentru a încerca din nou."</string>
+    <string name="loading_fail_refresh">Reîncărcați</string>
+    <string name="loading_message">Se încarcă aplicația…</string>
+    <string name="loading_slogan">Utilizați aplicații fără să le instalați</string>
+    <string name="loading_tips">Setări descărcate cu succes. Lansați din nou aplicația Calculator pentru a le aplica.</string>
     <string name="loan_edittext_hint_commercial">Introduceți valoarea</string>
     <string name="loan_edittext_hint_commercial_combined">Comercial(x10K)</string>
     <string name="loan_edittext_hint_fund">Introduceți valoarea</string>
@@ -225,6 +240,7 @@
     <string name="loan_repayment_detail_loading">Se încarcă rambursarea detaliată…</string>
     <string name="loan_repayment_detail_unit">Rambursare detaliată (CNY)</string>
     <string name="loan_unit">×10K</string>
+    <string name="medical_treatment">Tratament medical</string>
     <string name="menuDesc">meniu</string>
     <string name="midnight">AM</string>
     <string name="minus">−</string>
@@ -305,6 +321,7 @@
     <string name="mortgage_tab_combining_loan">Hibrid</string>
     <string name="mortgage_tab_commercial_loan">Comercială</string>
     <string name="mortgage_years_amount">Perioada de creditare</string>
+    <string name="mt_max">Suma introdusă este prea mare</string>
     <string name="mul">×</string>
     <string name="mulDesc">înmulţire</string>
     <string name="name">Nume</string>
@@ -315,9 +332,9 @@
     <string name="night">PM</string>
     <string name="no_network">"Nu s-a putut conecta la rețea"</string>
     <string name="no_sim">Nicio cartelă SIM detectată.</string>
-    <string name="noon">PM</string>
+    <string name="none">Nimic</string>
     <string name="not_supported_due_to_language">Această caracteristică este valabilă doar pentru limba Chineză</string>
-    <string name="note">Notă</string>
+    <string name="ok">OK</string>
     <string name="organization">Organizație</string>
     <string name="percent"/>
     <string name="percentDesc">procent</string>
@@ -352,8 +369,10 @@
     <string name="preference_follow_wechat_title">WeChat</string>
     <string name="preference_follow_weibo_summary">\@MIUI</string>
     <string name="preference_follow_weibo_title">Sina Weibo</string>
+    <string name="preference_help">Ajutor și feedback</string>
     <string name="preference_other">Altele</string>
     <string name="preference_privacy_title">Politica de Confidențialitate</string>
+    <string name="preference_rating_title">Evaluați aplicația noastră</string>
     <string name="preference_settings">Setări</string>
     <string name="preference_use_degress_summary">Înlocuiți radianii cu unghiuri în funcțiile trigonometrice</string>
     <string name="preference_use_degress_title">Utilizați unghiuri</string>
@@ -428,7 +447,7 @@
     <string name="start_calculate"/>
     <string name="sunday">Duminică</string>
     <string name="sunday_short">Dum</string>
-    <string name="sunday_shortest">D</string>
+    <string name="support_elder">Suport pentru persoanele în vârstă</string>
     <string name="switchDesc">Comutați</string>
     <string name="tab_title_calculator">Calculator</string>
     <string name="tab_title_convert">Convertor valutar</string>
@@ -471,6 +490,7 @@
     <string name="tax_location">Locație</string>
     <string name="tax_medical">Medicală</string>
     <string name="tax_param_error">Introduceți corect primele de asigurare</string>
+    <string name="tax_rate_provider">Calculată în funcție de noile reglementări de taxare. Datele sunt furnizate de către hexun.com și East Money.</string>
     <string name="tax_result_real_get">După impozitare</string>
     <string name="tax_social_insurance">Asigurare socială</string>
     <string name="tax_thershold_foreign">%s (Monede naționale străine)</string>
@@ -484,6 +504,7 @@
     <string name="tax_unemployment">Șomaj</string>
     <string name="tax_update_time_format">Date furnizate de HeXun (%s)</string>
     <string name="title_bar">Convertor lungimi</string>
+    <string name="unKnow_error">Eroare necunoscută</string>
     <string name="unit_data_default_area_0">sq.m</string>
     <string name="unit_data_default_area_1">sq.cm</string>
     <string name="unit_data_default_currency_0">CNY</string>
@@ -781,6 +802,7 @@
     <string name="unit_year">A</string>
     <string name="unit_year_format">An %s</string>
     <string name="unit_yuan">CNY</string>
+    <string name="updating">Se actualizează calculatorul…</string>
     <string name="user_agreement">Termenii Serviciului</string>
     <string name="user_manual">Ghidul utilizatorului</string>
     <string name="voiceDesc">Controale vocale</string>
@@ -813,8 +835,8 @@
   <string name="word_figure_unit_shi">ridica</string>
   <string name="word_figure_yuan">yuan</string>
   <string name="word_figure_zheng">întreg</string>
-    <string name="xiaomi_connect_download_manager_fail">Conectarea la Managerul de Descărcare a eșuat; vă rugăm să verificați starea Managerului de Descărcări în Managerul de Aplicații.</string>
-    <string name="xiaomi_external_storage_unavailable">Mediul de stocare nu este disponibil; verificați cardul SD.</string>
+    <string name="xiaomi_connect_download_manager_fail">"Conectarea la Managerul de Descărcare a eșuat. Vă rugăm să verificați dacă această aplicație are toate permisiunile acordate în Setări &gt; Aplicații instalate.</string>
+    <string name="xiaomi_external_storage_unavailable">"Mediul de stocare nu este disponibil; verificați cardul SD."</string>
     <string name="xiaomi_mobile">Mi Mobile</string>
     <string name="xiaomi_update_dialog_message">"Vă prezentăm versiunea %1$s
 Mărime: %2$s"</string>

@@ -127,6 +127,7 @@
     <string name="backup_immediate">Creați o copie de rezervă</string>
     <string name="backup_song_title">Selectați melodiile pentru care doriți să realizați o copie de rezervă</string>
     <string name="baidu_music">Muzică Baidu</string>
+    <string name="banner_op">Muzică Mi</string>
     <string name="being_disable_auto_payment">Dezactivare…</string>
     <string name="being_enable_auto_payment">Activare…</string>
     <string name="bill_list_fragment_title">Chart-uri</string>
@@ -260,6 +261,7 @@
     <string name="dialog_not_show_again">"Nu arăta din nou"</string>
     <string name="dialog_queued_body">Acest fișier este în coada de așteptare pentru descărcarea ulterioară.</string>
     <string name="dialog_renew_failure">Ne pare rău; acțiunea a eșuat</string>
+    <string name="dialog_renew_free_end">Perioada de încercare a expirat. Vă înregistrați la Hungama PRO?​</string>
     <string name="dialog_renew_positive_text">DA, DORESC SĂ FIU PRO</string>
     <string name="dialog_renew_success">Mulțumim pentru confirmare</string>
     <string name="dialog_song_sort_type">Sortați melodiile</string>
@@ -448,8 +450,7 @@
     <string name="favorite_succeed">Adăugat la Favorite</string>
     <string name="favorite_tracks">Favorite</string>
     <string name="favorites">Favorite</string>
-    <string name="favourite_music_left_half">Pentru a adăuga melodii în lista de redare, atingeți</string>
-    <string name="favourite_music_right_half">"Pictograma Favorită din dreapta titlului melodiei"</string>
+    <string name="fcm_fallback_notification_channel_label">Diverse</string>
     <string name="feed_back">Feedback</string>
     <string name="file_not_found">"Fişierul nu există"</string>
     <string name="filter_by_duration">După durată</string>
@@ -482,6 +483,7 @@
     <string name="fragment_title_personal">Personal</string>
     <string name="fragment_title_recommend">Recomandate</string>
     <string name="garbage_cleanup">Curățare</string>
+    <string name="gcm_fallback_notification_channel_label">Diverse</string>
     <string name="global_search_app_name">Muzică</string>
     <string name="global_search_description_entry">Savurați muzică</string>
     <string name="global_search_description_hot">Actualizări săptămânale</string>
@@ -705,13 +707,11 @@
     <string name="notif_text_engine_off">Acceleratorul Xunlei este dezactivat.</string>
     <string name="notif_text_engine_on">Accelerare…</string>
     <string name="notif_title_file_size">%1$d în total</string>
-    <string name="notif_title_multiple_downloading">Se descarcă %1$d fișiere</string>
     <string name="notif_title_single_downloading">Se descarcă %1$s</string>
     <string name="notification_des_next_song">Melodia următoare: %s</string>
     <string name="notification_des_no_song">Muzică Mi. Ceva nou în fiecare zi.</string>
     <string name="notification_download_complete">Descărcare finalizată</string>
     <string name="notification_download_failed">"Nu s-a putut descărca"</string>
-    <string name="notification_download_failed_more">"Nu s-au putut descărca %1$d elemente"</string>
     <string name="notification_download_success_more">%1$d descărcate</string>
     <string name="notification_need_wifi_for_size">Dimensiunea descărcării necesită Wi-Fi.</string>
     <string name="notification_play_summary">Vizualizați melodia curentă și pe cea ce urmează, afișați versurile pe ecranul principal</string>
@@ -726,10 +726,13 @@
     <string name="nowplaying_dialog_title_delete_tracks">Goliți lista de redare curentă?</string>
     <string name="nowplaying_menu_item_delete">Goliți</string>
     <string name="ok">OK</string>
-    <string name="one_month">O lună</string>
-    <string name="online_bill">Topuri</string>
-    <string name="online_favor">Recomandate</string>
-    <string name="online_fm">FM</string>
+    <string name="online_apk_download_error_no_enough_space">"Nu s-a putut descărca datorită spațiului de stocare insuficient."</string>
+    <string name="online_apk_downloading">Se descarcă…%d%%</string>
+    <string name="online_apk_install_alert_confirm">Descărcați</string>
+    <string name="online_apk_install_alert_message">Trebuie să descărcați suplimentul Yandex.Music. Îl descărcați acum?</string>
+    <string name="online_apk_install_alert_note">Acest serviciu este furnizat de către Yandex.Music</string>
+    <string name="online_apk_install_error_no_enough_space">"Nu s-a putut instala datorită spațiului de stocare insuficient."</string>
+    <string name="online_apk_install_error_with_reason">"Nu s-a putut instala (Eroare %d)"</string>
     <string name="online_list_delete_message">Toate melodiile descărcate din această listă de redare vor fi șterse de pe dispozitiv.</string>
     <string name="online_music_enabled_summary">Ascultaţi și descărcaţi melodiile preferate. Vizualizaţi melodiile de top și listele de redare organizate oriunde aţi merge!</string>
     <string name="online_music_enabled_title">Streaming-ul gratuit este aici</string>
@@ -830,6 +833,7 @@
     <string name="radar_retry">Reîncercați</string>
     <string name="radar_searching_state">Căutare…</string>
     <string name="radar_support_by">Oferit de ACRCloud</string>
+    <string name="ready_to_play">Urmează</string>
     <string name="really_pay">Achitaţi acum?</string>
     <string name="recently_played">Redată recent</string>
     <string name="recently_played_songs">Recente</string>
@@ -1097,4 +1101,14 @@ Be Happy"</string>
 
 Atingeți %s pentru a porni descărcarea când veți fi conectat la Wi-Fi."</string>
     <string name="wifi_required_title">Ar trebui să fiți conectat la o rețea Wi-Fi pentru a descărca acest fișier</string>
+    <string name="xiaomi_update_sdk_bytes_unit">%1$s B</string>
+    <string name="xiaomi_update_sdk_connect_download_manager_fail">Nu s-a putut conecta Managerul de descărcare; vă rugăm să verificați starea Managerului de descărcare din meniul de Gestionare a aplicațiilor.</string>
+    <string name="xiaomi_update_sdk_dialog_message">"Vă prezentăm versiunea %1$s
+Dimensiune: %2$s"</string>
+    <string name="xiaomi_update_sdk_dialog_message_diff">"Vă prezentăm versiunea %1$s
+Dimensiunea actualizării delta: %2$s"</string>
+    <string name="xiaomi_update_sdk_dialog_title">%1$s actualizare!</string>
+    <string name="xiaomi_update_sdk_external_storage_unavailable">Spațiu de stocare insuficient; vă rugăm să verificați cardul SD.</string>
+    <string name="xiaomi_update_sdk_kilobytes_unit">%1$s KB</string>
+    <string name="xiaomi_update_sdk_megabytes_unit">%1$s MB</string>
 </resources>

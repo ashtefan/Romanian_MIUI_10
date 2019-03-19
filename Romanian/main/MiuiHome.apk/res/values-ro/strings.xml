@@ -102,6 +102,7 @@
     <string name="delete_wallpaper_message">Ştergeţi %1$d imagine de fundal?</string>
     <string name="deselect_all">Deselectaţi tot</string>
     <string name="disable_wallpaper_scroll">Dezactivare derulare fundal</string>
+    <string name="double_tap_to_lock_title">Atingeți de două ori pentru a bloca ecranul</string>
     <string name="download_action">Descărcare</string>
     <string name="drag_multiple_item_name"/>
     <string name="drag_single_item_name"/>
@@ -152,6 +153,7 @@
     <string name="gadget_clock_24_label">Ceas 4x2</string>
     <string name="gadget_clock_34_label">Ceas 4x3</string>
     <string name="gadget_clock_label">Ceas</string>
+    <string name="gadget_dual_clock_label">Ceas Dual</string>
     <string name="gadget_error_text">"Nu s-a putut încărca obiectul widget"</string>
     <string name="gadget_google_search_label">Căutare Google</string>
     <string name="gadget_load_error">Încărcare…</string>
@@ -304,6 +306,7 @@
     <string name="sharedUserId" />
     <string name="show_all">Afişaţi tot</string>
     <string name="show_mem_info_title">Afișați starea memoriei</string>
+    <string name="show_recents_recommend_title">Afișează sugestii</string>
     <string name="sort_by_abc">Sortare după nume</string>
     <string name="sort_by_frequency">Sortare după utilizare</string>
     <string name="sort_by_not_defined">Sortare automată</string>

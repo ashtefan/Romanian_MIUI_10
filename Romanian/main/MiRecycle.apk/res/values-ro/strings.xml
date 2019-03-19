@@ -50,7 +50,7 @@ a Mi Protect"</string>
     <string name="buy_claim_ps">Pentru mai multe detalii, vă rugăm să citiți </string>
     <string name="buy_claim_terms">Termenii și Condițiile*</string>
     <string name="buy_confirm">SUNT DE ACORD ȘI CUMPĂR PROTECȚIA</string>
-    <string name="buy_insurance_desc">Doar pentru dispozitivele noi</string>
+    <string name="buy_insurance_desc">Furnizat de către OneAssist</string>
     <string name="buy_privacy_agree">Continuați</string>
     <string name="buy_privacy_title">Act de renunțare</string>
     <string name="buy_recycle_desc">Susținut de către Cashify</string>
@@ -139,7 +139,7 @@ Dispozitivul Deteriorat de la ușa dumneavoastră"</string>
     <string name="instant_bank_transfer">Transfer bancar instantaneu</string>
     <string name="insurance_button">Asigurare</string>
     <string name="insurance_description">Asigurarea vă oferă protecție suplimentară pentru reparare</string>
-    <string name="insurance_entrance">Mi Protect - protecția telefonului</string>
+    <string name="insurance_entrance">Protejați-vă telefonul nou</string>
     <string name="item_name_battery">Acumulator</string>
     <string name="item_name_bluetooth">Bluetooth</string>
     <string name="item_name_frontcamera">Camera frontală</string>
@@ -176,11 +176,12 @@ Dispozitivul Deteriorat de la ușa dumneavoastră"</string>
     <string name="password_toggle_content_description">Schimbați vizibilitatea parolei</string>
     <string name="postal_code">Codul Poștal</string>
     <string name="powered_by_cashify">Furnizat de către</string>
-    <string name="push_ht_content">Accesați Securitate, derulați în jos și faceți testul hardware</string>
-    <string name="push_ht_title">Vedeți o nouă caracteristică în Securitate</string>
+    <string name="push_ht_content">Aflați starea componentelor hardware ale telefonului dvs.</string>
+    <string name="push_ht_title">Test hardware</string>
     <string name="push_oa_content">Protejați-vă dispozitivul folosind garanția extinsă</string>
     <string name="push_oa_title">Mi Protect</string>
-    <string name="quote_upto_price">Minunat! Telefonul dumneavoastră se află încă în stare bună și valorează mult. Puteți obține până la %s Rs</string>
+    <string name="quote_upto_price">"Minunat! Telefonul dumneavoastră se află încă în stare bună și valorează mult. Puteți obține până la %s Rs
+Luați în considerare faptul că prețul dispozitivelor sunt variabile. Vindeți telefonul acum pentru a nu pierde o ofertă foarte bună."</string>
     <string name="recycle_button">Reciclați</string>
     <string name="recycle_description">Obțineți cel mai bun preț reciclând vechiul telefon</string>
     <string name="recycle_entrance">Reciclare Cashify</string>

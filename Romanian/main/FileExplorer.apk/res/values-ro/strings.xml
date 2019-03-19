@@ -6,6 +6,7 @@
     <string name="activity_parse_video_title">Lipiți link-ul videoclipului</string>
     <string name="ad_download">Descărcare</string>
     <string name="ad_downloading">Încărcare…</string>
+    <string name="add_one">+1</string>
     <string name="add_private">Adăugaţi fișiere în dosare secrete</string>
     <string name="add_private_files">Adăugaţi fișiere</string>
     <string name="album_creator">Creat de %s</string>
@@ -141,6 +142,7 @@
     <string name="decrypt_error">"Nu s-a putut decripta"</string>
     <string name="decrypt_to">Decriptați și salvați în…</string>
     <string name="decrypting">Decriptare…</string>
+    <string name="default_prize_text">Asta intră direct în comoara mea!</string>
     <string name="default_user_desc">"Această persoană nu a adăugat nicio descriere încă"</string>
     <string name="delete_dialog_button">Ştergere</string>
     <string name="delete_error">"Nu s-au putut șterge fișierele; reîncercați, vă rog"</string>
@@ -199,6 +201,8 @@
     <string name="extended_storage_file_can_not_open">"Nu s-a putut deschide fișierul. Copiați fișierul în memoria internă."</string>
     <string name="extract">Extragere</string>
     <string name="fail_to_create_folder_unknown">Imposibil de creat dosarul</string>
+    <string name="failed_not_access_sd_card">Permiteți mai întâi accesarea cardului SD</string>
+    <string name="failed_obtain_permissions">"Nu s-au putut obține permisiunile"</string>
     <string name="favorite_photo">Fotografii</string>
     <string name="favorite_ringtone">Tonuri de apel</string>
     <string name="favorite_screen_cap">Capturi de ecran</string>
@@ -308,6 +312,7 @@
     <string name="menu_item_sort_name">Nume</string>
     <string name="menu_item_sort_type">Tip</string>
     <string name="menu_item_usb">USB</string>
+    <string name="menu_set_wallpaper">Setați ca imagine de fundal</string>
     <string name="message_comment_prefix">"Comentariu: "</string>
     <string name="message_my_received_notification">Mesaj nou</string>
     <string name="message_my_received_praise">Like-uri primite</string>
@@ -363,6 +368,7 @@
     <string name="no_wifi">Nu a fost detectată nicio reţea</string>
     <string name="no_wifi_hint">Nicio conexiune</string>
     <string name="not_installed_documentsui">"Nu ați instalat DocumentsUI"</string>
+    <string name="not_support_documentui">"DocumentUI nu este suportat pe acest dispozitiv"</string>
     <string name="notif_server_starting">Pornire server FTP…</string>
     <string name="notif_title">Serverul FTP rulează</string>
     <string name="notification_dialog_confirm">OK</string>
@@ -501,6 +507,8 @@
     <string name="report_politics">Incorect politic</string>
     <string name="report_porn">Pornografie</string>
     <string name="report_violence">Violență</string>
+    <string name="request_document_permission">Pentru a gestiona fișierele de pe cardul SD, acordați permisiunile solicitate pentru Managerul de fișiere.</string>
+    <string name="request_document_permission_title">Sunt necesare unele permisiuni</string>
     <string name="request_timeout">Solicitarea rețelei a expirat</string>
     <string name="reset_password">Schimbați parola</string>
     <string name="restoring">Restaurare…</string>
@@ -647,7 +655,6 @@
     <string name="topic_title">Subiecte</string>
     <string name="transfer_done">Fișierele au fost mutate.</string>
     <string name="transfer_private_data">Se transferă dosarele ascunse de pe cardul SD…</string>
-    <string name="transition_image">imagine de tranziție</string>
     <string name="type_not_support">"Acest format de fișier nu este suportat. Dezarhivați fișierul și reîncercați."</string>
     <string name="ui_main_toast_favorite_added">Adăugat la favorite</string>
     <string name="ui_main_toast_favorite_removed">Eliminat din favorite</string>

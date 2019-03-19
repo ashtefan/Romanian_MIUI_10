@@ -87,6 +87,7 @@
     <string name="dialog_delay_update_tonight">Actualizează la noapte</string>
     <string name="dialog_stop_desc">Puteți pune pe pauză sau puteți opri descărcarea; alegeți ce doriți să faceți.</string>
     <string name="dialog_stop_title">Opriți descărcarea?</string>
+    <string name="dialog_twrp">Stocarea internă este criptată. După ce dispozitivul va reporni în modul de Recuperare, vă rugăm să introduceți parola dispozitivului pentru a continua.</string>
     <string name="download_again">Încercaţi</string>
     <string name="download_cancel">Anulaţi</string>
     <string name="download_current_rom">Vizualizaţi actualizările disponibile</string>
@@ -257,6 +258,7 @@ http://zhushou.xiaomi.com"</string>
     <string name="set_network_title">Conectați-vă la Wi-Fi</string>
     <string name="set_only_wifi">Utilizaţi doar Wi-Fi</string>
     <string name="share">Distribuiţi</string>
+    <string name="share_desc">Versiunea MIUI a fost actualizată la %1$s, verificați ce este nou la: %2$s</string>
     <string name="share_qq">Postaţi pe Tencent Weibo</string>
     <string name="share_sina">Postaţi pe Sina Weibo</string>
   <string name="share_title">Partajați cu</string>

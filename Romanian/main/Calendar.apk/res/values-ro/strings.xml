@@ -35,19 +35,13 @@
     <string name="accessibility_all_day">Eveniment cotidian</string>
     <string name="accessibility_pick_start_date">Dată început</string>
     <string name="accessibility_pick_time_zone">Fus orar</string>
-    <string name="accessibility_reminder_time">Oră memento</string>
     <string name="accessibility_remove_attendee">Eliminaţi participantul</string>
     <string name="accessibility_repeats">Repetare</string>
     <string name="accessibility_sync_cal">Sincronizaţi calendarul</string>
     <string name="account_and_calendar">Cont şi calendar</string>
-    <string name="accounts">Conturi şi sincronizare</string>
-    <string name="acct_not_synced">"Acest cont nu a fost sincronizat. Calendarul dvs. poate să nu fie actualizat."</string>
-    <string name="acessibility_selected_marker_description">Eveniment selectat</string>
     <string name="action_bar_date_button_title">Calculați data</string>
-    <string name="action_bar_more_menu_view_description">Mai  mult</string>
     <string name="action_bar_return">Înapoi</string>
     <string name="action_text_card_manager">Canal</string>
-    <string name="action_text_today">Astăzi</string>
   <string name="ad_card_connecting">conexiune</string>
   <string name="ad_card_download_count">utilizatorii descarcă %1$s</string>
   <string name="ad_card_download_count_million">%1$s milioane de descărcări</string>
@@ -61,10 +55,8 @@
     <string name="add_countdown">Adăugați numărătoare inversă</string>
     <string name="add_event">Adăugați un eveniment</string>
     <string name="agenda_month_empty_hint">Niciun eveniment pentru azi</string>
-    <string name="agenda_today">AZI, %1$s</string>
     <string name="agenda_tomorrow">MÂINE, %1$s</string>
     <string name="agenda_view">Evenimente</string>
-    <string name="agenda_yesterday">IERI, %1$s</string>
     <string name="alarm_label">OK</string>
     <string name="alert_reminder_divider">|</string>
     <string name="alert_reminder_expired">Expirat</string>
@@ -93,12 +85,6 @@
     <string name="birthday_term">Ziua de naştere</string>
   <string name="book_card_free">Gratuit</string>
   <string name="book_card_rating_text">|   %1$s recenzii</string>
-    <string name="button_day">Z</string>
-    <string name="button_month">L</string>
-    <string name="button_week">S</string>
-    <string name="calculate_result">Rezultat</string>
-  <string name="calendar_network_error">Eroare de rețea</string>
-    <string name="calendar_refresh">Actualizaţi</string>
     <string name="can_not_create_long_event">Numele evenimentului este prea lung</string>
     <string name="can_not_modify_allday_event">"Nu se poate modifica evenimentul de o zi"</string>
     <string name="can_not_modify_event">"Nu se poate schimba evenimentul"</string>
@@ -109,7 +95,6 @@
     <string name="card_detail_dialog_title">Vă abonați acum?</string>
     <string name="card_detail_hint">Conținutul va fi afișat în pagina principală și se va actualiza zilnic după ce vă veți abona</string>
     <string name="card_detail_title">Detalii</string>
-    <string name="card_manager">Gestionați abonările</string>
     <string name="card_manager_no_data">Nicio abonare încă</string>
     <string name="card_title_change">Mai multe</string>
     <string name="change_response_title">Modificaţi răspunsul</string>
@@ -162,10 +147,8 @@
     <string name="date_today">" (astăzi)"</string>
     <string name="day_view_new_event_hint">+ Eveniment nou</string>
     <string name="default_reminder_mode">Memento-uri</string>
-    <string name="delete_calendar">Dezabonare</string>
     <string name="delete_recurring_event_title">Ştergeţi %s?</string>
     <string name="delete_this_event_title">Ştergeţi acest eveniment?</string>
-    <string name="deleting_calendar">Dezabonare…</string>
     <string name="description_calendar">Aplicații de sistem/Calendar</string>
     <string name="description_calendar_edit_event">Aplicații de sistem/Calendar/Agendă</string>
     <string name="description_calendar_huangli"/>
@@ -175,8 +158,6 @@
     <string name="does_not_repeat">Eveniment unic</string>
     <string name="done">Înapoi</string>
     <string name="download">Descărcați</string>
-  <string name="download_finished">Descărcare finalizată</string>
-  <string name="downloaded">Descărcat</string>
   <string name="downloading">Descărcați</string>
     <string name="edit_date_calculate_days_backward_error_hint">"Nu se poate calcula înainte"</string>
     <string name="edit_date_calculate_days_empty_hint">Introduceți numărul de zile</string>
@@ -187,8 +168,6 @@
     <string name="edit_event_birthday_import_from_contact">Importați ziua de naștere din Agendă</string>
     <string name="edit_event_birthday_name_empty_hint">Introduceți un nume</string>
     <string name="edit_event_birthday_name_hint">Nume</string>
-    <string name="edit_event_birthday_reminder_3_days_before">Reamintește-mi și cu 3 zile înainte</string>
-    <string name="edit_event_birthday_reminder_time">Dată memento</string>
     <string name="edit_event_calendar_label">Calendar</string>
     <string name="edit_event_choose_date">Selectați data</string>
     <string name="edit_event_confirm_message">Renunțați la modificări?</string>
@@ -243,7 +222,6 @@
     <string name="event_view">Vizualizaţi evenimentul</string>
     <string name="every_weekday">În fiecare zi lucrătoare (Luni – Vineri)</string>
     <string name="festival_detail_title">Festival</string>
-    <string name="force_touch_title_add_new_event">Adăugați un eveniment</string>
   <string name="fortune_birthday">zi de naștere</string>
   <string name="fortune_card_caiwei">poziţia financiară：</string>
   <string name="fortune_card_set_bazi">Stabilirea de naștere</string>
@@ -339,7 +317,6 @@
   <string name="match_not_started">nu a început</string>
     <string name="match_select_activity_label">Ligi</string>
     <string name="menu_general_preferences">Setări generale</string>
-    <string name="menu_preferences">Setări</string>
     <string name="menu_reminder_preferences">Setări pentru memento</string>
     <string name="missing_name">(Niciun nume)</string>
     <string name="missing_required_permission">Ați restricționat permisiunile necesare.</string>
@@ -383,8 +360,6 @@
     <string name="more_string">+%1$s</string>
     <string name="network_not_available">"Nu se poate conecta la rețea"</string>
     <string name="new_event_description">Nou</string>
-    <string name="new_event_dialog_label">Eveniment nou</string>
-    <string name="new_event_dialog_option">Eveniment nou</string>
     <string name="no_contact_birthday_hint">Nicio zi de naștere de importat</string>
     <string name="no_events_hint">Niciun eveniment</string>
     <string name="no_network">"Nu s-a putut conecta la rețea.
@@ -394,7 +369,6 @@ Verificați setările de rețea și încercați din nou."</string>
     <string name="no_visiable_calendar_message">Trebuie să adăugați un cont pentru calendar. Apăsați Adăugare cont pentru a continua.</string>
     <string name="no_visiable_calendar_select_account">Adăugare cont</string>
     <string name="no_visiable_calendar_title">Adăugați un cont</string>
-    <string name="not_synced">nesincronizat</string>
   <string name="olympic_rank">Clasament</string>
   <string name="olympic_total">Total</string>
   <string name="olympic_vs">VS</string>
@@ -423,7 +397,6 @@ Verificați setările de rețea și încercați din nou."</string>
     <string name="path_calendar_settings">Aplicații de sistem/Calendar/Setări</string>
   <string name="pengzu">Ciupire</string>
     <string name="prefDialogTitle_vibrateWhen">Vibrare</string>
-    <string name="pref_error_no_ringtone_select">Sunet implicit</string>
     <string name="pref_reminder_time">Oră memento</string>
     <string name="pref_title_alarm_remind">Alarmă</string>
     <string name="pref_title_no_remind">Niciun memento</string>
@@ -482,14 +455,12 @@ Verificați setările de rețea și încercați din nou."</string>
     <string name="rest_day_indication">: )</string>
     <string name="saving_event">Eveniment salvat</string>
     <string name="saving_event_with_guest">Trimitere actualizări…</string>
-    <string name="search">Căutaţi</string>
     <string name="search_calendar">"Dată;Faze lunare;Lunar;Almanac;Fortune;Agendă;Întâlnire;Memento;Zile libere;Vacanță;Zi de naștere;2016;2017;Spring Festival;Anul Nou;Ziua internațională a muncii;Mid-Autumn Festival"</string>
     <string name="search_calendar_edit_event">Întâlnire;Memento;Agendă</string>
     <string name="search_calendar_huangli"/>
     <string name="search_calendar_settings">Calendar;Agendă;Memento</string>
     <string name="search_calendar_subscribe_group"/>
     <string name="select_date">Selectaţi data</string>
-    <string name="select_synced_calendars_title">Calendare de sincronizat</string>
     <string name="set_as_wallpaper">Setați ca imagine de fundal</string>
     <string name="setting_about_calendar_version">Versiunea Calendarului: </string>
     <string name="setting_about_imei">IMEI: </string>
@@ -521,11 +492,8 @@ Verificați setările de rețea și încercați din nou."</string>
     <string name="subscribe_card_success">Abonare cu succes! Verificați detaliile în pagina principală</string>
     <string name="subscribe_card_success_for_homepage">Abonare la "%1$s" cu succes</string>
     <string name="subscribe_channel_bottom_hint">—— Calendar Mi ——</string>
-    <string name="subscribe_channel_click_hint">Este necesară abonarea</string>
-    <string name="subscribe_channel_footer_button">Gestionați abonările</string>
     <string name="subscribe_channel_footer_desc">Verificați abonările sau dezabonați-vă</string>
     <string name="subscribe_channel_footer_title">Abonat</string>
-    <string name="subscribe_channel_footer_view">Verificați</string>
     <string name="subscribe_channel_hint">"Abonați-vă la serviciile care vă plac și primiți actualizări zilnice în pagina principală，
 Puteți adăuga, de asemenea, memento-uri pentru a nu rata nimic important."</string>
     <string name="subscribe_channel_subscribe">Abonați-vă</string>
@@ -533,16 +501,14 @@ Puteți adăuga, de asemenea, memento-uri pentru a nu rata nimic important."</st
     <string name="subscribe_channel_title">Canal</string>
     <string name="subscribing_card">Abonare</string>
   <string name="swipe_up_guide_hint_text">Glisați pentru a afla mai multe</string>
-    <string name="synced">sincronizat</string>
     <string name="tab_title_agenda">Evenimente</string>
     <string name="tab_title_day">Zi</string>
     <string name="tab_title_month">Lună</string>
     <string name="tab_title_week">Săptămână</string>
   <string name="taishen">Copil al lui Dumnezeu</string>
-    <string name="talk_back_read_date">Data curentă: %1$s (%2$s conform calendarului lunar).</string>
+    <string name="talk_back_read_date">%1$s (%2$s conform calendarului lunar).</string>
     <string name="talk_back_setting">Setări</string>
     <string name="template_announce_item_index">Evenimentul %1$s din %2$s.</string>
-    <string name="template_week_num">Săpt. %1$s</string>
   <string name="text_year">An</string>
   <string name="ticket_card_date"> luna %1$s ziua %2$s</string>
   <string name="ticket_card_description">Astăzi poate fi rezervat</string>

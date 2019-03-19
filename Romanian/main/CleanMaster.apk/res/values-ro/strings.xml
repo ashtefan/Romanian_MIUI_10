@@ -353,6 +353,8 @@
     <string name="notification_title_of_garbage_cleanup">Dimensiune coş de reciclare: %s</string>
     <string name="notify_when">Atenționează-mă când dimensiunea coșului de gunoi atinge 100 MB</string>
     <string name="ok">OK</string>
+    <string name="one_tap_clean_GB">%s GB</string>
+    <string name="one_tap_clean_M">%d MB</string>
     <string name="onekeyclean_boost_available">%s disponibil</string>
     <string name="onekeyclean_boost_cleaned">Golit %s</string>
     <string name="onekeyclean_boosted_title">Golit cu succes</string>

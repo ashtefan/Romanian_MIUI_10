@@ -1245,9 +1245,12 @@ Telefonul dvs. se va bloca automat după o altă încercare greşită!"</string>
     <string name="preferred_network_mode_gsm_wcdma_summary">Mod de reţea preferat: GSM/WCDMA</string>
     <string name="preferred_network_mode_lte_cdma_evdo_summary">Mod de rețea preferat: CDMA+LTE/EVDO</string>
     <string name="preferred_network_mode_lte_cdma_summary">Mod de rețea preferat: LTE / CDMA</string>
+    <string name="preferred_network_mode_lte_choice">LTE</string>
     <string name="preferred_network_mode_lte_gsm_umts_summary">Mod de rețea preferat: LTE / GSM / UMTS</string>
     <string name="preferred_network_mode_lte_gsm_wcdma_summary">Mod de rețea preferat: GSM/WCDMA/LTE</string>
+    <string name="preferred_network_mode_lte_only">Doar LTE</string>
     <string name="preferred_network_mode_lte_summary">Mod de rețea preferat: LTE</string>
+    <string name="preferred_network_mode_lte_wcdma_choice">LTE / WCDMA</string>
     <string name="preferred_network_mode_lte_wcdma_summary">Mod de rețea preferat: LTE/WCDMA</string>
     <string name="preferred_network_mode_summary">Schimbaţi modul de operare a reţelei</string>
     <string name="preferred_network_mode_tdscdma_summary">Mod de rețea preferat: TDSCDMA</string>

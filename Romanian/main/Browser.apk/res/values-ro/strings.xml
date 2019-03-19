@@ -118,6 +118,7 @@
     <string name="alert_tips">Acest site poate prezenta un risc de securitate</string>
     <string name="allow">Permiteţi</string>
     <string name="app_download_market_text">Utilizați Mi Market pentru a descărca, mai rapid și mai sigur</string>
+    <string name="app_name">InfoStream</string>
     <string name="app_new_version">Cea mai recentă versiune a aplicației este instalată deja</string>
     <string name="app_update_install">Pregătit pentru instalarea versiunii actualizate</string>
     <string name="application_name">Browser</string>
@@ -147,6 +148,7 @@
     <string name="bookmark_btn_select_none">Deselectați tot</string>
     <string name="bookmark_cannot_save_url">"Această adresă URL nu poate fi marcată"</string>
     <string name="bookmark_deleted">Marcaj șters</string>
+    <string name="bookmark_error_page_title">A apărut o eroare</string>
     <string name="bookmark_folder_needs_title">Introduceţi numele grupului</string>
     <string name="bookmark_group_lable">Grup</string>
     <string name="bookmark_move_to">Mutați în</string>
@@ -185,6 +187,7 @@
     <string name="cast_video">Proiectați videoclipul</string>
     <string name="check_security_tip_privacy_policy">Politica de confidențialitate</string>
     <string name="check_security_tip_user_agreement">Acordul utilizatorului</string>
+    <string name="checking_now">Se verifică...</string>
     <string name="choosertitle_sharevia">Distribuiţi prin</string>
     <string name="clear_history">Ştergeţi istoricul</string>
     <string name="clear_most_visited">Istoric recent</string>
@@ -214,6 +217,7 @@
     <string name="comment_max_length">Comentariul dvs. este prea lung.</string>
     <string name="comment_menu">Comentariu</string>
     <string name="comment_num_description">Numărul comentariului</string>
+    <string name="comment_publish_to_topic">Comentariile se sincronizează cu</string>
     <string name="common_use_phrase_bottom_bar_cn_txt">.cn</string>
     <string name="common_use_phrase_bottom_bar_com_txt">.com</string>
     <string name="common_use_phrase_bottom_bar_https_txt">https://</string>
@@ -255,6 +259,7 @@
     <string name="current_version_pc">Desktop</string>
     <string name="current_version_phone">Telefon</string>
     <string name="custom_head_card_text">Crede întotdeauna că ceva minunat urmează să se întâmple</string>
+    <string name="custom_head_content_pull_down_text">glisați în jos</string>
     <string name="custom_head_pull_down_text">Accesați fluxul de informații</string>
     <string name="data_monitor">Memento monitorizare trafic</string>
     <string name="data_monitor_dialog_message">Se pare că ceva vă crește traficul de date mobile. Deschideți pagina de pornire pentru a opri acest lucru.</string>
@@ -285,7 +290,9 @@
     <string name="dialog_insufficient_space_on_external">Nu există spațiu suficient pe cardul SD</string>
     <string name="dialog_media_not_found">"Nu se poate descărca: Nu s-a găsit niciun card SD"</string>
     <string name="dialog_queued_body">Acest fișier se află în lista pentru descărcări ulterioare.</string>
+    <string name="dialog_recovery_tabs_action">Atingeți pentru a restaura</string>
     <string name="dialog_recovery_tabs_disc">Detecția paginilor neînchise necesită recuperarea completă.</string>
+    <string name="dialog_recovery_tabs_tip">Găsiți vizualizarea web neînchisă data trecută</string>
     <string name="dialog_recovery_tabs_title">Deschideți pagina înainte de recuperare</string>
     <string name="dialog_title_not_available">"Nu s-a putut descărca"</string>
     <string name="dialog_title_queued_body">Fișierul nu este disponibil încă</string>
@@ -434,6 +441,7 @@ pentru a vedea filele deschise pe alte dispozitive"</string>
     <string name="hint">Indiciu</string>
     <string name="history">Istoric</string>
     <string name="home_description">Acasă</string>
+    <string name="home_hybrid_application_tips">Mini Programe incluse aici</string>
     <string name="homepage_base">https://www.google.com/webhp?client={CID}&amp;source=android-home</string>
     <string name="homepage_delete_card_menu">Ştergeţi</string>
     <string name="homepage_get_location">Obţineţi locaţia</string>
@@ -443,6 +451,8 @@ pentru a vedea filele deschise pe alte dispozitive"</string>
     <string name="homepage_search_hint">Căutaţi</string>
     <string name="homepage_top_card_menu">Top</string>
     <string name="hot_words_item_ads_mark">Reclame</string>
+    <string name="hybrid_application_no_data_text">Niciun Mini Program</string>
+    <string name="hybrid_popup_window_delete_button">Ștergeți</string>
     <string name="ignore_add_pwa_dialog_today">"Nu arăta astăzi"</string>
     <string name="in_secureaccess">Browser comutat la modul sigur</string>
     <string name="info_flow_description">Info canal</string>
@@ -507,6 +517,8 @@ pentru a vedea filele deschise pe alte dispozitive"</string>
     <string name="modify_download_path_no_sdcard_dlg_msg">Este necesar un card SD pentru a modifica această cale.</string>
     <string name="more_description">Meniu</string>
     <string name="more_option">Mai multe opțiuni</string>
+    <string name="movie_player_3g_tip_retry">Continuați</string>
+    <string name="movie_player_loading">În curând：%s</string>
     <string name="mw_abc_action_bar_home_description">Navigați Acasă</string>
     <string name="mw_abc_action_bar_home_description_format">%1$s, %2$s</string>
     <string name="mw_abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
@@ -924,6 +936,7 @@ Rețineți că fișierele pe care le descărcați și marcajele vor fi totuși s
     <string name="navigationbar_rightbutton_actiontext_cancle">Renunță</string>
     <string name="navigationbar_rightbutton_actiontext_go">Accesați</string>
     <string name="navigationbar_rightbutton_actiontext_search">Căutați</string>
+    <string name="network_error_tips">Eroare de rețea; reîncercați</string>
     <string name="network_not_available_comment">Fără conexiune la internet; nu se poate adăuga un comentariu</string>
     <string name="network_show_wifi_setting_tip_dialog_description">S-a găsit un hotspot Wi-Fi în apropiere. Încercați să vă conectați?</string>
     <string name="network_show_wifi_setting_tip_dialog_title">Rețeaua Wi-Fi este disponibilă</string>
@@ -963,11 +976,18 @@ Rețineți că fișierele pe care le descărcați și marcajele vor fi totuși s
     <string name="permission_unknown">Opțiune Necunoscută</string>
     <string name="permissions_prompt_message">%s dorește să</string>
     <string name="play_pause_video">Redă sau oprește videoclipul</string>
+    <string name="play_retry">Reluați</string>
     <string name="play_video">Redă videoclipul</string>
-  <string name="popup_video">Popup video</string>
+    <string name="player_3g_tip_sub_title">Redarea va genera cost pentru trafic</string>
+    <string name="player_3g_tip_title">În prezent se utilizează rețeaua mobilă; continuarea redării va genera trafic de date</string>
+    <string name="player_data_error_tip">Videoclipul este indisponibil temporar. Vă rugăm încercați din nou mai târziu</string>
+    <string name="player_net_error">Nu sunteți conectat la rețea; vă rugăm să verificați setările de rețea</string>
+    <string name="player_no_data">Ne pare rău! Acest videoclip a dispărut.</string>
+    <string name="popup_video">Videoclip popup</string>
     <string name="popup_window_attempt">Permiteţi acestui site să deschidă o fereastră de tip pop-up?</string>
     <string name="positive_confirm_message">Opriți oricum</string>
     <string name="pref_accept_quicklink_push">Flux de știri</string>
+    <string name="pref_accessibility_recommending_search_title">Căutare recomandată</string>
     <string name="pref_accessibility_title">Accesibilitate</string>
     <string name="pref_accessibility_url_shortcut_enter_summary">Combinații de litere comune pot fi introduse printr-o singură apăsare în bara de adrese</string>
     <string name="pref_accessibility_url_shortcut_enter_title">Introducere rapidă URL</string>
@@ -1072,6 +1092,9 @@ Rețineți că fișierele pe care le descărcați și marcajele vor fi totuși s
     <string name="pref_version_info">Informaţii despre versiune</string>
     <string name="pref_volume_key_action">Derulare cu ajutorul butoanelor de volum</string>
     <string name="progress_dialog_setting_wallpaper">Se aplică imaginea de fundal…</string>
+    <string name="pull_refresh_begin">Trageți în jos pentru actualizare</string>
+    <string name="pull_refresh_end">Eliberați pentru a actualiza</string>
+    <string name="pull_refresh_refreshing">Reîmprospătare</string>
     <string name="pull_to_refresh_pull_label">Trageți în jos pentru actualizare</string>
     <string name="pull_to_refresh_release_label">Eliberați pentru a merge la Recomandate și actualizare</string>
     <string name="pwa_app_name">Aplicații Web</string>
@@ -1105,7 +1128,9 @@ Rețineți că fișierele pe care le descărcați și marcajele vor fi totuși s
     <string name="readmode_recommend_message">"Aţi citit deja această carte :)"</string>
     <string name="readmode_refresh">Reîmprospătaţi</string>
     <string name="readmodelist_bookmarks_to_show">Listă de lectură</string>
+    <string name="recommending_close_toast_text">Setați închiderea acestei funcții din setările avansate</string>
     <string name="refresh_description">Reîmprospătare</string>
+    <string name="refresh_text">Reîmprospătați</string>
     <string name="refuse_permissions_request">Restricționați</string>
     <string name="remember_passwords_confirm_message">Oprirea acestei caracteristici poate afecta modul de funcționare al telefonului.</string>
     <string name="remove_bookmark">Ştergeţi marcajul</string>
@@ -1203,6 +1228,13 @@ Aplicația Browser trebuie să se conecteze la internet pentru a funcționa în 
     <string name="skip_button_label">Omiteţi</string>
     <string name="skip_current_version">Omiteţi această versiune</string>
     <string name="slide_guide">Glisați pentru a reveni</string>
+    <string name="small_video_boba_tab">Difuzați</string>
+    <string name="small_video_load_failed">Încărcarea a eșuat</string>
+    <string name="small_video_loading">Se încarcă...</string>
+    <string name="small_video_main_tab">Recomandați</string>
+    <string name="small_video_native_tab">Videoclipuri scurte</string>
+    <string name="small_video_net_error">Eroare de conectare</string>
+    <string name="small_video_no_more_date">Nu există date</string>
     <string name="snapshot">Local</string>
     <string name="snapshot_failed">"Nu s-a putut salva pagina"</string>
     <string name="snapshot_successed">Deschideți Semne de carte &amp; Istoric -&gt;LOCAL pentru a vedea pagina</string>
@@ -1296,6 +1328,7 @@ Aplicația Browser trebuie să se conecteze la internet pentru a funcționa în 
     <string name="title_notice_push">Activați notificările push</string>
     <string name="too_many_windows_dialog_message">Browser-ul nu mai poate deschide o filă nouă până când nu închideţi alta.</string>
     <string name="too_many_windows_dialog_title">A fost atinsă limita pentru numărul de file deschise</string>
+    <string name="topic_content_default">subiect</string>
     <string name="transfer_prompt_0">Redă videoclipul</string>
     <string name="transfer_restart">Reporniți</string>
     <string name="translation_copy">Copiați</string>
@@ -1410,4 +1443,5 @@ Aplicația Browser trebuie să se conecteze la internet pentru a funcționa în 
     <string name="voice_title_speech_again">"Nu v-am putut înțelege"</string>
     <string name="weather_location_confirm_message">Oprirea acestei caracteristici poate afecta modul de funcționare al telefonului.</string>
     <string name="webpage_title">Marcaje şi istoric</string>
+    <string name="window_manager_hybrid_application_list_title_text">Utilizate Recent</string>
 </resources>

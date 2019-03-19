@@ -15,8 +15,8 @@
     </plurals>
     <plurals name="confirm_delete_conversation">
         <item quantity="other">Ştergeţi %1$s conversaţii selectate?</item>
-        <item quantity="one">Ştergeţi conversaţia %1$s selectată?</item>
-     </plurals>
+        <item quantity="one">Ştergeţi această conversaţie?</item>
+    </plurals>
     <plurals name="custom_select_title_items_selected">
         <item quantity="other">%d selectate</item>
         <item quantity="zero">Selectați elemente</item>

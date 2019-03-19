@@ -280,6 +280,7 @@ Administratorul dumneavoastră poate monitoriza și administra setările, accesu
     <string name="animator_duration_scale_title">Scară durată Animator</string>
     <string name="another_migration_already_in_progress">O altă migrare este deja în curs.</string>
     <string name="anti_spam">Listă blocări</string>
+    <string name="aod_clock_style_title">Tip ceas</string>
     <string name="aod_close_color_inversion">"Această caracteristică nu poate fi combinată cu inversarea culorilor. Dezactivați inversarea culorilor mai întâi."</string>
     <string name="aod_got_it">Am înțeles</string>
     <string name="aod_mode_summary">Arată întotdeauna ora, data și mesajele când ecranul este oprit.</string>
@@ -1525,6 +1526,12 @@ Această setare afectează toți utilizatorii telefonului."</string>
     <string name="device_cpu4_info">"Quad-core "</string>
     <string name="device_cpu6_info">"Hexa-core "</string>
     <string name="device_cpu8_info">"Octa-core "</string>
+    <string name="device_description_battery">Capacitatea acumulatorului</string>
+    <string name="device_description_camera">Camera posterioară</string>
+    <string name="device_description_cpu">Procesor</string>
+    <string name="device_description_ram">RAM</string>
+    <string name="device_description_resolution">Rezoluție</string>
+    <string name="device_description_screen">Dimensiunea ecranului</string>
     <string name="device_display_layout_title">Caracteristici</string>
     <string name="device_edit_title">Editaţi numele dispozitivului</string>
     <string name="device_feedback">Trimiteți feedback despre acest dispozitiv</string>
@@ -2353,6 +2360,7 @@ Puteți modifica acest lucru mai târziu în Setări &gt; Aplicații și notific
     <string name="keyboard_shortcuts_helper">Ajutor scurtături tastatură</string>
     <string name="keyboard_shortcuts_helper_summary">Afișează scurtăturile disponibile</string>
     <string name="keyguard_advance_setting_title">Setări avansate</string>
+    <string name="keyguard_double_tap_to_sleep_title">Atingeți de două ori pentru a trece în hibernare</string>
     <string name="keyguard_notification_status_title">Notificări</string>
     <string name="keyguard_security_setting_others">Altele</string>
     <string name="keyguard_security_setting_privacy_policy">Politica de Confidențialitate</string>
@@ -4664,6 +4672,7 @@ Acest lucru este posibil datorită unui certificat de încredere instalat pe dis
     <string name="status_bar_settings_notification_use_app_icon">Utilizați pictogramele aplicației pentru notificări</string>
     <string name="status_bar_settings_notification_vibrate">Vibrare</string>
     <string name="status_bar_settings_peek_notification_icon">Afișează pictograme pentru notificările primite</string>
+    <string name="status_bar_settings_qs_layout">Dispunere setări rapide</string>
     <string name="status_bar_settings_show_carrier">Afişare nume operator</string>
     <string name="status_bar_settings_show_carrier_summary">Numele operatorului este în continuare afișat pe blocarea ecranului și în panoul notificărilor, atunci când această opţiune este dezactivată</string>
     <string name="status_bar_settings_show_carrier_under_keyguard">Afișează numele operatorului când telefonul este blocat</string>
@@ -4673,6 +4682,7 @@ Acest lucru este posibil datorită unui certificat de încredere instalat pe dis
     <string name="status_bar_settings_show_home_message">Insignă pictogramă</string>
     <string name="status_bar_settings_show_keyguard_notification">Notificări plutitoare şi blocare ecran</string>
     <string name="status_bar_settings_show_keyguard_notification_summary">Permiteți afișarea notificărilor importante în Blocarea ecranului</string>
+    <string name="status_bar_settings_show_lte_for_4g">Afișează pictograma LTE pentru 4G</string>
     <string name="status_bar_settings_show_network_speed">Afişare viteză de conexiune</string>
     <string name="status_bar_settings_show_notification_icon">Se afişează pictogramele notificărilor</string>
     <string name="status_bar_settings_show_wifi_name">Afişare Wi-Fi</string>
