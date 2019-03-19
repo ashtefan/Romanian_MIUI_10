@@ -73,8 +73,4 @@
         <item>Nici o congestie semnificativă</item>
         <item>trafic anormal</item>
     </string-array>
-    <string-array name="stock_color_schema">
-        <item>Roșu - sus, verde - jos</item>
-        <item>Verde - sus, roșu - jos</item>
-    </string-array>
 </resources>
