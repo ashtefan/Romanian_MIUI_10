@@ -860,7 +860,6 @@ Unele comenzi trimise prin SF Express de către vânzători din afara Taobao, Tm
     <string name="paycode_sdk_parent">Scurtătură pentru plăți</string>
     <string name="paycode_sdk_parent_title">Plată rapidă</string>
     <string name="payment">Plățile mele</string>
-    <string name="payment_amount_empty">0,00</string>
     <string name="payment_app_name">Plățile mele</string>
     <string name="payment_card_title">Plățile mele</string>
     <string name="payment_clear_records_dialog_message">Ștergeți întreg istoricul de plată?</string>

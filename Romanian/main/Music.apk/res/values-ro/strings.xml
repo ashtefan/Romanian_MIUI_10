@@ -1101,7 +1101,6 @@ Be Happy"</string>
 
 Atingeți %s pentru a porni descărcarea când veți fi conectat la Wi-Fi."</string>
     <string name="wifi_required_title">Ar trebui să fiți conectat la o rețea Wi-Fi pentru a descărca acest fișier</string>
-    <string name="xiaomi_update_sdk_bytes_unit">%1$s B</string>
     <string name="xiaomi_update_sdk_connect_download_manager_fail">Nu s-a putut conecta Managerul de descărcare; vă rugăm să verificați starea Managerului de descărcare din meniul de Gestionare a aplicațiilor.</string>
     <string name="xiaomi_update_sdk_dialog_message">"Vă prezentăm versiunea %1$s
 Dimensiune: %2$s"</string>
@@ -1109,6 +1108,4 @@ Dimensiune: %2$s"</string>
 Dimensiunea actualizării delta: %2$s"</string>
     <string name="xiaomi_update_sdk_dialog_title">%1$s actualizare!</string>
     <string name="xiaomi_update_sdk_external_storage_unavailable">Spațiu de stocare insuficient; vă rugăm să verificați cardul SD.</string>
-    <string name="xiaomi_update_sdk_kilobytes_unit">%1$s KB</string>
-    <string name="xiaomi_update_sdk_megabytes_unit">%1$s MB</string>
 </resources>

@@ -1068,7 +1068,6 @@ pentru a primi notificări despre plăți și călătorii"</string>
 %2$s"</string>
     <string name="sms_tip">Autentificarea a eșuat; verificați dacă antivirusul interceptează SMS-urile</string>
     <string name="smtp_password_error">Parola pentru serverul de ieșire este incorectă</string>
-    <string name="snip_pic">%1$s</string>
     <string name="sort_attachment">Sortaţi după</string>
     <string name="special_text_1">Redactare:</string>
     <string name="special_text_2">Redactare：</string>
