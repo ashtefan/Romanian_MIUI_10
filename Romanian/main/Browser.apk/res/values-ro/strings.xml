@@ -951,7 +951,6 @@ Rețineți că fișierele pe care le descărcați și marcajele vor fi totuși s
     <string name="navigate_feedback_dislike_tips">Se vor reduce recomandările pentru astfel de videoclipuri</string>
     <string name="navigate_feedback_input_report_label">Alte motive</string>
     <string name="navigate_feedback_report">raportați</string>
-    <string name="navigate_feedback_report_input_length">%1$d/100</string>
     <string name="navigate_feedback_report_input_tips">Scrieți înrebarea; ne vom ocupa de ea cât mai rapid</string>
     <string name="navigate_feedback_report_success">Raportat cu succes</string>
     <string name="navigate_feedback_report_title">Motivele raportării</string>

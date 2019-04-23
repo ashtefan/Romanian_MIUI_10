@@ -219,7 +219,6 @@
     <string name="card_description_annual_foods">"Jurnalul unui jurnal"</string>
   <string name="card_description_annual_pets">Cozile, labele și mușchii</string>
   <string name="card_description_annual_travel">Lucruri pe care le poți vedea pe drum</string>
-  <string name="card_description_from_to">%1$s - %2$s</string>
   <string name="card_title_activities">Evenimente</string>
   <string name="card_title_annual_events">Petrecerile mele în %1$s</string>
   <string name="card_title_annual_foods">Delicios %1$s</string>
@@ -232,7 +231,6 @@
   <string name="card_title_pastyear_party">Petrecerile de anul trecut</string>
   <string name="card_title_pastyear_sports">Exercițiile de anul trecut</string>
   <string name="card_title_recent_memory">Amintiri recente</string>
-  <string name="card_title_somewhere">%1$s</string>
   <string name="card_title_sports">Exerciții</string>
     <string name="cast_devices_unavailable_desc">Asigurați-vă că acest telefon dar și proiectorul sunt conectate la aceeași rețea Wi-Fi</string>
     <string name="cast_devices_unavailable_title">"Nu s-a găsit proiectorul"</string>
@@ -531,7 +529,6 @@ Faceți mai multe fotografii prietenilor!"</string>
     <string name="feature_guidance_photo_effects">"Sunt disponibile noi
 efecte pentru fotografii"</string>
     <string name="feature_guidance_video_editor_smart_effects">Sunt disponibile noi efecte</string>
-    <string name="filter_bg_color_component">1.0</string>
     <string name="filter_bi_bw">A/N</string>
     <string name="filter_bi_dusk">Amurg</string>
     <string name="filter_bi_lilt">Ritm vioi</string>
@@ -853,7 +850,6 @@ pentru a personaliza Galeria"</string>
   <string name="people_mark_mode_title_no_mark_name">Selectați o persoană</string>
     <string name="people_page_label">Persoane</string>
     <string name="people_page_unname">Fără nume</string>
-    <string name="percent_sign">%</string>
     <string name="permissin_contract_desc">Pentru numele persoanelor din fotografii</string>
     <string name="permission_contract_name">Contacte</string>
     <string name="permission_optional_category">Permisiuni opționale</string>
@@ -940,8 +936,6 @@ pentru a personaliza Galeria"</string>
     <string name="photo_font_download_failed_for_notwork">"Nu s-a putut descărca. Conectați-vă la rețea și încercați din nou."</string>
     <string name="photo_font_download_without_wifi_msg">"Utilizarea conexiunii de date pentru descărcarea fișierelor va crește traficul de date. Dacă depășiți planul de date, puteți fi taxat suplimentar de către operator."</string>
     <string name="photo_font_download_without_wifi_title">Avertisment utilizare date</string>
-    <string name="photo_movie_menu_loading">@string/photo_print_menu_loading</string>
-    <string name="photo_movie_module_failed">@string/error_install_connect_fail</string>
     <string name="photo_movie_module_finish">Videoclipuri încărcate cu succes</string>
     <string name="photo_movie_module_loading">Se încarcă videoclipurile…</string>
     <string name="photo_movie_select_image_range">Clipurile pot conține între 3 și 20 de fotografii</string>

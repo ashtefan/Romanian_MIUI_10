@@ -515,7 +515,6 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="pref_face_beauty_xxhigh">i:5</string>
     <string name="pref_face_beauty_xxxhigh">i:6</string>
     <string name="pref_fingerprint_capture_title">Declanșare prin amprentă</string>
-    <string name="pref_front_mirror_default">pornit</string>
     <string name="pref_front_mirror_entry_auto">Când este detectată fața</string>
     <string name="pref_front_mirror_entry_off">Oprit</string>
     <string name="pref_front_mirror_entry_on">Pornit</string>
