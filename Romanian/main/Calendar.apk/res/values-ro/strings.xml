@@ -354,7 +354,6 @@
     <string name="month_view">Lună</string>
     <string name="monthly">Lunar</string>
     <string name="monthly_on_day">Lunar (în aceeași zi)</string>
-    <string name="monthly_on_day_count">Lunar (%1$s zi de %2$s din fiecare lună)</string>
   <string name="more_match">Mai multe evenimente</string>
     <string name="more_string">+%1$s</string>
     <string name="network_not_available">"Nu se poate conecta la rețea"</string>
