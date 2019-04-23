@@ -19,7 +19,7 @@
     <string name="name_char_error">Introduceţi un nume care conţine doar litere şi cifre.</string>
     <string name="name_credential_dialog_title">Denumiţi certificatul</string>
     <string name="name_empty_error">Introduceţi un nume.</string>
-    <string name="no_cert_file_found">Nu s-a găsit niciun fişier certificat în stocarea USB.</string>
+    <string name="no_cert_file_found">Nu s-a găsit niciun fişier certificat pe cardul SD.</string>
     <string name="no_cert_to_saved">Niciun certificat de instalat.</string>
     <string name="one_cacrt">un certificat CA</string>
     <string name="one_usercrt">un certificat pentru utilizator</string>
@@ -33,7 +33,7 @@
     <string name="pick_file_title">Alegeţi un certificat</string>
     <string name="pkcs12_file_password_dialog_title">Extrageţi din %s</string>
     <string name="pkcs12_password_dialog_title">Extrageţi certificatul</string>
-    <string name="sdcard_not_present">Nu există stocare USB.</string>
+    <string name="sdcard_not_present">"Nu există un card SD."</string>
     <string name="unable_to_save_cert">Nu se poate salva certificatul. Spaţiul de stocare a certificatelor nu este activat sau nu este corect iniţializat.</string>
     <string name="wifi_cancel_label">Renunțați</string>
     <string name="wifi_config_text">"Nume: %1$s

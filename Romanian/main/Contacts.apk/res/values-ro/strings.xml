@@ -270,6 +270,7 @@ Cartelele de contact sunt dezactivate"</string>
     <string name="contactsGroupsLabel">Grupuri</string>
     <string name="contactsJoinedMessage">Contactele au fost îmbinate</string>
     <string name="contactsList">Agendă</string>
+    <string name="contacts_default_notification_channel">Notificări</string>
     <string name="contacts_hybrid_activity_label">Restabiliți contactele</string>
     <string name="contacts_setting_title">Setări Contacte</string>
     <string name="contacts_unavailable_add_account">Conectaţi-vă la un cont</string>
@@ -949,7 +950,6 @@ Pentru a adăuga un contact în lista de favorite:
     <string name="quickcontact_missing_app">Nu s-a găsit o aplicaţie care să gestioneze această acţiune</string>
     <string name="quit_dialog_confirm_message">Nu aţi îmbinat niciun contact</string>
     <string name="quit_dialog_confirm_title">Anulaţi îmbinarea contactelor</string>
-    <string name="rcs_app_name">Mini aplicații</string>
     <string name="readOnlyContactDeleteConfirmation">Informaţiile despre acest contact din agendă provin din mai multe conturi. Orice informaţii ce nu pot fi şterse vor fi ascunse în lista contactelor.</string>
     <string name="readOnlyContactWarning">Nu puteţi şterge contacte din agendă, din conturi cu permisiuni doar de citire, însă puteţi să le ascundeţi în lista dvs. de contacte.</string>
     <string name="readingSimContacts">Citire cartelă SIM…</string>

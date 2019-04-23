@@ -18,6 +18,10 @@ această opțiune va fi activată în mod automat în spațiul secundar."</strin
     <string name="app_name">Componentă de bază de securitate</string>
     <string name="back">Înapoi</string>
     <string name="bind_device">Adaugă dispozitive</string>
+    <string name="button_input_password">Introduceți parola</string>
+    <string name="button_text_next_step">Următorul</string>
+    <string name="button_text_next_step_timer">Următorul pas (%d)</string>
+    <string name="button_touch">Puneți degetul pe senzor</string>
     <string name="can_not_delete_when_calling">"Nu se pot șterge Spațiile de lucru în timpul unui apel"</string>
     <string name="can_not_switch_when_calling">"Nu se pot comuta Spațiile de lucru în timpul unui apel"</string>
     <string name="can_not_switch_when_green_kid_active">Comutarea la Spațiul secundar este restricționată de către controlul parental</string>
@@ -63,6 +67,9 @@ pentru a le putea vedea în orice moment"</string>
     <string name="create_space_loading">Se crează Spațiul Secundar…</string>
     <string name="create_work_space">Creați Spațiul pentru Servici</string>
     <string name="creating_app_icon">Se crează pictograma…</string>
+    <string name="cta_declaration_agree_and_continue">De acord</string>
+    <string name="cta_declaration_message_format" formatted="false">Trebuie să citiți și să acceptați &lt;font color=%s&gt;&lt;a href=%s&gt;%s&lt;/a&gt;&lt;/font&gt; înainte de a utiliza modul Companie. Telefonul trebuie să se conecteze la internet pentru a activa modul Companie. Sunteți de acord?</string>
+    <string name="cta_declaration_title">Termenii și Condițiile</string>
     <string name="current_space">Spațiul curent</string>
     <string name="dataSafe">Utilizarea Spațiului Secundar este ca și cum ați avea două telefoane.</string>
     <string name="declare_dialog_title">Despre aplicațiile clonate</string>
@@ -74,7 +81,13 @@ pentru a le putea vedea în orice moment"</string>
     <string name="delete_phone_fingerprint">Ștergeți amprenta pentru spațiul secundar</string>
     <string name="delete_src_file">Ștergeți fișierele</string>
     <string name="delete_src_photo">Ștergeți fotografiile</string>
+    <string name="dialog_message_service_error">"Nu s-a putut revoca autorizarea și reseta la valorile din fabrică. Încercați din nou.​"</string>
+    <string name="dialog_tip_need_network">Telefonul trebuie să se conecteze la internet pentru a se revoca autorizarea.</string>
     <string name="dialog_title">Atenție</string>
+    <string name="dialog_title_service_error">Eroare de server</string>
+    <string name="dialog_undo_negative">"Nu revoca"</string>
+    <string name="dialog_verify">Verificați amprenta</string>
+    <string name="dialog_verify_fingerprint_retry">"Nu s-a putut verifica amprenta. Încercați din nou."</string>
     <string name="dir_switch_out_all_photos">Galeria din Spațiul Secundar</string>
     <string name="disable">Dezactivați</string>
     <string name="do_not_ask">"Nu întreba din nou"</string>
@@ -140,7 +153,7 @@ Asigurați-vă că numele companiei este corect. Citiți și acceptați politici
     <string name="function_not_support">Nesuportată pe acest dispozitiv</string>
     <string name="gms_message">Crearea aplicațiilor duale necesită serviciile Google. Creați o dublură pentru serviciile Google?</string>
     <string name="gms_open_button">Activați</string>
-    <string name="gms_title">Activați serviciile Google</string>
+    <string name="gms_title">Aplicație clonată pentru serviciile Google</string>
     <string name="goToSecondSpacce">Mergeți în Spațiul Secundar</string>
     <string name="go_on_import">Importați</string>
     <string name="gpg_message">Crearea aplicațiilor duale necesită serviciile Google Play. Creați o dublură pentru serviciile Google Play?</string>
@@ -151,6 +164,10 @@ Asigurați-vă că numele companiei este corect. Citiți și acceptați politici
     <string name="green_guard_des3">Controlați aplicațiile instalate și restricționați utilizarea acestora</string>
     <string name="green_guard_title2">Vedeți informațiile despre localizare</string>
     <string name="green_guard_title3">Gestionați aplicațiile</string>
+    <string name="greenguard_child_des">Utilizați aplicația noastră pentru a rămâne conectat​</string>
+    <string name="greenguard_child_des_title">Am nevoie de ajutor din partea prietenilor și a familiei</string>
+    <string name="greenguard_parent_des">"Descărcați aplicația noastră și adăugați dispozitivele altor persoane"</string>
+    <string name="greenguard_parent_des_title">Trebuie să îmi ajut prietenii și familia</string>
     <string name="guide_contact_sub_title_desc">"Contactele adăugate în Spațiul Secundar vor fi private.
 Mesajele vor fi vizibile doar în Spațiul Secundar."</string>
     <string name="guide_contact_suc_sub_title_desc">Doar contactele și mesajele private vor fi vizibile în Spațiul Secundar</string>
@@ -188,8 +205,13 @@ Le puteți de asemenea descărca separat."</string>
     <string name="loading_space">Doar o secundă…</string>
     <string name="loading_success">Încărcate cu succes</string>
     <string name="lock_screen_open_second_space">Accesați spațiul secundar din Blocarea ecranului</string>
+    <string name="master_clear_apply_step_1">Revocarea autorizării necesită resetarea dispozitivului la setările din fabrică. Acest lucru va șterge permanent toate fișierele și datele, inclusiv conturile, contactele, fotografiile și aplicațiile. Faceți o copie de siguranță pentru toate elementele importante pe computer înainte de a revoca autorizarea.</string>
+    <string name="master_clear_apply_step_2">Asigurați-vă că ați făcut o copie de rezervă pentru toate elementele importante pe computer. După ce apăsați butonul \"OK\", se va realiza o revenire a dispozitivului la setările din fabrică și se vor șterge permanent toate datele și fișierele, inclusiv conturile, contactele, fotografiile și aplicațiile.</string>
+    <string name="master_clear_apply_title">Atenție</string>
+    <string name="master_clear_not_available">Resetarea la valorile din fabrică este restricționată de către compania dvs.</string>
     <string name="menu_item_about_privacy_title">Politica de Confidențialitate</string>
     <string name="mess ageData">Mesaje</string>
+    <string name="more_settings">Mai multe</string>
     <string name="msg_switch_file">Ștergeți aceste fișiere din Spațiul Principal după ce vor fi mutate?</string>
     <string name="msg_switch_file_second">Ștergeți aceste fișiere din Spațiul Secundar după ce sunt mutate?</string>
     <string name="msg_switch_photo">Ștergeți aceste fotografii din Spațiul Principal după ce vor fi mutate?</string>
@@ -397,6 +419,11 @@ pentru a accesa Spațiul secundar din Blocarea ecranului"</string>
     <string name="transferImage">Fotografiile din Spațiul Secundar vor fi mutate în albumul \"Spațiu Secundar\" din Spațiul Principal</string>
     <string name="transferMessage">Mesajele din Spațiul Secundar vor fi mutate în Spațiul Principal</string>
     <string name="tryNow">Încercați acum</string>
+    <string name="undo_activated_dialog_message">"Revocarea autorizării va dezactiva modul Companie și va reseta dispozitivul la valorile din fabrică. Toate caracteristicile înrudite nu vor mai fi disponibile. În plus, Xiaomi nu va mai colecta informații necesare pentru modul Companie (IMEI, ID-ul dispozitivului, versiunea sistemului, regiunea, etc.). Dorim să vă reamintim că Xiaomi nu gestionează datele colectate pentru modul Companie. Vom face tot posibilul pentru a informa toate părțile, dar vă recomandăm să contactați superviserul pentru a aproba revocarea. Revocați autorizarea și reveniți la setările din fabrică?"</string>
+    <string name="undo_activated_dialog_ok">Revoc</string>
+    <string name="undo_grant_dialog_message">Xiaomi nu va mai colecta informațiile necesare pentru această caracteristică (IMEI, ID-ul dispozitivului, versiunea de sistem, regiunea, etc.) după ce veți revoca autorizarea. Revocați acum?</string>
+    <string name="undo_privacy_menu">Revoc autorizarea</string>
+    <string name="undo_success">Revocată cu succes</string>
     <string name="use_xiaoai_open">Treziți utilizând asistentul vocal</string>
     <string name="wating">Doar o secundă…</string>
     <string name="weibo_send">Trimiteți în Weibo</string>

@@ -65,6 +65,7 @@
     <string name="add_to_last_of_playlist">Adaugă la sfârșitul listei de redare</string>
     <string name="add_to_playlist_successful">Adăugată cu succes</string>
     <string name="added_next_play">Adăugată pentru a fi redată următoarea</string>
+    <string name="agreement_desc">Acordul Utilizatorului (obligatoriu)</string>
     <string name="alaka_required">Ar trebui să plătiți pentru a asculta această melodie</string>
     <string name="album_label">Coperți de album</string>
     <string name="album_name">Album</string>
@@ -83,6 +84,16 @@
     <string name="apk_filter">APK</string>
     <string name="app_downloads">%s descărcări</string>
     <string name="app_label">Descărcări</string>
+    <string name="app_permission_confirm">Am înțeles</string>
+    <string name="app_permission_optional">Permisiuni opționale</string>
+    <string name="app_permission_require">Permisiuni obligatorii</string>
+    <string name="app_permission_use_desc">Permisiuni</string>
+    <string name="app_permission_use_group_account">Conturi</string>
+    <string name="app_permission_use_group_account_desc">Pentru obținerea informațiilor despre contul Mi</string>
+    <string name="app_permission_use_group_phone">Telefon</string>
+    <string name="app_permission_use_group_phone_desc">Pentru serviciile Google Push</string>
+    <string name="app_permission_use_group_storage">Stocare</string>
+    <string name="app_permission_use_group_storage_desc">Pentru găsirea și redarea melodiilor salvate pe dispozitiv</string>
     <string name="artist">Artişti</string>
     <string name="artist_area_all">Toate</string>
     <string name="artist_area_china">China</string>
@@ -220,6 +231,7 @@
     <string name="current_version">Versiunea curentă</string>
     <string name="data_usage_warning">Utilizare date</string>
     <string name="data_usage_warning_summary">Utilizând conexiunea de date mobile pentru a reda muzica la o calitate superioară pot crește costurile de utilizare a datelor.</string>
+    <string name="data_use_desc">Documente legale</string>
     <string name="date_format_str">dd-MM-yyyy</string>
     <string name="delete">Ştergeţi</string>
     <string name="delete_download">Ștergeți</string>
@@ -812,6 +824,7 @@
     <string name="priority_storage_summary">Descarcă în mod automat pe cardul SD extern, dacă este disponibil</string>
     <string name="privacy_notif_content">Atingeți pentru a vedea detaliile.</string>
     <string name="privacy_notif_title">Acceleratorul Xunlei este pornit</string>
+    <string name="privacy_desc">Politica de Confidențialitate (obligatoriu)</string>
     <string name="privacy_policy">Politica de Confidențialitate</string>
     <string name="privacy_tip_cancel">Renunțați</string>
     <string name="privacy_tip_content">"Utilizați acceleratorul Xunlei pentru creșterea vitezei de descărcare? URL-ul de descărcare va fi încărcat în serverele Xunlei. De asemenea se vor încărca și detaliile contului dvs Mi pentru verificarea abonării la acest serviciu."</string>

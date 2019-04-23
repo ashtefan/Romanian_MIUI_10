@@ -122,7 +122,7 @@
     <string name="status_connection_error">Conectare eşuată.</string>
     <string name="status_file_error">Problemă de stocare.</string>
     <string name="status_forbidden">Transfer interzis de dispozitivul destinatar.</string>
-    <string name="status_no_sd_card">Nu există stocare USB.</string>
+    <string name="status_no_sd_card">Nu există niciun card SD. Introduceți un card SD pentru a salva fișierele transferate.</string>
     <string name="status_not_accept">"Conţinutul nu este acceptat."</string>
     <string name="status_pending">Transferul fişierului nu a început încă.</string>
     <string name="status_protocol_error">Solicitarea nu poate fi gestionată corect.</string>

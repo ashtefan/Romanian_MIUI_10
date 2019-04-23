@@ -20,6 +20,10 @@
         <item quantity="other">Întârziere foarte scurtă (%1$d ms)</item>
         <item quantity="one">Întârziere foarte scurtă (%1$d ms)</item>
     </plurals>
+    <plurals name="aod_dual_togother_city">
+        <item quantity="other">" %1$sore %2$s"</item>
+        <item quantity="one">" %1$soră %2$s"</item>
+    </plurals>
     <plurals name="app_notification_listing_summary_others">
         <item quantity="other">Dezactivată pentru %d aplicații</item>
         <item quantity="one">Dezactivată pentru %d aplicație</item>
@@ -171,6 +175,9 @@
     <plurals name="minutes">
         <item quantity="other">%s minute</item>
         <item quantity="one">1 minut</item>
+    </plurals>
+    <plurals name="miui_sos_emergency_contacts_quantity">
+        <item quantity="other">%d adăugate</item>
     </plurals>
     <plurals name="network_restrictions_summary">
         <item quantity="other">%1$d restricții</item>

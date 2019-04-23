@@ -382,16 +382,4 @@
         <item>Amână</item>
         <item>Oprește</item>
     </string-array>
-    <string-array name="weather_tips_value">
-        <item>Reduceți activitățile exterioare</item>
-        <item>Drumurile sunt alunecoase</item>
-        <item>Vremea este rea, fiți atent!</item>
-        <item>"Astăzi este ceață. Conduceți prudent."</item>
-        <item>Aerul este poluat, purtați o mască!</item>
-        <item>Luați și o umbrelă când ieșiți</item>
-        <item>Fiți atent la carosabil</item>	
-        <item>"Este grindină astăzi; fiți atent."</item>
-	<item>Vine furtuna de nisip, luați o mască!</item>
-        <item>Să aveți o zi frumoasă!</item>
-    </string-array>
 </resources>

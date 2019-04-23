@@ -4,6 +4,10 @@
         <item quantity="other">Amânare pentru %d minute.</item>
         <item quantity="one">Amânare pentru %d minut.</item>
     </plurals>
+    <plurals name="day">
+        <item quantity="other">%d zile</item>
+        <item quantity="one">%d zi</item>
+    </plurals>
     <plurals name="delete_alarm_confirm">
         <item quantity="other">Ștergeți alarmele selectate?</item>
         <item quantity="one">Ștergeți această alarmă?</item>
@@ -12,9 +16,25 @@
         <item quantity="other">Ștergeți fusurile orare selectate?</item>
         <item quantity="one">Ștergeți acest fus orar?</item>
     </plurals>
+    <plurals name="hour">
+        <item quantity="other">%d ore</item>
+        <item quantity="one">%d oră</item>
+    </plurals>
+    <plurals name="life_post_wake_up_item_acumu_day">
+        <item quantity="other">%1$d zile</item>
+        <item quantity="one">%1$d zi</item>
+    </plurals>
+    <plurals name="minute">
+        <item quantity="other">%d minute</item>
+        <item quantity="one">%d minut</item>
+    </plurals>
     <plurals name="second">
         <item quantity="other">%d secunde</item>
         <item quantity="one">%d secundă</item>
+    </plurals>
+    <plurals name="snooze_duration_summary">
+        <item quantity="other">Alarma se va opri de %2$s ori (câte %1$s min. fiecare)</item>
+        <item quantity="one">Alarma se va opri %2$s dată (%1$s min.)</item>
     </plurals>
     <plurals name="snooze_message">
         <item quantity="other">Amânaţi pentru %d minute</item>

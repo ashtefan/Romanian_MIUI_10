@@ -131,6 +131,10 @@
     <string name="notealert_ok">Renunțaţi</string>
     <string name="notify_alarm_title">Memento notă</string>
     <string name="permdesc_accessNote">Aplicațiile rău intenționate pot utiliza aceasta pentru a accesa informaţiile personale.</string>
+    <string name="permission_intro_contact">Pentru luarea de notițe pe durata apelurilor</string>
+    <string name="permission_intro_microphone">Pentru înregistrarea de notițe vocale</string>
+    <string name="permission_intro_phone">Pentru luarea de notițe pe durata apelurilor</string>
+    <string name="permission_intro_storage">Pentru salvarea notițelor și a atașamentelor</string>
     <string name="permlab_accessNote">Accesare note</string>
     <string name="pref_desc_skip_confirm_for_quick_delete">"Nu arăta fereastra de dialog când se elimină o notiță printr-un gest"</string>
     <string name="pref_title_cloud_trash_bin">Ștergeți notițele din Mi Cloud</string>
@@ -225,6 +229,7 @@
     <string name="toolbar_voice_description">Voce</string>
     <string name="trash_folder_name">Gunoi</string>
     <string name="trash_folder_reminder">Notițele pe care le ștergeți vor fi eliminate definitiv în 30 de zile.</string>
+    <string name="unclassfied_folder_name">Necategorisit</string>
     <string name="undo">Anulaţi</string>
     <string name="unknown_source">Sursă necunoscută</string>
     <string name="welcome_note_for_cm">"Și multe alte caracteristici!

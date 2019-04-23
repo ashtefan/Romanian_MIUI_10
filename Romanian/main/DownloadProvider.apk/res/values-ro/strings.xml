@@ -69,7 +69,7 @@
     <string name="permlab_downloadManager">Accesare manager de descărcare.</string>
     <string name="permlab_downloadManagerAdvanced">Funcţii avansate ale managerului de descărcare.</string>
     <string name="permlab_downloadWithoutNotification">Descarcă fişiere fără notificare</string>
-    <string name="permlab_seeAllExternal">Vizualizare descărcări pe cardul SD</string>
+    <string name="permlab_seeAllExternal">Vedeți toate descărcările de pe cardul SD</string>
     <string name="privacy_notif_content">Atingeţi pentru a vizualiza detaliile.</string>
     <string name="privacy_notif_title">Accelerator Xunlei activat</string>
     <string name="privacy_tip_cancel">Anulaţi</string>

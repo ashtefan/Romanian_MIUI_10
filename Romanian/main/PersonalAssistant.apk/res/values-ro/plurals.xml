@@ -54,16 +54,16 @@
         <item quantity="one">Ștergeți %s element selectat?</item>
     </plurals>
     <plurals name="sms_day_suffix">
-        <item quantity="other">În %d zile</item>
-        <item quantity="one">În %d zi</item>
+        <item quantity="other">Pleacă în %d zile</item>
+        <item quantity="one">Pleacă în %d zi</item>
     </plurals>
     <plurals name="sms_hour_suffix">
-        <item quantity="other">În %d ore</item>
-        <item quantity="one">În %d oră</item>
+        <item quantity="other">Pleacă în %d ore</item>
+        <item quantity="one">Pleacă în %d oră</item>
     </plurals>
     <plurals name="sms_minute_suffix">
-        <item quantity="other">În %d minute</item>
-        <item quantity="one">În %d minut</item>
+        <item quantity="other">Pleacă în %d minute</item>
+        <item quantity="one">Pleacă în %d minut</item>
     </plurals>
     <plurals name="sms_title_hours">
         <item quantity="other">%d ore</item>

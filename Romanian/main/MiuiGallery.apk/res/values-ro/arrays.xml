@@ -68,6 +68,34 @@
         <item>Ziua Națională de-a lungul anilor</item>
         <item>Crăciunul de-a lungul anilor</item>
     </string-array>
+    <string-array name="last_month">
+        <item>Ianuarie</item>
+        <item>Februarie</item>
+        <item>Martie</item>
+        <item>Aprilie</item>
+        <item>Mai</item>
+        <item>Iunie</item>
+        <item>Iulie</item>
+        <item>August</item>
+        <item>Septembrie</item>
+        <item>Octombrie</item>
+        <item>Noiembrie</item>
+        <item>Decembrie</item>
+    </string-array>
+    <string-array name="month">
+        <item>Ianuarie</item>
+        <item>Februarie</item>
+        <item>Martie</item>
+        <item>Aprilie</item>
+        <item>Mai</item>
+        <item>Iunie</item>
+        <item>Iulie</item>
+        <item>August</item>
+        <item>Septembrie</item>
+        <item>Octombrie</item>
+        <item>Noiembrie</item>
+        <item>Decembrie</item>
+    </string-array>
     <string-array name="month_last_year">
         <item>Ianuarie anul trecut</item>
         <item>Februarie anul trecut</item>
@@ -96,6 +124,12 @@
         <item>Amintiri din Noiembrie</item>
         <item>Amintiri din Decembrie</item>
     </string-array>
+    <string-array name="season">
+        <item>Primăvară</item>
+        <item>Vară</item>
+        <item>Toamnă</item>
+        <item>Iarnă</item>
+    </string-array>
     <string-array name="season_last_year">
         <item>Primăvara trecută</item>
         <item>Vara trecută</item>
@@ -113,5 +147,12 @@
         <item>Trecere în revistă vară</item>
         <item>Trecere în revistă toamnă</item>
         <item>Trecere în revistă iarnă</item>
+	    </string-array>
+    <string-array name="weekend_title">
+        <item>Weekendurile trecute</item>
+        <item>Zile memorabile</item>
+        <item>Evenimente zilnice</item>
+        <item>Ordinare și Extraordinare</item>
     </string-array>
+
 </resources>

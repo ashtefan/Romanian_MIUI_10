@@ -56,6 +56,10 @@
         <item quantity="other">Reluați sincronizarea în %d ore</item>
         <item quantity="one">Reluați sincronizarea în %d oră</item>
     </plurals>
+    <plurals name="backup_file_over_size_title">
+        <item quantity="other">%d elemente sunt prea mari pentru a fi rezervate</item>
+        <item quantity="one">%d element este prea mare pentru a fi rezervat</item>
+    </plurals>
     <plurals name="backup_pause_desc">
         <item quantity="other">%d fotografii și videoclipuri | Oprită</item>
         <item quantity="one">%d fotografie sau videoclip | Oprită</item>
@@ -259,6 +263,10 @@
     <plurals name="sync_error_title">
         <item quantity="other">"Nu s-au sincronizat %d fotografii și videoclipuri"</item>
         <item quantity="one">"Nu s-a sincronizat %d fotografie sau videoclip"</item>
+    </plurals>
+    <plurals name="sync_oversized_count">
+        <item quantity="other">%d elemente sunt prea mari pentru a fi rezervate</item>
+        <item quantity="one">%d element este prea mare pentru a fi rezervat</item>
     </plurals>
     <plurals name="sync_total_count">
         <item quantity="other">%d elemente</item>

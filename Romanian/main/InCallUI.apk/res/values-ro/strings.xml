@@ -34,7 +34,7 @@
     <string name="call_button_tools_text">Caracteristici</string>
     <string name="call_contacts_deny_permission_msg">"Ați refuzat permisiunea de citire contacte; nu se pot afișa detaliile contactelor."</string>
     <string name="call_description_recording">Înregistrare…</string>
-    <string name="call_extension_conference_mode">Modul Conferinţă</string>
+    <string name="call_not_support_high_frequency_click">"Nu apăsați acest buton așa de repede"</string>
     <string name="call_record_wait_label">Aşteptare</string>
     <string name="call_recording_deny_permission_msg">"Ați refuzat permisiunea de înregistrare; nu se poate înregistra."</string>
     <string name="call_recording_error_low_storage">Nu există spaţiu insuficient în mediul de stocare</string>
@@ -215,6 +215,7 @@
     <string name="sim1_description">SIM 1</string>
     <string name="sim2_description">SIM 2</string>
     <string name="sip_call_not_support_record">"Nu se pot înregistra apelurile SIP"</string>
+    <string name="supp_service_notification_call_waiting">Numărul format este ocupat. Vă rugăm așteptați…</string>
     <string name="suspect_info">Fiți atenți cui furnizați datele personale.</string>
     <string name="time_left_livetalk">(%ds)</string>
     <string name="unknown">Necunoscut</string>

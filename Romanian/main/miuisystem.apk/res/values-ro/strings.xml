@@ -42,7 +42,9 @@
     <string name="device_pad">Mi Pad</string>
     <string name="device_poco_global">POCOPHONE</string>
     <string name="device_poco_india">TELEFON POCO</string>
+    <string name="device_redmi">Redmi</string>
     <string name="device_xiaomi">Telefon Mi</string>
+    <string name="dewdrops">Picuri de rouă</string>
     <string name="echo">Ecou</string>
   <string name="edit_frequent_phrases">Editați expresiile frecvente</string>
     <string name="fadein">Estompare</string>

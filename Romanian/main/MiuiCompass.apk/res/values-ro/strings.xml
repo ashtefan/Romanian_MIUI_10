@@ -22,9 +22,10 @@
     <string name="calibrate_title">Calibrare busolă</string>
     <string name="cancel">Renunțați</string>
     <string name="cannot_get_location">--</string>
-    <string name="dialog_body_no_network">Nu se poate conecta la rețea</string>
+    <string name="compass_settings">Setări</string>
+    <string name="dialog_body_no_network">Conectați-vă la Wi-Fi sau activați datele mobile.</string>
     <string name="dialog_calibrat_altitude">Calibrare…</string>
-    <string name="dialog_title_no_network">Activaţi reţeaua</string>
+    <string name="dialog_title_no_network">"Nu s-a putut conecta la rețea"</string>
     <string name="direction_east">E</string>
     <string name="direction_north">N</string>
     <string name="direction_north_east">NE</string>
@@ -38,7 +39,7 @@
     <string name="error_camera_unavailable_title">Cameră indisponibilă</string>
     <string name="first_using_dialog_message">Busola trebuie să utilizeze conexiunea la rețea și camera dispozitivului pentru a lucra în mod normal.</string>
     <string name="first_using_dialog_title">Permisiune acces</string>
-    <string name="guide_toast">Pentru a calibra busola mişcaţi telefonul conform imaginii de mai sus</string>
+    <string name="guide_toast">Pentru a calibra busola, mişcaţi telefonul conform imaginii de mai jos.</string>
     <string name="keywords_search_compass">Busolă;Calibrare busolă;Presiune;Altitudine;Latitudine;Longitudine;Verificare longitudine; Verificare latitudine;Busolă MIUI;Aplicația Busolă;Aplicația de busolă MIUI;Unde este Busola;Descărcați aplicația Busolă;Presiune atmosferică; Verificare altitudine;Care este altitudinea</string>
     <string name="latitude">Latitudine</string>
     <string name="location_east">Est</string>

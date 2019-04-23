@@ -136,6 +136,7 @@
     <string name="standard">Silențios</string>
     <string name="standard_description">Redu la tăcere sunetul pentru apelurile primite și pentru notificări</string>
     <string name="standard_title">Silențios</string>
+    <string name="start_dump_log">Porniți obținerea de jurnale legate de probleme</string>
     <string name="start_security_permission_verify_text">Verificați permisiunile cu ajutorul contului Mi</string>
     <string name="status_bar_toggle_auto_brightness">Luminozitate</string>
     <string name="status_bar_toggle_battery_saver">Economisire acumulator</string>

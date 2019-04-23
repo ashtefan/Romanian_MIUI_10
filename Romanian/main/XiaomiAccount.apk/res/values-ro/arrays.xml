@@ -4,21 +4,4 @@
         <item>Masculin</item>
         <item>Feminin</item>
     </string-array>
-    <string-array name="education">
-        <item>Gimnaziu</item>
-        <item>Școală pregătitoare</item>
-        <item>Liceu</item>
-        <item>Școală de meserii</item>
-        <item>"Licențiat"</item>
-        <item>"Masterat"</item>
-        <item>"Doctorat"</item>
-    </string-array>
-    <string-array name="income">
-        <item>&lt; 1 200 RON</item>
-        <item>1 201~2 500 RON</item>
-        <item>2 501~3 500 RON</item>
-        <item>3 501~5 000 RON</item>
-        <item>5 001~7 000 RON</item>
-        <item>> 7 000 RON(EȘTI BAZAT!)</item>
-    </string-array>
 </resources>

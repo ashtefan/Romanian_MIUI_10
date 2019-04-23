@@ -2,7 +2,6 @@
 <resources>
     <string name="access_select">Selectate %s</string>
     <string name="access_unselect">Deselectate %s</string>
-    <string name="accessibility_title">Asistent inteligent</string>
     <string name="accordingto_position">Recunoaște locurile frecventate utilizând GPS-ul</string>
     <string name="account_address">Adresă</string>
     <string name="add_stock">Adăugați</string>
@@ -42,6 +41,8 @@
     <string name="alipay_confirm_cancel">Renunțați</string>
     <string name="alipay_init">Inițializare Alipay…</string>
     <string name="alipay_init_success">Alipay a fost inițializată cu succes​</string>
+    <string name="alipay_login_cancel">Renunțați</string>
+    <string name="alipay_pre_router_cancel">Renunțați</string>
     <string name="alipay_risk_process_cancel">Renunțați</string>
     <string name="alipay_scan">Scaner</string>
     <string name="alipay_sdk_minute_refresh">Reîmprospătează în fiecare minut</string>
@@ -335,6 +336,9 @@
     <string name="express_booking_txt">Livrare expres a comenzii</string>
     <string name="express_cainiao_banner">Furnizat de Cainiao</string>
     <string name="express_cancel_order">Renunțați</string>
+    <string name="express_card_item_desc_no_info">Nicio informație</string>
+    <string name="express_card_item_number_prefix">Numărul comenzii: %s</string>
+    <string name="express_card_item_source_prefix">De la %s</string>
     <string name="express_code_txt">Cod:</string>
     <string name="express_company_list_empty">Nicio companie</string>
     <string name="express_company_phone_prefix">"Contact: "</string>
@@ -750,6 +754,7 @@ Unele comenzi trimise prin SF Express de către vânzători din afara Taobao, Tm
     <string name="mi_sport">Mi Fit</string>
     <string name="mi_sport_go_install">Descărcați</string>
     <string name="mi_wallet">Portofel Mi</string>
+    <string name="mini_cancel">Renunțați</string>
     <string name="miot_device_add_device">Adăugați un dispozitiv</string>
     <string name="miot_device_all_device">Toate dispozitivele</string>
     <string name="miot_device_cancel">Renunțați</string>
@@ -847,7 +852,6 @@ Unele comenzi trimise prin SF Express de către vânzători din afara Taobao, Tm
     <string name="notification_content_fail_stay_longer">Rămâneți pe pagina de plăți cel puțin o secundă</string>
     <string name="notification_content_success">Plată de %2$s CNY în %1$s</string>
     <string name="notification_express_app_open">Activați</string>
-    <string name="notification_express_content">Urmăriți comenzile utilizând Asistentul inteligent</string>
     <string name="notification_express_title">Activați cardurile pentru aplicațiile de cumpărături</string>
     <string name="notification_title">Adăugat la Favorite</string>
     <string name="notification_title_fail">"Nu s-a putut adăuga plata"</string>
@@ -898,7 +902,6 @@ Unele comenzi trimise prin SF Express de către vânzători din afara Taobao, Tm
     <string name="payment_pref_source_wechat_summary">Obțineți informații despre plăți din WeChat</string>
     <string name="payment_pref_source_wechat_title">WeChat</string>
     <string name="payment_privacy_dialog_cancel">Ieșiți</string>
-    <string name="payment_privacy_dialog_message">"\"Plățile mele\" vă permite să colectați facturi din toate aplicațiile de plăți într-un singur loc. Toate informațiile despre plăți vor fi criptate și stocate în siguranță pe telefonul dvs. Acestea nu vor fi sincronizate în Mi Cloud sau încărcate pe alte servere. Puteți dezactiva \"Plățile mele\" din Setări sau elimina acest card din Asistentul inteligent pentru a nu mai utiliza acest serviciu. Sunteți de acord?"</string>
     <string name="payment_privacy_dialog_ok">De acord</string>
     <string name="payment_privacy_dialog_title">Politica de Confidențialitate \"Plățile mele\"</string>
     <string name="payment_record_add">Adăugați o plată</string>
@@ -1125,7 +1128,7 @@ Unele comenzi trimise prin SF Express de către vânzători din afara Taobao, Tm
     <string name="stock_web_lable">Stocuri</string>
     <string name="study_parent">Studiați</string>
     <string name="system_favorite_dialog_link">Securitate și confidențialitate</string>
-    <string name="system_favorite_dialog_message">Adăugați favoritele din alte aplicații aici.</string>
+    <string name="system_favorite_dialog_message">Elementele favoritele din alte aplicații și servicii vor fi adăugate la Asistentul inteligent. Permiteți?</string>
     <string name="system_favorite_dialog_negative">Renunțați</string>
     <string name="system_favorite_dialog_positive">Permiteți</string>
     <string name="system_favorite_dialog_title_confirm">Favorite</string>

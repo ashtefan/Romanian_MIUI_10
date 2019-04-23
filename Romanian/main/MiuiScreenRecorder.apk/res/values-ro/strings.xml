@@ -72,6 +72,10 @@
     <string name="show_hard_key_summary">Se indică apăsarea butoanelor Acasă, Meniu și Înapoi</string>
     <string name="show_screen_touch">Afișează atingerile ecranului</string>
     <string name="show_screen_touch_summary">Se indică atingerile ecranului printr-un punct alb</string>
+    <string name="size_byte">B</string>
+    <string name="size_gigabyte">GB</string>
+    <string name="size_kilobyte">KB</string>
+    <string name="size_megabyte">MB</string>
     <string name="sound_source">Sursă sunet</string>
     <string name="sound_source_summary">Sunete de sistem sau microfon</string>
     <string name="sound_source_summary_without_system_sounds">Utilizați microfonul sau opriți sunetele</string>
@@ -87,4 +91,5 @@
     <string name="unchecked">Neselectat</string>
     <string name="using_record_confirm_cancel">Restricționați</string>
     <string name="using_record_confirm_ok">Permiteți</string>
+    <string name="warning_recording_when_a2dp_connect">"Dispozitivul dvs. nu suportă înregistrarea sunetelor de sistem cât timp se utilizează căștile Bluetooth."</string>
 </resources>

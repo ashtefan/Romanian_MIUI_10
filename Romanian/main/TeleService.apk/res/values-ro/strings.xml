@@ -789,7 +789,7 @@ Sample Rate"</string>
     <string name="fdn_list_with_label">Listă FDN (%s)</string>
     <string name="fdn_summary">Restricționați apelarea numerelor din lista FDN sau a numerelor cu anumite prefixe</string>
     <string name="fdn_with_label">Numere cu apelare fixată (%s)</string>
-    <string name="flash_when_ring_summary">Iluminare intermitentă a LED-ului de notificare la apelurile primite</string>
+    <string name="flash_when_ring_summary">Utilizați lanterna pentru a notifica despre apelurile primite</string>
     <string name="flash_when_ring_title">LED activ la apelurile primite</string>
     <string name="force_allow_on_external">Forțați permisiunile aplicației externe</string>
     <string name="force_allow_on_external_summary">Permite oricărei aplicații să fie scrisă în memoria externă, fără a se ține cont de valorile atribuite</string>
@@ -959,7 +959,7 @@ Doriţi să comutaţi oricum către un nou furnizor de servicii?"</string>
     <string name="missed_call_notify_once">O dată</string>
     <string name="missed_call_notify_ten_times">De 10 ori</string>
     <string name="missed_call_notify_thrice">De 3 ori</string>
-    <string name="missed_call_notify_times_summary">Selectaţi de câte ori doriţi să vi se amintească despre apelurile nepreluate (memento-urile sunt separate de intervale a câte 5 minute)</string>
+    <string name="missed_call_notify_times_summary">Memento-urile sunt separate de intervale a câte 5 minute</string>
     <string name="missed_call_notify_times_title">Memento apel nepreluat</string>
     <string name="missed_call_notify_twice">De 2 ori</string>
     <string name="miui_network_selection_reset_text">Resetați</string>
@@ -1322,7 +1322,7 @@ Cartela SIM va fi blocată după o altă încercare greşită."</string>
     <string name="respond_via_sms_canned_response_2">Te sun imediat înapoi.</string>
     <string name="respond_via_sms_canned_response_3">Te sun mai târziu.</string>
     <string name="respond_via_sms_canned_response_4">Nu pot vorbi acum. Vorbim mai târziu?</string>
-    <string name="respond_via_sms_cannot_empty">Mesajele de respingere nu pot fi necompletate</string>
+    <string name="respond_via_sms_cannot_empty">"Mesajul de respingere nu poate fi necompletat"</string>
     <string name="respond_via_sms_confirmation_format">Mesajul a fost trimis la %s.</string>
     <string name="respond_via_sms_edittext_dialog_title">Răspuns rapid</string>
     <string name="respond_via_sms_menu_reset_default_activity">Restabiliți valorile implicite</string>
@@ -1679,6 +1679,16 @@ Această tabletă nu are difuzor. Puteți comuta la modul mâini-libere sau util
     <string name="volte_switch_title">VoLTE activat</string>
     <string name="volte_switch_title_ct">VoLTE activat</string>
     <string name="volte_tips_when_turn_on">Serviciile VoLTE China Telecom sunt oferite doar în zonele cu acoperire LTE.</string>
+    <string name="vowifi_emergency_notification_channel">Avertisment Apelare de urgență prin Wi-Fi</string>
+    <string name="vowifi_emergency_notification_content">Apelurile de urgență sunt posibile în zonele cu acoperire a rețelei mobile</string>
+    <string name="vowifi_emergency_notification_title">Apelare prin Wi-Fi Vodafone</string>
+    <string name="vowifi_emergency_warning_check">"Nu arăta din nou"</string>
+    <string name="vowifi_emergency_warning_message">"Apelarea prin Wi-Fi nu se poate utiliza pentru apelurile de urgență.
+
+Telefonul dvs. va comuta în mod automat la o rețea mobilă (2G/3G) pentru a realiza un apel de urgență.
+
+Apelurile de urgență sunt posibile în zonele cu acoperire a rețelei mobile."</string>
+    <string name="vowifi_emergency_warning_title">Apeluri de urgență prin Apelare Wi-Fi</string>
     <string name="vpn_settings_not_available">Setările VPN nu sunt disponibile pentru acest utilizator</string>
     <string name="vvm_unsupported_message_format">Tip de mesaj nesuportat, apelați %s pentru a-l asculta.</string>
     <string name="wait_for_debugger">Așteaptă depanarea</string>
@@ -1712,7 +1722,9 @@ Această tabletă nu are difuzor. Puteți comuta la modul mâini-libere sau util
     <string name="wifi_auth_password_wrong">Parola poate fi incorectă</string>
     <string name="wifi_auto_sel_wapi_cert">Selectează în mod automat</string>
     <string name="wifi_call_setting">Apeluri prin Wi-Fi</string>
-    <string name="wifi_calling">Apelare Wi-Fi</string>
+    <string name="wifi_call_setting_vodafone_de">Apelare prin Wi-Fi</string>
+    <string name="wifi_call_setting_vodafone_uk">Apel Wi-Fi</string>
+    <string name="wifi_calling">Apelare prin Wi-Fi</string>
     <string name="wifi_connected_no_internet">Conectat, fără Internet</string>
     <string name="wifi_disabled_by_recommendation_provider">Neconectat datorită calității slabe a rețelei</string>
     <string name="wifi_disabled_generic">Dezactivat</string>
@@ -1761,7 +1773,7 @@ Vă rugăm verificați validitatea certificatelor"</string>
 Stocarea credențialelor poate fi inactivă"</string>
     <string name="wifi_wapi_psk_type">Tipul parolei</string>
     <string name="wifi_wapi_user_certificate">Certificat utilizator</string>
-    <string name="wificall_switch_summary">Telefonul va comuta între Wi-Fi și VoLTE atunci când conexiunea este slabă</string>
+    <string name="wificall_switch_summary">Utilizați Wi-Fi pentru a suna și a primi apeluri atunci când este posibil</string>
     <string name="wificall_switch_title">Apelați utilizând rețelele Wi-Fi</string>
     <string name="wild_prompt_str">Înlocuiți metacaracterele cu</string>
     <string name="window_animation_scale_title">Scală animație fereastră</string>

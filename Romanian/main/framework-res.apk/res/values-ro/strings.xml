@@ -1033,8 +1033,8 @@ Contactaţi furnizorul de servicii pentru a obţine o altă cartelă SIM."</stri
      <string name="permdesc_requestInstallPackages">Permite unei aplicații să solicite instalarea pachetelor.</string>
      <string name="permdesc_route_media_output">Permite unei aplicaţii să direcţioneze rezultate media către alte dispozitive externe.</string>
     <string name="permdesc_runInBackground">Această aplicație poate rula în fundal. Acest lucru poate descărca mai rapid acumulatorul.</string>
-     <string name="permdesc_sdcardRead">Permite aplicației citirea conținutului de pe stocarea USB.</string>
-     <string name="permdesc_sdcardWrite">Permite aplicaţiei să scrie în stocarea USB.</string>
+     <string name="permdesc_sdcardRead">Permite aplicației citirea conținutului de pe cardul SD.</string>
+     <string name="permdesc_sdcardWrite">Permite aplicaţiei să scrie pe cardul SD.</string>
      <string name="permdesc_sendSms">Permite aplicaţiei să trimită mesaje SMS, ceea ce ar putea determina apariţia unor taxe neaşteptate. Aplicaţiile rău intenţionate pot genera costuri prin trimiterea mesajelor fără confirmarea dvs.</string>
      <string name="permdesc_setAlarm">Permite aplicaţiei să seteze o alarmă într-o aplicaţie de ceas cu alarmă instalată. Este posibil ca unele aplicaţii de ceas cu alarmă să nu implementeze această funcţie.</string>
      <string name="permdesc_setInputCalibration">Permite aplicației să modifice parametrii de calibrare ai ecranului. Nu ar trebui să fie niciodată necesară pentru aplicaţii obişnuite.</string>
@@ -1161,8 +1161,8 @@ pentru contul %s."</string>
      <string name="permlab_requestInstallPackages">solicitare instalare pachete</string>
      <string name="permlab_route_media_output">direcţionarea rezultatelor media</string>
     <string name="permlab_runInBackground">rulare în fundal</string>
-     <string name="permlab_sdcardRead">citirea conţinutului stocării USB</string>
-     <string name="permlab_sdcardWrite">modificare sau ştergere a conţinutului stocării USB</string>
+     <string name="permlab_sdcardRead">citirea conţinutului cardului SD</string>
+     <string name="permlab_sdcardWrite">modificare sau ştergere a conţinutului cardului SD</string>
      <string name="permlab_sendSms">trimitere și citire mesaje SMS</string>
      <string name="permlab_setAlarm">setare alarmă</string>
      <string name="permlab_setInputCalibration">modifice datele de intrare pentru calibrarea dispozitivului</string>
@@ -1250,7 +1250,7 @@ pentru contul %s."</string>
      <string name="print_service_installed_title">Serviciul %s a fost instalat</string>
      <string name="profile_encrypted_detail">Profilul Servici este blocat</string>
      <string name="profile_encrypted_message">Atingeți pentru a debloca profilul Servici</string>
-     <string name="progress_erasing">Se şterge stocarea USB…</string>
+     <string name="progress_erasing">Se şterge cardul SD…</string>
      <string name="prohibit_manual_network_selection_in_gobal_mode">false</string>
      <string name="quick_contacts_not_available">Nu s-a găsit nicio aplicație pentru vizualizarea contactului.</string>
      <string name="reason_service_unavailable">Serviciul de printare nu este activat</string>
@@ -1497,13 +1497,13 @@ Ascultarea la volum ridicat pentru perioade lungi de timp vă poate afecta auzul
      <string name="usb_ptp_notification_title">Conectat ca aparat foto</string>
      <string name="usb_storage_activity_title">Stocare în masă USB</string>
      <string name="usb_storage_button_mount">Activați stocarea USB</string>
-     <string name="usb_storage_error_message">"Este o problemă cu utilizarea stocării USB ca și stocare în masă."</string>
-     <string name="usb_storage_message">"V-ați conectat la computer prin USB. Atingeți butonul de mai jos dacă doriți să copiați fișiere între computer și stocarea USB Android."</string>
+     <string name="usb_storage_error_message">"Este o problemă cu utilizarea cardului SD ca și stocare în masă."</string>
+     <string name="usb_storage_message">"V-ați conectat la computer prin USB. Atingeți butonul de mai jos dacă doriți să copiați fișiere între computer și cardul SD Android."</string>
      <string name="usb_storage_notification_message">Atingeți pentru a copia fișiere în/din computer.</string>
      <string name="usb_storage_notification_title">USB conectat</string>
      <string name="usb_storage_stop_button_mount">Dezactivați stocarea USB</string>
      <string name="usb_storage_stop_error_message">"A apărut o problemă la dezactivarea stocării USB. Verificați dacă ați demontat mediul de stocare din USB, apoi încercați din nou"</string>
-     <string name="usb_storage_stop_message">"Înainte de a dezactiva stocarea USB, demontați (\"eject\") stocarea USB Android de la computer."</string>
+     <string name="usb_storage_stop_message">"Înainte de a dezactiva stocarea USB, demontați (\"eject\") cardul SD Android de la computer."</string>
      <string name="usb_storage_stop_notification_message">Atingeți pentru a dezactiva stocarea USB.</string>
      <string name="usb_storage_stop_notification_title">Dezactivați stocarea USB</string>
      <string name="usb_storage_stop_title">Stocare USB în uz</string>

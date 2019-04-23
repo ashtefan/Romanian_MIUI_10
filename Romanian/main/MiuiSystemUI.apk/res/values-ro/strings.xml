@@ -50,6 +50,7 @@
     <string name="accessibility_action_divider_top_full">Ecran complet sus</string>
     <string name="accessibility_airplane_mode">Mod Avion</string>
     <string name="accessibility_ambient_display_charging">Se încarcă</string>
+    <string name="accessibility_aspect_button">Mod Ecran complet</string>
     <string name="accessibility_assistant">Asistent ecran</string>
     <string name="accessibility_back">Înapoi</string>
     <string name="accessibility_battery_details">Vedeți detalii despre acumulator</string>
@@ -122,7 +123,8 @@
     <string name="accessibility_home">Ecranul de pornire</string>
     <string name="accessibility_ime_switch_button">Buton comutare metodă de introducere.</string>
     <string name="accessibility_key">Buton personalizat de navigare</string>
-    <string name="accessibility_left_button">Scurtătură</string>
+    <string name="accessibility_left_control_center_button">Scurtătură</string>
+    <string name="accessibility_left_lock_screen_magazine_button">Carusel de imagini de fundal</string>
     <string name="accessibility_location_active">Solicitare de localizare activă</string>
     <string name="accessibility_managed_profile">Profil Serviciu</string>
     <string name="accessibility_menu">Meniu</string>
@@ -299,6 +301,10 @@
     <string name="app_process_limit_title">Limitare procese de sistem</string>
     <string name="as_important">Important</string>
     <string name="as_unimportant">Neimportant</string>
+    <string name="aspect_cancel">Renunțați</string>
+    <string name="aspect_message">Această aplicație va fi lansată din nou în modul Ecran complet. Dacă întâmpinați vreo problemă, puteți dezactiva modul Ecran complet pentru această aplicație din Setări &gt; Afișare Ecran complet &gt; Mod Ecran complet.</string>
+    <string name="aspect_ok">OK</string>
+    <string name="aspect_title">Mod Ecran complet</string>
     <string name="audio_effect_custom">Configuraţi</string>
     <string name="audio_effect_info">Optimizaţi sunetul</string>
     <string name="audio_effect_settings">Selectaţi tipul căştilor</string>
@@ -450,6 +456,7 @@ Sample Rate"</string>
     <string name="clock">Ceas</string>
     <string name="clock_12hr_format">hm</string>
     <string name="clock_24hr_format">Hm</string>
+    <string name="clock_city_name_local">Local</string>
     <string name="clock_seconds">Afișează secundele</string>
     <string name="clock_seconds_desc">Arată secundele în bara de stare. Poate influența durata de viață a acumulatorului.</string>
     <string name="compat_mode_off">Extindeți pentru a umple ecranul</string>
@@ -517,6 +524,7 @@ Dacă reactivaţi datele, puteţi fi taxat de către operator.</string>
     <string name="description_direction_up">Glisaţi în sus pt. %s</string>
     <string name="description_image_button_answer">Răspundeți</string>
     <string name="description_image_button_reject">Respingeți</string>
+    <string name="description_image_icon_sim_card">SIM %1$d</string>
     <string name="description_target_search">Căutaţi</string>
   <string name="dessert_case">Dessert Case</string>
     <string name="dev_logpersist_clear_warning_message">Când nu mai monitorizăm cu logger-ul persistent, trebuie să ștergem datele reziduale de pe dispozitiv.</string>
@@ -593,21 +601,21 @@ Dacă reactivaţi datele, puteţi fi taxat de către operator.</string>
     <string name="expanded_header_battery_not_charging">Nu se încarcă</string>
     <string name="expanded_notification_manager">Gestionare notificări</string>
     <string name="experimental">Experimental</string>
-    <string name="ext_media_badremoval_notification_message">Demontaţi stocarea USB înainte de eliminare pentru a evita pierderea datelor.</string>
-    <string name="ext_media_badremoval_notification_title">Stocarea USB a fost eliminată în mod neaşteptat</string>
+    <string name="ext_media_badremoval_notification_message">Demontaţi cardul SD înainte de eliminare pentru a evita pierderea datelor.</string>
+    <string name="ext_media_badremoval_notification_title">Cardul SD a fost eliminat în mod neaşteptat</string>
     <string name="ext_media_checking_notification_message">Verificare erori</string>
-    <string name="ext_media_checking_notification_title">Pregătire stocare USB</string>
+    <string name="ext_media_checking_notification_title">Pregătire card SD</string>
     <string name="ext_media_mountable_notification_message">Atingeţi pentru deschiderea în Exploratorul de fișiere</string>
     <string name="ext_media_mountable_notification_title">Dispozitiv de stocare USB conectat</string>
-    <string name="ext_media_nofs_notification_message">Stocare USB goală sau cu un sistem de fișiere neacceptat.</string>
-    <string name="ext_media_nofs_notification_title">Stocare USB goală</string>
-    <string name="ext_media_nomedia_notification_message">Stocare USB eliminată. Introduceți altul.</string>
-    <string name="ext_media_nomedia_notification_title">Stocare USB eliminată</string>
+    <string name="ext_media_nofs_notification_message">Card SD gol sau cu un sistem de fișiere neacceptat.</string>
+    <string name="ext_media_nofs_notification_title">Card SD gol</string>
+    <string name="ext_media_nomedia_notification_message">Card SD eliminat. Introduceți altul.</string>
+    <string name="ext_media_nomedia_notification_title">Card SD eliminat</string>
     <string name="ext_media_safe_remove">Eliminaţi în siguranţă</string>
-    <string name="ext_media_safe_unmount_notification_message">Stocarea USB poate fi eliminată în siguranţă</string>
-    <string name="ext_media_safe_unmount_notification_title">Stocarea USB poate fi eliminată în siguranţă</string>
-    <string name="ext_media_unmountable_notification_message">Stocare USB deteriorată. Va trebui s-o formatați.</string>
-    <string name="ext_media_unmountable_notification_title">Stocare USB deteriorată</string>
+    <string name="ext_media_safe_unmount_notification_message">Cardul SD poate fi eliminat în siguranţă</string>
+    <string name="ext_media_safe_unmount_notification_title">Cardul SD poate fi eliminat în siguranţă</string>
+    <string name="ext_media_unmountable_notification_message">Card SD deteriorat. Va trebui să-l formatați.</string>
+    <string name="ext_media_unmountable_notification_title">Card SD deteriorat</string>
     <string name="external_source_trusted">Permisă</string>
     <string name="external_source_untrusted">Nepermisă</string>
     <string name="face_data_input_camera_fail">"Nu s-a putut încărca camera"</string>
@@ -630,6 +638,7 @@ Dacă reactivaţi datele, puteţi fi taxat de către operator.</string>
     <string name="face_data_manage_delete_sure">"Nu veți mai putea debloca telefonul utilizând datele faciale după ce o veți șterge."</string>
     <string name="face_data_manage_delete_title">Date faciale</string>
     <string name="face_data_manage_unlock_msg">Deblocați telefonul utilizând datele faciale</string>
+    <string name="face_data_manage_unlock_slide_msg">Înlocuiți glisarea cu deblocarea facială</string>
     <string name="face_data_manage_unlock_title">Deblocare utilizând datele faciale</string>
     <string name="face_data_siggesstion_next">Următorul</string>
     <string name="face_data_siggesstion_next_time">Următorul (%ds)</string>
@@ -644,6 +653,7 @@ Dacă reactivaţi datele, puteţi fi taxat de către operator.</string>
     <string name="face_unlock_down">Ridicați capul</string>
     <string name="face_unlock_identify_error">A apărut o eroare de recunoaștere</string>
     <string name="face_unlock_not_found">"Nu v-am putut recunoaște"</string>
+    <string name="face_unlock_not_roi">Încadrați chipul în interiorul ramei</string>
     <string name="face_unlock_offset_bottom">Coborâți puțin telefonul</string>
     <string name="face_unlock_offset_left">Mișcați-vă către dreapta</string>
     <string name="face_unlock_offset_right">Mișcați-vă către stânga</string>
@@ -719,6 +729,7 @@ Dacă reactivaţi datele, puteţi fi taxat de către operator.</string>
     <string name="guest_wipe_session_message">Doriți să continuați sesiunea?</string>
     <string name="guest_wipe_session_title">Bine ai revenit, vizitatorule!</string>
     <string name="guest_wipe_session_wipe">Reluați</string>
+    <string name="gxzw_long_press_tip"/>
     <string name="gxzw_press_harder">Apăsați un pic mai tare</string>
     <string name="gxzw_try_again">Încercați din nou</string>
     <string name="gxzw_try_more_again">Încercați din nou</string>
@@ -1008,10 +1019,12 @@ Utilizați doar încărcătorul furnizat de producător."</string>
     <string name="lock_screen_carrier_airplane_mode_on">Mod Avion</string>
     <string name="lock_screen_date">EEEE, d MMMM</string>
     <string name="lock_screen_date_12">EEEE, d MMMM</string>
+    <string name="lock_screen_magazine_default_content">Porția zilnică de imagini noi</string>
+    <string name="lock_screen_magazine_default_title">Carusel de imagini de fundal</string>
+    <string name="lock_screen_magazine_global_button_text">Mai multe</string>
     <string name="lock_screen_no_sim_card_emergency_only">Doar apeluri de urgență</string>
     <string name="lock_screen_no_sim_card_no_service">Fără serviciu</string>
     <string name="lock_wallpaper_enter">Introduceți</string>
-    <string name="lock_wallpaper_learn_more">Mai multe</string>
     <string name="lockscreen_access_pattern_area">Zonă model.</string>
     <string name="lockscreen_access_pattern_cell_added">Celulă adăugată</string>
     <string name="lockscreen_access_pattern_cell_added_verbose">Celula %1$s a fost adăugată</string>
@@ -1238,7 +1251,8 @@ De asemenea, sunteți conectat la o rețea VPN, care vă poate monitoriza activi
     <string name="oldman_incall_text">Reluare apel</string>
     <string name="open_camera_hint_text">Glisați spre stânga pentru a accesa Camera</string>
     <string name="open_extreme_power_save_mode_title">Activați modul Extrem de economisire a acumulatorului</string>
-    <string name="open_remote_center_hint_text">Glisați spre dreapta pentru a deschide Scurtăturile</string>
+    <string name="open_lock_screen_magazine_hint_text">Glisați spre dreapta pentru mai multe opțiuni</string>
+    <string name="open_remote_center_hint_text">Glisați spre dreapta pentru a accesa scurtăturile</string>
     <string name="orb_search_action">Căutați o Acțiune</string>
     <string name="other">Altele</string>
     <string name="overlay_display_devices_title">Simulare ecrane secundare</string>
@@ -1335,7 +1349,6 @@ De asemenea, sunteți conectat la o rețea VPN, care vă poate monitoriza activi
     <string name="quick_settings_batterysaver_label">Economisire acumulator</string>
     <string name="quick_settings_bluetooth_detail_empty_text">Niciun dispozitiv asociat disponibil</string>
     <string name="quick_settings_bluetooth_label">Bluetooth</string>
-    <string name="quick_settings_bluetooth_multiple_devices_label">Bluetooth (%d Dispozitive)</string>
     <string name="quick_settings_bluetooth_off_label">Bluetooth-ul este oprit</string>
     <string name="quick_settings_brightness_dialog_auto_brightness_label">AUTO</string>
     <string name="quick_settings_brightness_dialog_title">Iluminare</string>
@@ -1378,7 +1391,7 @@ De asemenea, sunteți conectat la o rețea VPN, care vă poate monitoriza activi
     <string name="quick_settings_done">Terminat</string>
     <string name="quick_settings_drivemode_label">Mod Automobil</string>
     <string name="quick_settings_dual_location_label">GPS dual</string>
-    <string name="quick_settings_edit_label">Mai multe</string>
+    <string name="quick_settings_edit_label">Editați</string>
     <string name="quick_settings_extreme_batterysaver_label">Modul Extrem de economisire a acumulatorului</string>
     <string name="quick_settings_flashlight_label">Lanternă</string>
     <string name="quick_settings_gps_label">GPS</string>
@@ -1418,6 +1431,8 @@ De asemenea, sunteți conectat la o rețea VPN, care vă poate monitoriza activi
     <string name="quick_settings_settings_label">Setări</string>
     <string name="quick_settings_sync_label">Sincronizare</string>
     <string name="quick_settings_tethering_label">Tethering</string>
+  <string name="quick_settings_tiles_default">celulă,wi-fi,lanternă,mut,captură de ecran,bt,iluminare automată,avion,screenlock,gps,rotation,papermode,quietmode,batterysaver,extremebatterysaver,drivemode,powermode,vibrate,hotspot,sync,screenbutton,nfc,edit</string>
+  <string name="quick_settings_tiles_stock">cell,wifi,flashlight,mute,screenshot,bt,autobrightness,airplane,screenlock,gps,rotation,papermode,quietmode,batterysaver,extremebatterysaver,drivemode,powermode,vibrate,hotspot,sync,screenbutton,nfc,edit</string>
     <string name="quick_settings_time_label">Ora</string>
     <string name="quick_settings_toast_drag_to_enable_custom_tile">Pentru a adăuga un element, apăsați și mențineți apăsat iar apoi mutați-l în partea de sus a panoului.</string>
     <string name="quick_settings_user_label">Eu</string>
@@ -1462,6 +1477,13 @@ De asemenea, sunteți conectat la o rețea VPN, care vă poate monitoriza activi
     <string name="recents_multistack_add_stack_dialog_split_vertical">Scindare pe verticală</string>
     <string name="recents_search_bar_label">Căutați</string>
     <string name="recents_stack_action_button_label">Eliminați tot</string>
+    <string name="recents_title_app_manager">Gestionați aplicații</string>
+    <string name="recents_title_game">Jocuri</string>
+    <string name="recents_title_garbage_cleanup">Curățare</string>
+    <string name="recents_title_garbage_deepclean">Curățare profundă</string>
+    <string name="recents_title_market">Găsiți aplicații</string>
+    <string name="recents_title_security_scan">Scanare de securitate</string>
+    <string name="regrettable_lack_of_easter_egg">¯\\_(ツ)_/¯</string>
     <string name="reject_call">Respingere apel</string>
     <string name="remaining_length_format">%1$s rămas</string>
     <string name="remove_from_settings">Eliminați din Setări</string>
@@ -1574,7 +1596,7 @@ monitorizată"</string>
     <string name="status_bar_clear_all_button">Goliți</string>
     <string name="status_bar_clock_date_format">EEEE, d MMMM</string>
     <string name="status_bar_clock_date_format_12">EEEE, d MMMM</string>
-    <string name="status_bar_clock_date_time_format">H:mm d MMMM</string>
+    <string name="status_bar_clock_date_time_format">H:mm E, d MMMM</string>
     <string name="status_bar_clock_date_time_format_12">h:mm aa, E, d MMM</string>
     <string name="status_bar_date_format">"EEEE
 d MMMM"</string>
@@ -1630,6 +1652,7 @@ Glisaţi în jos pentru a bloca"</string>
     <string name="stream_system">Sistem</string>
     <string name="stream_system_enforced">Sistem impus</string>
     <string name="stream_tts">Transmis Prin Difuzor</string>
+    <string name="stream_voice_assist">Asistent vocal</string>
     <string name="stream_voice_call">Apel</string>
     <string name="strict_mode">Modul Strict activat</string>
     <string name="strict_mode_summary">Afișează operațiunile lungi pe firul principal</string>
@@ -1687,7 +1710,7 @@ Glisaţi în jos pentru a bloca"</string>
     <string name="structure_face_unlock_tof_covered">"Nu s-au putut adăuga datele faciale. Îndepărtați-vă de ecran."</string>
     <string name="switch_bar_off">Oprită</string>
     <string name="switch_bar_on">Pornită</string>
-    <string name="switch_system_user">Treceți la Spațiul principal</string>
+    <string name="switch_system_user">Înapoi la Spațiul principal</string>
     <string name="system_ui_tuner">Tuner interfață de sistem</string>
     <string name="task_access_locked_app_msg">Blocarea aplicației este activată.</string>
     <string name="telephony_monitor_switch">Monitorizare Telefon</string>
@@ -1805,11 +1828,11 @@ Telefonul se poate încălzi dacă:
     <string name="usb_preference_title">Opțiuni de transfer fișiere prin USB</string>
     <string name="usb_ptp_text">Fotografii</string>
     <string name="usb_share_net_info">Utilizaţi conexiunea la internet de pe computer</string>
-    <string name="usb_storage_error_message">Este o problemă cu cardul SD.</string>
-    <string name="usb_storage_message">V-ați conectat la computer prin USB. Atingeți butonul de mai jos dacă doriți să transferați fișiere între computer și cardul SD.</string>
+    <string name="usb_storage_error_message">"Este o problemă cu cardul SD."</string>
+    <string name="usb_storage_message">"V-ați conectat la computer prin USB. Atingeți butonul de mai jos dacă doriți să transferați fișiere între computer și cardul SD Android."</string>
     <string name="usb_storage_notification_message">Selectaţi pentru a copia fişiere în/din computerul dvs..</string>
     <string name="usb_storage_notification_title">USB conectat</string>
-    <string name="usb_storage_stop_message">Înainte de a dezactiva stocarea USB, asiguraţi-vă că aţi eliminat în siguranţă stocarea USB din computer.</string>
+    <string name="usb_storage_stop_message">"Înainte de a dezactiva stocarea USB, asiguraţi-vă că aţi eliminat în siguranţă cardul SD din computer.</string>
     <string name="usb_storage_stop_notification_message">Selectaţi pentru a dezactiva stocarea USB.</string>
     <string name="usb_storage_stop_notification_title">Dezactivaţi stocarea USB</string>
     <string name="usb_storage_stop_title">Stocare USB în uz</string>

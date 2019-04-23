@@ -258,6 +258,18 @@ Dacă activați din nou datele mobile, operatorul vă poate taxa pentru trafic s
         <item quantity="other">"Ațteptați %d secunde și încercați din nou. "</item>
         <item quantity="one">"Așteptați %d secundă și încercați din nou. "</item>
     </plurals>
+    <plurals name="lockpattern_recording_incorrect_too_short">
+        <item quantity="other">Conectați cel puțin %d puncte</item>
+        <item quantity="one">Conectați cel puțin %d punct</item>
+    </plurals>
+    <plurals name="numeric_recording_incorrect_too_short">
+        <item quantity="other">Introduceți cel puțin %d cifre</item>
+        <item quantity="one">Introduceți cel puțint %d cifră</item>
+    </plurals>
+    <plurals name="mixed_recording_incorrect_too_short">
+        <item quantity="other">Introduceți cel puțin %d caractere</item>
+        <item quantity="one">Introduceți cel puțin %d caracter</item>
+    </plurals>
     <plurals name="number_masked">
         <item quantity="other">%d aplicații</item>
         <item quantity="one">%d aplicație</item>
@@ -358,10 +370,6 @@ Dacă activați din nou datele mobile, operatorul vă poate taxa pentru trafic s
     <plurals name="privacy_apps_disable_header_title">
         <item quantity="other">%d aplicații sunt ascunse</item>
         <item quantity="one">%d aplicație este ascunsă</item>
-    </plurals>
-    <plurals name="first_aid_card_float_window_summary">
-        <item quantity="other">%d aplicații pot fi afișate incorect. Restricționați afișarea notificărilor plutitoare.</item>
-        <item quantity="one">%d aplicație poate fi afișată incorect. Restricționați afișarea notificărilor plutitoare.</item>
     </plurals>
     <plurals name="first_aid_result_summary_exception">
         <item quantity="other">%1$d probleme necesită optimizare</item>

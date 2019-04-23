@@ -471,6 +471,11 @@
     <string name="tax_credit_mortgage">Credit ipotecar</string>
     <string name="tax_credit_personal_income_tax">Impozitul pe venitul personal</string>
   <string name="tax_credit_pretax_income">Venit înainte de impozitare (CNY)</string>
+    <string name="tax_detail">Detalii taxare</string>
+    <string name="tax_detail_amount">Suma de taxare</string>
+    <string name="tax_detail_rate">Rata de taxare</string>
+    <string name="tax_detail_take_off">Deducție</string>
+    <string name="tax_detail_tax_payed">Suma plătită</string>
     <string name="tax_edittext_hint"/>
     <string name="tax_endowment">Fondul la pensionare</string>
     <string name="tax_fixed_salary_hint">Introduceți venitul de dinainte de impozitare</string>
@@ -485,11 +490,13 @@
     <string name="tax_individual_income_tax_result">Rezultat</string>
     <string name="tax_injury">Accident</string>
     <string name="tax_insurance_and_fund">Asigurare</string>
+    <string name="tax_insurance_and_fund_detail">Detalii asigurare</string>
     <string name="tax_last_salary_hint">Introduceți venitul dumneavoastră</string>
     <string name="tax_last_salary_number">Venit</string>
     <string name="tax_location">Locație</string>
     <string name="tax_medical">Medicală</string>
     <string name="tax_param_error">Introduceți corect primele de asigurare</string>
+    <string name="tax_payment_period">Numărul de plăți</string>
     <string name="tax_rate_provider">Calculată în funcție de noile reglementări de taxare. Datele sunt furnizate de către hexun.com și East Money.</string>
     <string name="tax_result_real_get">După impozitare</string>
     <string name="tax_social_insurance">Asigurare socială</string>
