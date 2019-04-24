@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="korea_permission_groups_descriptions">
+        <item>Pentru identificarea elementelor sincronizate</item>
+        <item>Pentru sincronizarea mesajelor</item>
+        <item>Pentru sincronizarea contactelor</item>
+        <item>Pentru sincronizarea evenimentelor din calendar</item>
+        <item>Pentru sincronizarea elementelor cu servicii ce folosesc stocarea</item>
+    </string-array>
+    <string-array name="korea_permission_groups_names">
+        <item>Telefon</item>
+        <item>SMS</item>
+        <item>Contacte</item>
+        <item>Calendar</item>
+        <item>Stocare</item>
+    </string-array>
     <string-array name="micloud_entrance_titleArray">
         <item>Sincronizați datele aplicației</item>
         <item>Salvați dispunerea ecranului Acasă</item>

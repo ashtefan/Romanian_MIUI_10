@@ -4461,6 +4461,7 @@ Notă: Nu puteți utiliza amprenta pentru a debloca acest dispozitiv. Pentru mai
     <string name="settings_manual_activity_title">Manual</string>
     <string name="settings_manual_activity_unavailable">A apărut o problemă la încărcarea manuală.</string>
     <string name="settings_notify_need_backup">Faceți o copie de rezervă a setărilor în Mi Cloud pentru a le accesa după ce vă schimbați telefonul.</string>
+    <string name="settings_notify_new_version">Este disponibilă o actualizare. Atingeți pentru a vedea detaliile.</string>
     <string name="settings_notify_phone_recycled">Numărul dvs. de telefon a fost eliminat. Atingeți pentru a adăuga un alt număr de telefon.</string>
     <string name="settings_safetylegal_activity_loading">Se încarcă…</string>
     <string name="settings_safetylegal_activity_title">Informaţii privind siguranţa</string>

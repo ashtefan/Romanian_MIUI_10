@@ -298,6 +298,7 @@
     <string name="menu_pick_from_contact">Selectaţi din contacte</string>
     <string name="menu_preferences">Setări</string>
     <string name="menu_send_as_common">Trimiteţi ca SMS</string>
+    <string name="menu_traffic_destination">Destinație</string>
     <string name="menu_unlock">Eliminaţi din favorite</string>
     <string name="menu_view_contact">Vizualizaţi persoana din agendă</string>
     <string name="message_class_label">"Clasa de mesaj: "</string>
@@ -431,6 +432,7 @@
     <string name="notification_multiple">[%s]</string>
     <string name="notification_multiple_title">Mesaje noi</string>
     <string name="number_add_hint">Introduceţi numărul de telefon</string>
+    <string name="number_recognition_partner">Furnizori de servicii de recunoaștere a ID-ului expeditorului</string>
     <string name="open_audio_record_panel">Deschideți panoul de înregistrare audio</string>
     <string name="open_edit_sms_panel">Deschideți panoul de editare a mesajelor</string>
     <string name="open_url_with_web">Deschideţi acest URL în Browser?</string>
@@ -771,6 +773,7 @@
     <string name="too_many_attachments">Nu se pot depăși %1$s ataşamente. Doar primele %2$s vor fi adăugate.</string>
     <string name="too_many_recipients">Mesajul are prea mulţi destinatari (%1$s). Nu pot fi mai mulţi de %2$s destinatari.</string>
     <string name="too_many_unsent_mms">Mesajul nu poate fi trimis acum. Există prea multe mesaje multimedia netrimise.</string>
+    <string name="train_edit_destination">Adăugați</string>
     <string name="try_to_send">Încercaţi să trimiteţi</string>
     <string name="type_attachment">ataşament</string>
     <string name="type_audio">audio</string>

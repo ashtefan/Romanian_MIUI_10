@@ -238,6 +238,10 @@ Dacă activați din nou datele mobile, operatorul vă poate taxa pentru trafic s
         <item quantity="other">%d zile de la ultima verificare</item>
         <item quantity="one">%d zi de la ultima verificare</item>
     </plurals>
+    <plurals name="hints_scan_danger_result_with_number">
+        <item quantity="other">%d riscuri găsite, remediați-le acum</item>
+        <item quantity="one">%d risc găsit, remediați-l acum</item>
+    </plurals>
     <plurals name="hints_handle_item_text_risk_number">
         <item quantity="other">%d riscuri,</item>
         <item quantity="one">%d risc,</item>

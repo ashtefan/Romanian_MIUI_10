@@ -1241,7 +1241,11 @@ Telefonul dvs. se va bloca automat după o altă încercare greşită!"</string>
     <string name="preferred_network_mode_dialogtitle">Tipul de rețea preferat</string>
     <string name="preferred_network_mode_evdo_only_summary">Mod de reţea preferat: numai EvDo</string>
     <string name="preferred_network_mode_global_summary">Mod de rețea preferat: Global</string>
+    <string name="preferred_network_mode_gsm_only">Doar GSM</string>
     <string name="preferred_network_mode_gsm_only_summary">Mod de reţea preferat: numai GSM</string>
+    <string name="preferred_network_mode_gsm_wcdma_auto">Auto GSM/WCDMA</string>
+    <string name="preferred_network_mode_gsm_wcdma_lte">GSM/WCDMA/LTE</string>
+    <string name="preferred_network_mode_gsm_wcdma_preferred">GSM/WCDMA preferat</string>
     <string name="preferred_network_mode_gsm_wcdma_summary">Mod de reţea preferat: GSM/WCDMA</string>
     <string name="preferred_network_mode_lte_cdma_evdo_summary">Mod de rețea preferat: CDMA+LTE/EVDO</string>
     <string name="preferred_network_mode_lte_cdma_summary">Mod de rețea preferat: LTE / CDMA</string>
@@ -1253,8 +1257,14 @@ Telefonul dvs. se va bloca automat după o altă încercare greşită!"</string>
     <string name="preferred_network_mode_lte_wcdma_choice">LTE / WCDMA</string>
     <string name="preferred_network_mode_lte_wcdma_summary">Mod de rețea preferat: LTE/WCDMA</string>
     <string name="preferred_network_mode_summary">Schimbaţi modul de operare a reţelei</string>
+    <string name="preferred_network_mode_td_scdma_gsm_choice">TD-SCDMA/GSM</string>
+    <string name="preferred_network_mode_td_scdma_gsm_wcdma_lte">TD-SCDMA/GSM/WCDMA/LTE</string>
+    <string name="preferred_network_mode_td_scdma_wcdma_lte">TD-SCDMA/WCDMA/LTE</string>
     <string name="preferred_network_mode_tdscdma_summary">Mod de rețea preferat: TDSCDMA</string>
     <string name="preferred_network_mode_title">Tipul de rețea preferat</string>
+    <string name="preferred_network_mode_wcdma_lte">WCDMA/LTE</string>
+    <string name="preferred_network_mode_wcdma_only">Doar WCDMA</string>
+    <string name="preferred_network_mode_wcdma_only_choice">Doar WCDMA</string>
     <string name="preferred_network_mode_wcdma_only_summary">Mod de reţea preferat: numai WCDMA</string>
     <string name="preferred_network_mode_wcdma_perf_summary">Mod de reţea preferat: de preferat WCDMA</string>
     <string name="preferred_network_restrict_network_changed_incall">"Nu se poate schimba rețeaua mobilă în timpul unui apel"</string>

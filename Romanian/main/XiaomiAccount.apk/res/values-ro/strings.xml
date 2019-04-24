@@ -120,6 +120,7 @@ Trimmiteți acest cod supervizorului."</string>
     <string name="error_dup_binded_email">Această adresă de e-mail este deja asociată cu un alt cont Mi.</string>
     <string name="error_invalid_bind_address">Adresa de e-mail introdusă este incorectă.</string>
     <string name="exceed_binded_phone_times_notice">Acest număr de telefon este asociat deja cu un alt cont Mi.</string>
+    <string name="exit">Ieșiți</string>
     <string name="facebook">Facebook</string>
     <string name="failed_dup_secure_phone_number">Acest număr de telefon este deja asociat cu un alt cont Mi.</string>
     <string name="find_device_access_denied">"Nu s-a putut verifica starea; nu este permis accesul"</string>
@@ -148,12 +149,20 @@ Trimmiteți acest cod supervizorului."</string>
     <string name="get_phone_bind_exceed_limit">"Puteți asocia cel mult 3 conturi Mi cu un număr de telefon. Nu se pot adăuga conturi noi</string>
     <string name="get_phone_verifycode_exceed_limit">Prea multe coduri de verificare au fost trimise la acest număr. Așteptați 24 de ore și încercați din nou.</string>
     <string name="guest_account_label">Cont gazdă Mi</string>
+    <string name="i_agree">OK</string>
+    <string name="i_agree_continue">De acord</string>
     <string name="identity">Identificare</string>
     <string name="inconsistent_pwd">"Parolele nu se potrivesc"</string>
     <string name="input_email_address_notice">"Vom folosi această adresă de e-mail pentru verificarea contului"</string>
     <string name="input_new_pwd">Introduceți noua parolă</string>
     <string name="io_error_title">Confirmați rețeaua personală</string>
     <string name="just_a_second">Doar o secundă…</string>
+    <string name="kr_license_desc">Trebuie să acceptați Acordul Utilizatorului și Politica de Confidențialitate înainte de a utiliza serviciile Cont Mi și Mi Cloud.</string>
+    <string name="kr_permission_contacts_desc">Pentru accesarea informațiilor despre contacte</string>
+    <string name="kr_permission_desc">Permisiuni necesare</string>
+    <string name="kr_permission_phone_desc">Pentru protejarea contului dvs.</string>
+    <string name="kr_permission_sms_desc">Pentru completarea automată a codurilor de verificare</string>
+    <string name="kr_permission_storage_desc">Pentru salvarea jurnalelor</string>
     <string name="loading_micloud_sync_data">Doar o secundă…</string>
     <string name="local_device">(acest telefon)</string>
     <string name="locating_current_location">Se determină localizarea</string>
@@ -195,7 +204,7 @@ Trimmiteți acest cod supervizorului."</string>
     <string name="oauth_scopes_intro">&lt;font color=#%1$s&gt;%2$s&lt;/font&gt; va obține următoarele permisiuni:&lt;br&gt; &lt;br&gt; %3$s</string>
     <string name="oauth_title">Conectați-vă utilizând contul Mi</string>
     <string name="ok">OK</string>
-    <string name="other_devices_title">Alte dispozitive</string>
+    <string name="optional_permissions">Permisiuni opționale</string>
     <string name="passport_Resend">Trimiteți din nou</string>
     <string name="passport_access_denied">Acces refuzat</string>
     <string name="passport_account_hint_text">Adresă de e-mail/Număr de telefon/ID cont Mi</string>
@@ -313,6 +322,7 @@ link-ul din e-mailul pe care vi l-am trimis."</string>
     <string name="passport_phone_ticket_login">Conectare prin cod SMS</string>
     <string name="passport_prev">Înapoi</string>
     <string name="passport_privacy_policy">Politica de confidențialitate</string>
+    <string name="passport_privacy_policy_required">Politica de confidențialitate (obligatoriu)</string>
     <string name="passport_pwd_generate_failure">"Nu s-a putut genera parola"</string>
     <string name="passport_pwd_generating">Generare parolă…</string>
     <string name="passport_querying_phone_info">Se solicită informații despre cont…</string>
@@ -400,6 +410,7 @@ link-ul din e-mailul pe care vi l-am trimis."</string>
     <string name="passport_user_agreement_p2">Acordul de utilizare</string>
     <string name="passport_user_agreement_p3"> şi </string>
     <string name="passport_user_agreement_p4">Politica de confidențialitate</string>
+    <string name="passport_user_agreement_required">Acordul Utilizatorului (obligatoriu)</string>
     <string name="passport_user_id_notice">ID-ul contului dvs Mi este %s.</string>
     <string name="passport_user_reg_region">Țară/Regiune</string>
     <string name="passport_user_reg_region_warning">"Nu veți mai putea modifica țara/regiunea odată ce contul este creat."</string>
@@ -415,7 +426,10 @@ link-ul din e-mailul pe care vi l-am trimis."</string>
     <string name="passport_wrong_vcode">Codul introdus nu este corect</string>
     <string name="passport_wrong_voice">Codul introdus este incorect</string>
     <string name="passport_yes">Da</string>
-    <string name="phone_activated">%s activat</string>
+    <string name="permission_group_contacts">Contacte</string>
+    <string name="permission_group_phone">Telefon</string>
+    <string name="permission_group_sms">SMS</string>
+    <string name="permission_group_storage">Stocare</string>
     <string name="phone_num_use_for">Numărul de telefon este utilizat pentru:</string>
     <string name="photoPickerNotFoundText">Nicio fotografie disponibilă.</string>
     <string name="push_notification_content">Obțineți codul de verificare</string>
@@ -454,7 +468,7 @@ link-ul din e-mailul pe care vi l-am trimis."</string>
     <string name="search_user_detail_desc">Informații personale</string>
     <string name="search_user_detail_path">Setări/Contul Mi/Informații personale</string>
     <string name="search_user_detail_top_key_words">Informații personale,Modificare fotografie de profil,Modificare nume utilizator,Modificare pseudonim,Modificare dată de naștere,Modificare sex</string>
-    <string name="select_location_title">Selectați locația dumneavoastră</string>
+    <string name="select_all">Selectați tot</string>
     <string name="send_diagnosis_log">Trimiteți jurnalul de diagnoză</string>
     <string name="send_email_activate_message">E-mailul de verificare a fost trimis</string>
     <string name="sending">Se trimite…</string>

@@ -88,6 +88,12 @@
     <string name="action_text_readmode_more">Mai multe</string>
     <string name="action_text_readmode_theme_head">Setați fundalul</string>
     <string name="action_text_theme_and_textsize_change">Ajustați dimensiunea fontului și tema</string>
+    <string name="ad_app_download_notification_content">După ce instalarea se finalizează, deschideți demostrația~</string>
+    <string name="ad_app_download_site_new">NOU</string>
+    <string name="ad_exit_dialog_exit_btn_name">ieșiți</string>
+    <string name="ad_exit_dialog_message">Instalarea este finalizată! Doriți să o deschideți acum?</string>
+    <string name="ad_exit_dialog_open_btn_name">deschideți</string>
+    <string name="ad_exit_dialog_title_name">Confirmare deschidere aplicație nouă</string>
     <string name="adblock_force_updating_rules_toast">Se actualizează filtrul pentru reclame</string>
     <string name="adblock_notification">%d anunţuri blocate</string>
     <string name="adblock_rules_not_updated_toast">"Nu s-a putut actualiza"</string>

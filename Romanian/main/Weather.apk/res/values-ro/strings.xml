@@ -201,6 +201,14 @@ Apăsați pe ecran pentru a adăuga manual sau pentru a repoziționa orașul"</s
     <string name="particulate_matter_exceeded">Înalt</string>
     <string name="particulate_matter_not_exceeded">Normal</string>
     <string name="particulate_matter_serious_exceeded">Prea înalt</string>
+    <string name="permission_device_info">Informații despre dispozitiv</string>
+    <string name="permission_device_introduce">Pentru recunoașterea ID-ului dispozitivului bazată pe modelul și IMEI-ul acestuia și furnizarea de servicii localizate în funcție de preferințele de limbă</string>
+    <string name="permission_exit">Ieșiți</string>
+    <string name="permission_privacy">Politica de Confidențialitate (obligatorie)</string>
+    <string name="permission_select_all">Selectați tot</string>
+    <string name="permission_storage">Stocare</string>
+    <string name="permission_storage_introduce">Pentru accesarea elementelor de pe dispozitiv și salvarea fișierelor</string>
+    <string name="permission_user_protocol">Acordul Utilizatorului (obligatoriu)</string>
     <string name="policy_settings">Termeni și condiții</string>
     <string name="precipitation_degree_five">Torențială</string>
     <string name="precipitation_degree_four">Puternică</string>
@@ -290,6 +298,7 @@ Apăsați pe ecran pentru a adăuga manual sau pentru a repoziționa orașul"</s
     <string name="view_indexes_item_tommorrow">Mâine</string>
     <string name="weather_alert_channel_name">Alerte</string>
     <string name="weather_introduce">Întotdeauna alături, pe ploaie sau soare.</string>
+    <string name="weather_permission_agree">Accept</string>
     <string name="weather_service_channel_name">Servicii în fundal</string>
     <string name="wind_direction_no_data">Viteza vântului</string>
     <string name="wind_power_unit_default">0</string>

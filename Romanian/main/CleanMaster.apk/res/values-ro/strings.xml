@@ -326,7 +326,7 @@
     <string name="mainbtn_text_quick_cleanup_default">Curățare</string>
     <string name="megabyteShort"> MB</string>
     <string name="memeory_check_content">%1$d aplicaţii, memorie %2$s</string>
-    <string name="memory_clean_icon_text">Goliți memoria</string>
+    <string name="memory_clean_icon_text">Goliți memoria RAM</string>
     <string name="memory_clean_no_trash_tip">Totul arată bine</string>
     <string name="menu_add_to_white_list">Adăugați în lista excepțiilor</string>
     <string name="menu_clear">Goliți</string>
