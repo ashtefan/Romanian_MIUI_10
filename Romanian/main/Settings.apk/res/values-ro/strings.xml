@@ -2996,7 +2996,7 @@ Sunt alți utilizatori pe acest dispozitiv.
     <string name="model_number">Număr model</string>
     <string name="modify_instruction_password_settings">Setați parola</string>
     <string name="modify_privacy_password">Modificați parola</string>
-    <string name="more_dangerous_option_hint"Sunt activate funcții cu risc ridicat, printre care și \"%1$s\". Atingeți pentru a modifica setările.</string>
+    <string name="more_dangerous_option_hint">Sunt activate funcții cu risc ridicat, printre care și \"%1$s\". Atingeți pentru a modifica setările.</string>
     <string name="move_app">Mutaţi</string>
     <string name="move_app_failed_dlg_text">Aplicaţia nu a putut fi mutată. %1$s</string>
     <string name="move_app_failed_dlg_title" />
