@@ -217,6 +217,14 @@
     <string name="toast_reach_text_limit_truncate">Această nota este prea lungă. A fost tăiat o parte din textul de la sfârșit.</string>
     <string name="toast_refuse_to_record_when_in_call">"Nu se poate utiliza această caracteristică în timpul unui apel"</string>
     <string name="toast_refuse_to_record_when_in_multi_window">"Nu se poate utiliza această caracteristică în modul Ecran scindat"</string>
+    <string name="toast_refuse_to_use_contact">"Permisiunile de accesare a Contactelor sunt restricționate.
+Permiteți aplicației Note să vă citească contactele și să caute conturile de pe dispozitiv."</string>
+    <string name="toast_refuse_to_use_external_storage">"Permisiunile de accesare a stocării sunt restricționate.
+Permiteți aplicației Note să citească conținutul cardului SD."</string>
+    <string name="toast_refuse_to_use_phone_state">"Permisiunile de accesare a Telefonului sunt restricționate.
+Permiteți aplicației Note să citească starea și ID-ul telefonului."</string>
+    <string name="toast_refuse_to_use_record_audio">"Permisiunile de accesare a microfonului sunt restricționate.
+Permiteți aplicației Note să înregistreze sunete."</string>
     <string name="toolbar_check_description">Adăugați o căsuță de verificare</string>
     <string name="toolbar_delete_description">Ștergeți această notiță</string>
     <string name="toolbar_gallery_description">Adăugați o imagine</string>

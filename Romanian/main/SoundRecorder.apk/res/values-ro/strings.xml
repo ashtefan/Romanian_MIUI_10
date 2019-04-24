@@ -64,6 +64,12 @@
     <string name="keywords_search_call_record">Înregistrare apeluri;Înregistrare apel;Call recording;Call recordings</string>
     <string name="keywords_search_record">Înregistrare nouă;Adăugați o înregistrare;Înregistrare;Înregistrări;Transcript;Transcribe;Recorder;Speech recorder;Sound recorder;Recorder app;Recording app;How do I record;How to record sound;Where is recorder;MIUI Reorder</string>
     <string name="keywords_search_record_list">Înregistrare sunet;Transcriere;Transcrieri;Înregistrare;Partajare înregistrare;Partajare înregistrări;Înregistrare;Înregistrări</string>
+    <string name="korea_permission_phone">Telefon</string>
+    <string name="korea_permission_phone_resc">Pentru accesarea stării telefonului și gestionarea înregistrărilor de pe durata apelurilor</string>
+    <string name="korea_permission_record">Microfon</string>
+    <string name="korea_permission_record_resc">Pentru înregistrarea de sunete</string>
+    <string name="korea_permission_storage">Stocare</string>
+    <string name="korea_permission_storage_desc">Pentru salvarea înregistrărilor</string>
     <string name="loading_order_list">Doar o secundă…</string>
     <string name="loading_order_list_empty">Nicio comandă aici.</string>
     <string name="low_battery_error">"Acumulatorul telefonului are mai puțin de 5% disponibil. Opriți înregistrarea și salvați-o înainte de a fi pierdută."</string>
