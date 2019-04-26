@@ -2995,8 +2995,8 @@ Sunt alți utilizatori pe acest dispozitiv.
     <string name="mode_disable">Dezactivat</string>
     <string name="mode_enable">Activat</string>
     <string name="model_info">Model</string>
-    <string name="model_name">Nume model</string>
-    <string name="model_number">Număr model</string>
+    <string name="model_name">Model</string>
+    <string name="model_number">Model telefon</string>
     <string name="modify_instruction_password_settings">Setați parola</string>
     <string name="modify_privacy_password">Modificați parola</string>
     <string name="more_dangerous_option_hint">Sunt activate funcții cu risc ridicat, printre care și \"%1$s\". Atingeți pentru a modifica setările.</string>

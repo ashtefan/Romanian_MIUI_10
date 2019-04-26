@@ -19,6 +19,7 @@
     <string name="abc_shareactionprovider_share_with">Partajați cu</string>
     <string name="abc_shareactionprovider_share_with_application">Partajați cu %s</string>
     <string name="abc_toolbar_collapse_description">Restrângeți</string>
+    <string name="app_name">Credit Mi</string>
     <string name="hybrid_provider">Furnizat de %1$s</string>
     <string name="mibi_all_license_message">"Sunteți pe cale să utilizați Mi Credit, un serviciu furnizat de către Xiaomi Inc. Înainte de a putea utiliza acest serviciu, trebuie să acceptați Termenii Serviciului din %1$s. Atingeți butonul OK dacă sunteți de acord cu termenii și condițiile descrise în %1$s și %1$s. Trebuie să vă conectați la internet și să permiteți localizarea dispozitivului pentru a utiliza Mi Credit."</string>
     <string name="mibi_app_name">Mi Credit</string>
@@ -139,7 +140,7 @@ Verificați ora locală și reîncercați."</string>
     <string name="mibi_get_phone_num_title">Introduceți numărul de telefon</string>
     <string name="mibi_get_phone_sms_prompt">Codul de verificare a fost trimis către %1$s</string>
     <string name="mibi_giftcard_acitivity_and_denomination">%2$s-card cadou Mi Credit de la %1$s</string>
-    <string name="mibi_giftcard_available">disponibil</string>
+    <string name="mibi_giftcard_available">Disponibil</string>
     <string name="mibi_giftcard_denom">Mi Credit</string>
     <string name="mibi_giftcard_denom_available">Mi Credit disponibil</string>
     <string name="mibi_giftcard_denom_frozen">Mi Credit blocat</string>
@@ -157,9 +158,9 @@ Verificați ora locală și reîncercați."</string>
     <string name="mibi_giftcard_push_notification_prime_title">"Ați primit un certificat cadou"</string>
     <string name="mibi_giftcard_push_notification_sub_title">%1$s: %2$s Mi Credit gratis.</string>
     <string name="mibi_giftcard_record">Cardurile mele cadou</string>
-    <string name="mibi_giftcard_unavailable">expirat</string>
+    <string name="mibi_giftcard_unavailable">Expirat</string>
     <string name="mibi_giftcard_use_now">Răscumpărați</string>
-    <string name="mibi_giftcard_used">răscumpărat</string>
+    <string name="mibi_giftcard_used">Răscumpărat</string>
     <string name="mibi_giftcard_vaild_util">valabil până la %1$s</string>
     <string name="mibi_giftcard_will_expire">Expiră pe %1$s</string>
     <string name="mibi_giftcard_with_num">&lt;Data&gt;&amp;lt;font color=#FF7700&amp;gt;&amp;lt;xliff:g id=value&amp;gt;%1$d&amp;lt;/xliff:g&amp;gt; Cupon Mi Credit disponibil&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
@@ -181,6 +182,7 @@ Verificați ora locală și reîncercați."</string>
     <string name="mibi_mili_center">Mi Credit</string>
     <string name="mibi_milicenter_title">Mi Credit</string>
     <string name="mibi_mipay_error">Mipay a eșuat</string>
+    <string name="mibi_more_operation">Mai multe operații</string>
     <string name="mibi_msg_denomination_type">Mi Credit</string>
     <string name="mibi_msg_error">Reîncărcarea a eșuat</string>
     <string name="mibi_msg_order_hint_1_1">După ce veți atinge Confirmare achiziție, telefonul dumneavoastră va</string>

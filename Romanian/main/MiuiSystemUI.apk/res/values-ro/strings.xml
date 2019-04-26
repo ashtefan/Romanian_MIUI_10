@@ -479,7 +479,6 @@ Sample Rate"</string>
     <string name="convert_to_file_encryption">Convertiți la criptarea pe baza fișierului</string>
     <string name="convert_to_file_encryption_done">Fișierele sunt deja criptate</string>
     <string name="convert_to_file_encryption_enabled">Convertire…</string>
-    <string name="custom_lock_wallpaper_enter">Introduceți</string>
     <string name="daltonizer_mode_deuteranomaly">Deuteranomalie (roșu-verde)</string>
     <string name="daltonizer_mode_disabled">Dezactivat</string>
     <string name="daltonizer_mode_monochromacy">Monocromie</string>
@@ -651,6 +650,8 @@ Dacă reactivaţi datele, puteţi fi taxat de către operator.</string>
     <string name="face_unlock_check_failed">"Nu v-am putut recunoaște"</string>
     <string name="face_unlock_close_screen">Apropiați-vă de ecran</string>
     <string name="face_unlock_down">Ridicați capul</string>
+    <string name="face_unlock_fail">"Nu s-a putut verifica chipul"</string>
+    <string name="face_unlock_fail_retry">"Nu v-am putut verifica chipul. Atingeți mai sus pentru a încerca din nou."</string>
     <string name="face_unlock_identify_error">A apărut o eroare de recunoaștere</string>
     <string name="face_unlock_not_found">"Nu v-am putut recunoaște"</string>
     <string name="face_unlock_not_roi">Încadrați chipul în interiorul ramei</string>
@@ -671,6 +672,9 @@ Dacă reactivaţi datele, puteţi fi taxat de către operator.</string>
     <string name="face_unlock_rotated_right">Mișcați capul către stânga</string>
     <string name="face_unlock_sc_status">Glisați în jos pe ecran pentru a deschide Camera</string>
     <string name="face_unlock_stay_away_screen">Stați la 25-40 cm de ecran</string>
+    <string name="face_unlock_success">Date faciale verificate cu succes</string>
+    <string name="face_unlock_success_stay_screen_msg">Rămâneți în Blocarea ecranului după ce se verifică datele faciale. Glisați în sus pentru a accesa Ecranul principal.</string>
+    <string name="face_unlock_success_stay_screen_title">Rămâneți în Blocarea ecranului după deblocare</string>
     <string name="failed_to_open_app_settings_toast">"Accesarea setărilor pentru %1$s a eșuat"</string>
     <string name="fingerprint_add_text">Interfața de recunoaștere a amprentei a fost actualizată. Adăugați amprenta din nou.</string>
     <string name="fingerprint_add_title">Adăugați amprenta</string>

@@ -70,6 +70,7 @@
     <string name="cancel_moving_dialog_message">Opriți importarea acum?</string>
     <string name="cancel_moving_dialog_title">Opriți importarea</string>
     <string name="cancel_restore">Opriţi</string>
+    <string name="click_soft_ap_to_link">Selectați un hotspot la care să vă conectați</string>
     <string name="click_to_view">Apăsaţi pentru a vizualiza</string>
     <string name="close_twice_auth_btn">Dezactivați autentificarea în doi pași</string>
     <string name="close_twice_auth_note">"Notă:
@@ -96,6 +97,11 @@ https://appleid.apple.com/#!&amp;page=signin to close"</string>
     <string name="comma_seperator">", "</string>
     <string name="compute_backup_info">Preluarea informaţiilor…</string>
     <string name="compute_delete_contact_info">Obținere informații…</string>
+    <string name="confirm_exit_link">Părăsiți</string>
+    <string name="confirm_exit_link_cancel">"Nu ieși"</string>
+    <string name="confirm_exit_link_msg">"Părăsirea aplicației acum va întrerupe transferul în curs. Va trebui să restabiliți conexiunea dintre cele 2 dispozitive. Părăsiți aplicația oricum?"</string>
+    <string name="confirm_exit_link_title">Se întrerupe transferul</string>
+    <string name="connect_soft_ap_label">Se conectează la noul dispozitiv…</string>
     <string name="connect_wifi">Conectați-vă la Wi-Fi</string>
     <string name="connect_wifi_tip">"Nu s-a putut conecta la rețea. Conectați-vă la Wi-Fi pentru a importa elemente din iCloud."</string>
     <string name="contact_title">Contacte</string>
@@ -262,6 +268,8 @@ trebuie să creați o copie de rezervă în iCloud mai întâi."</string>
     <string name="notif_trans_sending_completed">Date trimise cu succes</string>
     <string name="notif_trans_sending_failed">"Trimiterea datelor a eșuat"</string>
     <string name="notif_trans_wait_for_reconnecting">Conexiunea a fost întreruptă. Conectați-vă din nou.</string>
+    <string name="old_soft_name">Conectați-vă printr-un cod QR</string>
+    <string name="old_way">Vă puteți conecta de asemenea printr-un cod QR. Atingeți pentru a genera codul.</string>
     <string name="page_loading">Doar o secundă…</string>
     <string name="password">Parolă</string>
     <string name="password_null">"Parola nu poate fi necompletată"</string>
@@ -284,6 +292,7 @@ trebuie să creați o copie de rezervă în iCloud mai întâi."</string>
     <string name="prompt_writing">Salvare…</string>
     <string name="read_encrypt_fail">"Nu s-a putut citi copia de rezervă criptată"</string>
     <string name="reconnect">Conectați-vă din nou</string>
+    <string name="recreate_soft_ap_tips">Atingeți butonul de mai jos pentru a încerca din nou.</string>
     <string name="refresh">Reîmprospătaţi</string>
     <string name="remote_receive">Recepționare</string>
     <string name="restore">Restabiliţi</string>
@@ -319,6 +328,8 @@ Vă rugăm eliberați cel puțin %s."</string>
     <string name="sc_service_unavailable">Mi Cloud inaccesibil</string>
     <string name="sc_unaccess_password_file">"Nu s-a găsit parola rețelei Wi-Fi"</string>
     <string name="sc_unauthorized">Conectaţi-vă din nou</string>
+    <string name="scan_soft_ap">Se caută noul dispozitiv…</string>
+    <string name="scan_soft_ap_label">Conectați-vă la vechiul dispozitiv</string>
     <string name="sd_not_available">Introduceţi cardul SD acum</string>
     <string name="sdcard_no_enough_space">Spaţiu insuficient</string>
     <string name="sdcard_no_enough_space_message">"Spațiu insuficient pe cardul SD."</string>
@@ -342,6 +353,8 @@ Vă rugăm eliberați cel puțin %s."</string>
     <string name="size_kilo_byte">KB</string>
     <string name="size_mega_byte">MB</string>
     <string name="sms_title">Mesagerie</string>
+    <string name="soft_ap_create_failed">"Nu s-a putut crea hotspot-ul"</string>
+    <string name="soft_ap_creating">Se crează hotspot-ul…</string>
     <string name="software_backup_info">Datele aplicaţiilor</string>
     <string name="start_backup">Porniţi</string>
     <string name="start_restore">Restabiliţi</string>
@@ -421,7 +434,9 @@ Vă rugăm eliberați cel puțin %s."</string>
     <string name="trans_detail_category_wechat_qq">Datele WeChat și QQ (inclusiv istoricul chat-ului)</string>
     <string name="trans_detail_item_app_data_selected_tip">De asemenea și aplicațiile corespunzătoare.</string>
     <string name="trans_detail_item_app_data_too_large_tip">Se pare că elementul este prea mare pentru a fi transferat.</string>
-    <string name="trans_detail_list_footer">Notă: Puteți alege să transferați aplicațiile separat. Totuși, dacă selectați datele aplicației, aplicațiile corespunzătoare vor fi transferate de asemenea.</string>
+    <string name="trans_detail_list_footer">"1. Puteți alege individual aplicațiile pe care doriți să le transferați.
+2. Dacă selectați datele aplicației, aplicațiile corespunzătoare vor fi selectate și ele, de asemenea.
+3. Datele aplicațiilor WeChat și QQ este posibil să nu fie transferate datorită problemelor de compatibilitate. Puteți încerca funcțiile de transfer din interiorul aplicației."</string>
     <string name="trans_detail_page_tip">Cu cât selectați mai multe elemente, cu atât transferul va dura mai mult.</string>
     <string name="trans_detail_qq_data">Datele QQ (inclusiv istoricul chat-ului)</string>
     <string name="trans_detail_sys_data_list_title">Aplicații de sistem</string>
@@ -446,6 +461,7 @@ pentru a descărca și instala Mi Mover."</string>
     <string name="trans_install_guide_step2_content">După ce instalarea este finalizată, atingeți butonul \"Start\" de mai jos.</string>
     <string name="trans_install_guide_step2_title">Pasul 2</string>
     <string name="trans_intro_desc_1">"Pe telefonul Xiaomi, conectați-vă la Wi-Fi și atingeți \"Sunt destinatar\". Selectați dispozitivul iOS, conectați-vă la iCloud și importați datele."</string>
+    <string name="trans_intro_desc_10">Atingeți \"Conectare prin cod QR\" pe noul dispozitiv și scanați codul QR pentru a stabili conexiunea.</string>
     <string name="trans_intro_desc_3">Opriți transferul, părăsiți Mi Mover și reluați procesul. Fișierele duplicate vor fi suprascrise pe durata noului transfer.</string>
     <string name="trans_intro_desc_4">"Mi Mover utilizează Wi-Fi pentru a transfera fișierele. De aceea nu vă veți putea conecta la internet prin Wi-Fi pe niciunul dintre dispozitive pe durata transferului. Puteți utiliza totuși datele mobile. Unele telefoane mai noi(de exemplu Mi 6) se pot conecta la internet prin Wi-Fi pe durata transferului."</string>
     <string name="trans_intro_desc_4_market">"Mi Mover utilizează Wi-Fi pentru transferul fișierelor. De aceea nu vă puteți conecta la internet prin Wi-Fi de pe niciun dispozitiv pe durata transferului. Veți putea utiliza totuși datele mobile."</string>
@@ -460,6 +476,7 @@ pentru a descărca și instala Mi Mover."</string>
     <string name="trans_intro_desc_9_method_3_dec">"Grupul QQ Mi Mover: 687338378"</string>
     <string name="trans_intro_desc_9_method_3_title">3. Raportați problemele prin QQ</string>
     <string name="trans_intro_desc_account">Trebuie să vă conectați din nou la conturile dvs.(de ex. Contul Mi, Exchange, Google, etc.) pe un nou dispozitiv din motive de securitate.</string>
+    <string name="trans_intro_desc_gms">"Datorită probabilității ridicate de eșec al transferurilor cauzat de problemele de compatibilitate, Mi Mover nu suportă transferul datelor generate de către aplicațiile Google."</string>
     <string name="trans_intro_desc_multiapp">"Mi Mover nu transferă datele Aplicațiilor clonate pentru a evita conflictele dintre fișiere."</string>
     <string name="trans_intro_desc_multiuser">"Mi Mover nu poate accesa elementele din Spațiul secundar. Mutați elementele în Spațiul principal și lansați Mi Mover de acolo."</string>
     <string name="trans_intro_desc_new">"Atingeți \"Sunt destinatar\". Va fi generat un cod QR."</string>
@@ -467,6 +484,7 @@ pentru a descărca și instala Mi Mover."</string>
     <string name="trans_intro_desc_old_market">Atingeți \"Start\". Scanați codul QR cu noul telefon, așteptați până când Mi Mover alege fișierele de trimis și apăsați \"Trimiteți\".</string>
     <string name="trans_intro_desc_private">"Mi Mover nu poate accesa fotografiile din albumele ascunse deoarece sunt criptate. Puteți restaura aceste fotografii din Mi Cloud pe un nou dispozitiv."</string>
     <string name="trans_intro_question_1">%d. Cum utilizez Mi Mover pentru a muta date de pe un dispozitiv iOS?</string>
+    <string name="trans_intro_question_10">"%d. Nu ați reperat hotspotul pe vechiul dispozitiv?"</string>
     <string name="trans_intro_question_2">%d. Cum utilizez Mi Mover pentru a transfera date de pe un dispozitiv Android?</string>
     <string name="trans_intro_question_3">%d. Ce trebuie să fac dacă Mi Mover se blochează la un anumit pas?</string>
     <string name="trans_intro_question_4">"%d. De ce nu pot utiliza Wi-Fi-ul pe durata transferului?"</string>
@@ -478,6 +496,7 @@ pentru a descărca și instala Mi Mover."</string>
     <string name="trans_intro_question_9_market">%d. Feedback.</string>
     <string name="trans_intro_title">Întrebări frecvente</string>
     <string name="trans_intro_title_account">Conturi și parole:</string>
+    <string name="trans_intro_title_gms">Date generate de aplicațiile Google:</string>
     <string name="trans_intro_title_multiapp">Datele aplicațiilor clonate:</string>
     <string name="trans_intro_title_multiuser">Datele Spațiului secundar:</string>
     <string name="trans_intro_title_new">Pe un telefon nou:</string>
@@ -534,8 +553,9 @@ Mențineți telefoanele apropiate unul de celălalt."</string>
     <string name="trans_select_data">Selectați datele de transferat</string>
     <string name="trans_select_data_no_space">"Nu există spațiu de stocare suficient pe noul dispozitiv
 Modificați fișierele selectate sau eliberați %s spațiu de stocare"</string>
-    <string name="trans_select_data_tips">"Selectați elementele pentru transfer
-Fișierele similare de pe telefonul nou vor fi suprascrise"</string>
+    <string name="trans_select_data_tips">"Selectați elementele pentru transfer.
+Fișierele similare de pe telefonul nou vor fi suprascrise.
+(Dimensiunea elementelor transferate pe care o vedeți este o estimare grosieră)"</string>
     <string name="trans_select_data_too_large">"Ați selectat prea multe elemente pentru transfer.
 Selectați doar elementele importante pentru a realiza transferul mai rapid."</string>
     <string name="trans_select_device_receive">Selectați dispozitivul destinatar.</string>
@@ -592,6 +612,8 @@ Eliberați spațiu sau transferați doar elementele importante."</string>
     <string name="user_notice_message">Unele funcții necesită accesul la internet pentru a funcționa normal.</string>
     <string name="user_notice_title">Atenționare</string>
     <string name="view_password_description">Afișează parola</string>
+    <string name="wait_link">"Conectați vechiul dispozitiv la acest hotspot.
+Nu părăsiți această pagină până nu se stabilește conexiunea."</string>
     <string name="wifi_title">Setări Wi-Fi</string>
     <string name="xiaomi_connect_download_manager_fail">"Nu s-a putut porni descărcarea. Asigurați-vă că Managerul de Descărcare funcționează corespunzător."</string>
     <string name="xiaomi_external_storage_unavailable">"Mediu de stocare indisponibil; verificați cardul SD."</string>
