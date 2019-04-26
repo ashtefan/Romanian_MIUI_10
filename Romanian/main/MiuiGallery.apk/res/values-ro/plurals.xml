@@ -19,7 +19,7 @@
     <plurals name="age_day">
         <item quantity="other">%d zile</item>
         <item quantity="one">%d zi</item>
-     </plurals>
+    </plurals>
     <plurals name="age_month">
         <item quantity="other">%d luni</item>
         <item quantity="one">%d lună</item>
@@ -35,7 +35,7 @@
     <plurals name="album_count">
         <item quantity="other">%d fotografii</item>
         <item quantity="one">%d fotografie</item>
-     </plurals>
+    </plurals>
     <plurals name="album_count_and_size">
         <item quantity="other">%1$d elemente | %2$s</item>
         <item quantity="one">%1$d element | %2$s</item>
@@ -144,10 +144,6 @@
         <item quantity="other">"S-au omis %1$d fotografii care nu au putut fi încărcate."</item>
         <item quantity="one">"S-a omis o fotografie care nu a putut fi încărcată."</item>
     </plurals>
-    <plurals name="file_count_format">
-        <item quantity="other">În total %1$d elemente</item>
-        <item quantity="one">În total %1$d element</item>
-    </plurals>
     <plurals name="number_of_images_and_videos_to_upload">
         <item quantity="other">%1$d elemente aşteaptă sincronizarea</item>
         <item quantity="one">Un element aşteaptă sincronizarea</item>
@@ -179,6 +175,10 @@
     <plurals name="number_of_videos_to_upload">
         <item quantity="other">%1$d videoclipuri aşteaptă sincronizarea</item>
         <item quantity="one">Un videoclip aşteaptă sincronizarea</item>
+    </plurals>
+    <plurals name="photo_count_format">
+        <item quantity="other">În total %1$d elemente</item>
+        <item quantity="one">În total %1$d element</item>
     </plurals>
     <plurals name="picker_all_image_need_download">
         <item quantity="other">"Fotografiile selectate nu sunt pe telefon; le descărcați utilizând datele mobile?"</item>
@@ -231,7 +231,7 @@
     <plurals name="search_feedback_done_mark_and_contribute_false_negative">
         <item quantity="other">S-au adăugat %1$d fotografii în \"%2$s\" și s-au adăugat în baza de date.</item>
         <item quantity="one">S-a adăugat %1$d fotografie în \"%2$s\" și s-a adăugat în baza de date.</item>
-    </plurals>    
+   </plurals>    
     <plurals name="search_feedback_done_mark_and_contribute_false_positive">
         <item quantity="other">S-au eliminat %1$d fotografii din \"%2$s\" și s-au adăugat în baza de date.</item>
         <item quantity="one">S-a eliminat %1$d fotografie din \"%2$s\" și s-a adăugat în baza de date.</item>
@@ -271,5 +271,9 @@
     <plurals name="sync_total_count">
         <item quantity="other">%d elemente</item>
         <item quantity="one">%d element</item>
+    </plurals>
+    <plurals name="video_count_format">
+        <item quantity="other">%1$d fișiere</item>
+        <item quantity="one">%1$d fișier</item>
     </plurals>
 </resources>

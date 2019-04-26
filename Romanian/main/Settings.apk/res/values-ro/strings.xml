@@ -868,6 +868,9 @@ Ultima rulare pe %2$s"</string>
     <string name="bluetooth_scan_for_devices">Scanaţi pentru a detecta dispozitive</string>
     <string name="bluetooth_search_for_devices">Căutaţi dispozitive</string>
     <string name="bluetooth_searching_for_devices">Se caută…</string>
+    <string name="bluetooth_select_a2dp_codec_aptxadaptive_mode">Mod Bluetooth audio aptX adaptiv</string>
+    <string name="bluetooth_select_a2dp_codec_aptxadaptive_mode_dialog_title">"Declanșează Bluetooth audio
+aptX adaptiv: mod Codec"</string>
     <string name="bluetooth_select_a2dp_codec_bits_per_sample">Bluetooth Audio Bits Per Sample</string>
     <string name="bluetooth_select_a2dp_codec_bits_per_sample_dialog_title">"Selectați codecul Bluetooth Audio:
 Biți per eșantion"</string>
@@ -3516,7 +3519,7 @@ Acest lucru va permite aplicației să comute modul Nu deranjați și să modifi
     <string name="power_bluetooth">Bluetooth</string>
     <string name="power_camera">Camera foto</string>
     <string name="power_cell">Rețea mobilă în așteptare</string>
-    <string name="power_center">Energie</string>
+    <string name="power_center">Optimizare acumulator</string>
     <string name="power_charge_remaining">%1$s până la încărcare</string>
     <string name="power_charging_duration">%1$s - %2$s până la încărcarea completă</string>
     <string name="power_checker">Verificare energie</string>
@@ -3538,7 +3541,7 @@ Acest lucru va permite aplicației să comute modul Nu deranjați și să modifi
     <string name="power_last_full_charge_summary">cu ^1 în urmă</string>
     <string name="power_menu_under_keyguard_summary">Permiteți accesul la meniul de pornire când telefonul este blocat</string>
     <string name="power_menu_under_keyguard_title">Acces la meniul de pornire</string>
-    <string name="power_mgr">Acumulator</string>
+    <string name="power_mgr">Optimizare acumulator</string>
     <string name="power_mode">Mod utilizare acumulator</string>
     <string name="power_mode_balanced_title">Activaţi Energie echilibrată</string>
     <string name="power_optimize">Economisire acumulator</string>

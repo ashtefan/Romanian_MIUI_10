@@ -689,7 +689,7 @@ Sample Rate"</string>
     <string name="dtmf_tone_entries_normal">Normal</string>
     <string name="dtmf_tones_summary">Setaţi lungimea tonurilor DTMF</string>
     <string name="dtmf_tones_title">Tonuri DTMF</string>
-    <string name="dual_4g_switch_summary">Permiteți conectivitate 4G pentru ambele sloturi SIM.</string>
+    <string name="dual_4g_switch_summary">Permiteți conectivitate 4G pentru ambele sloturi SIM</string>
     <string name="dual_4g_switch_title">Dual 4G</string>
     <string name="duration_disable_summary">Afișarea duratei este OPRITĂ</string>
     <string name="duration_enable_summary">Afișarea duratei este PORNITĂ</string>

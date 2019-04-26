@@ -109,7 +109,7 @@ Asigurați-vă că numele companiei este corect. Citiți și acceptați politici
     <string name="ent_agency_code">Cod Corporație</string>
     <string name="ent_agency_code_hint">Introduceți codul Corporației</string>
     <string name="ent_agency_code_invalid">Codul corporației introdus este nevalid.</string>
-    <string name="ent_agree_privacy_policy">"An citit și sunt de acord cu Politica de Confidențialitate"</string>
+    <string name="ent_agree_privacy_policy">"Am citit și acceptat Politica de Confidențialitate"</string>
     <string name="ent_app_verified">Se pare că există aplicații de servici instalate pe telefon. Activați Modul Servici?</string>
     <string name="ent_confirm_dialog_content">"Nu veți putea reveni la starea actuală a sistemului după ce activați modul Servici. Totuși, toate datele vor rămâne în telefon. Va trebui să reporniți telefonul pentru a activa modul Servici. Îl activați acum?"</string>
     <string name="ent_disallow_running">Aplicația este interzis să ruleze</string>

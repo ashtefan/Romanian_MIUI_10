@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="about_extreme_mode">Modul Extrem</string>
-    <string name="about_hide_mode">Despre Economisirea acumulatorului</string>
+    <string name="about_extreme_mode">Modul Extrem de economisire a acumulatorului</string>
+    <string name="about_hide_mode">Despre Economisirea acumulatorului în aplicații</string>
     <string name="action_bar_delete">Ştergeţi</string>
     <string name="action_settings">Setări</string>
     <string name="active_classify">Sortați după starea activității</string>
@@ -51,10 +51,10 @@ Economisirea acumulatorului va trata selectiv aplicațiile importante."</string>
     <string name="empty_title_apps_container_list">Nicio aplicaţie</string>
     <string name="enable_sleep_mode">Activați modul Somn pentru a optimiza utilizarea acumulatorului pe durata nopții</string>
     <string name="error_filename_too_long">Numele de fișier introdus este prea lung.</string>
-    <string name="extreme_mode_max_item_alert">Doar 4 aplicații pot fi selectate pentru a rula în fundal în modul Extrem</string>
-    <string name="extreme_power_config_mode_category">Mod extrem</string>
+    <string name="extreme_mode_max_item_alert">Puteți selecta maxim 4 aplicații pentru a rula în fundal în modul Extrem de economisire a acumulatorului</string>
+    <string name="extreme_power_config_mode_category">Mod extremde economisire a acumulatorului</string>
     <string name="extreme_power_config_mode_desc">Comutați la modul Extrem pentru a dezactiva sincronizarea, Bluetooth-ul, GPS-ul, NFC, double tapping, iluminarea butoanelor, pornirea ecranului pentru afișarea notificărilor în blocarea ecranului dar și luminile de notificare. MIUI va acționa pentru economisirea acumulatorului.</string>
-    <string name="extreme_power_config_mode_title">Mod Extrem</string>
+    <string name="extreme_power_config_mode_title">Mod Extrem de economisire a acumulatorului</string>
     <string name="failure">Eșuat</string>
     <string name="foreground_change">Aplicaţia rulează în prim-plan</string>
     <string name="fragment_nonesys_listempty">Nicio aplicație instalată</string>
@@ -125,7 +125,7 @@ Economisirea acumulatorului va trata selectiv aplicațiile importante."</string>
     <string name="power_config_app_background_title">În fundal</string>
     <string name="power_config_app_full_screen_title">Ecran complet</string>
     <string name="power_config_app_launch_title">În prim-plan</string>
-    <string name="power_config_apps">Economisirea acumulatorului</string>
+    <string name="power_config_apps">Economisirea acumulatorului în aplicații</string>
     <string name="power_config_bg_data_delay_time_dialog_title">Selectați intervalul orar de restricționare a datelor din fundal</string>
     <string name="power_config_bg_data_delay_time_title">Restricționați utilizarea datelor în fundal</string>
     <string name="power_config_choose_apps">Selectaţi aplicațiile</string>

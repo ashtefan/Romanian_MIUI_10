@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="activities_title">
+        <item>Zi specială</item>
+        <item>O zi memorabilă</item>
+        <item>Momente vibrante</item>
+    </string-array>
     <string-array name="baby_sexy">
         <item>Băiat</item>
         <item>Fată</item>
@@ -82,6 +87,11 @@
         <item>Noiembrie</item>
         <item>Decembrie</item>
     </string-array>
+    <string-array name="last_weekend_title">
+        <item>Weekend-urile mele</item>
+        <item>Crâmpeie de viață</item>
+        <item>Amintiri din weekend</item>
+    </string-array>
     <string-array name="month">
         <item>Ianuarie</item>
         <item>Februarie</item>
@@ -124,6 +134,11 @@
         <item>Amintiri din Noiembrie</item>
         <item>Amintiri din Decembrie</item>
     </string-array>
+    <string-array name="parties_title">
+        <item>Împreună</item>
+        <item>Momente bune</item>
+        <item>În uniune</item>
+    </string-array>
     <string-array name="season">
         <item>Primăvară</item>
         <item>Vară</item>
@@ -147,12 +162,11 @@
         <item>Trecere în revistă vară</item>
         <item>Trecere în revistă toamnă</item>
         <item>Trecere în revistă iarnă</item>
-	    </string-array>
+    </string-array>
     <string-array name="weekend_title">
         <item>Weekendurile trecute</item>
         <item>Zile memorabile</item>
         <item>Evenimente zilnice</item>
         <item>Ordinare și Extraordinare</item>
     </string-array>
-
 </resources>

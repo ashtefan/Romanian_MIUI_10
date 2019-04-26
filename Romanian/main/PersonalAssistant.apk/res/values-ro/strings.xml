@@ -1058,6 +1058,7 @@ Unele comenzi trimise prin SF Express de către vânzători din afara Taobao, Tm
     <string name="shopping_enable">Funcția de cumpărare este activată</string>
     <string name="shopping_label">Cumpărături</string>
     <string name="shopping_notification_title">Adăugată la Cumpărături</string>
+    <string name="shopping_rmb">%s￥</string>
     <string name="shopping_setting_authorize">Permiteți exportul informațiilor despre achiziții</string>
     <string name="shopping_setting_authorize_sub">Asistentul inteligent va avea acces la elementele favorite și la cele din coșul de cumpărături.</string>
     <string name="shopping_setting_base">Setări</string>
@@ -1070,7 +1071,7 @@ Unele comenzi trimise prin SF Express de către vânzători din afara Taobao, Tm
     <string name="shopping_setting_remove">După ce veți revoca autorizarea, Asistentul inteligent nu va mai colecta date despre achiziții, iar cardul de cumpărături va fi eliminat. Revocați oricum?</string>
     <string name="shopping_setting_taobao">Taobao</string>
     <string name="shopping_setting_tmall">Tmall</string>
-    <string name="shopping_source">De la</string>
+    <string name="shopping_source">De la %s</string>
     <string name="shopping_support">Aplicații suportate</string>
     <string name="shortcut">Comenzi rapide</string>
     <string name="show_more">Arată mai multe</string>

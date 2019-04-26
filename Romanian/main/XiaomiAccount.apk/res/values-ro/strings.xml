@@ -164,13 +164,9 @@ Trimmiteți acest cod supervizorului."</string>
     <string name="kr_permission_sms_desc">Pentru completarea automată a codurilor de verificare</string>
     <string name="kr_permission_storage_desc">Pentru salvarea jurnalelor</string>
     <string name="loading_micloud_sync_data">Doar o secundă…</string>
-    <string name="local_device">(acest telefon)</string>
-    <string name="locating_current_location">Se determină localizarea</string>
-    <string name="location_service_not_working">Serviciul de localizare nu funcționează</string>
     <string name="login_check_find_device">Se obțin informațiile despre securitatea dispozitivului…</string>
     <string name="login_check_find_device_failed_title">"Nu s-au putut verifica informațiile despre securitatea telefonului"</string>
     <string name="login_find_device_bind">Acest telefon este asociat unui cont Mi existent (%s).</string>
-    <string name="login_guard_prompt">Solicitare verificare număr de telefon la prima conectare la contul Mi de pe un dispozitiv necunoscut sau dintr-o aplicație necunoscută.</string>
     <string name="logout_account">Deconectare</string>
     <string name="logout_failed">Nu se poate deconecta</string>
     <string name="mi_account_identity_title">Verificaţi identitatea dvs.</string>

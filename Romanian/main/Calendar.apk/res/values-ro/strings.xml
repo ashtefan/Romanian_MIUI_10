@@ -373,6 +373,10 @@ Verificați setările de rețea și încercați din nou."</string>
     <string name="no_visiable_calendar_title">Adăugați un cont</string>
     <string name="notification_channel_description"/>
     <string name="notification_channel_name">Memento-uri calendar</string>
+    <string name="notification_open_setting_button_exit">Nu, mulțumesc</string>
+    <string name="notification_open_setting_button_ok">Permiteți</string>
+    <string name="notification_open_setting_message">"Nu veți putea primi notificări despre evenimente decât dacă permiteți aplicației Calendar să vă trimită notificări."</string>
+    <string name="notification_open_setting_title">Permiteți notificările de la Calendar?</string>
   <string name="olympic_rank">Clasament</string>
   <string name="olympic_total">Total</string>
   <string name="olympic_vs">VS</string>

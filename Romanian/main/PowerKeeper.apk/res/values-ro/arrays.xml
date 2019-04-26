@@ -6,7 +6,7 @@
     </string-array>
     <string-array name="hmode_app_classify1">
         <item>Personalizat</item>
-        <item>Economisire acumulator</item>
+        <item>Economisire acumulator MIUI</item>
     </string-array>
     <string-array name="hmode_app_classify2">
         <item>Aplicații active</item>
@@ -24,7 +24,7 @@
     <string-array name="thermal_summaries">
         <item>Prioritizați controlul temperaturii</item>
         <item>Prioritizați performanța</item>
-        <item>"Nu funcționează în modul Extrem"</item>
+        <item>Nu este suportat de Economizorul extrem al acumulatorului</item>
     </string-array>
     <string-array name="power_mode_entries">
         <item>Performanță</item>

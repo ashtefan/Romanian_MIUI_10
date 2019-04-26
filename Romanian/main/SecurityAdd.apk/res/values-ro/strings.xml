@@ -33,6 +33,7 @@
     <string name="fastboot_unlock_web_home">https://unlock.update.miui.com</string>
     <string name="fastboot_unlock_web_title">Mergeți la site-ul oficial MIUI pentru a obține unealta de deblocare.</string>
     <string name="function_close">Opriți</string>
+    <string name="gamebox_no_network_btn">Reîncărcați</string>
     <string name="game_booster">Creștere viteză în jocuri</string>
     <string name="game_booster_intro">Despre creșterea vitezei în jocuri</string>
     <string name="game_booster_title">Accelerare</string>

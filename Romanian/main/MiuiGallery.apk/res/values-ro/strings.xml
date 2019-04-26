@@ -596,6 +596,8 @@ efecte pentru fotografii"</string>
     <string name="free_view_desc">Vizualizare 3D</string>
     <string name="gallery_setting">Galerie</string>
     <string name="gallery_sync_disable_toast">Sincronizarea fotografiilor din Galeria este dezactivată</string>
+    <string name="generate_story_summary">MIUI va analiza fotografiile și va crea albume cu povești. Dezactivați această caracteristică pentru a opri crearea de albume.</string>
+    <string name="generate_story_title">Albume de poveste</string>
     <string name="get_album_info_in_process">Obţinere informaţii album…</string>
     <string name="gif_tip">GIF</string>
     <string name="gigabyteShort">GB</string>
@@ -634,6 +636,8 @@ efecte pentru fotografii"</string>
     <string name="image_invalid_path">Cale invalidă</string>
     <string name="image_not_found">"Nu s-a găsit imaginea"</string>
     <string name="image_quota_fulfiled">Prea multe imagini. Ştergeţi unele imagini şi încercaţi din nou.</string>
+    <string name="image_selection_summary">MIUI va analiza fotografiile similare și le va marca pentru dvs pe cele mai bune. Dezactivați această caracteristică pentru a elimina marcajele de pe fotografii.</string>
+    <string name="image_selection_title">Selectați cele mai bune fotografii</string>
     <string name="image_with_time">Fotografie realizată pe %s</string>
     <string name="image_with_time_and_location">Fotografie realizată pe %1$s. Locația: %2$s.</string>
     <string name="impunity_declaration_settings">Notificare conexiune la internet</string>
@@ -827,6 +831,7 @@ pentru a personaliza Galeria"</string>
     <string name="operation_send">Trimiteți</string>
     <string name="operation_set_contact_photo">Setați ca fotografie a contactului</string>
     <string name="operation_set_slide_wallpaper">Setați ca imagine de fundal derulantă</string>
+    <string name="operation_set_video_wallpaper">Setați videoclipul de fundal</string>
     <string name="operation_set_wallpaper">Setați ca imagine de fundal</string>
     <string name="operation_share">Distribuiţi</string>
     <string name="operation_show_in_photos_tab">Arată în Fotografii</string>
@@ -994,6 +999,7 @@ pentru a personaliza Galeria"</string>
     <string name="recipient_editor_count_format">%d</string>
     <string name="recommanded_face_abandon_tip">Eliminat din sugestii</string>
     <string name="recommanded_face_added_tip">Adăugat în \"%s\"</string>
+    <string name="recommend_category_title">"Alegerile Galeriei"</string>
     <string name="recovery_merge">Îmbinați</string>
     <string name="recovery_merge_or_rename">Îmbinați albumele</string>
     <string name="recovery_merge_or_rename_message">"Există un album cu acest nume. Le îmbinați acum?"</string>
@@ -1130,6 +1136,8 @@ pentru a personaliza Galeria"</string>
     <string name="set_as_baby_lock_wallpaper">Setaţi ca imagine de fundal a blocării ecranului</string>
     <string name="set_as_slide_wallpaper_description">Această imagine este o miniatură; descărcați imaginea originală?</string>
     <string name="set_as_slide_wallpaper_title">Setați ca imagine de fundal derulantă</string>
+    <string name="set_as_video_wallpaper_description">Descărcați acest element și îl folosiți ca videoclip de fundal?</string>
+    <string name="set_as_video_wallpaper_title">Setați videoclipul de fundal</string>
     <string name="set_as_wallpaper_description">Această imagine este o miniatură, vreți să descărcați fotografia originală?</string>
     <string name="set_as_wallpaper_title">Setați ca imagine de fundal</string>
     <string name="set_face_group_toast_msg_new_user">Prin apăsarea lungă pe imaginea de copertă, chipurile pot fi îmbinate sau ignorate.</string>
@@ -1138,6 +1146,7 @@ pentru a personaliza Galeria"</string>
     <string name="set_face_group_toast_title_old_user">Persoanele pot fi sortate în grupuri</string>
     <string name="set_face_image">Setați o nouă fotografie de profil</string>
     <string name="set_group">Setați grupul</string>
+    <string name="set_video_wallpaper_failed">"Nu se poate utiliza acest element ca videoclip de fundal"</string>
     <string name="set_wallpaper_get_image_failed">"Nu s-a putut descărca imaginea; încercați din nou mai târziu"</string>
     <string name="setup_network_connection">Setări de rețea</string>
     <string name="share">Partajați</string>

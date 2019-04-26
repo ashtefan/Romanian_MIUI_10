@@ -4,11 +4,11 @@
     <string name="accessibility_contact_detail">Detalii contact</string>
     <string name="account_container_title">Importat din</string>
     <string name="account_default">Telefon</string>
+    <string name="account_dual_sdn">SDN %s</string>
+    <string name="account_dual_sim">Cartela SIM %s</string>
     <string name="account_phone">Numai pe telefon, nesincronizat</string>
     <string name="account_sdn">SDN</string>
-    <string name="account_sdn2">SDN %d</string>
     <string name="account_sim">Cartela SIM</string>
-    <string name="account_sim2">Cartela SIM %d</string>
     <string name="account_type_format">Contact din %1$s</string>
     <string name="actionIncomingCall">Apeluri de intrare</string>
     <string name="action_menu_overflow_description">Mai multe opţiuni</string>
