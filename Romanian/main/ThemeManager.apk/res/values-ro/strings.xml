@@ -45,6 +45,17 @@
     <string name="account_unactivated">Contul nu este activat</string>
     <string name="ad_app_download_start">Pornire descărcare…</string>
     <string name="ad_app_is_downloading">Descărcare…</string>
+    <string name="ad_begin_to_download_tip">Începe descărcarea…</string>
+    <string name="ad_begin_to_install_tip">Se instalează…</string>
+    <string name="ad_closed_tip">"Veți vedea mai puține reclame de acest gen"</string>
+    <string name="ad_download_download">Descărcați</string>
+    <string name="ad_download_download_now">Descărcați</string>
+    <string name="ad_download_install">Instalați</string>
+    <string name="ad_download_open">Deschideți</string>
+    <string name="ad_download_pause">Pauză</string>
+    <string name="ad_download_pending">În curs</string>
+    <string name="ad_download_resume">Reluați</string>
+    <string name="ad_downloading_tip">Acest element este în curs de descărcare. Puteți vedea progresul în perdeaua de Notificări.</string>
     <string name="add_resource_detail_fail">"Nu s-a putut adăuga resursa"</string>
     <string name="all_resources">Toate</string>
     <string name="app_ad_title">Recomandări zilnice</string>
@@ -94,13 +105,15 @@
     <string name="description_uploadtime">Actualizare</string>
     <string name="description_version">Versiune</string>
     <string name="description_version_szie">Versiune: %1$s Dimensiune: %2$s</string>
+    <string name="desktop_effects">Efecte Ecran principal</string>
     <string name="desktop_wallpaper">Ecran principal</string>
-    <string name="detail_recommend_title">Recomandat</string>
+    <string name="detail_recommend_title">V-ar putea place</string>
     <string name="dev_options">Opțiuni dezvoltator</string>
     <string name="dev_options_summary">Resurse Web</string>
     <string name="download_failed">"Nu s-a putut descărca"</string>
     <string name="download_preview_failed">Încărcarea previzualizării a eşuat</string>
     <string name="download_success">Descărcare finalizată</string>
+    <string name="dynamic_video_wallpaper">Imagine de fundal 24H</string>
     <string name="exit_extreme_mode_dialog_agree">De acord</string>
     <string name="exit_extreme_mode_dialog_cancel">Renunț</string>
     <string name="exit_extreme_mode_dialog_title">Dezactivați modul Extrem</string>
@@ -140,6 +153,7 @@
     <string name="fail_to_add_account">Nu s-a putut adăuga contul</string>
     <string name="favorite_list">Favorite</string>
     <string name="favorite_list_format">Favorit %1$s</string>
+    <string name="find_more_font">Descoperiți mai multe</string>
     <string name="find_more_theme">Descoperiți mai multe</string>
     <string name="find_more_wallpapers">Descoperiți mai multe</string>
     <string name="gift_anonymous">Anonim</string>
@@ -182,6 +196,18 @@
     <string name="home_apply_failured">"Nu se poate aplica imaginea de fundal pentru Ecranul principal"</string>
     <string name="home_apply_success">Imagine de fundal pentru Ecranul principal aplicată</string>
     <string name="in_the_end">Nu mai sunt elemente de afișat</string>
+    <string name="incall_show_apply">Profil video pentru apelurile efectuate</string>
+    <string name="incall_show_apply_fail">"Nu s-a putut seta"</string>
+    <string name="incall_show_apply_success">"Aplicat cu succes. Pentru a dezactiva această funcție,
+mergeți la Setări &gt; Sunete și vibrații &gt; Profil video."</string>
+    <string name="incall_show_apply_success_without_ringtone">"Aplicat cu succes. Acest videoclip nu are sunet. Va fi utilizat sunetul de apel implicit.
+Pentru a dezactiva această funcție, mergeți la Setări &gt; Sunete și vibrații &gt; Profil video."</string>
+    <string name="incall_show_find_more">Aflați mai multe</string>
+    <string name="incall_show_not_set">Niciun profil video</string>
+    <string name="incall_show_remove">Eliminați profilul video</string>
+    <string name="incall_show_remove_dialog_message">"Ați setat deja un profil video pentru apelurile efectuate. Eliminați acest videoclip acum?"</string>
+    <string name="incall_show_remove_success">Profil video eliminat cu succes</string>
+    <string name="incall_show_title">Profile video</string>
     <string name="incompatible_dialog_cancel">"Nu aplica"</string>
     <string name="incompatible_dialog_message">"Această temă nu este compatibilă cu versiunea MIUI instalată. Unele elemente ale MIUI pot funcționa necorespunzător dacă aplicați această temă."</string>
     <string name="incompatible_dialog_ok">Am înțeles</string>
@@ -191,6 +217,7 @@
     <string name="item_resource_audio_optional_color_ring">Ton notificare</string>
     <string name="item_resource_audio_optional_notification_ring">Notificări</string>
     <string name="item_resource_audio_optional_phone_ring">Sunet apel</string>
+    <string name="lab">Laborator Teme</string>
     <string name="live_wallpaper">Imagini de fundal live</string>
     <string name="loading">Doar o secundă…</string>
     <string name="loading_resource_detail_fail">Nu a reuşit încărcarea resursei</string>
@@ -230,6 +257,13 @@
     <string name="miuishare_title_share">Partajați</string>
     <string name="miuishare_wechat_timeline_title">WeChat Moments</string>
     <string name="miuishare_weibo_title">Weibo</string>
+    <string name="mix_global_option">General</string>
+    <string name="mix_global_option_des">Perdea de notificări, Telefon, Mesagerie și alte elemente de sistem. Debifați această căsuță pentru a folosi opțiunile implicite.</string>
+    <string name="mix_home_option_des">Imagine de fundal și ceas. Debifați această căsuță pentru a folosi opțiunile implicite.</string>
+    <string name="mix_icons_option_des">Pictograme Ecran principal. Debifați această căsuță pentru a folosi opțiunile implicite.</string>
+    <string name="mix_lockscreen_option_des">Imagine de fundal și ceas. Debifați această căsuță pentru a folosi opțiunile implicite.</string>
+    <string name="mix_tip">Componente ale temei</string>
+    <string name="multi_sim_mms_ringtone_settings_dialog_message">Acest sunet de apel va fi aplicat pentru ambele cartele SIM.</string>
     <string name="multi_sim_ringtone_settings_dialog_message">Sunetul de apel este setat pentru ambele cartele SIM.</string>
     <string name="multi_sim_ringtone_settings_dialog_ok">Am înțeles</string>
     <string name="multi_sim_ringtone_settings_dialog_remind_never">"Nu arăta din nou"</string>
@@ -252,6 +286,7 @@
     <string name="online_search_hint">Căutaţi resurse online</string>
     <string name="password_toggle_content_description">Comutați vizibilitatea parolei</string>
     <string name="pref_privacy_policy">Politica de Confidențialitate</string>
+    <string name="present_local_fonts">Fonturile mele</string>
     <string name="present_local_themes">Temele mele</string>
     <string name="present_local_themes_subtitle">Personalizați-vă dispozitivul</string>
     <string name="present_official_themes">Selecția noastră</string>
@@ -381,8 +416,6 @@
     <string name="resource_expand_full_text">Extindeţi</string>
     <string name="resource_failed_to_load_list">Nu se pot încărca temele.</string>
     <string name="resource_free_download">Descărcați în mod gratuit</string>
-    <string name="resource_free_trial_15_days">Încercați gratuit pentru 15 zile</string>
-    <string name="resource_free_use_last_one_day">Versiunea de încercare expiră mâine.</string>
     <string name="resource_get_auth_checking">Verificare autorizare…</string>
     <string name="resource_get_auth_exceed_max_limit_tips">Zece dispozitive au fost deja autorizate în acest cont</string>
     <string name="resource_get_auth_exceed_max_limit_title">Numărul de dispozitive autorizate a fost depășit</string>
@@ -406,7 +439,6 @@
     <string name="resource_no_result">Nu s-a găsit nimic</string>
     <string name="resource_notification_default">Notificări</string>
     <string name="resource_on_trial">Încercare: %1$s</string>
-    <string name="resource_on_use">Se utilizează: %1$s</string>
     <string name="resource_online">On-line</string>
     <string name="resource_online_picker">Selectați sunetul de apel online</string>
     <string name="resource_pack_confirm">Chiar dacă ați achiziționat deja %1$d componente din această temă, este totuşi mai ieftin decât dacă ați procura pachetul complet.</string>
@@ -466,7 +498,9 @@
     <string name="resource_trial_15_days_immediately">Încercați pentru 15 zile imediat</string>
     <string name="resource_trial_days">(perioadă de încercare: %1$dd)</string>
     <string name="resource_trial_days_hours">(perioada de încercare: %1$dd %2$dh)</string>
-    <string name="resource_trial_end_change">Modificați</string>
+    <string name="resource_trial_end_checkbox_hint">Primiți mai întâi Credite Mi</string>
+    <string name="resource_trial_end_get_mibi">Primiți Credite Mi</string>
+    <string name="resource_trial_end_jump_hint">Redirecționare…</string>
     <string name="resource_trial_end_message">Sesiunea de încercare a %1$s a expirat. Finalizați achiziția dacă v-a plăcut.</string>
     <string name="resource_trial_end_purchase">Cumpăraţi</string>
     <string name="resource_trial_end_restore">Finalizaţi încercarea</string>
@@ -495,6 +529,7 @@
     <string name="selected_resource_file_invalid">Imposibil de utilizat fişierul selectat</string>
     <string name="server_internal_error">A apărut e eroare de server. Așteptați un minut sau două și încercați din nou.</string>
     <string name="set_color_ring_back_tone">Setați un sunet de apel personalizat</string>
+    <string name="set_home_wallpaper_failed">"%s. Nu se poate aplica imaginea de fundal pentru Ecranul principal."</string>
     <string name="settings">Setări</string>
     <string name="shortcut_add">Adăugați</string>
     <string name="shortcut_cancel">Nu, mulțumesc</string>
@@ -522,6 +557,8 @@
     <string name="theme_changed_failed_message">Aplicare eşuată</string>
     <string name="theme_changed_message">Temă aplicată</string>
     <string name="theme_changing_dialog_title">Aplicare…</string>
+    <string name="theme_comment_dialog_message">Evaluați această aplicație și spuneți-ne părerea dumneavoastră.</string>
+    <string name="theme_comment_dialog_ok">Evaluați</string>
     <string name="theme_component_title_alarm">Alarmă</string>
     <string name="theme_component_title_alarmstyle">Stil alarmă</string>
     <string name="theme_component_title_all">Temă</string>
@@ -532,6 +569,7 @@
     <string name="theme_component_title_contact">Tastatură numerică</string>
     <string name="theme_component_title_font">Fonturi</string>
     <string name="theme_component_title_framework">Margini</string>
+    <string name="theme_component_title_homepage">Acasă</string>
     <string name="theme_component_title_icon">Pictograme</string>
     <string name="theme_component_title_launcher">Lansator</string>
     <string name="theme_component_title_lockstyle">Stil blocare</string>
@@ -569,6 +607,8 @@
     <string name="theme_purchased_non_local">On-line</string>
     <string name="theme_select_others">Răsfoiţi</string>
     <string name="theme_setting">Setări</string>
+    <string name="theme_staggered_item_text">Primiți Credite Mi</string>
+    <string name="theme_to_comment">Nu e rău!</string>
     <string name="theme_user_agreement_allow">De acord</string>
     <string name="theme_user_agreement_content1">"Prin atingerea De acord, sunteți de acord cu termenii declaraţi în "</string>
     <string name="theme_user_agreement_content2">Acordul utilizatorului</string>
@@ -585,6 +625,7 @@
     <string name="tips_theme_gate_transfer_fail">"Nu s-a putut deschide această pagină. Așteptați un minut sau două și reîncercați."</string>
     <string name="title_component">Personalizați tema</string>
     <string name="title_my_audio_resource">Sunetele mele de apel</string>
+    <string name="title_my_miwallpaper_desktop_effects">Efecte Ecran principal</string>
     <string name="title_my_miwallpaper_resource">Imaginile mele de fundal live</string>
     <string name="title_my_miwallpaper_video_file_resource">Clipurile mele de fundal</string>
     <string name="title_my_wallpaper_resource">Imaginile mele de fundal</string>
@@ -592,6 +633,22 @@
     <string name="title_system_audio_resource">Sunete de sistem</string>
     <string name="title_system_wallpaper_resource">Imagini de fundal ale sistemului</string>
     <string name="to_activate_the_account">Activaţi contul dvs. Mi acum</string>
+    <string name="transparent_wallpaper">Imagine de fundal transparentă</string>
+    <string name="transparent_wallpaper_apply_success">Setată cu succes. Mergeți la Teme &gt; Profil &gt; Laborator Teme pentru mai multe funcții.</string>
+    <string name="transparent_wallpaper_disable">Oprit</string>
+    <string name="transparent_wallpaper_enable">Pornit</string>
+    <string name="transparent_wallpaper_enable_success">Activat cu succes</string>
+    <string name="transparent_wallpaper_filter_pref_summary">"Imaginile de fundal transparente nu vor fi afișate în aplicațiile restricționate"</string>
+    <string name="transparent_wallpaper_filter_pref_title">Selectați aplicațiile care pot funcționa cu imagini de fundal transparente</string>
+    <string name="transparent_wallpaper_filter_set_successfully">Setată cu succes</string>
+    <string name="transparent_wallpaper_filter_setting">Aplicații individuale</string>
+    <string name="transparent_wallpaper_guide">Mergeți la Teme</string>
+    <string name="transparent_wallpaper_guide_tip">Acum puteți selecta o imagine de fundal transparentă în Teme.</string>
+    <string name="transparent_wallpaper_pref_summary">Imagini de fundal cu opacitate redusă</string>
+    <string name="transparent_wallpaper_white_wallpaper">Faceți fundalul alb</string>
+    <string name="transparent_wallpaper_white_wallpaper_failed">"Nu s-a putut albi fundalul"</string>
+    <string name="transparent_wallpaper_white_wallpaper_success">Culoarea fundalului este albă acum</string>
+    <string name="transparent_wallpaper_white_wallpaper_tip">Imaginile de fundal transparente arată cel mai bine pe un fundal alb</string>
     <string name="uid_change_dialog_message">"Ați eliminat actualizările. Reporniți telefonul pentru a putea utiliza temele."</string>
     <string name="uid_change_dialog_ok">Am înțeles</string>
     <string name="uid_change_dialog_title">Reporniți telefonul</string>
@@ -613,6 +670,7 @@
     <string name="video_data_tips_message">Utilizarea datelor mobile poate genera costuri suplimentare. Continuați oricum?</string>
     <string name="video_data_tips_title">Avertisment utilizare date</string>
     <string name="video_silence_apply_success">Videoclip fără sunet configurat cu succes</string>
+    <string name="video_wallpaper_import">Atingeți pentru a adăuga elemente</string>
     <string name="wallpaper_apply">Aplicați</string>
     <string name="wallpaper_crop">Decupaţi</string>
     <string name="wallpaper_decoded_error">Imposibil de încărcat imaginea de fundal</string>
@@ -620,6 +678,7 @@
     <string name="wallpaper_scroll_type_tips">Derulare imagini de fundal</string>
     <string name="wallpaper_set_as_both">Setaţi pt. ambele</string>
     <string name="wallpaper_set_as_desktop">Setaţi ca imagine de fundal</string>
+    <string name="wallpaper_set_as_float_wallpaper">Setată ca imagine de fundal transparentă</string>
     <string name="wallpaper_set_as_lockscreen">Setaţi ca fundal de blocare a ecranului</string>
     <string name="wallpaper_settings">Setări imagine de fundal</string>
     <string name="wallpaper_settings_loading_text">Doar o secundă…</string>
