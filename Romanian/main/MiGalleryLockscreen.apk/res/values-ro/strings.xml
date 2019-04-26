@@ -29,6 +29,12 @@
     <string name="abc_shareactionprovider_share_with">Partajați cu</string>
     <string name="abc_shareactionprovider_share_with_application">Partajați cu %s</string>
     <string name="abc_toolbar_collapse_description">Restrângeți</string>
+    <string name="about_download_fail">"Nu s-a putut descărca"</string>
+    <string name="about_downloading">Se descarcă %s</string>
+    <string name="about_item_function">Caracteristici noi</string>
+    <string name="about_net_error">Verificați setările de rețea și încercați din nou.</string>
+    <string name="about_newest">Caruselul de imagini de fundal este actualizat.</string>
+    <string name="about_update">Actualizați</string>
     <string name="ad_feed_badge">RECLAME</string>
     <string name="ad_pop_btn_hidden">Ascundeți</string>
     <string name="ad_pop_des">Se descarcă aplicația:</string>
@@ -59,7 +65,7 @@
     <string name="cancel_lockscreen">Renunțați</string>
     <string name="cancel_network">Ieșiți</string>
     <string name="carousel_declaration_btn_text">Activați Caruselul de imagini de fundal</string>
-    <string name="carousel_declaration_cta">"Caruselul de imagini de fundal trebuie să se conecteze la internet pentru a funcționa în mod normal. Pentru a avea acces la conținutul online, trebuie să acceptați &lt;a href='http://www.miui.com/res/doc/privacy/cn.html'&gt;Politica noastră de Confidențialitate&lt;/a&gt;. Sunteți de acord?"</string>
+    <string name="carousel_declaration_cta">"Caruselul de imagini de fundal trebuie să se conecteze la internet pentru a funcționa în mod normal. Pentru a avea acces la conținutul online, trebuie să acceptați &lt;a href='%s'&gt;Politica noastră de Confidențialitate&lt;/a&gt;. Sunteți de acord?"</string>
     <string name="carousel_declaration_cta_btn_text">Sunt de acord și activez</string>
     <string name="carousel_declaration_des">Vedeți locuri minunate și primiți surprize plăcute cu ajutorul Caruselului de imagini de fundal</string>
     <string name="carousel_declaration_des2">Adăugați imagini personalizate la Caruselul de imagini de fundal</string>
@@ -74,6 +80,10 @@
     <string name="choose_to_signup">"Nu, voi crea unul"</string>
     <string name="clear_history">Goliți istoricul de căutare</string>
     <string name="clear_search_edittext">Goliți</string>
+    <string name="comment_pop_cancel">Nu acum</string>
+    <string name="comment_pop_content">Lăsați un comentariu dacă vă place Caruselul de imagini de fundal!</string>
+    <string name="comment_pop_ok">Evaluați</string>
+    <string name="comment_pop_title">Evaluați Caruselul de imagini de fundal</string>
     <string name="confirm">Activați</string>
     <string name="create_shortcut">Creați o scurtătură pe Ecranul principal</string>
     <string name="current_connection_invalid">Așteptați ca telefonul să se conecteze la rețea</string>
@@ -180,6 +190,15 @@
     <string name="lks_left_net_error">"Nu s-a putut conecta la rețea."</string>
     <string name="lks_logo_desc2">Imagini de fundal noi, în fiecare zi</string>
     <string name="lks_subscription_toast">Imagine de fundal schimbată cu succes</string>
+    <string name="llks_pop_btm_des">Începeți ziua cu un zâmbet</string>
+    <string name="llks_pop_btm_des_backup">Începeți ziua într-o notă pozitivă</string>
+    <string name="llks_pop_btm_title">Bună dimineața</string>
+    <string name="llks_pop_btm_title_backup">Salutări matinale</string>
+    <string name="llks_pop_i_know">Am înțeles</string>
+    <string name="llks_pop_top_des">Primiți în mod regulat imagini noi</string>
+    <string name="llks_pop_top_des_backup">Livrate pe ecranul dvs. în fiecare zi</string>
+    <string name="llks_pop_top_title">Imagini de fundal noi</string>
+    <string name="llks_pop_top_title_backup">Imagini noi</string>
     <string name="load_hdpicture_complete">Imagine originală încărcată cu succes</string>
     <string name="loading">&lt;CDATA&gt;Doar o secundă&amp;#8230;&lt;/CDATA&gt;</string>
     <string name="lock_screen_date">EEEE, dd MMMM</string>
@@ -202,6 +221,7 @@
     <string name="mode_title">Se arată recomandările</string>
     <string name="more_article">Mai multe articole</string>
     <string name="need_open_gallery">Activați Caruselul de imagini de fundal</string>
+    <string name="new_feature_title">"Ce este nou"</string>
     <string name="nick_name">Nume</string>
     <string name="no_long_show">"Nu arăta din nou"</string>
     <string name="no_networdk">"Nu s-a putut conecta la rețea"</string>
@@ -286,6 +306,8 @@
     <string name="search_menu_title">Căutați</string>
     <string name="search_str">Populare acum</string>
     <string name="select_package">Selectați versiunea</string>
+    <string name="setting_about_item_des">Versiunea</string>
+    <string name="setting_about_item_title">Despre Caruselul de imagini de fundal</string>
     <string name="setting_des">Puteți seta slideshow-ul dvs. din Setări &gt; Blocare ecran și parolă &gt; Caruselul de imagini de fundal</string>
     <string name="setting_head">Setări</string>
     <string name="setting_ok">Setări</string>
@@ -312,6 +334,7 @@
     <string name="sst_custom_wallpaper_desc">Selectați imagini din Galerie și recomandări</string>
     <string name="sst_custom_wallpaper_title">Slideshow personalizat</string>
     <string name="sst_custom_wallpaper_title2">Slideshow</string>
+    <string name="sst_disable_unopen">Caracteristică Beta</string>
     <string name="sst_effect_next_wallpaper">Setați o imagine de fundal nouă pentru a aplica modificările</string>
     <string name="sst_favor_desc">Vedeți imaginile de fundal favorite</string>
     <string name="sst_favor_title">Favorite</string>
@@ -324,6 +347,7 @@
     <string name="sst_mode_selection">Mod</string>
     <string name="sst_more_subscription">Mai multe abonamente</string>
     <string name="sst_morning_greeting_desc">Obțineți o imagine nouă în fiecare dimineață</string>
+    <string name="sst_morning_greeting_disable_toast">Această caracteristică va fi disponibilă în curând</string>
     <string name="sst_morning_greeting_title">Primiți salutări dimineața</string>
     <string name="sst_new_feature">Caracteristici noi</string>
     <string name="sst_no_favor_wallpaper_hint">Nicio imagine favorită</string>
@@ -355,16 +379,18 @@
     <string name="sst_wifi_only_title">Activați descărcarea prin date mobile</string>
     <string name="subscribe_item_checked">Abonat</string>
     <string name="subscribe_item_unchecked">Dezabonat</string>
-    <string name="summary">"Acceptați &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Politica de Confidențialitate&lt;/a&gt; pentru a vedea conținut online. Dacă nu sunteți de acord, imaginile locale vor fi disponibile în continuare."</string>
-    <string name="summary2">"Utilizând această caracteristică, sunteți de acord cu &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'&gt;Acordul utilizatorului&lt;/a&gt; și &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Politica de confidențialitate&lt;/a&gt;. Această caracteristică trebuie să se conecteze la internet pentru a funcționa în mod normal.​"</string>
-    <string name="summary_international">"Utilizând această caracteristică, sunteți de acord cu &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'&gt;Acordul utilizatorului&lt;/a&gt; and &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Politica de confidențialitate&lt;/a&gt;. Această caracteristică trebuie să se conecteze la internet pentru a funcționa în mod normal.​"</string>
+    <string name="summary">"Acceptați &lt;a href='%s'&gt;Politica noastră de Confidențialitate&lt;/a&gt; pentru a vedea conținut online. Dacă nu sunteți de acord, imaginile locale vor fi disponibile în continuare."</string>
+    <string name="summary2">"Utilizând această caracteristică, sunteți de acord cu &lt;a href ='%1$s'&gt;Acordul Utilizatorului&lt;/a&gt; și &lt;a href='%2$s'&gt;Politica de Confidențialitate&lt;/a&gt;. Această caracteristică trebuie să se conecteze la internet pentru a funcționa în mod normal.​"</string>
+    <string name="summary_international">"Utilizând această caracteristică, sunteți de acord cu &lt;a href ='%1$s'&gt;Acordul Utilizatorului&lt;/a&gt; și &lt;a href='%2$s'&gt;Politica de Confidențialitate&lt;/a&gt;. Această caracteristică trebuie să se conecteze la internet pentru a funcționa în mod normal.​"</string>
     <string name="tab_user_title_bar_text">Setări</string>
     <string name="theme_apply_failured">"Nu s-a putut aplica; încercați din nou mai târziu"</string>
     <string name="theme_apply_success">Aplicat cu succes</string>
     <string name="theme_applying">Se aplică…</string>
-    <string name="theme_des">Caruselul de imagini de fundal suportă doar tema implicită MIUI. Setați tema implicită pentru a putea utiliza Caruselul de imagini de fundal.</string>
-    <string name="theme_ok">Setați tema implicită</string>
-    <string name="theme_title">"Nu folosiți tema implicită"</string>
+    <string name="theme_des">Aplicați tema implicită și activați din nou Caruselul de imagini de fundal.</string>
+    <string name="theme_des_lock_style">Aplicați Blocarea ecranului implicită și activați din nou Caruselul de imagini de fundal.</string>
+    <string name="theme_ok">Setări</string>
+    <string name="theme_title">Treceți la tema implicită</string>
+    <string name="theme_title_lock_style">Treceți la Blocarea ecranului implicită</string>
     <string name="ticket_hint">Cod de verificare</string>
     <string name="ticket_invalid">Codul introdus este incorect</string>
     <string name="ticket_sign_in">Conectați-vă prin SMS</string>
