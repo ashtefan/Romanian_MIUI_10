@@ -408,7 +408,6 @@ Vă rugăm eliberați cel puțin %s."</string>
     <string name="trans_calculating_media_description">Fișiere media</string>
     <string name="trans_calculating_tip">Calculare %s…</string>
     <string name="trans_cancel_confirm">Transfer în desfășurare, opriți acum?</string>
-    <string name="trans_cancel_dialog_survey_title">De ce ați întrerupt transferul?</string>
     <string name="trans_cancel_selection_message">Dacă părăsiți Mi Mover, transferul în derulare va fi întrerupt. Așteptați până la încheierea transferului.</string>
     <string name="trans_cancel_selection_title">Rămâneți în Mi Mover</string>
     <string name="trans_cancelling">Oprire transfer…</string>
@@ -555,7 +554,7 @@ Mențineți telefoanele apropiate unul de celălalt."</string>
 Modificați fișierele selectate sau eliberați %s spațiu de stocare"</string>
     <string name="trans_select_data_tips">"Selectați elementele pentru transfer.
 Fișierele similare de pe telefonul nou vor fi suprascrise.
-(Dimensiunea elementelor transferate pe care o vedeți este o estimare grosieră)"</string>
+(Dimensiunea elementelor transferate pe care o vedeți este o estimare grosieră.)"</string>
     <string name="trans_select_data_too_large">"Ați selectat prea multe elemente pentru transfer.
 Selectați doar elementele importante pentru a realiza transferul mai rapid."</string>
     <string name="trans_select_device_receive">Selectați dispozitivul destinatar.</string>

@@ -22,8 +22,6 @@
     <string name="agenda_assistant_payment_day">Zi de plată</string>
     <string name="agenda_assistant_repayment_day">Zi de plată</string>
     <string name="agenda_assistant_tail_num">Număr</string>
-    <string name="agenda_disclaimer">Act de renunțare</string>
-    <string name="agenda_disclaimer_content">Această funcție este furnizată de către Alipay. Alipay poartă toate responsabilitățile legate de serviciile pe care le furnizează. Puteți contacta Alipay dacă aveți întrebări.</string>
     <string name="agenda_i_known">Am înțeles</string>
     <string name="agenda_need_install_alipay">Instalați aplicația Alipay înainte de a utiliza această funcție.</string>
     <string name="agenda_no_title">(Fără titlu)</string>
@@ -286,6 +284,8 @@
     <string name="didi_trip">Taxi</string>
     <string name="didi_trip_content">Estimați costul și chemați un taxi</string>
     <string name="didi_trip_content_detail">Estimați costul cursei și chemați un taxi.</string>
+    <string name="disclaimer_content">Această funcție este furnizată de către %1$s. %1$s poartă toate responsabilitățile legate de serviciile pe care le furnizează. Puteți contacta %1$s dacă aveți întrebări.</string>
+    <string name="disclaimer_title">Act de renunțare</string>
     <string name="drive">Conduceți</string>
     <string name="duokan_open">Adăugați un card Duokan</string>
     <string name="duokan_setting_brief">Reluați lectura de unde ați rămas.</string>
@@ -715,9 +715,11 @@ Unele comenzi trimise prin SF Express de către vânzători din afara Taobao, Tm
     <string name="main_paste_add">Adăugați</string>
     <string name="main_search_hint">Căutați</string>
     <string name="main_select">Selectați</string>
+    <string name="map_baidu">Hărți Baidu</string>
     <string name="map_detail">Vedeți ruta</string>
     <string name="map_didi">Chemați un taxi</string>
     <string name="map_empty_btn">"Nu ați adăugat nicio adresă"</string>
+    <string name="map_gaode">Hărți Gaode</string>
     <string name="map_home_didi">Mergeți acasă</string>
     <string name="map_home_way">Calea spre casă</string>
     <string name="map_install_tip">Instalați Gaode sau Baidu pentru a utiliza această caracteristică</string>
@@ -1150,6 +1152,7 @@ Unele comenzi trimise prin SF Express de către vânzători din afara Taobao, Tm
     <string name="taxi_setting_brief">Chemați un taxi printr-o apăsare de buton.</string>
     <string name="taxi_target">Destinație     </string>
     <string name="tb_setting_xiaoai">Mi AI</string>
+    <string name="time_default">—:—</string>
     <string name="time_just_now">Chiar acum</string>
     <string name="time_month">dd/MM</string>
     <string name="time_year">dd/MM/yyyy</string>

@@ -1449,7 +1449,8 @@ De asemenea, sunteți conectat la o rețea VPN, care vă poate monitoriza activi
     <string name="quick_settings_wifi_off_label">Wi-Fi este oprit</string>
     <string name="quick_settings_wifi_on_label">Wi-Fi este pornit</string>
     <string name="quick_settings_work_mode_label">Mod Servici</string>
-    <string name="recent_cannot_dock">"nu se poate accesa Modul Ferestre Multiple din Spațiul secundar"</string>
+    <string name="rapid_charge_mode_tip">Încărcare rapidă</string>
+    <string name="recent_cannot_dock">"Nu se poate utiliza Modul Ecran scindat în Spațiul secundar"</string>
     <string name="recent_dock_tip">Atingeți pentru a selecta aplicațiile</string>
     <string name="recent_menu_item_info">Info</string>
     <string name="recent_menu_item_lock">Blocați</string>

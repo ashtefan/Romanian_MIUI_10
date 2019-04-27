@@ -130,7 +130,7 @@
     <string name="app_downloading_ratio_text">Se descarcă %s</string>
     <string name="app_downloading_text">Se descarcă</string>
     <string name="app_installing_text">Se instalează</string>
-    <string name="app_name">InfoStream</string>
+    <string name="app_name">UiFramework</string>
     <string name="app_new_version">Cea mai recentă versiune a aplicației este instalată deja</string>
     <string name="app_open_text">Deschideți</string>
     <string name="app_task_download_exists_text">Sarcina de descărcare există</string>
@@ -279,6 +279,8 @@
     <string name="data_monitor_dialog_message">Se pare că ceva vă crește traficul de date mobile. Deschideți pagina de pornire pentru a opri acest lucru.</string>
     <string name="data_traffic_continue">Continuați</string>
     <string name="data_traffic_download_cancel">Renunțați</string>
+    <string name="data_traffic_download_confirm">Se utilizează conexiunea de date mobile</string>
+    <string name="data_traffic_download_ok">Ok</string>
     <string name="data_traffic_download_prompt">Videoclipul curent poate fi descărcat doar prin Wi-Fi</string>
     <string name="data_traffic_download_setting">Setări</string>
     <string name="data_traffic_goto">Trafic liber de date</string>
@@ -487,6 +489,7 @@ pentru a vedea filele deschise pe alte dispozitive"</string>
     <string name="js_disable_confirm_message">Dezactivarea JavaScript poate cauza afișarea incorectă a unor site-uri.</string>
     <string name="js_disable_confirm_title">Dezactivaţi JavaScript?</string>
     <string name="keep_queued_download">Păstrează</string>
+    <string name="load_error_tip">Eroare de încărcare; apăsați reîncercare</string>
     <string name="loading_dialog_title">Mutare…</string>
     <string name="loading_tips">Glisați în jos pentru a actualiza</string>
     <string name="local_bookmarks">Mi</string>
