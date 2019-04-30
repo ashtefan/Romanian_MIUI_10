@@ -487,6 +487,10 @@ Sample Rate"</string>
     <string name="daltonizer_mode_protanomaly">Protanomalie (roșu-verde)</string>
     <string name="daltonizer_mode_tritanomaly">Tritanomalie (albastru-galben)</string>
     <string name="daltonizer_type_overridden">Suprascris de către %1$s</string>
+    <string name="data_connection_5g">5G</string>
+    <string name="data_connection_5g_basic">5GBasic</string>
+    <string name="data_connection_5g_sa">5GSA</string>
+    <string name="data_connection_5g_uwb">5GUWB</string>
     <string name="data_connection_no_internet">Neconectat la internet</string>
     <string name="data_saver">Economisire date</string>
     <string name="data_saver_description">"Pentru a ajuta la reducerea utilizării datelor, Economisirea datelor previne trimiterea sau primirea datelor în fundal pentru unele aplicații. O aplicație pe care o utilizați în prezent poate accesa datele, dar o va face mai rar. Acest lucru poate însemna, de exemplu, că imaginile nu vor fi afișate decât atunci când le veți atinge."</string>
