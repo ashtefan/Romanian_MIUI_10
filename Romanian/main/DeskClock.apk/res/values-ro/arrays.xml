@@ -52,6 +52,11 @@
         <item>25 de minute</item>
         <item>30 de minute</item>
     </string-array>
+    <string-array name="clock_bg_setting_entries">
+        <item>Alb</item>
+        <item>Negru</item>
+        <item>Auto</item>
+    </string-array>
     <string-array name="countries_names_miui">
         <item>"Coasta de Fildeș"</item>
         <item>Ghana</item>

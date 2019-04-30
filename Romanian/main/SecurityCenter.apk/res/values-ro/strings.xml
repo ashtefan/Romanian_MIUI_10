@@ -1046,6 +1046,7 @@ Toate datele de pe telefon pot fi șterse iar parola pentru Blocarea ecranului p
     <string name="gb_msg_transparent_dispaly_summary">Transparent</string>
     <string name="gb_network_status_bad">A apărut o eroare de conexiune.</string>
     <string name="gb_new_feature">Caracteristică nouă</string>
+    <string name="gb_shortcut_pref_title">Scurtătură pe Ecranul principal</string>
     <string name="gb_sign_gift">Verificați pentru a primi recompense</string>
     <string name="gb_sign_gift_button_text">Primiți</string>
     <string name="gb_sign_notification_summary">Verificați zilnic pentru a obține creștere Xunyou</string>
