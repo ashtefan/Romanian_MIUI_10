@@ -31,6 +31,8 @@
     <string name="abc_shareactionprovider_share_with">Partajați prin</string>
     <string name="abc_shareactionprovider_share_with_application">Partajați prin %s</string>
     <string name="abc_toolbar_collapse_description">Restrângeți</string>
+    <string name="accessibility_setting_hint">"Atingeți butonul din colțul din dreapta sus pentru a activa acest serviciu.
+Aplicația Teme va detecta aplicațiile pe care le utilizați și va afișa imagini de fundal transparente în aplicațiile pe care le alegeți.​"</string>
     <string name="accessibiliy_description_content_account">Profil</string>
     <string name="accessibiliy_description_content_ad">Reclamă</string>
     <string name="accessibiliy_description_content_add_resource">Adăugați elemente</string>
@@ -59,6 +61,8 @@
     <string name="add_resource_detail_fail">"Nu s-a putut adăuga resursa"</string>
     <string name="all_resources">Toate</string>
     <string name="app_ad_title">Recomandări zilnice</string>
+    <string name="app_disable_transparent_wallpaper">Fără imagine de fundal transparentă</string>
+    <string name="app_enable_transparent_wallpaper">Cu imagine de fundal transparentă</string>
     <string name="app_name">Teme</string>
     <string name="apply_default_font_tip">"Păstrați fontul actual de sistem?"</string>
     <string name="apply_font_btn_exclude">Nu acum</string>
@@ -114,6 +118,9 @@
     <string name="download_preview_failed">Încărcarea previzualizării a eşuat</string>
     <string name="download_success">Descărcare finalizată</string>
     <string name="dynamic_video_wallpaper">Imagine de fundal 24H</string>
+    <string name="enable_accessibility">Sunt necesare permisiuni de accesibilitate</string>
+    <string name="enable_accessibility_hint">"Puteți activa acest serviciu din aplicația Teme. După aceea, veți putea selecta aplicațiile în care să fie afișate fundalul transparent."</string>
+    <string name="enable_transparent_wallpaper">Utilizați imagini de fundal transparente</string>
     <string name="exit_extreme_mode_dialog_agree">De acord</string>
     <string name="exit_extreme_mode_dialog_cancel">Renunț</string>
     <string name="exit_extreme_mode_dialog_title">Dezactivați modul Extrem</string>
@@ -188,6 +195,7 @@
     <string name="gift_use_confirmation_dlg_title">Trimiteţi acest cadou?</string>
     <string name="gift_use_fail_dlg_title">Ceva a mers prost</string>
     <string name="gift_used">Trimis</string>
+    <string name="go_accessibility_setting">Selectați</string>
     <string name="hide_free">Ascundeți %1$s gratuite</string>
     <string name="hide_incompatible">Ascundeți %1$s incompatibile</string>
     <string name="hide_pull_down_message">Ascundeți brelocul?</string>
@@ -235,6 +243,7 @@ Pentru a dezactiva această funcție, mergeți la Setări &gt; Sunete și vibra�
     <string name="lockscreen_magazine_title">Ecrane de blocare zilnice</string>
     <string name="lockscreen_wallpaper">Blocare ecran</string>
     <string name="lockstyle_personal_settings">Personalizare</string>
+    <string name="loop_wallpaper_is_here">Diapozitivele cu imagini de fundal sunt disponibile acum</string>
     <string name="mi_wallpaper">Imagini de fundal MIUI</string>
     <string name="miuishare_account_activate_confirmation">Activați Contul Mi</string>
     <string name="miuishare_account_activate_ok">Activați</string>
@@ -302,6 +311,7 @@ Pentru a dezactiva această funcție, mergeți la Setări &gt; Sunete și vibra�
     <string name="purchased_list_current">Teme optimizate</string>
     <string name="purchased_list_legacy">Teme achiziționate</string>
     <string name="recently_used">Utilizate recent</string>
+    <string name="reenable_accessibility">A apărut o eroare. Acordați permisiunile de accesibilitate din nou.</string>
     <string name="refresh_footer_all_loaded">"Asta e tot pentru acum."</string>
     <string name="refresh_footer_failed">"Nu s-au putut încărca informațiile"</string>
     <string name="refresh_footer_finish">Încărcat cu succes</string>
@@ -545,6 +555,7 @@ Pentru a dezactiva această funcție, mergeți la Setări &gt; Sunete și vibra�
     <string name="the_picture_is_too_small">Imaginea este prea mică</string>
     <string name="theme_apply_audio_dialog_item_alarm">Alarmă</string>
     <string name="theme_apply_audio_dialog_item_color_ring_back_tone">Sunet de apel personalizat</string>
+    <string name="theme_apply_audio_dialog_item_mms">Sunet pentru mesaje</string>
     <string name="theme_apply_audio_dialog_item_notification">Notificări</string>
     <string name="theme_apply_audio_dialog_item_ringtone">Sunet de apel</string>
     <string name="theme_apply_failured">"Nu s-a putut aplica"</string>
@@ -633,6 +644,8 @@ Pentru a dezactiva această funcție, mergeți la Setări &gt; Sunete și vibra�
     <string name="title_system_audio_resource">Sunete de sistem</string>
     <string name="title_system_wallpaper_resource">Imagini de fundal ale sistemului</string>
     <string name="to_activate_the_account">Activaţi contul dvs. Mi acum</string>
+    <string name="transparency_pref_summary">Alegeți cât de transparentă doriți să fie imaginea de fundal</string>
+    <string name="transparency_pref_title">Nivelul de opacitate</string>
     <string name="transparent_wallpaper">Imagine de fundal transparentă</string>
     <string name="transparent_wallpaper_apply_success">Setată cu succes. Mergeți la Teme &gt; Profil &gt; Laborator Teme pentru mai multe funcții.</string>
     <string name="transparent_wallpaper_disable">Oprit</string>
@@ -675,10 +688,32 @@ Pentru a dezactiva această funcție, mergeți la Setări &gt; Sunete și vibra�
     <string name="wallpaper_crop">Decupaţi</string>
     <string name="wallpaper_decoded_error">Imposibil de încărcat imaginea de fundal</string>
     <string name="wallpaper_detail_load_page_no_network">Conectați-vă la rețea și încercați din nou.</string>
+    <string name="wallpaper_loop_add_success">Adăugată cu succes</string>
+    <string name="wallpaper_loop_add_to_loop_desk_wallpaper">Adăugați la diapozitivul pentru Ecranul principal</string>
+    <string name="wallpaper_loop_add_to_loop_lock_wallpaper">Adăugați la diapozitivul pentru Blocarea ecranului</string>
+    <string name="wallpaper_loop_desc_all_walpaper">Creați diapozitive personalizate cu imagini de fundal</string>
+    <string name="wallpaper_loop_desc_desk_walpaper">Creați un diapozitiv personalizat pentru Ecranul principal</string>
+    <string name="wallpaper_loop_desc_lock_walpaper">Creați un diapozitiv personalizat pentru Blocarea ecranului</string>
+    <string name="wallpaper_loop_interval_15min">La fiecare 15 minute</string>
+    <string name="wallpaper_loop_interval_1d">În fiecare zi</string>
+    <string name="wallpaper_loop_interval_1h">În fiecare oră</string>
+    <string name="wallpaper_loop_interval_desc">Setați intervalul de timp pentru diapozitiv</string>
+    <string name="wallpaper_loop_interval_title">Modificați imaginea de fundal</string>
+    <string name="wallpaper_loop_manage">Gestionați</string>
+    <string name="wallpaper_loop_more_options">Setări adiționale</string>
+    <string name="wallpaper_loop_my_desk_wallpaper">Imaginile mele de fundal pentru Ecranul principal</string>
+    <string name="wallpaper_loop_my_lock_wallpaper">Imaginile mele de fundal pentru Blocarea ecranului</string>
+    <string name="wallpaper_loop_order_desc">Selectați ordinea în care să apară imaginile</string>
+    <string name="wallpaper_loop_order_loop">Original</string>
+    <string name="wallpaper_loop_order_shuffle">Aleatoriu</string>
+    <string name="wallpaper_loop_order_title">Ordinea imaginilor</string>
+    <string name="wallpaper_loop_title">Diapozitiv cu imagini de fundal</string>
+    <string name="wallpaper_loop_title_desk_wallpaper">Diapozitiv cu imagini de fundal pentru Ecranul principal</string>
+    <string name="wallpaper_loop_title_lock_walpaper">Diapozitiv cu imagini de fundal pentru Blocarea ecranului</string>
     <string name="wallpaper_scroll_type_tips">Derulare imagini de fundal</string>
     <string name="wallpaper_set_as_both">Setaţi pt. ambele</string>
     <string name="wallpaper_set_as_desktop">Setaţi ca imagine de fundal</string>
-    <string name="wallpaper_set_as_float_wallpaper">Setată ca imagine de fundal transparentă</string>
+    <string name="wallpaper_set_as_float_wallpaper">Setați ca imagine de fundal transparentă</string>
     <string name="wallpaper_set_as_lockscreen">Setaţi ca fundal de blocare a ecranului</string>
     <string name="wallpaper_settings">Setări imagine de fundal</string>
     <string name="wallpaper_settings_loading_text">Doar o secundă…</string>
