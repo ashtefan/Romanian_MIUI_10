@@ -74,7 +74,7 @@
     <string name="ai_scene_top_moon_off">Mod Lumină redusă</string>
     <string name="ai_scene_top_tip">Mod Lună</string>
     <string name="audio_focus_exit_button_text">Închidere focusare audio</string>
-    <string name="autozoom_click_hint">"Atingeți un obiect pentru a-l menține în focus când este în mișcare. Stați la cel puțin 3 metri pentru a obține cele mai bune efecte."</string>
+    <string name="autozoom_click_hint">"Atingeți un obiect pentru a-l menține în focus când este în mișcare. Stați la distanță de cel puțin 3 metri pentru a obține cele mai bune efecte."</string>
     <string name="autozoom_disabled_hint">S-a oprit urmărirea obiectelor în mișcare</string>
     <string name="autozoom_hint">Urmăriți obiectele în mișcare</string>
     <string name="autozoom_landscape_hint">Fotografiați în modul peisaj pentru a obține cele mai bune efecte</string>
@@ -576,6 +576,8 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="pref_camera_ultra_wide_ldc_description">Corectați obiectele distorsionate în mod automat</string>
     <string name="pref_camera_ultra_wide_ldc_title">Corectați distorsiunile în fotografiile cu unghi foarte larg</string>
     <string name="pref_camera_ultra_wide_mode_title">Mod unghi foarte larg</string>
+    <string name="pref_camera_video_bokeh_off">Video bokeh oprit</string>
+    <string name="pref_camera_video_bokeh_on">Video bokeh</string>
     <string name="pref_camera_video_duration_entry_10">10 minute</string>
     <string name="pref_camera_video_duration_entry_120">Fără limită</string>
     <string name="pref_camera_video_duration_entry_30">30 de minute</string>

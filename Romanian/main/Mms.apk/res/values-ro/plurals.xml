@@ -42,15 +42,19 @@
     <plurals name="message_count">
         <item quantity="other">%1$s mesaje</item>
         <item quantity="one">%1$s mesaj</item>
-     </plurals>
+    </plurals>
+    <plurals name="rcs_group_notification_invitation_receive">
+        <item quantity="other">Ați primit %d invitații pentru conversații în grup</item>
+        <item quantity="one">Ați primit %d invitație pentru conversație în grup</item>
+    </plurals>
     <plurals name="recipient_count">
         <item quantity="other">%1$s persoane</item>
         <item quantity="one">%1$s persoană</item>
-     </plurals>
+    </plurals>
     <plurals name="search_results_title">
         <item quantity="other">%1$s rezultate pentru „%2$s”</item>
         <item quantity="one">%1$s rezultat pentru „%2$s”</item>
-     </plurals>
+    </plurals>
     <plurals name="send_to_count">
         <item quantity="other">S-au trimis %1$s mesaje</item>
         <item quantity="one">S-a trimis %1$s mesaj</item>
@@ -59,12 +63,12 @@
         <item quantity="other">%d secunde</item>
         <item quantity="one">%d secundă</item>
         <item quantity="few">%d secunde</item>
-     </plurals>
+    </plurals>
     <plurals name="slide_duration">
         <item quantity="other">%d secunde</item>
         <item quantity="one">%d secundă</item>
         <item quantity="few">%d secunde</item>
-     </plurals>
+    </plurals>
     <plurals name="timed_message_expired_title">
         <item quantity="other">"%d mesaje programate nu s-au trimis"</item>
         <item quantity="one">"%d mesaj programat nu s-a trimis"</item>

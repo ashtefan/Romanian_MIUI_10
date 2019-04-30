@@ -224,6 +224,7 @@
     <string name="cloud_tabs_sync_off">Sincronizare oprită</string>
     <string name="cloud_time_tips">Ultima sincronizare</string>
     <string name="cloud_up_to_loading_tips">Eliberați pentru sincronizare</string>
+    <string name="collect_diagnosis_log">Colectați un jurnal de diagnoză</string>
     <string name="collect_video">Colectați video</string>
     <string name="comment_app_menu">Comentariu</string>
     <string name="comment_description">Comentariu</string>
@@ -288,12 +289,17 @@
     <string name="data_traffic_prompt_message">Utilizarea datelor mobile pentru a urmări videoclipuri va crește utilizarea datelor mobile. Dacă depășiți limita de date, operatorul vă poate taxa suplimentar.</string>
     <string name="data_traffic_prompt_title">Utilizez datele mobile</string>
     <string name="data_traffic_stop">Stop</string>
+    <string name="debug_mode_toast">Modul Depanare este activat</string>
     <string name="delete">Ştergeţi</string>
     <string name="delete_bookmark">Ștergeți</string>
     <string name="delete_bookmark_action_warning">Ștergeți marcajele?</string>
     <string name="delete_bookmark_group_warning">Ştergeţi \"%s\"? Toate marcajele din acest grup vor fi șterse.</string>
     <string name="delete_bookmark_warning">Ştergeţi marcajul \"%s\"?</string>
     <string name="delete_download">Ștergeți</string>
+    <string name="diagnosis_log_send_failed">Trimiterea jurnalului de diagnoză a eșuat.</string>
+    <string name="diagnosis_log_sent_format">"Jurnalul de diagnoză a fost trimis.
+ID:%s
+Vă rugăm să comunicați acest cod tehnicianului."</string>
     <string name="dialog_cannot_resume">Descărcarea s-a întrerupt</string>
     <string name="dialog_clipboard_tabs_action">Atingeți pentru a deschide</string>
     <string name="dialog_clipboard_tabs_tip">Găsiți linkurile deja copiate</string>
@@ -409,6 +415,7 @@ pentru a vedea filele deschise pe alte dispozitive"</string>
     <string name="finish_sync_cloud_tabs">Sincronizare încheiată cu succes</string>
     <string name="firstUsingSearchEngineTips">Schimbați motorul de căutare?</string>
     <string name="fling_on_border_gesture_hint">Puteți selecta funcția acestui gest din Setări</string>
+    <string name="for_diagnosis_usage_only">Utilizați această informație doar pentru diagnoză.</string>
     <string name="force_quick_search_title">Căutați</string>
     <string name="force_touch_bookmark_history_title">Marcaje și istoric</string>
     <string name="force_touch_infoflow_title">Știri</string>
@@ -439,6 +446,8 @@ pentru a vedea filele deschise pe alte dispozitive"</string>
     <string name="guide_fashion_text">modă</string>
     <string name="guide_fiction_text">ficțiune</string>
     <string name="guide_finance_text">finanțe</string>
+    <string name="guide_first_optimization_type_main_title">Videoclipurile minunate nu se opresc</string>
+    <string name="guide_first_optimization_type_sub_title">15 secunde de înregistrare video pe moment</string>
     <string name="guide_flash_type_main_title">Extrem de rapid</string>
     <string name="guide_flash_type_subtitle">Viteză uimitoare, interfață fluidă</string>
     <string name="guide_games_text">jocuri</string>
@@ -449,6 +458,8 @@ pentru a vedea filele deschise pe alte dispozitive"</string>
     <string name="guide_military_text">armată</string>
     <string name="guide_motor_text">motor</string>
     <string name="guide_politics_text">politică</string>
+  <string name="guide_second_optimization_type_main_title">Relaxați-vă la barul de joacă</string>
+  <string name="guide_second_optimization_type_sub_title">Entertainment Gossip, Military Hotspots, Latest Movies and TV, Emotional Variety</string>
     <string name="guide_skip">Omiteți</string>
     <string name="guide_slide_down">Vă rugăm glisați în jos</string>
     <string name="guide_slide_up">Vă rugăm glisați în sus</string>
@@ -996,6 +1007,7 @@ Rețineți că fișierele pe care le descărcați și marcajele vor fi totuși s
     <string name="page_info">Informaţii pagină</string>
     <string name="page_info_address">Adresă:</string>
     <string name="page_info_view">Vizualizaţi informaţiile paginii</string>
+    <string name="passport_oauth_sucess_tip">Autorizat cu succes</string>
     <string name="password">Parolă</string>
     <string name="pause_download">Întreruptă</string>
     <string name="paused_queued_for_wifi">Se așteaptă conectarea…</string>
@@ -1051,6 +1063,7 @@ Rețineți că fișierele pe care le descărcați și marcajele vor fi totuși s
     <string name="pref_content_night_read_mode">Mod nocturn</string>
     <string name="pref_content_search_engine">Motorul de căutare în bara de adrese</string>
     <string name="pref_content_search_engine_summary">Alegeţi un motor de căutare</string>
+    <string name="pref_debug_mode">Mod depanare</string>
     <string name="pref_download_setting">Setări descărcare</string>
     <string name="pref_enable_adblock_notification">Afişare notificări despre anunțurile blocate</string>
     <string name="pref_enable_news">Ştiri</string>
@@ -1217,6 +1230,8 @@ Rețineți că fișierele pe care le descărcați și marcajele vor fi totuși s
     <string name="search_label">Browser</string>
     <string name="search_menu_title">Căutați</string>
     <string name="search_notification_btn_title">Căutați</string>
+    <string name="search_notification_guide_content">Experimentați acum</string>
+    <string name="search_notification_guide_title">Glisați partea de sus a ecranului și încercați căutarea rapidă!</string>
     <string name="search_path_browser">Setări/Aplicații instalate/Browser</string>
     <string name="search_s139">139</string>
     <string name="search_settings_description">Marcaje şi istoric web</string>
@@ -1238,7 +1253,9 @@ Rețineți că fișierele pe care le descărcați și marcajele vor fi totuși s
     <string name="select_download_device">Selectaţi dispozitivul</string>
     <string name="send_comment_button">Trimite</string>
     <string name="send_comment_title">Comentariu</string>
+    <string name="send_diagnosis_log">Trimiteți jurnalul de diagnoză</string>
     <string name="senddesktop">Ecranul principal</string>
+    <string name="sending">Se trimite…</string>
     <string name="sendstartpage">Pagina de pornire</string>
     <string name="sequence_bookmark_description">Atingeți și mențineți apăsat pentru a rearanja marcajele</string>
     <string name="share_image_text">Uite ce am partajat! @MIUI</string>
@@ -1267,6 +1284,8 @@ Aplicația Browser trebuie să se conecteze la internet pentru a funcționa în 
     <string name="small_video_ad_app_text_resume">Reluați</string>
     <string name="small_video_ad_web_text">Deschideți</string>
     <string name="small_video_boba_tab">Difuzați</string>
+    <string name="small_video_comment">Toate comentariile</string>
+    <string name="small_video_comment_input_hint">Introduceți comentariul dvs.</string>
     <string name="small_video_load_failed">Încărcarea a eșuat</string>
     <string name="small_video_loading">Se încarcă...</string>
     <string name="small_video_main_tab">Recomandați</string>
@@ -1360,6 +1379,7 @@ Aplicația Browser trebuie să se conecteze la internet pentru a funcționa în 
     <string name="tae_sdk_qr_login_icon_password"></string>
     <string name="tae_sdk_qr_login_icon_scan"></string>
     <string name="temp_refuse">Nu, mulțumesc</string>
+    <string name="temporary_not_available">indisponibil momentan</string>
     <string name="title_bar_loading">Se încarcă…</string>
     <string name="title_notice_push">Activați notificările push</string>
     <string name="too_many_windows_dialog_message">Browser-ul nu mai poate deschide o filă nouă până când nu închideţi alta.</string>

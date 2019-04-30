@@ -14,6 +14,106 @@
         <item>Calendar</item>
         <item>Stocare</item>
     </string-array>
+    <string-array name="settings_search_contacts">
+        <item>Sincronizați contactele cu Mi Cloud</item>
+        <item>Activați/setați sincronizarea</item>
+        <item>Contacte;Istoricul de apelare;Cloud;Sincronizare;Servicii Cloud;Mi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_sms">
+        <item>Sincronizați mesajele cu Mi Cloud</item>
+        <item>Activați/setați sincronizarea</item>
+        <item>Mesaje;SMS;MMS;Cloud;Sincronizare;Servicii Cloud;Mi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_gallery">
+        <item>Sincronizați Galeria cu Mi Cloud</item>
+        <item>Activați/setați sincronizarea</item>
+        <item>Galerie;Fotografii;Cloud;Sincronizare;Servicii Cloud;Mi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_dial">
+        <item>Sincronizați istoricul de apelare cu Mi Cloud</item>
+        <item>Activați/setați sincronizarea</item>
+        <item>Istoricul de apelare;Cloud;Sincronizare;Servicii Cloud;Mi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_recorder">
+        <item>Sincronizați înregistrările cu Mi Cloud</item>
+        <item>Activați/setați sincronizarea</item>
+        <item>Înregistrare;Cloud;Sincronizare;Servicii Cloud;Mi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_music">
+        <item>Sincronizați muzica cu Mi Cloud</item>
+        <item>Activați sincronizarea</item>
+        <item>Muzică;Cloud;Sincronizare;Servicii Cloud;Mi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_notes">
+        <item>Sincronizați notițele cu Mi Cloud</item>
+        <item>Activați sincronizarea</item>
+        <item>Note;Cloud;Sincronizare;Servicii Cloud;Mi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_wlan">
+        <item>Sincronizați setările Wi-Fi cu Mi Cloud</item>
+        <item>Activați sincronizarea</item>
+        <item>Wi-Fi;wi-fi;WiFi;Cloud;Sincronizare;Servicii Cloud;Mi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_calendar">
+        <item>Sincronizați Calendarul cu Mi Cloud</item>
+        <item>Activați sincronizarea</item>
+        <item>Calendar;Cloud;Sincronizare;Servicii Cloud;Mi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_browser">
+        <item>Sincronizați Browserul cu Mi Cloud</item>
+        <item>Activați sincronizarea</item>
+        <item>Browser;Cloud;Sincronizare;Servicii Cloud;Mi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_security">
+        <item>Sincronizați Securitatea cu Mi Cloud</item>
+        <item>Activați sincronizarea</item>
+        <item>Securitate;Cloud;Sincronizare;Servicii Cloud;Mi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_personal_assistant">
+        <item>Sincronizați Asistentul inteligent cu Mi Cloud</item>
+        <item>Activați sincronizarea</item>
+        <item>Asistent inteligent;Carduri;Cloud;Sincronizare;Servicii Cloud;Mi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_sync_manage">
+        <item>Mi Cloud. Toate serviciile Mi într-un singur loc.</item>
+        <item>Accesați-vă fotografiile, contactele, mesajele și dispozitivele de oriunde ați fi</item>
+        <item>Spațiu de stocare insuficient;Statut de membru;Stocare;Spațiu de stocare;Cloud;Sincronizare;Servicii Cloud;Mi Cloud;Gunoi;Elemente șterse;Securitate</item>
+    </string-array>
+    <string-array name="settings_search_find_phone">
+        <item>Găsiți dispozitivul</item>
+        <item>"Ștergeți datele și blocați dispozitivul dacă îl pierdeți"</item>
+        <item>Găsiți dispozitivul;Pierdut;Cloud;Sincronizare;Servicii Cloud;Mi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_find_pad">
+        <item>Găsiți dispozitivul</item>
+        <item>"Ștergeți datele și blocați dispozitivul dacă îl pierdeți"</item>
+        <item>Găsiți dispozitivul;Pierdut;Cloud;Sincronizare;Servicii Cloud;Mi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_recycle_bin">
+        <item>Elementele șterse din Mi Cloud</item>
+        <item>Restaurați contactele, fotografiile, mesajele și multe altele</item>
+        <item>Gunoi;Elemente șterse;Coș de gunoi;Restaurați;Servicii Cloud;Mi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_subscribe_vip">
+        <item>Statut de membru Mi Cloud</item>
+        <item>Actualizați statutul de membru, obțineți mai mult spațiu de stocare și securizați-vă datele</item>
+        <item>Spațiu de stocare insuficient;Statut de membru;Stocare;Spațiu de stocare;Cloud;Sincronizare;Servicii Cloud;Mi Cloud;Mega;Ultra;VIP;Copie de rezervă;Backup;Restaurați;Gunoi;Elemente șterse;Coș de gunoi</item>
+    </string-array>
+    <string-array name="settings_search_backup_setting">
+        <item>Faceți o copie de rezervă a Ecranului principal în Mi Cloud</item>
+        <item>Faceți o copie de rezervă pentru dispunerea Ecranului principal, lista aplicațiilor instalate și setările de sistem</item>
+        <item>Cloud;Faceți o copie de rezervă;Backup;Servicii Cloud;Mi Cloud;Ecran principal;Dispunere;Aplicații;Setări;Frecvența creării copiilor de rezervă;Gestionați copiile de rezervă;Restaurați</item>
+    </string-array>
+    <string-array name="settings_search_backup_manage">
+        <item>Copii de rezervă</item>
+        <item>Elemente rezervate</item>
+        <item>Cloud;Creați o copie de rezervă;Backup;Servicii Cloud;Mi Cloud;Ecran principal;Dispunere;Aplicații;Gestionați copiile de rezervă;Restaurați</item>
+    </string-array>
+    <string-array name="settings_search_restore_device">
+        <item>Restaurați elemente din Mi Cloud</item>
+        <item>Descărcați elementele rezervate pe dispozitiv</item>
+        <item>Cloud;Creați o copie de rezervă;Backup;Restaurați;Servicii Cloud;Mi Cloud</item>
+    </string-array>
     <string-array name="micloud_entrance_titleArray">
         <item>Sincronizați datele aplicației</item>
         <item>Salvați dispunerea ecranului Acasă</item>

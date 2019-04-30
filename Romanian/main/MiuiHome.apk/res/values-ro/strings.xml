@@ -96,7 +96,7 @@
     <string name="default_folder_title_services">Servicii</string>
     <string name="default_folder_title_tools">Unelte</string>
     <string name="default_folder_title_turkcell_uygulamalar">TURKCELL UYGULAMALAR</string>
-    <string name="default_screen_preview_title">Atingeți pentru a seta ecranul implicit</string>
+    <string name="default_screen_preview_title">Setați ecranul implicit</string>
     <string name="delete">Ştergeţi</string>
     <string name="delete_screen">Eliminați ecranul</string>
     <string name="delete_wallpaper_message">Ştergeţi %1$d imagine de fundal?</string>
@@ -115,6 +115,7 @@
     <string name="edit_mode_group_error_full">Spațiu insuficient</string>
     <string name="edit_mode_group_error_in_folder">Închideți dosarul înainte de a grupa pictogramele</string>
     <string name="edit_mode_group_error_one_folder">"Nu se poate multiplica un dosar cu pictogramele selectate"</string>
+    <string name="edit_mode_top_menu_finish">Terminat</string>
     <string name="edit_mode_uninstall">Dezinstalați</string>
     <string name="editing_add_widget_tips">Editaţi obiectele widget</string>
     <string name="editing_mode_enter_tip_text">Ciupiți pentru a edita ecranul de pornire</string>
@@ -216,6 +217,7 @@
     <string name="menu_default_screen_preview">Setare ecran implicit</string>
     <string name="menu_edit">Editați Ecranul principal</string>
     <string name="menu_exit_scene">Ieşire din Mi Space</string>
+    <string name="menu_finish">Finalizat</string>
     <string name="menu_item_add_item">Plasaţi pe ecranul de pornire</string>
     <string name="menu_launcher_setting">Setări lansator de sistem</string>
     <string name="menu_lock">Blocare dispunere ecran principal</string>
@@ -355,4 +357,5 @@
     <string name="widget_gadget_player">Muzică</string>
     <string name="widget_global_search">Căutare</string>
     <string name="widget_quick_function">Funcții rapide</string>
+    <string name="widgets_preview_title">Adăugați un widget</string>
 </resources>

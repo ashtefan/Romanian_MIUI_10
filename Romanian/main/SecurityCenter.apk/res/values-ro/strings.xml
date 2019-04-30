@@ -1091,7 +1091,7 @@ Toate datele de pe telefon pot fi șterse iar parola pentru Blocarea ecranului p
     <string name="gs_performance_mode">Mod performanță</string>
     <string name="gs_performance_mode_detail">Optimizați performanțele sistemului pentru jocuri</string>
     <string name="gs_sign_notification">Amintește-mi să verific în fiecare zi la ora 20.00</string>
-    <string name="gs_slip_gamebox_detail">Utilizați cursorul pentru a afișa panoul cu scurtături. Opțiunile de răspuns rapid și de înregistrare a ecranului sunt disponibile.</string>
+    <string name="gs_slip_gamebox_detail">Utilizați cursorul sau glisați din partea de sus a ecranului pentru a afișa panoul cu scurtături</string>
     <string name="guide_get_operator_error">"&lt;font color='#33b4ff'&gt;&lt;U&gt;Operator eronat?&lt;/U&gt;&lt;/font&gt;"</string>
     <string name="guide_operator_text">"Operatorul dvs. curent este: "</string>
     <string name="guide_quck_open">Activați</string>
@@ -1962,6 +1962,7 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="section_title_clear_acc">Goliți cache-ul</string>
     <string name="section_title_security_defend">Securitate</string>
     <string name="section_title_system">Securitatea sistemului</string>
+    <string name="security_center_slogan">Securitate. Întotdeauna de pază.</string>
     <string name="security_scan_optimizing">Optimizare…</string>
     <string name="see_detail">Detalii</string>
     <string name="see_more_content">Actualizați aplicația de Jocuri pentru a vedea mai multe noutăți</string>
@@ -2333,6 +2334,9 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="thermal_tips_message">Dacă jucați jocuri în modul Performanță telefonul se poate supraîncălzi.</string>
     <string name="thermal_tips_title">Atenție</string>
     <string name="third_application">Aplicații instalate</string>
+    <string name="third_desktop_dialog_content">Din moment ce aplicațiile de lansare provenite din terțe părți pot duce la probleme precum scurgeri de date, descărcare accelerată a acumulatorului și întârziere în răspuns, etc., doar cele verificate de MIUI pot fi setate ca și lansatoare implicite.</string>
+    <string name="third_desktop_dialog_ok">Am înțeles</string>
+    <string name="third_desktop_dialog_title">Eroare</string>
     <string name="three_percent_total_pkg">%s (3%% din datele lunare)</string>
     <string name="timeshow_h">%.1f h</string>
     <string name="timeshow_h_int">%d h</string>

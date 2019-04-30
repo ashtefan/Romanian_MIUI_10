@@ -6,7 +6,8 @@
     <string name="anim_gamebooster_text">Doar o secundă…</string>
     <string name="anti_disturb_msg_detail">Dezactivați toate notificările, cu excepția apelurilor primite</string>
     <string name="anti_disturb_msg_title">Nu deranjați</string>
-    <string name="app_name">Extensie serviciu de securitate</string>
+    <string name="ad_downloading">Descărcați…</string>
+    <string name="app_name">Extensie serviciu de sistem</string>
     <string name="app_not_installed_toast">"Aplicația nu este instalată pe dispozitiv."</string>
     <string name="application_item_already_permission">Permisă</string>
     <string name="application_item_disable">Restricționată</string>

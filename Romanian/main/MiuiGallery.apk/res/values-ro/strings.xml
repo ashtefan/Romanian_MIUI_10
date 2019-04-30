@@ -259,6 +259,9 @@
     <string name="cleaner_screen_shot_action">Goliți</string>
     <string name="cleaner_screen_shot_description">Ștergeți capturile de ecran de care nu mai aveți nevoie.</string>
     <string name="cleaner_screen_shot_title">Ștergeți capturile de ecran</string>
+    <string name="cleaner_similar_action">Ștergeți acum</string>
+    <string name="cleaner_similar_description">Ștergeți fotografiile duplicate</string>
+    <string name="cleaner_similar_title">Fotografii duplicate</string>
     <string name="cleaner_slim_action">Porniți optimizarea</string>
     <string name="cleaner_slim_description">Păstrați elementele optimizate pe telefon. Fișierele originale vor fi stocate în Mi Cloud.</string>
     <string name="cleaner_slim_start">Optimizați</string>
@@ -266,6 +269,10 @@
     <string name="cleaner_space_description">poate fi eliberat</string>
     <string name="cleaner_space_detail_description">Goliți fotografiile din Galerie pentru a elibera spațiu</string>
     <string name="cleaner_stop_scan">Opriți scanarea</string>
+    <string name="cleaner_video_action">Ștergeți acum</string>
+    <string name="cleaner_video_description">Ștergeți videoclipurile care ocupă mult spațiu de stocare</string>
+    <string name="cleaner_video_pick_delete_selected">Ștergeți videoclipurile selectate</string>
+    <string name="cleaner_video_title">Ștergeți videoclipurile</string>
     <string name="click_download_gif">Apăsați pentru a descărca imaginea gif</string>
     <string name="click_top_right">Atingeți pictograma din dreapta-sus</string>
     <string name="close">Închideți</string>
@@ -974,6 +981,7 @@ pentru a personaliza Galeria"</string>
     <string name="play_gif_desc">Redă animația GIF</string>
     <string name="play_video_desc">Redă videoclipul</string>
     <string name="preparing_data">Doar o secundă…</string>
+    <string name="print_log">Tipăriți jurnalul</string>
     <string name="privacy_permission_request_message">Aplicația Galerie are nevoie de acces la %3$s. Informațiile colectate vor fi utilizate în acord cu %1$s și cu %2$s. Permiteți?</string>
     <string name="privacy_permission_request_negative">Restricționați</string>
     <string name="privacy_permission_request_positive">Permiteți</string>
@@ -1050,6 +1058,11 @@ pentru a personaliza Galeria"</string>
     <string name="scan_barcode_guide">Pentru a obţine codul QR, atingeţi pictograma Distribuire.</string>
     <string name="scan_barcode_to_join">Scanaţi un cod QR pentru a adăuga un album</string>
     <string name="scan_qr_code_buttom_text">Scanaţi codul QR pentru a vizualiza acest album</string>
+    <string name="screen_doodle_talkback_size">Lățimea liniei mâzgăliturii</string>
+    <string name="screen_editor_finish">Finalizat</string>
+    <string name="screen_save_dialog_btn_cancel">Renunțați</string>
+    <string name="screen_save_dialog_btn_delete">Ștergeți captura de ecran</string>
+    <string name="screen_save_dialog_btn_save">Salvați în Galerie</string>
     <string name="search_backup_full_screen">Activați sincronizarea cu Mi Cloud pentru a găsi mai multe persoane și obiecte</string>
     <string name="search_backup_now">Activați</string>
     <string name="search_backup_sub_title">Activați pentru a găsi mai multe imagini</string>
@@ -1161,6 +1174,7 @@ pentru a personaliza Galeria"</string>
     <string name="show_hidden_album_title">Arată albumele invizibile</string>
     <string name="show_in_other_albums_disable_toast_long_press_menu">Mutat cu succes. Mergeți la Alte albume pentru a-l vedea</string>
     <string name="show_in_other_albums_enable_toast_long_press_menu">Mutat cu succes. Mergeți la Albume pentru a-l vedea</string>
+    <string name="similar_keep_clear">Păstrați cele mai bune fotografii</string>
     <string name="slideshow_interval_dialog_title">Introduceți intervalul</string>
     <string name="slideshow_interval_invalid">Intervalul trebuie să fie cuprins între 1 şi 3600 secunde</string>
     <string name="slideshow_interval_title">Arată fiecare imagine timp de</string>

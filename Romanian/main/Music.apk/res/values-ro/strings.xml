@@ -1107,6 +1107,7 @@ Be Happy"</string>
     <string name="vip_required_with_song">%s este disponibil doar membrilor PRO. Această melodie a fost omisă acum.</string>
     <string name="vip_tomorrow_auto_renew_message">Abonamentul dvs. de Muzică va fi reînnoit în mod automat mâine seară. Asigurați-vă că aveți suficiente credite Mi în cont pentru a finaliza această plată.</string>
     <string name="vip_tomorrow_renew_message">"Nu veți mai putea reda muzică online la calitate ridicată, dar unele melodii vor fi disponibile la calitate standard."</string>
+    <string name="voice_search_first_hint">Încercați căutarea vocală!</string>
     <string name="warning_tip_cancel">Descărcați</string>
     <string name="warning_tip_content">"Nu mai sunteți conectat la Wi-Fi. Utilizarea datelor mobile pentru finalizarea descărcării poate duce la depășirea planului de date și taxarea suplimentară de către operator."</string>
     <string name="warning_tip_ok">Opriți</string>

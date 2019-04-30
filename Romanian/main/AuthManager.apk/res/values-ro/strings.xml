@@ -201,6 +201,8 @@
     <string name="HIPS_Perm_SystemAlert">Afişare ferestre plutitoare</string>
     <string name="HIPS_Perm_SystemAlert_Desc">afişare ferestre plutitoare</string>
     <string name="HIPS_Perm_SystemAlert_Hint">%1$s aplicaţii au permisiunea de a afişa ferestre plutitoare</string>
+    <string name="HIPS_Perm_UDevice_ID">Partajați părți din informațiile despre dispozitiv cu dezvoltatorii de jocuri pentru a-i ajuta să îmbunătățească experiența în jocuri. Acceptați?</string>
+    <string name="HIPS_Perm_UDevice_ID_DESC">partajarea unor părți din informațiile despre dispozitiv cu dezvoltatorii de jocuri pentru a-i ajuta să îmbunătățească experiența în jocuri. Acceptați?</string>
     <string name="HIPS_Perm_VideoRecorder">Accesare cameră foto</string>
     <string name="HIPS_Perm_VideoRecorder_Desc">accesare Cameră pentru captarea de imagini sau videoclipuri</string>
     <string name="HIPS_Perm_VideoRecorder_Hint">%1$s aplicaţii pot accesa Camera pentru a face fotografii şi a înregistra videoclipuri</string>

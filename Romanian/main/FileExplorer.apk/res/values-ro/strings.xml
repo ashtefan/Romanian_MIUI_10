@@ -80,7 +80,6 @@
     <string name="category_type_other">Altele</string>
     <string name="category_video">Video</string>
     <string name="category_zip">Arhive</string>
-    <string name="change_sticker">Alegeți alt sticker</string>
     <string name="choose_report_comment_reason">De ce raportați acest comentariu?</string>
     <string name="choose_report_reason">De ce raportați acest videoclip?</string>
     <string name="clean_hint">Apăsaţi pentru a elibera spațiu</string>
@@ -782,7 +781,6 @@
     <string name="video_upload_wechat_hint">Încărcați videoclipuri WeChat pentru a câștiga mai mulți fani.</string>
     <string name="video_uploaded">Încărcat</string>
     <string name="view_master_rank">Vedeți topul Youliao</string>
-    <string name="view_more_sticker">Vedeți mai multe stickere</string>
     <string name="view_top_rank">Vedeți evaluările</string>
     <string name="wb_btn_bind">Weibo</string>
     <string name="wechat_btn_bind">WeChat</string>

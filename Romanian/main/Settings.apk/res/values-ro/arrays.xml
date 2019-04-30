@@ -214,7 +214,8 @@
     </string-array>
     <string-array name="battery_indicator_style_entries">
         <item>Grafic</item>
-        <item>Procent</item>
+        <item>Procent (în interiorul pictogramei)</item>
+        <item>Procent (lângă pictogramă)</item>
         <item>Bare sus</item>
     </string-array>
     <string-array name="battery_labels">
@@ -382,16 +383,6 @@
         <item>Model</item>
         <item>Cod PIN</item>
         <item>Parolă</item>
-    </string-array>
-    <string-array name="check_importance_entries">
-        <item>Recomandat</item>
-        <item>Important</item>
-        <item>Neimportant</item>
-    </string-array>
-    <string-array name="check_importance_summary">
-        <item>MIUI va decide care notificări vor apărea direct</item>
-        <item>Notificările vor apărea direct în perdeaua de notificări</item>
-        <item>Notificările vor apărea într-un dosar separat</item>
     </string-array>
     <string-array name="city_name">
         <item>Abidjan</item>
@@ -1001,6 +992,17 @@
         <item>Blocare aplicație</item>
         <item>Spațiul secundar</item>
     </string-array>
+    <string-array name="config_downloaded_services">
+        <item>com.google.android.marvin.talkback/com.google.android.marvin.talkback.TalkBackService</item>
+    </string-array>
+    <array name="config_preinstalled_audio_and_caption_services" />
+    <array name="config_preinstalled_display_services" />
+    <string-array name="config_preinstalled_interaction_control_services">
+        <item>com.google.android.marvin.talkback/com.android.switchaccess.SwitchAccessService</item>
+    </string-array>
+    <string-array name="config_preinstalled_screen_reader_services">
+        <item>com.google.android.marvin.talkback/com.google.android.accessibility.selecttospeak.SelectToSpeakService</item>
+    </string-array>
     <string-array name="connect_mode_entries">
         <item>Compatibilitate</item>
         <item>Viteză crescută</item>
@@ -1079,6 +1081,16 @@
     <string-array name="fluency_mode_summaries">
         <item>"Crește performanța telefonului"</item>
         <item>"Poate scădea performanța telefonului"</item>
+    </string-array>
+    <string-array name="fold_entries">
+        <item>Recomandate</item>
+        <item>Importante</item>
+        <item>Neimportante</item>
+    </string-array>
+    <string-array name="fold_summaries">
+        <item>MIUI va decide ce notificări trebuie să apară în mod direct</item>
+        <item>Notificările vor apărea în Perdeaua de notificări</item>
+        <item>Notificările vor apărea într-un dosar separat</item>
     </string-array>
     <string-array name="handy_mode_size_text_entries">
         <item>4,5 inci\u2033</item>
@@ -1231,6 +1243,14 @@ Notă: Doar pentru Ubuntu 8.04!"</item>
     <string-array name="notch_battery_indicator_style_entries">
         <item>Grafic</item>
         <item>Procent</item>
+    </string-array>
+    <string-array name="notification_shade_shortcut_entries">
+        <item>Căutați</item>
+        <item>Setări</item>
+    </string-array>
+    <string-array name="notification_style_entries">
+        <item>MIUI</item>
+        <item>Android</item>
     </string-array>
     <string-array name="overlay_display_devices_entries">
         <item>Niciuna</item>
@@ -1427,14 +1447,6 @@ Notă: Doar pentru Ubuntu 8.04!"</item>
     <string-array name="startup_hips_action">
         <item>Permiteţi</item>
         <item>Refuzaţi</item>
-    </string-array>
-    <string-array name="status_bar_settings_notification_shade_shortcut_entries">
-        <item>Căutare</item>
-        <item>Setări</item>
-    </string-array>
-    <string-array name="status_bar_settings_notification_style_entries">
-        <item>MIUI</item>
-        <item>Android</item>
     </string-array>
     <string-array name="timezone_filters">
         <item>America</item>

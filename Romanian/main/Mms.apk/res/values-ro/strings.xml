@@ -28,6 +28,8 @@
     <string name="already_updated">La zi</string>
     <string name="app_label">Mesagerie</string>
     <string name="app_name">Dispozitive</string>
+    <string name="application_list_title">Mini aplicații</string>
+    <string name="attach_group_chat">Conversație în grup</string>
     <string name="attach_image">Fotografii</string>
     <string name="attach_rcs_file">Fișier</string>
     <string name="attach_rcs_location">Locație</string>
@@ -39,6 +41,7 @@
     <string name="attach_take_photo">Realizaţi o fotografie</string>
     <string name="attach_transaction">Trimiteți bani</string>
     <string name="attach_video">Videoclip</string>
+    <string name="attach_video_call">Apel video</string>
     <string name="audio_download_failed">Nu se poate descărca conţinutul audio</string>
     <string name="audio_message_expired">Acest mesaj vocal a expirat.</string>
     <string name="audio_message_mx_offline">"Nu s-a putut descărca mesajul audio. Mesageria Mi este dezactivată sau indisponibilă."</string>
@@ -72,6 +75,7 @@
     <string name="button_unfold">Extindeți</string>
     <string name="call_sender">Apelați expeditorul</string>
     <string name="can_not_send_by_rcs">"Nu se poate utiliza Mesageria China Mobile"</string>
+    <string name="can_not_view_group_chat_stranger">"Nu puteți vedea detalii despre persoanele necunoscute."</string>
     <string name="cannot_add_picture_and_video">Videoclipul şi fotografia nu pot fi adăugate în acelaşi diapozitiv.</string>
     <string name="cannot_add_slide_anymore">Nu se pot adăuga mai multe diapozitive</string>
     <string name="cannot_forward_drm_obj">Obiectul DRM inclus în mesaj nu poate fi redirecţionat</string>
@@ -129,6 +133,7 @@
     <string name="confirm_restore_positive">Restabiliţi</string>
     <string name="confirm_restore_title">Restabiliți mesajele</string>
     <string name="confirm_send_mms">Unul dintre destinatari include o adresă de e-mail. Acest mesaj va fi trimis ca MMS, ceea ce poate duce la costuri suplimentare.</string>
+    <string name="contact_not_exists">"Această persoană nu este în lista dvs de contacte."</string>
     <string name="context_menu_add_calendar">Adăugaţi în Calendar</string>
     <string name="context_menu_add_contact">Adăugaţi la Contacte</string>
     <string name="context_menu_add_to_browser_favorite">Adăugaţi la marcaje în Browser</string>
@@ -249,6 +254,7 @@
     <string name="group_verification_codes_title">Grupare parole OTP</string>
     <string name="group_view_settings_disolved">"Nu se pot vedea elementele. Acest grup a fost șters."</string>
     <string name="group_view_settings_not_memeber">"Nu se pot vedea elementele. Nu sunteți membru al acestui grup."</string>
+    <string name="groupchat_list_title">Conversații în grup</string>
     <string name="guild_add_attachments">Atingeţi pentru a adăuga emoticoane şi alte elemente</string>
     <string name="guild_add_recipients">Atingeţi pentru a adăuga destinatari din agendă</string>
     <string name="guild_msim_switcher">Atingeți pentru a comuta cartelele SIM</string>
@@ -291,6 +297,7 @@
     <string name="menu_edit">Modificaţi</string>
     <string name="menu_forward">Redirecţionaţi</string>
     <string name="menu_lock">Adăugaţi la favorite</string>
+    <string name="menu_make_call">Apelați</string>
     <string name="menu_mark">Marcaţi</string>
     <string name="menu_more">Mai multe</string>
     <string name="menu_new_contact">Contact nou</string>
@@ -301,6 +308,7 @@
     <string name="menu_traffic_destination">Destinație</string>
     <string name="menu_unlock">Eliminaţi din favorite</string>
     <string name="menu_view_contact">Vizualizaţi persoana din agendă</string>
+    <string name="menu_view_group_info">Informații despre grup</string>
     <string name="message_class_label">"Clasa de mesaj: "</string>
     <string name="message_contact">Contact:</string>
     <string name="message_details_title">Detalii mesaj</string>
@@ -412,6 +420,7 @@
     <string name="no_block_button_msg">Nu se blochează mesajele de la acest număr</string>
     <string name="no_conversations">Nicio conversaţie</string>
     <string name="no_delivery_report">Niciun raport de livrare</string>
+    <string name="no_network_description">"Nu s-a putut conecta la rețea. Verificați setările de rețea și încercați din nou."</string>
     <string name="no_subject">(Niciun subiect)</string>
     <string name="no_subject_view">(Niciun subiect)</string>
     <string name="non_english_subject_limit">Maxim 13 caractere</string>
@@ -535,6 +544,9 @@
     <string name="prvate_contact">Contacte private</string>
     <string name="quick_reply">Răspuns</string>
     <string name="rate_limit_surpassed">Confirmaţi</string>
+    <string name="rcs_auto_resend_as_sms_remind_change">Modificați setările</string>
+    <string name="rcs_auto_resend_as_sms_remind_desp">"Mesajele de până la 900 B pot fi convertite și trimise ca mesaje SMS atunci când semnalul de rețea este slab. Atingeți \"Modificați setările\" dacă nu doriți convertirea mesajelor în mesaje SMS."</string>
+    <string name="rcs_auto_resend_as_sms_remind_title">Convertiți la SMS</string>
     <string name="rcs_auto_resend_mms">Convertiți în MMS</string>
     <string name="rcs_auto_resend_sms">Convertiți în SMS</string>
     <string name="rcs_auto_resume">Reluați încărcările întrerupte în mod automat</string>
@@ -545,10 +557,12 @@
     <string name="rcs_forward_faild">"Nu s-a putut redirecționa"</string>
     <string name="rcs_forward_successful">Redirecționat cu succes</string>
     <string name="rcs_group_notification_invitation">Invitație la conversație în grup</string>
+    <string name="rcs_hello_from_pc">Conectați-vă la Fetion de pe computer pentru a transfera fișiere.</string>
     <string name="rcs_message">Mesageria China Mobile</string>
     <string name="rcs_message_disable">"Nu se poate vedea acest mesaj în spațiul Secundar"</string>
     <string name="rcs_msg">Mesageria China Mobile</string>
     <string name="rcs_not_online">"Nu se poate utiliza Mesageria China Mobile. Verificați setările de rețea și încercați din nou."</string>
+    <string name="rcs_offline">Nu sunteți conectat la UC. Așteptați un minut sau două și încercați din nou.</string>
     <string name="rcs_offline_hint">"Mesageria China Mobile este offline. Nu se poate redirecționa acest mesaj."</string>
     <string name="rcs_recipient_type_contact">Redirecționați către un contact</string>
     <string name="rcs_recipient_type_group">Redirecționați către grup</string>
@@ -648,6 +662,7 @@
     <string name="security_alert_dialog_title">Raportaţi</string>
     <string name="select_audio">Alegeţi componenta audio</string>
     <string name="select_bottom_text">Text în partea de jos</string>
+    <string name="select_copy_text">Selectați textul de copiat</string>
     <string name="select_different_attachment">Alegeți un alt atașament.</string>
     <string name="select_different_audio">Alegeți un alt fișier audio.</string>
     <string name="select_different_picture">Alegeți o altă imagine.</string>

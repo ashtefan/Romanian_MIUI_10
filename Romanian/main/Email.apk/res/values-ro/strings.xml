@@ -469,6 +469,7 @@ Actualizaţi acum?"</string>
     <string name="folder_drafts_name_en0">Mesaje nefinalizate</string>
     <string name="folder_drafts_name_en1">Mesaj nefinalizat</string>
     <string name="folder_drafts_name_en2">[Gmail]/Drafts</string>
+    <string name="folder_empty_to_fresh">"Mailurile nu se sincronizează. Glisați în jos pentru a sincroniza."</string>
     <string name="folder_junk_name_cn0">Spam</string>
     <string name="folder_junk_name_cn1">Coș de gunoi</string>
     <string name="folder_junk_name_cn2">[Gmail]/Spam</string>
@@ -479,6 +480,7 @@ Actualizaţi acum?"</string>
     <string name="folder_junk_name_en4">Gunoi</string>
     <string name="folder_list_display_all">Se afişează toate dosarele</string>
     <string name="folder_list_display_only_import">Se afişează doar dosarele importante</string>
+    <string name="folder_no_mails">Niciun e-mail în acest dosar</string>
     <string name="folder_picker_title">Selectaţi dosarele</string>
     <string name="folder_removed">Eliminat din %1$s</string>
     <string name="folder_sent_name_cn0">Trimise</string>
@@ -1181,6 +1183,7 @@ Atingeţi \"Sincronizaţi acum\" pentru a sincroniza e-mailurile, sau modificaţ
     <string name="widget_large_unread_count">%d+</string>
     <string name="widget_other_views">Altele</string>
     <string name="wipe_account_fail_description">Permiteți</string>
+    <string name="wipe_account_fail_description_remind">Datorită permisiunilor pentru date, pot rămâne date reziduale din contacte și calendar după ștergerea contului; vă rugăm să îl ștergeți manual.</string>
     <string name="wipe_account_fail_title">"Nu s-au putut șterge informațiile personale"</string>
     <string name="wps_title">WPS Mail</string>
     <string name="wrong_password">Parola introdusă este incorectă</string>
