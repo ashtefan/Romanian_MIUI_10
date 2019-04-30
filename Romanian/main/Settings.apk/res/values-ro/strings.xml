@@ -3314,7 +3314,6 @@ Selectaţi sistemul de operare de mai jos:"</string>
     <string name="notification_fold_footer_icon_title">Afișează pictogramele aplicațiilor</string>
     <string name="notification_fold_summary">Toate notificările neimportante vor apărea într-un dosar separat</string>
     <string name="notification_fold_title">Dosar de notificări</string>
-    <string name="notification_header_divider_symbol_with_spaces">" • "</string>
     <string name="notification_importance_blocked">Nu arăta niciodată notificări</string>
     <string name="notification_importance_default">Redă un sunet</string>
     <string name="notification_importance_default_title">Ridicată</string>
