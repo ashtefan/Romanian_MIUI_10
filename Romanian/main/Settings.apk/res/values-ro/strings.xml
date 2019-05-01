@@ -3377,7 +3377,7 @@ Acest lucru va permite aplicației să comute modul Nu deranjați și să modifi
     <string name="notification_sound_title">Sunet de notificare prestabilit</string>
     <string name="notification_style_title">Stil notificări</string>
     <string name="notification_suggestion_summary">Afișează sau ascunde conținutul notificărilor</string>
-    <string name="notification_suggestion_title">Control notificări blocare ecran</string>
+    <string name="notification_suggestion_title">Control notificări în Blocarea ecranului</string>
     <string name="notification_summary_channel">%1$s • %2$s</string>
     <string name="notification_summary_level">Nivel %d</string>
     <string name="notification_summary_none">Activ pentru toate aplicațiile</string>
@@ -3960,7 +3960,11 @@ Interfață UT: %5$s"</string>
     <string name="reset_network_complete_toast">Setările de rețea au fost resetate</string>
     <string name="reset_network_confirm_title">Resetați?</string>
     <string name="reset_network_data">Datele mobile</string>
-    <string name="reset_network_desc">Această acțiune va reseta toate setările de rețea</string>
+    <string name="reset_network_desc">"Această acțiune va reseta toate setările de rețea, inclusiv:
+    
+"&lt;li&gt;Wi-Fi&lt;/li&gt;"
+"&lt;li&gt;Date mobile&lt;/li&gt;"
+"&lt;li&gt;Bluetooth&lt;/li&gt;</string>
     <string name="reset_network_final_button_text">Setări pentru resetare</string>
     <string name="reset_network_final_desc">Resetați toate setările de rețea? Această acțiune este ireversibilă!</string>
     <string name="reset_network_title">Resetare setări de rețea</string>
@@ -5770,7 +5774,6 @@ Atingeți butonul (+) pentru a adăuga cuvinte"</string>
     <string name="wifi_aggressive_handover_summary">Când este activată, se va comuta la conexiunea de date mobile mai agresiv, atunci când semnalul Wi-Fi este slab</string>
     <string name="wifi_allow_scan_with_traffic">Permite întotdeauna scanarea rețelelor Wi-Fi</string>
     <string name="wifi_allow_scan_with_traffic_summary">Permite/Refuză scanarea rețelelor Wi-Fi bazat pe traficul de date prezent în interfață</string>
-    <string name="wifi_and_mobile_skipped_message">Telefonul nu va putea verifica dacă versiunea software este la zi</string>
     <string name="wifi_ap_band_config">Selectați banda AP</string>
     <string name="wifi_ap_choose_2G">Banda de 2,4 GHz</string>
     <string name="wifi_ap_choose_5G">Banda de 5 GHz</string>
