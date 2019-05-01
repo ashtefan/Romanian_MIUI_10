@@ -5,14 +5,14 @@
     <string name="agree_terms">"Am citit și sunt de acord cu Termenii Serviciului și Politica de Confidențialitate."</string>
     <string name="agree_terms_input_method_facemoji">"Am citit și sunt de acord cu Politica de Confidențialitate Facemoji."</string>
     <string name="agree_terms_input_method_kika">"Am citit și sunt de acord cu Politica de Confidențialitate Kika."</string>
-    <string name="ai_button_desc">Utilizați acest buton pentru a declanșa Mi AI și a realiza operațiuni pe telefon utilizând doar vocea</string>
+    <string name="ai_button_desc">Obțineți acces instant la asistentul vocal inteligent</string>
     <string name="ai_button_double_press">Apăsare dublă</string>
-    <string name="ai_button_double_press_desc">Configurați Mi AI</string>
+    <string name="ai_button_double_press_desc">Atingeți de două ori butonul AI pentru a finaliza sarcinile personalizate</string>
     <string name="ai_button_long_press">Apăsați și mențineți apăsat</string>
-    <string name="ai_button_long_press_desc">Rostiți comanda și eliberați butonul</string>
+    <string name="ai_button_long_press_desc">Apăsați și mențineți apăsat butonul AI pentru a vorbi cu Mi AI</string>
     <string name="ai_button_single_press">Apăsați</string>
-    <string name="ai_button_single_press_desc">Declanșați Mi AI</string>
-    <string name="ai_button_title">Despre butonul AI</string>
+    <string name="ai_button_single_press_desc">Apăsați butonul AI pentru a vedea scurtăturile Mi AI</string>
+    <string name="ai_button_title">Butonul AI</string>
     <string name="app_name">Provision</string>
     <string name="application_permissions">Permisiunile aplicației</string>
     <string name="back">Înapoi</string>
@@ -43,7 +43,8 @@
     <string name="item_lock_screen_password">Doar blocarea ecranului</string>
     <string name="language_picker_other_languages_title">Mai multe limbi</string>
     <string name="language_settings">Selectați limba</string>
-    <string name="locale_picker_title">Selectaţi regiunea</string>
+    <string name="locale_picker_other_locale_title">Mai multe regiuni</string>
+    <string name="locale_picker_title">Selectați regiunea dvs.</string>
     <string name="miui_privacy_policy_no_network">Nu aveți o conexiune la internet. Vizualizaţi Politica de confidențialitate la %s.</string>
     <string name="miui_terms_no_network">Nu aveți conexiune la internet. Vizualizaţi Termenii și condițiile la %s.</string>
     <string name="multisim_settings_category">Setări cartelă SIM</string>
@@ -58,6 +59,9 @@
     <string name="other_settings_ad_enable_summary">Se recomandă reclame personalizate bazat pe datele comportamentului</string>
     <string name="other_settings_auto_update">Instalați în mod automat</string>
     <string name="other_settings_auto_update_summary">MIUI va selecta ora cea mai potrivită pentru instalarea actualizărilor.</string>
+    <string name="other_settings_enhanced_lockscreen">Caruselul de imagini de fundal</string>
+    <string name="other_settings_enhanced_lockscreen_summary">Obțineți imagini și povești curated livrate zilnic în Blocarea ecranului. Se aplică Termenii și condițiile.</string>
+    <string name="other_settings_enhanced_lockscreen_summary_index">Termenii și condițiile</string>
     <string name="other_settings_location">Locaţie</string>
     <string name="other_settings_location_summary">Permiteți aplicațiilor să vă acceseze locația.</string>
     <string name="other_settings_upload_debug_log_summary">Statisticile de utilizare care ne ajută să localizăm și să rezolvăm problemele apărute pot conține informații personale</string>
@@ -105,6 +109,7 @@ Trebuie să acceptați Politica de Confidențialitate Facemoji înainte de a uti
 Trebuie să acceptați Politica de Confidențialitate Kika înainte de a utiliza această caracteristică."</string>
     <string name="terms_of_use_lable_gms">, Serviciile Google Play</string>
     <string name="terms_of_use_lable_smart_cards">, Smart cards</string>
+    <string name="terms_of_use_lable_vsimcore">, MConnService</string>
     <string name="terms_privacy_policy_input_method_facemoji">Politica de Confidențialitate Facemoji</string>
     <string name="terms_privacy_policy_input_method_kika">Politica de Confidențialitate Kika</string>
     <string name="title_fingerprint">Setați parola</string>
