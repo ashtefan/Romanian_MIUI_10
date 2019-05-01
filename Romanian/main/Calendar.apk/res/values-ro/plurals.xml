@@ -95,6 +95,10 @@
         <item quantity="other">+%d</item>
         <item quantity="one">+1</item>
     </plurals>
+    <plurals name="reminder_later_toast">
+        <item quantity="other">Următorul memento în %1$d minute</item>
+        <item quantity="one">Următorul memento în  %1$d minut</item>
+    </plurals>
     <plurals name="repeat_custom_prompt">
         <item quantity="other">în fiecare %1$s pe %2$s</item>
         <item quantity="one">în fiecare %1$s pe %2$s</item>

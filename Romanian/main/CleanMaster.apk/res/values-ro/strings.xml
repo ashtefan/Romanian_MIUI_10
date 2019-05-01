@@ -446,6 +446,7 @@
     <string name="sc_allow_network_dialog_message">Permiteți ca această aplicație să se conecteze la internet pentru a primi actualizări?</string>
     <string name="scanning">Scanare…</string>
     <string name="search_history">Istoricul de căutare</string>
+    <string name="security_center_slogan">Securitate. Întotdeauna de pază.</string>
     <string name="see_more">Mai multe</string>
     <string name="set_immediately">Setați</string>
     <string name="seton_immediately">Porniți</string>

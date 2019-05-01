@@ -43,6 +43,12 @@
         <item>Cu 2 zile înainte de eveniment</item>
         <item>Cu o săptămână înainte de eveniment</item>
     </string-array>
+    <string-array name="default_reminder_later_time_labels">
+        <item>5 minute</item>
+        <item>10 minute</item>
+        <item>15 minute</item>
+        <item>30 de minute</item>
+    </string-array>
     <string-array name="delete_repeating_labels">
         <item>Doar acest eveniment</item>
         <item>Acest eveniment și cele următoare</item>

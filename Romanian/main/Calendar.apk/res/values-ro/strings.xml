@@ -59,7 +59,7 @@
     <string name="agenda_month_empty_hint">Niciun eveniment pentru azi</string>
     <string name="agenda_tomorrow">MÂINE, %1$s</string>
     <string name="agenda_view">Evenimente</string>
-    <string name="alarm_label">OK</string>
+    <string name="alarm_label">Am înțeles</string>
     <string name="alert_reminder_divider">|</string>
     <string name="alert_reminder_expired">Expirat</string>
     <string name="alert_title">Notificările calendarului</string>
@@ -91,6 +91,7 @@
     <string name="can_not_modify_allday_event">"Nu se poate modifica evenimentul de o zi"</string>
     <string name="can_not_modify_event">"Nu se poate schimba evenimentul"</string>
     <string name="can_not_modify_repeating_acrossing_days_event">"Nu se poate modifica evenimentul de mai multe zile"</string>
+    <string name="cancel_reminder_later">Renunțați la memento</string>
     <string name="card_detail_dialog_message">%1$s se va actualiza în fiecare zi. Abonați-vă pentru a primi actualizări zilnice.</string>
     <string name="card_detail_dialog_negative">Abonați-vă mai târziu</string>
     <string name="card_detail_dialog_positive">Abonați-vă acum</string>
@@ -150,6 +151,7 @@
   <string name="date_pattern_mm_dd">luna M ziua d</string>
     <string name="date_today">" (astăzi)"</string>
     <string name="day_view_new_event_hint">+ Eveniment nou</string>
+    <string name="default_reminder_later_time">Intervalul implicit pentru \"Amintește-mi mai târziu\"</string>
     <string name="default_reminder_mode">Memento-uri</string>
     <string name="delete_recurring_event_title">Ştergeţi %s?</string>
     <string name="delete_this_event_title">Ştergeţi acest eveniment?</string>
@@ -385,6 +387,7 @@
     <string name="movie_event_delete_successfully">Bilet de film șters cu succes</string>
     <string name="network_not_available">"Nu se poate conecta la rețea"</string>
     <string name="new_event_description">Nou</string>
+    <string name="next_alarm_time">Următorul memento la %1$s</string>
     <string name="no_contact_birthday_hint">Nicio zi de naștere de importat</string>
     <string name="no_events_hint">Niciun eveniment</string>
     <string name="no_network">"Nu s-a putut conecta la rețea.
@@ -456,8 +459,10 @@ Verificați setările de rețea și încercați din nou."</string>
   <string name="recommend_card_close_hint">Reduce abonamentul va recomanda similare</string>
     <string name="refresh">Reîmprospătaţi</string>
     <string name="refreshing_hint">Doar o secundă…</string>
-    <string name="repeat_activity_label">Repetare</string>
+    <string name="reminder_later">Amintește-mi mai târziu</string>
+    <string name="reminder_later_notification_time_format">HH:mm</string>
     <string name="reminder_overdue">Expirat</string>
+    <string name="repeat_activity_label">Repetare</string>
     <string name="repeat_custom_activity_label">Personalizat</string>
     <string name="repeat_custom_prompt_daily">în fiecare %1$s</string>
     <string name="repeat_custom_prompt_sentence">Evenimentul se va repeta %1$s</string>
