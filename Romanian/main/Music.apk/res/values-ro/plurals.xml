@@ -92,6 +92,10 @@ Doriți să vă ajutăm să-l reînnoiți?"</item>
         <item quantity="other">&lt;font color=\"red\">%d melodii&lt;/font> se descarcă</item>
         <item quantity="one">&lt;font color==\"red\">%d melodie&lt;/font> se descarcă</item>
     </plurals>
+    <plurals name="free_downloads_num_hint">
+        <item quantity="other">%d descărcări gratuite rămase</item>
+        <item quantity="one">%d descărcare gratuită rămasă</item>
+    </plurals>
     <plurals name="multichoice_title">
         <item quantity="other">%d elemente selectate</item>
         <item quantity="one">%d element selectat</item>
@@ -131,5 +135,9 @@ Doriți să vă ajutăm să-l reînnoiți?"</item>
     <plurals name="video_play_count">
         <item quantity="other">%1$s vizualizări</item>
         <item quantity="one">%1$s vizualizare</item>
+    </plurals>
+    <plurals name="vip_remain_days_hint">
+        <item quantity="other">%d zile rămase</item>
+        <item quantity="one">%d zi rămasă</item>
     </plurals>
 </resources>

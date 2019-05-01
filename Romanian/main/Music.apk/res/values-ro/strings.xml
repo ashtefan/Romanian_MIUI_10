@@ -224,6 +224,7 @@
     <string name="connecting_apk">Conectare…</string>
     <string name="continue_backup">Continuați</string>
     <string name="count_format">%2$1.1fK</string>
+    <string name="count_million_format">%2$1.2fM</string>
     <string name="create_playlist">Creaţi o listă de redare</string>
     <string name="create_playlist_failure">"Nu s-a putut crea lista de redare"</string>
     <string name="current_album">Coperta de album curentă</string>
