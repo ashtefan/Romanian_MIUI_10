@@ -879,6 +879,7 @@ pentru a personaliza Galeria"</string>
     <string name="photo_editor_beautify">Înfrumusețare</string>
     <string name="photo_editor_beautify_auto">Auto</string>
     <string name="photo_editor_beauty_compare">Original</string>
+    <string name="photo_editor_compare_tip">Atingeți și mențineți apăsat pentru a vedea imaginea originală</string>
     <string name="photo_editor_crop_and_rotate">Decupare</string>
     <string name="photo_editor_crop_auto">Auto</string>
     <string name="photo_editor_crop_auto_tips">Decupată în mod automat</string>
@@ -916,6 +917,7 @@ pentru a personaliza Galeria"</string>
     <string name="photo_editor_navigator_module_download_wait_wlan">Așteptați conectarea la Wi-Fi</string>
     <string name="photo_editor_navigator_module_downloading">Se descarcă %s…</string>
     <string name="photo_editor_navigator_need_download">Conectați-vă la internet pentru a descărca %s.</string>
+    <string name="photo_editor_remove_watermark">Eliminați amprenta</string>
     <string name="photo_editor_remover">Ștergeți</string>
     <string name="photo_editor_rotate">Rotire</string>
     <string name="photo_editor_saving">Se salvează…</string>

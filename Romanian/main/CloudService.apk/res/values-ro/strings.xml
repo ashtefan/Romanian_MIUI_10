@@ -558,6 +558,8 @@ Această caracteristică criptează și trimite ID-ul dispozitivului dvs. pe ser
     <string name="user_agreement_p7">Condiţiile de utilizare Mi Cloud</string>
     <string name="user_agreement_p8">.</string>
     <string name="user_agreement_title">Condiţii de utilizare Mi Cloud</string>
+    <string name="user_detail_agreement">Acordul Utilizatorului</string>
+    <string name="user_detail_privacy_policy">Politica de Confidențialitate</string>
     <string name="user_storage_info_available_text_prefix">%s disponibil</string>
     <string name="warning_bar_action_add_short_cut">Adăugați</string>
     <string name="warning_bar_action_close">Închideți</string>

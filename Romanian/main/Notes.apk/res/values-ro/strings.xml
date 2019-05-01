@@ -86,8 +86,6 @@
     <string name="force_touch_menu_add">Adăugați o notiță</string>
     <string name="format_move_note_out_folder">Această notiță a fost mutată</string>
     <string name="format_move_note_to_folder">Mutată în %1$s</string>
-    <string name="format_move_notes_out_folder">%1$s mutat</string>
-    <string name="format_move_notes_to_folder">Au fost mutate %1$s în %2$s</string>
     <string name="hidden_notes_fragment_title">Notițe ascunse</string>
     <string name="hide_arrow_description">Ascundeți</string>
     <string name="hint_cannot_view_hidden_note_content">"Nu se poate vedea conținutul notițelor ascunse"</string>
@@ -207,11 +205,9 @@
     <string name="toast_cancel_to_insert_image">"Nu s-a putut adăuga imaginea."</string>
     <string name="toast_message_add_image_fail">Adăugarea imaginii a eşuat</string>
     <string name="toast_notes_delete_success">Eliminată cu succces</string>
-    <string name="toast_notes_hidden_count">%1$s ascunse su succes</string>
     <string name="toast_notes_hidden_edit">Această notiță a fost ascunsă cu succes. Glisați în jos pentru a vedea notițele ascunse.</string>
     <string name="toast_notes_hidden_home">Această notiță a fost ascunsă cu succes. Glisați în jos pentru a vedea notițele ascunse.</string>
     <string name="toast_notes_unhidden">Eliminată din ascunse cu succes</string>
-    <string name="toast_notes_unhidden_count">%1$s nu mai sunt ascunse</string>
     <string name="toast_reach_text_limit_attachment">Nu puteţi adăuga atașamente noi pentru că nota este prea lungă</string>
     <string name="toast_reach_text_limit_checkbox">"Nu se poate adăuga căsuța de bifare deoarece notița este prea lungă"</string>
     <string name="toast_reach_text_limit_truncate">Această nota este prea lungă. A fost tăiat o parte din textul de la sfârșit.</string>

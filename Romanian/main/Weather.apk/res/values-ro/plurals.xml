@@ -20,9 +20,13 @@
         <item quantity="other">Prognoza pentru %1$s zile</item>
         <item quantity="one">Prognoza pentru %1$s zi</item>
     </plurals>
-    <plurals name="feedback_result_interval_time_too_short">
-        <item quantity="other">%1$s secunde după feedback</item>
-        <item quantity="one">%1$s secundă după feedback</item>
+    <plurals name="feedback_result_interval_time_too_short_minute">
+        <item quantity="other">Puteți trimite feedback din nou după %1$s minute</item>
+        <item quantity="one">Puteți trimite feedback din nou după %1$s minut</item>
+    </plurals>
+    <plurals name="feedback_result_interval_time_too_short_second">
+        <item quantity="other">Puteți trimite feedback din nou după %1$s secunde</item>
+        <item quantity="one">Puteți trimite feedback din nou după %1$s secundă</item>
     </plurals>
     <plurals name="no_vote_num">
         <item quantity="other">%1$s persoane | </item>

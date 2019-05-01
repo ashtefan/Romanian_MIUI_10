@@ -2508,6 +2508,9 @@ Puteți modifica acest lucru mai târziu în Setări &gt; Aplicații și notific
     <string name="launching_cit">Lansare CIT</string>
     <string name="launching_pho">Lansare info telefon…</string>
     <string name="launching_rep">Raportare…</string>
+    <string name="layout_exhuge_font_take_effect_tips">Dimensiunea XXL a textului funcționează doar în aplicațiile de Telefon, Mesagerie și Contacte</string>
+    <string name="layout_exhuge_font_tips">Mai multe opțiuni sunt disponibile în %1$s</string>
+    <string name="layout_exhuge_font_tips_reg">Accesibilitate &gt; Dimensiunea textului</string>
     <string name="layout_size_exhuge">XXL</string>
     <string name="layout_size_exhuge_text">XXL</string>
     <string name="layout_size_huge">XL</string>
@@ -3491,7 +3494,11 @@ OTG se dezactivează în mod automat după 10 minute de inactivitate."</string>
     <string name="page_layout_8">Mi Life</string>
     <string name="page_layout_9">Teme</string>
     <string name="page_layout_confirm_message">Dispozitivul trebuie să repornească pentru a aplica aceste modificări. Acest lucru durează aproximativ 1 minut.</string>
-    <string name="page_layout_confirm_title">Modificare setări de afișare</string>
+    <string name="page_layout_confirm_message_enlarge">Textul, imaginile și pictogramele vor fi mărite. Unele pictograme își pot schimba locul.</string>
+    <string name="page_layout_confirm_message_narrow">Textul, imaginile și pictogramele vor fi micșorate. Unele pictograme își pot schimba locul.</string>
+    <string name="page_layout_confirm_title">Modificați setările de afișare</string>
+    <string name="page_layout_confirm_title_enlarge">Elemente mai mari</string>
+    <string name="page_layout_confirm_title_narrow">Elemente mai mici</string>
     <string name="page_layout_godzilla_title">XXL</string>
     <string name="page_layout_huge_title">Foarte mare</string>
     <string name="page_layout_large_title">Mare</string>
@@ -4141,6 +4148,7 @@ Pentru a utiliza fixarea ecranului:
     <string name="screen_timeout_summary">După %1$s de inactivitate</string>
     <string name="screen_timeout_title">Mod inactiv</string>
     <string name="screen_usage_summary">Timpul în care ecranul a fost pornit de la încărcarea completă</string>
+    <string name="screen_zoom_big">L</string>
     <string name="screen_zoom_conversation_icon_alex">A</string>
     <string name="screen_zoom_conversation_icon_pete">P</string>
     <string name="screen_zoom_conversation_message_1">Salut Petru!</string>
@@ -4154,8 +4162,10 @@ Pentru a utiliza fixarea ecranului:
     <string name="screen_zoom_keywords">densitate ecran, mărire ecran, scală, scalare</string>
     <string name="screen_zoom_make_larger_desc">Măriți</string>
     <string name="screen_zoom_make_smaller_desc">Micșorați</string>
+    <string name="screen_zoom_normal">S</string>
     <string name="screen_zoom_preview_title">Previzualizați</string>
     <string name="screen_zoom_short_summary">Măriți sau micșorați elementele de pe ecran</string>
+    <string name="screen_zoom_small">XS</string>
     <string name="screen_zoom_summary">Măriți sau micșorați elementele de pe ecran. Unele aplicații își pot modifica poziția pe ecran.</string>
     <string name="screen_zoom_summary_custom">Personalizat (%d)</string>
     <string name="screen_zoom_summary_default">Implicit</string>
@@ -4210,7 +4220,7 @@ Pentru a utiliza fixarea ecranului:
     <string name="se_wallet_ese">Plăți Mi și carduri NFC de transport</string>
     <string name="se_wallet_hce">Utilizați HCE Wallet</string>
     <string name="se_wallet_uicc">Utilizați SIM%1$s Wallet</string>
-    <string name="search_about_settings">Informații telefon;Număr model;Versiune Android;Versiune MIUI;Procesor;RAM;Memorie internă;Memorie;Stocare;Stocare internă;Versiunea benzii de bază;Versiune Kernel;Numărul versiunii</string>
+    <string name="search_about_settings">Informații telefon;Număr model;Versiune Android;Versiune MIUI;Procesor;RAM;Memorie internă;Memorie;Stocare;Stocare internă;Versiunea benzii de bază;Versiune Kernel;Numărul versiunii;Telefonul meu;Telefon;Dispozitiv</string>
     <string name="search_accelerometer_title">Rotire automată a ecranului;Rotirea ecranului;Orientare;Portret;Peisaj</string>
     <string name="search_access_control">Setări confidențialitate;Securitatea confidențialității;Vizitator;Mod vizitator</string>
     <string name="search_accessibility_captioning_title">Subtitrări</string>

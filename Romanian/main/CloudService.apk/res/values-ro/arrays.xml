@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="user_detail_fixed_items">
+        <item>Vedeți elementele sincronizate</item>
+        <item>Detalii stocare</item>
+    </string-array>
     <string-array name="korea_permission_groups_descriptions">
         <item>Pentru identificarea elementelor sincronizate</item>
         <item>Pentru sincronizarea mesajelor</item>

@@ -1380,6 +1380,11 @@ Notă: Doar pentru Ubuntu 8.04!"</item>
         <item>10 minute</item>
         <item>Niciodată</item>
     </string-array>
+    <string-array name="screen_zoom_level">
+        <item>XS</item>
+        <item>S</item>
+        <item>L</item>
+    </string-array>
     <string-array name="security_settings_premium_sms_values">
         <item>Întreabă</item>
         <item>Nu permiteţi niciodată</item>

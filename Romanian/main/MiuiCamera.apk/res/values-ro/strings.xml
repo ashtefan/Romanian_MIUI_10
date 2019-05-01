@@ -520,7 +520,7 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="pref_camera_picturesize_entry_16_9">16:9</string>
     <string name="pref_camera_picturesize_entry_18_9">18:9</string>
     <string name="pref_camera_picturesize_entry_4_3">4:3</string>
-    <string name="pref_camera_picturesize_entry_fullscreen">Ecran complet 16:9</string>
+    <string name="pref_camera_picturesize_entry_fullscreen">Ecran complet</string>
     <string name="pref_camera_picturesize_entry_standard">Standard 4:3</string>
     <string name="pref_camera_picturesize_title_simple_mode">Cadru cameră</string>
     <string name="pref_camera_portrait_mode_entry_off">Modul Portret este dezactivat</string>
