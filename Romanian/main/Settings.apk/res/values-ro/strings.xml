@@ -256,7 +256,7 @@ Administratorul dumneavoastră poate monitoriza și administra setările, accesu
     <string name="allow_bind_app_widget_activity_always_allow_bind">Permiteţi întotdeauna ca %1$s să creeze widgeturi şi să acceseze datele acestora</string>
     <string name="allow_data_usage_title">Permiteți utilizarea datelor mobile în roaming</string>
     <string name="allow_device_id_access">Aplicații cu acces la ID-ul dispozitivului</string>
-    <string name="allow_float_summary">Permiteți notificările plutitoare</string>
+    <string name="allow_float_summary">Permiteți notificări plutitoare</string>
     <string name="allow_float_title">Notificări plutitoare</string>
     <string name="allow_keyguard_summary">Permiteți notificările în Blocarea ecranului</string>
     <string name="allow_keyguard_title">Notificări în Blocarea ecranului</string>
@@ -2215,6 +2215,7 @@ Când activați crearea automată a copiei de rezervă, datele dispozitivului ș
     <string name="gxzw_dialog_not_show_again">"Nu arăta din nou"</string>
     <string name="gxzw_dialog_ok">Am înțeles</string>
     <string name="gxzw_dialog_title">Despre senzorul de amprentă încorporat în ecran</string>
+    <string name="gxzw_enroll_again">Ridicați degetul și apăsați scanerul de amprente din nou</string>
     <string name="gxzw_quick_open_title"/>
     <string name="handy_mode">Modul Operare cu o mână</string>
     <string name="handy_mode_enable">Mod Operare cu o mână</string>
@@ -4347,7 +4348,7 @@ Pentru a utiliza fixarea ecranului:
     <string name="search_sound_settings">Sunet;Volume;vibrații;Suprimare zgomot;Suprimare zgomot de fond</string>
     <string name="search_status_bar_settings">Notificări și bara de stare;Notificări;Bara de stare</string>
     <string name="search_status_bar_settings_custom_carrier">Editați numele operatorului;Nume operator</string>
-    <string name="search_status_bar_settings_expandable_under_keyguard">Se afișează pe blocarea ecranului</string>
+    <string name="search_status_bar_settings_expandable_under_keyguard">Afișează în Blocarea securizată a ecranului;afișează în blocarea securizată a ecranului</string>
     <string name="search_status_bar_settings_manage_notification">Notificările aplicațiilor;Notificări</string>
     <string name="search_status_bar_settings_show_carrier">Afișare nume operator</string>
     <string name="search_status_bar_settings_show_network_speed">Afișare viteză de conexiune</string>
@@ -4764,7 +4765,6 @@ Acest lucru este posibil datorită unui certificat de încredere instalat pe dis
     <string name="status_bar_settings">Panoul notificărilor și bara de stare</string>
     <string name="status_bar_settings_all_app_display_loading">Doar o secundă…</string>
     <string name="status_bar_settings_expand_top_notification">Extindeți notificarea din partea superioară</string>
-    <string name="status_bar_settings_expandable_under_keyguard">Arată în blocarea securizată a ecranului</string>
     <string name="status_bar_settings_manage_notification">Notificările aplicaţiilor</string>
     <string name="status_bar_settings_notification_bar">Panou notificări</string>
     <string name="status_bar_settings_notification_led_custom">Culoare personalizată</string>
@@ -6345,8 +6345,8 @@ puteţi utiliza, de asemenea, reţelele altor utilizatori"</string>
     <string name="zen_schedule_rule_enabled_toast">Regula automată setată să activeze modul Nu deranjați în intervalul specificat</string>
     <string name="zen_schedule_rule_type_name">Regulă în funcție de oră</string>
     <string name="zone_auto">Fus orar automat</string>
-    <string name="zone_auto_summaryOff">Utilizaţi fusul orar furnizat de reţea</string>
-    <string name="zone_auto_summaryOn">Utilizaţi fusul orar furnizat de reţea</string>
+    <string name="zone_auto_summaryOff">Utilizaţi ora furnizată de operatorul de reţea</string>
+    <string name="zone_auto_summaryOn">Utilizaţi ora furnizată de operatorul de reţea</string>
     <string name="zone_list_menu_sort_alphabetically">Sortaţi în ordine alfabetică</string>
     <string name="zone_list_menu_sort_by_timezone">Sortaţi după fusul orar</string>
 </resources>

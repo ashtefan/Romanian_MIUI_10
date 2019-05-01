@@ -186,6 +186,7 @@
     <string name="app_manager_factory_reset">Dezinstalați actualizările</string>
     <string name="app_manager_factory_reset_dlg_msg">Toate actualizările acestei aplicații de sistem Android vor fi dezinstalate.</string>
     <string name="app_manager_factory_reset_dlg_title">Dezinstalați actualizările?</string>
+    <string name="app_manager_find_apps">Căutați aplicații</string>
     <string name="app_manager_force_stop_dlg_text">Dacă forțați oprirea unei aplicații, aceasta se poate comporta necorespunzător.</string>
     <string name="app_manager_force_stop_dlg_title">Opriți forțat?</string>
     <string name="app_manager_full_screen_summary">Permiteți aplicațiilor selectate să funcționeze în modul Ecran complet</string>
@@ -1564,7 +1565,7 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="optimize_result_summary_system_default_settings">"Utilizarea aplicațiilor MIUI implicite crește nivelul de stabilitate și securitate al sistemului."</string>
     <string name="optimize_result_title_sucurity_risk">Au fost găsite riscuri de securitate</string>
     <string name="optimize_result_title_system_default_settings">Setările implicite au fost modificate</string>
-    <string name="optimize_result_title_uninstall_apps">Aplicații</string>
+    <string name="optimize_result_title_uninstall_apps">Dezinstalați aplicații</string>
     <string name="optimize_result_toast_system_default_settings">Setările implicite au fost restaurate</string>
     <string name="optimize_result_toast_system_no_item_selected">Niciun element selectat</string>
     <string name="optmizingbar_optimize_done">Optimizat</string>
@@ -1920,6 +1921,11 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="section_title_system">Securitatea sistemului</string>
     <string name="security_center_slogan">Securitate. Întotdeauna de pază.</string>
     <string name="security_scan_optimizing">Optimizare…</string>
+    <string name="securityadd_install_fail">"Nu s-a putut actualiza extensia. Încercați din nou."</string>
+    <string name="securityadd_update_tips_cancle">Nu acum</string>
+    <string name="securityadd_update_tips_message">Actualizați extensia serviciului de Securitate pentru a avea acces la cele mai recente caracteristici pentru jocuri. %1$dMB will be downloaded.</string>
+    <string name="securityadd_update_tips_now">Actualizați</string>
+    <string name="securityadd_update_tips_title">Actualizați</string>
     <string name="see_detail">Detalii</string>
     <string name="see_more_content">Actualizați aplicația de Jocuri pentru a vedea mai multe noutăți</string>
     <string name="set_applock_password">Setați parola</string>

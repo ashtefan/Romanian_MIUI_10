@@ -76,4 +76,8 @@
         <item quantity="other">Cu %s ore în urmă</item>
         <item quantity="one">Cu %s oră în urmă</item>
     </plurals>
+    <plurals name="provision_sync_items_status_title">
+        <item quantity="other">%s servicii vor fi sincronizate cu Mi Cloud</item>
+        <item quantity="one">%s serviciu va fi sincronizat cu Mi Cloud</item>
+    </plurals>
 </resources>

@@ -43,6 +43,8 @@
     <string name="choose_open_picture">Selectați acțiunea</string>
     <string name="choose_open_time">"Alegeți când doriți să începeți"</string>
     <string name="clear_data">Goliți</string>
+    <string name="close">Închideți</string>
+    <string name="close_ad">Închideți reclama</string>
     <string name="complete_time">Finalizat:</string>
     <string name="confirm">OK</string>
     <string name="confirm_delete_downloads_message">%d descărcări vor fi şterse.</string>

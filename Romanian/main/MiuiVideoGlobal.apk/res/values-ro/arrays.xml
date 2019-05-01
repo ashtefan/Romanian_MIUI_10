@@ -5,11 +5,4 @@
         <item>A</item>
         <item>A</item>
     </string-array>
-    <string-array name="playback_streaming_quality">
-        <item>Auto</item>
-        <item>Redusă</item>
-        <item>Medie</item>
-        <item>Înaltă</item>
-        <item>Foarte înaltă</item>
-    </string-array>
 </resources>

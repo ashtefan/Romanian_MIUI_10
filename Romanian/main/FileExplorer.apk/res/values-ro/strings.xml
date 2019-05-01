@@ -220,6 +220,8 @@
     <string name="found_usb">Stocare USB conectată</string>
     <string name="ftp_account_req_notice">4-16 caractere, litere şi cifre, diferenţiere între minuscule şi majuscule</string>
     <string name="ftp_anonymous_login">Autentificare anonimă</string>
+    <string name="ftp_anonymous_warning_msg">Funcțiile de rămânere anonim pot cauza riscuri de securitate. Utilizați această caracteristică oricum?</string>
+    <string name="ftp_anonymous_warning_title">Atenție</string>
     <string name="ftp_invalid_username_or_password">Nume de utilizator sau parolă greşite</string>
     <string name="ftp_open_port_error">Nu s-a putut deschide portul. Verificați conexiunea la rețea sau resetaţi numărul portului.</string>
     <string name="ftp_password_hint">Parolă</string>
@@ -242,6 +244,7 @@
     <string name="group_title_extra_new">Nou</string>
     <string name="handsome_boy">Masculin</string>
     <string name="has_installed">Instalată</string>
+    <string name="home_action_up">Înapoi</string>
     <string name="homepage_tab_category">Categorii</string>
     <string name="homepage_tab_file_view_phone">Stocare</string>
     <string name="homepage_tab_recent">Recente</string>

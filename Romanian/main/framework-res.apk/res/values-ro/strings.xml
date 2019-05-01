@@ -251,7 +251,7 @@ Economisirea acumulatorului se va dezactiva în mod automat atunci când veți c
      <string name="config_carrierDemoModePackages"/>
      <string name="config_carrierDemoModePassword"/>
      <string name="config_carrierDemoModeSetting"/>
-     <string name="config_defaultAccessibilityService"/>
+     <string name="config_defaultAccessibilityService">com.google.android.marvin.talkback/.TalkBackService</string>
      <string name="config_defaultAutofillService"/>
      <string name="config_defaultListenerAccessPackages"/>
      <string name="config_defaultNetworkRecommendationProviderPackage"/>

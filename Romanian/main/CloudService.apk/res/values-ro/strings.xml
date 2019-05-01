@@ -73,7 +73,7 @@ Ultima copie de rezervă a fost creată la %2$s"</string>
     <string name="enable_find_device_success">Localizarea telefonului este pornită.</string>
     <string name="enable_micloud">Conectați-vă pentru a utiliza Mi Cloud</string>
     <string name="enable_sync">Sincronizare</string>
-    <string name="enable_sync_dspt">Nu se sincronizează</string>
+    <string name="enable_sync_setting_title">Se configurează serviciile cloud…</string>
     <string name="error_data_in_transfer">Sincronizarea se va finaliza peste %s ore.</string>
     <string name="error_data_in_transfer_title">Mi Cloud indisponibil</string>
     <string name="error_forbidden">Sincronizarea a fost dezactivată din cauza unor probleme cu contul dvs. Mi.</string>
@@ -467,6 +467,7 @@ Această caracteristică criptează și trimite ID-ul dispozitivului dvs. pe ser
     <string name="pref_title_sync_contacts_title">Sincronizare contacte</string>
     <string name="pref_title_sync_display_photo_on_wifi_only">Se utilizează doar Wi-Fi pentru sincronizarea fotografiilor</string>
     <string name="privacy_policy">Politica de confidențialitate</string>
+    <string name="provision_sync_items_loading">Se pregătește sincronizarea elementelor</string>
     <string name="reading_status">Încărcare stare…</string>
     <string name="reading_status_failure">"Nu s-a putut încărca starea."</string>
     <string name="remind_later">Nu acum</string>

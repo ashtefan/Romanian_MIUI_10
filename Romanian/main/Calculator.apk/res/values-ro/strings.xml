@@ -119,7 +119,7 @@
     <string name="item_title_currency">Valută</string>
     <string name="item_title_dress_size">Mărimi de haine</string>
     <string name="item_title_length_conversion">Lungime</string>
-    <string name="item_title_mortgage">Rambursare credit</string>
+    <string name="item_title_mortgage">Împrumut casnic</string>
     <string name="item_title_relationship">Grade de rudenie</string>
     <string name="item_title_scientific_calculator">Stiințific</string>
     <string name="item_title_tax">Taxe</string>
@@ -152,9 +152,7 @@
     <string name="loan_interest_rate">Dobânda</string>
     <string name="loan_pay_years">Perioada creditului</string>
   <string name="loan_payback_way">Rambursare</string>
-    <string name="loan_repayment_detail">Rambursare detaliată</string>
     <string name="loan_repayment_detail_loading">Se încarcă rambursarea detaliată…</string>
-    <string name="loan_repayment_detail_unit">Rambursare detaliată (CNY)</string>
     <string name="loan_unit">×10K</string>
     <string name="medical_treatment">Tratament medical</string>
     <string name="menuDesc">meniu</string>

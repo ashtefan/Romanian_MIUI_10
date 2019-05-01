@@ -56,6 +56,14 @@
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Chiar acum</item>
     </plurals>
+    <plurals name="loan_repayment_detail">
+        <item quantity="other">Rambursare detaliată (%d ani)</item>
+        <item quantity="one">Rambursare detaliată (%d an)</item>
+    </plurals>
+    <plurals name="loan_repayment_detail_unit">
+        <item quantity="other">Rambursare detaliată (%d ani), CNY</item>
+        <item quantity="one">Rambursare detaliată (%d an), CNY</item>
+    </plurals>
     <plurals name="mortgage_summary_years">
         <item quantity="other">%1$d ani (%2$d luni)</item>
         <item quantity="one">%1$d an (%2$d luni)</item>

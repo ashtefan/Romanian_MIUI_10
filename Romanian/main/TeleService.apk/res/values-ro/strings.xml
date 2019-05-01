@@ -789,6 +789,7 @@ Sample Rate"</string>
     <string name="fdn_list_with_label">Listă FDN (%s)</string>
     <string name="fdn_summary">Restricționați apelarea numerelor din lista FDN sau a numerelor cu anumite prefixe</string>
     <string name="fdn_with_label">Numere cu apelare fixată (%s)</string>
+    <string name="fiveg_switch_title">Rețea 5G</string>
     <string name="flash_when_ring_summary">Utilizați lanterna pentru a notifica despre apelurile primite</string>
     <string name="flash_when_ring_title">LED activ la apelurile primite</string>
     <string name="force_allow_on_external">Forțați permisiunile aplicației externe</string>

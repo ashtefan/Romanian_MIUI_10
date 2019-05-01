@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+    <string name="Subscribe">Abonați-vă</string>
     <string name="abc_action_bar_home_description">Navigați acasă</string>
     <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
     <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
@@ -76,15 +77,18 @@
     <string name="com_permission_desc">"Mi Video nu poate accesa videoclipurile din telefon. Permiteți accesul din Setări."</string>
     <string name="com_permission_title">Sunt necesare unele permisiuni</string>
     <string name="common_google_play_services_notification_channel_name">Disponibilitate servicii Google Play</string>
-    <string name="do_not_show_this_again">"Nu arăta din nou"</string>
-    <string name="lp_advance_sound">Îmbunătățire sunet</string>
+    <string name="diy_channels_tips">Acum puteți personaliza lista canalelor.</string>
+    <string name="empty_channels">Gestionați canalele</string>
+    <string name="empty_subscribe">"Nu v-ați abonat la nimic încă."</string>
     <string name="explore_on_mi_video">Descoperiți mai multe cu Mi Video</string>
     <string name="failed_to_fetch_data">"Nu s-au putut încărca informațiile."</string>
     <string name="find_psw">Am uitat parola</string>
     <string name="get_ph_ticket">Obțineți codul</string>
     <string name="goto_sign_up">Creați un cont</string>
+    <string name="hidden_channels">"Următoarele canale nu vor fi afișate pe Ecranul principal."</string>
     <string name="lp_brightness">Iluminare</string>
-    <string name="lp_fullscreen">Ecran complet</string>
+    <string name="init_channels">Restaurați setările implicite</string>
+    <string name="isSubscribed">Abonat</string>
     <string name="isornot_your_mi_account">Acesta este contul dvs. Mi?</string>
     <string name="language_select_tips">Care sunt preferințele dvs pentru limbă? Puteți selecta mai multe limbi.</string>
     <string name="language_setting_tips">Salvată cu succes. Puteți modifica preferințele pentru limbă din Setări.</string>
@@ -96,12 +100,24 @@
     <string name="lp_videoView_error_text_unknown">"Nu se poate reda acest videoclip."</string>
     <string name="lp_videoView_error_title">"Nu se poate reda"</string>
     <string name="lp_volume">Volum</string>
+    <string name="my_favorite_channels">Canalele mele</string>
+    <string name="ovp_navigation_subscribe">Abonați-vă</string>
+    <string name="ovp_player_plugin_dlg_neg_btn">Închideți</string>
+    <string name="ovp_player_plugin_dlg_no_content">Nu este instalată nicio extensie video.</string>
+    <string name="ovp_player_plugin_dlg_title">Extensii pentru redare video</string>
+    <string name="permission_phone">Telefon</string>
+    <string name="permission_phone_desc">Pentru accesarea stării dispozitivului și oprirea redării pe durata apelurilor</string>
+    <string name="permission_storage">Stocare</string>
+    <string name="permission_storage_desc">Pentru accesarea elementelor, salvarea fișierelor, afișarea și redarea videoclipurilor locale</string>
+
+
     <string name="pull_to_refresh_from_bottom_pull_label">Glisați în sus pentru a reîmprospăta…</string>
     <string name="pull_to_refresh_from_bottom_refreshing_label">Doar o secundă…</string>
     <string name="pull_to_refresh_from_bottom_release_label">Eliberați pentru a reîmprospăta…</string>
     <string name="pull_to_refresh_pull_label">Glisați în jos pentru a reîmprospăta…</string>
     <string name="pull_to_refresh_refreshing_label">Doar o secundă…</string>
     <string name="pull_to_refresh_release_label">Eliberați pentru a reîmprospăta…</string>
+    <string name="pw_channels">Canale</string>
     <string name="screen_shot_failure">"Nu s-a putut realiza captura de ecran"</string>
     <string name="screen_shot_failure_tips">Actualizați MIUI pentru a putea reliza capturi de ecran.</string>
     <string name="screen_shot_success">Captură de ecran realizată cu succes</string>
@@ -156,8 +172,10 @@
     <string name="push_message_switch">Notificări push</string>
     <string name="push_message_tips">Activați pentru a primi notificări push</string>
     <string name="read_and_agree">De acord</string>
+    <string name="recommend_channels">Canale recomandate</string>
     <string name="recommend_online_switch">Recomandări online</string>
     <string name="recommend_online_tips">Activați pentru a primi recomandări online de videoclipuri</string>
+    <string name="restore_channel_list">Restaurați setările implicite acum?</string>
     <string name="s7">Test Reclame</string>
     <string name="save_cancel_toast">Atingeți din nou pentru a anula salvarea</string>
     <string name="share">Partajați</string>
@@ -173,6 +191,9 @@
     <string name="t_password_wrong">Parola este incorectă. Încercați din nou.</string>
     <string name="t_search_null">Introduceți cuvintele cheie pentru a căuta</string>
     <string name="t_start_download">Se pornește descărcarea:</string>
+    <string name="title_publisher">Creatori</string>
+    <string name="title_subscribe">Abonamente</string>
+    <string name="ugc_confirm_unsubscribe">Vă dezabonați acum?</string>
     <string name="v_agree">De acord</string>
     <string name="v_app_check_failed">"Nu s-a putut verifica aplicația"</string>
     <string name="v_app_click_to_install">Atingeți pentru a instala.</string>

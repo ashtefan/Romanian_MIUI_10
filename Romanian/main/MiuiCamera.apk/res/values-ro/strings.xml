@@ -229,7 +229,9 @@ dacă rotiți telefonul"</string>
     <string name="hibernate_hint">Atingeți ecranul pentru a reporni Camera</string>
     <string name="hine_hht">"În lumină redusă, camera va face mai multe fotografii
 și apoi va crea una cu minim de zgomot."</string>
-    <string name="hint_ae_af_lock">Focus automat / Expunere automată au fost blocate</string>
+    <string name="hint_ae_af_lock">Focalizarea automată și expunerea automată au fost blocate.</string>
+    <string name="hint_ae_af_lock_extra">Focalizarea automată și expunerea automată au fost blocate. Comutați la Google Lens din setările Camerei</string>
+    <string name="hint_ae_lock">Expunerea automată este blocată</string>
     <string name="hint_device_water_mark">Amprenta va fi adăugată în mod automat în fotografie.</string>
     <string name="hint_fast_motion">Videoclipul înregistrat va fi redat la viteză mai mare.</string>
     <string name="hint_groupshot">"Camera va face mai multe fotografii
@@ -485,9 +487,14 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="pref_camera_jpegquality_entry_normal">Standard</string>
     <string name="pref_camera_jpegquality_title">Calitate fotografie</string>
     <string name="pref_camera_long_press_shutter_feature_title">Menținerea apăsată a butonului de declanșare</string>
+    <string name="pref_camera_long_press_viewfinder_google_lens">Google Lens</string>
+    <string name="pref_camera_long_press_viewfinder_lock_ae_af">Blocare AE/AF</string>
+    <string name="pref_camera_long_press_viewfinder_title">Setări vizor</string>
     <string name="pref_camera_long_pressing_burst_shooting_entry_burst">Fotografiere în serie</string>
     <string name="pref_camera_long_pressing_burst_shooting_entry_focus">Focalizare</string>
     <string name="pref_camera_long_pressing_shutter_title">Apăsați și țineți apăsat butonul de declanșare pentru a bloca AE/AF/AWB</string>
+    <string name="pref_camera_long_pressing_viewfinder_entry_google_lens">Google Lens</string>
+    <string name="pref_camera_long_pressing_viewfinder_entry_lock_ae_af">Blocare AE/AF</string>
     <string name="pref_camera_magic_mirror_title">Oglindă magică</string>
     <string name="pref_camera_manual_mode_title">Manual</string>
     <string name="pref_camera_mfnr_sat_enable_title">Activați MFNR</string>
@@ -625,6 +632,8 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="pref_front_mirror_label_auto">Auto</string>
     <string name="pref_front_mirror_title">Oglindă cameră frontală</string>
     <string name="pref_google_lens">Lentile Google</string>
+    <string name="pref_google_lens_summary">Îndreptați camera către informații de contact, URL-uri sau coduri QR pentru a vedea opțiunile disponibile</string>
+    <string name="pref_google_lens_title">Sugestii de lentile</string>
     <string name="pref_groupshot_with_primitive_title">Salvați, de asemenea, și fotografiile originale</string>
     <string name="pref_manual_exposure_title">Timp expunere</string>
     <string name="pref_menu_ultra_pixel_photography_32mp">32 MP</string>
@@ -765,5 +774,12 @@ Modul unghi foarte larg vine în întâmpinarea dvs. atunci când nu vă puteți
     <string name="video_ultra_clear_tip">4K UHD</string>
     <string name="view_privacy_policy">Vizualizați Politica de Confidențialitate</string>
     <string name="wait">O secundă…</string>
+    <string name="wideselfie_press_shoot_key_to_start">Atingeți butonul de declanșare</string>
+    <string name="wideselfie_result_image_lossless">"Nu s-a putut salva panorama"</string>
+    <string name="wideselfie_rotate_slowly">Rotiți încet telefonul în lateral</string>
+    <string name="wideselfie_rotate_to_back">Înclinați telefonul înapoi</string>
+    <string name="wideselfie_rotate_to_front">Înclinați telefonul înainte</string>
+    <string name="wideselfie_rotate_to_left_slowly">Rotiți încet telefonul către stânga</string>
+    <string name="wideselfie_rotate_to_right_slowly">Rotiți încet telefonul către dreapta</string>
     <string name="zoom_no_support_tip_48M">"Zoom-ul nu funcționează în modul 48 MP"</string>
 </resources>

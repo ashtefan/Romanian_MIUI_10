@@ -196,6 +196,7 @@
     <string name="is_system_wallpaper_message">"Nu se pot șterge resurse de sistem"</string>
     <string name="launcher_auto_fill_empty_title">Umple celulele goale</string>
     <string name="launcher_not_exist">A apărut o eroare; reveniți în ecranul Acasă și încercați din nou.</string>
+    <string name="launcher_sliding_up_gesture">Glisați în sus pe Ecranul principal pentru a deschide căutarea</string>
     <string name="launcher_title">Ecranul principal și Recente</string>
     <string name="like">Îmi place</string>
     <string name="liked">Favorită</string>
