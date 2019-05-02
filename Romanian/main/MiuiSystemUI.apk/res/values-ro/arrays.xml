@@ -108,7 +108,7 @@
         <item>VDF 3G</item>
     </string-array>
     <string-array name="clock_options">
-        <item>Afișează ora, minutul și secunda</item>
+        <item>Afișează ora, minutul și secundele</item>
         <item>Afișează ora și minutul (implicit)</item>
         <item>"Nu afișa această pictogramă"</item>
     </string-array>
