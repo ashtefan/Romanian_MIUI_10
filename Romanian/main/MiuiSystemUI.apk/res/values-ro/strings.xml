@@ -1353,7 +1353,6 @@ De asemenea, sunteți conectat la o rețea VPN, care vă poate monitoriza activi
     <string name="power_save_ps_close_setting">Dezactivați serviciile în fundal (sincronizare, GPS) pentru a economisi acumulatorul</string>
     <string name="power_save_ps_freeze">Blocați aplicațiile care rulează în fundal</string>
     <string name="power_save_ps_limit">Restricționați activitatea aplicațiilor de sistem</string>
-    <string name="process_kernel_label">SO Android</string>
     <string name="profile_owned_footer">Profilul poate fi monitorizat</string>
     <string name="prompt_danger">Pericol</string>
     <string name="prompt_detecting">Se detectează</string>
