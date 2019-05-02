@@ -745,6 +745,7 @@ Dacă reactivaţi datele, puteţi fi taxat de către operator.</string>
     <string name="gxzw_try_again">Încercați din nou</string>
     <string name="gxzw_try_more_again">Încercați din nou</string>
     <string name="gxzw_use_password">Utilizați parola pentru a debloca</string>
+    <string name="gxzw_use_password_to_unlock">Introduceți parola</string>
     <string name="hdcp_checking_dialog_title">Setați comportamentul verificării HDCP</string>
     <string name="hdcp_checking_title">Verificare HDCP</string>
     <string name="headset">Set cu căști</string>

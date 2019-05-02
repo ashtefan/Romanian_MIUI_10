@@ -135,6 +135,7 @@ https://appleid.apple.com/#!&amp;page=signin to close"</string>
     <string name="err_bakfile_broken">"Nu se poate utiliza această copie de rezervă."</string>
     <string name="err_filesystem_mount">Nu se poate accesa stocarea router-ului</string>
     <string name="err_low_storage">Spaţiu insuficient</string>
+    <string name="err_no_gms">Versiune incompatibilă a aplicației. Instalați separat această aplicație</string>
     <string name="err_not_allow">Nesuportat</string>
     <string name="err_router_disconnected">"Verificați conexiunea router-ului și încercați din nou."</string>
     <string name="err_router_files_delete">"Nu s-au putut șterge fișierele de rezervă de pe router"</string>
@@ -432,6 +433,7 @@ Vă rugăm eliberați cel puțin %s."</string>
     <string name="trans_detail_category_userdata">Aplicații</string>
     <string name="trans_detail_category_wechat_qq">Datele WeChat și QQ (inclusiv istoricul chat-ului)</string>
     <string name="trans_detail_item_app_data_selected_tip">De asemenea și aplicațiile corespunzătoare.</string>
+    <string name="trans_detail_item_app_data_skip_data">"Nu se pot transfera datele aplicației"</string>
     <string name="trans_detail_item_app_data_too_large_tip">Se pare că elementul este prea mare pentru a fi transferat.</string>
     <string name="trans_detail_list_footer">"1. Puteți alege individual aplicațiile pe care doriți să le transferați.
 2. Dacă selectați datele aplicației, aplicațiile corespunzătoare vor fi selectate și ele, de asemenea.

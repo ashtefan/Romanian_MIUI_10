@@ -44,7 +44,7 @@
     <string name="account_user_birthday">Zi de naştere</string>
     <string name="account_user_details">Informaţii personale</string>
     <string name="account_user_education">Nivel de educație</string>
-    <string name="account_user_email">E-mail</string>
+    <string name="account_user_email">E-mail pentru recuperare</string>
     <string name="account_user_gender">Sex</string>
     <string name="account_user_id">ID cont Mi</string>
     <string name="account_user_income">Venit lunar</string>
@@ -53,8 +53,7 @@
     <string name="account_user_name">Nume</string>
     <string name="account_user_name_dialog_title">Introduceţi numele de utilizator</string>
     <string name="account_user_other_info">Informații suplimentare</string>
-    <string name="account_user_phone">Număr de telefon</string>
-    <string name="account_user_recovery_phone">Telefon pentru recuperare</string>
+    <string name="account_user_phone">Număr de telefon pentru recuperare</string>
     <string name="account_user_region">Regiune</string>
     <string name="account_user_using_facebook_avatar">Utilizați fotografia profilului Facebook</string>
     <string name="account_user_using_qq_avatar">Utilizați fotografia de profil QQ</string>
@@ -65,6 +64,7 @@
     <string name="activate_email_notice">Activați contul în cel mult 24 de ore!</string>
     <string name="activity_not_found_notice">"Nu s-a putut găsi aplicația"</string>
     <string name="add_account">Adăugaţi un cont</string>
+    <string name="agreement_and_privacy">Politica de Confidențialitate și Acordul Utilizatorului</string>
     <string name="app_name">Cont Mi</string>
     <string name="auth_fail_warning">Sesiunea a expirat, conectați-vă din nou mai târziu</string>
     <string name="authorize_title">Autorizare</string>
@@ -270,6 +270,7 @@ link-ul din e-mailul pe care vi l-am trimis."</string>
     <string name="passport_extra_gdpr_license">Crearea unui cont Mi presupune că sunteți de acord ca Xiaomi să colecteze, să proceseze și să utilizeze datele dvs. personale, inclusiv datele de verificare (de ex. codurile de verificare), datele Spațiului secundar (de ex. informații despre modul în care utilizați Spațiul secundar, ID-urile utilizate în Spațiul principal și în cel secundar), precum și alte date specificate în Politica noastră de Confidențialitate. Studiați Politica de Confidențialitate pentru a afla cum procesăm și cum utilizăm datele personale.</string>
     <string name="passport_failed_to_send_activate_email">Nu s-a putut trimite e-mailul de activare</string>
     <string name="passport_find_password_on_web_msg">Vizitaţi account.mi.com pentru a vă reseta parola.</string>
+    <string name="passport_first_login_prompt">Contul Mi va fi creat în mod automat când vă veți conecta prima dată.</string>
     <string name="passport_forget_password"><u>Am uitat parola</u></string>
     <string name="passport_forget_password_no_underline">Am uitat parola</string>
     <string name="passport_get_back_pwd">Recuperaţi parola contului</string>
@@ -449,6 +450,7 @@ link-ul din e-mailul pe care vi l-am trimis."</string>
     <string name="restart_phone_bind_message">Un mesaj text cu un cod de verificare va fi trimis la acest număr.</string>
     <string name="restart_phone_bind_title">Schimbaţi numărul de telefon pentru recuperare</string>
     <string name="same_new_and_old_pwd">"Nu poate fi identică cu parola actuală"</string>
+    <string name="scan_barcode">Scanați codul QR pentru a vă conecta</string>
     <string name="scan_barcode_title">Pentru a vă conecta la contul dvs. Mi, scanaţi codul QR</string>
     <string name="search_account_security">Securitate cont</string>
     <string name="search_account_security_desc">Setări cont</string>
