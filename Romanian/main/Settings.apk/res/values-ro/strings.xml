@@ -1110,7 +1110,7 @@ Această caracteristică poate fi dezactivată din [Setări]"</string>
     <string name="category_personal">Personal</string>
     <string name="category_work">Servici</string>
     <string name="cdma_security_settings_summary">Setaţi Locaţia mea, deblocarea ecranului, blocarea stocării acreditărilor</string>
-    <string name="cell_broadcast_settings">Transmisii celulare</string>
+    <string name="cell_broadcast_settings">Alerte de urgență</string>
     <string name="cell_data_template">%1$s date mobile</string>
     <string name="cell_warning_and_limit">%1$s Avertisment date / %2$s Limită de date</string>
     <string name="cell_warning_only">%1$s Avertisment date</string>
