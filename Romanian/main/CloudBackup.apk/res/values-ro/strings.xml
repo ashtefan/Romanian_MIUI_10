@@ -40,7 +40,7 @@
     <string name="click_try_to_restore_again">Apăsaţi pentru a încerca din nou</string>
     <string name="cloud_app_backup_success">Crearea copiei de rezervă a fost finalizată</string>
     <string name="cloud_app_check_data">Comunicare cu Mi Cloud…</string>
-    <string name="cloud_app_current_device">Acest telefon</string>
+    <string name="cloud_app_current_device">Acestui telefon</string>
     <string name="cloud_app_dont_restore">Configuraţi ca dispozitiv nou</string>
     <string name="cloud_app_no_data">Nu au fost detectate aplicații instalate anterior</string>
     <string name="cloud_app_no_network">Nu se poate conecta la rețea</string>

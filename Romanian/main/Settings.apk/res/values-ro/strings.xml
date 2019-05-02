@@ -3973,7 +3973,7 @@ Interfață UT: %5$s"</string>
 "&lt;li&gt;Date mobile&lt;/li&gt;"
 "&lt;li&gt;Bluetooth&lt;/li&gt;</string>
     <string name="reset_network_final_button_text">Setări pentru resetare</string>
-    <string name="reset_network_final_desc">Resetați toate setările de rețea? Această acțiune este ireversibilă!</string>
+    <string name="reset_network_final_desc">"Resetați acum toate setările de rețea? Acest lucru poate dura câteva secunde. Această acțiune este ireversibilă!"</string>
     <string name="reset_network_title">Resetare setări de rețea</string>
     <string name="reset_network_wifi">Wi-Fi</string>
     <string name="reset_second_space_passwd">Resetați parola pentru Spațiul Secundar</string>

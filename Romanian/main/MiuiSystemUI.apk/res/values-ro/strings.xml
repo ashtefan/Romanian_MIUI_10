@@ -323,9 +323,14 @@
     <string name="battery_info_status_full">Încărcat complet</string>
     <string name="battery_info_status_not_charging">Nu se încarcă</string>
     <string name="battery_info_status_unknown">Necunoscut</string>
+    <string name="battery_low_button_not_open_power_save">Nu acum</string>
+    <string name="battery_low_button_open_power_save">Activați</string>
     <string name="battery_low_percent_format">Disponibil: %d%%</string>
+    <string name="battery_low_percent_format_save_mode_closed">Mai puțin de %d%% acumulator disponibil. Încărcați acumulatorul telefonului.</string>
+    <string name="battery_low_percent_format_save_mode_open">Mai puțin de %d%% acumulator disponibil. Activați Economisirea acumulatorului pentru a economisi energia consumată.</string>
     <string name="battery_low_percent_format_saver_started">%s rămas. Economisirea acumulatorului este activă.</string>
     <string name="battery_low_title">Conectaţi încărcătorul</string>
+    <string name="battery_low_title_power_save">Economisirea acumulatorului</string>
     <string name="battery_low_why">Setări</string>
   <string name="battery_meter_charging_mask">M44.98169 12.995727L27.492101 31.243375c-0.382155 0.398719 -0.368727 1.031741 0.02999 1.413896 0.184016 0.17637 0.428434 0.275817 0.683313 0.278019l8.295572 0.07167 -3.523194 10.060547 7.10315 0 17.347191 -18.375047c0.379131 -0.401595 0.36092 -1.034498 -0.04068 -1.413628 -0.185614 -0.175232 -0.431214 -0.272849 -0.686477 -0.272849l-8.119673 0 3.481811 -10.010254 -7.08142 0z</string>
   <string name="battery_meter_progress_mask">M2.5638852 0C1.6723665 0 1.3490802 0.09282561 1.0231543 0.2671327 0.69722837 0.4414398 0.4414398 0.69722837 0.2671327 1.0231543 0.09282561 1.3490802 0 1.6723665 0 2.5638852L0 0 2.5638852 0Zm0 18L0 18 0 15.436115c0 0.891518 0.09282561 1.214805 0.2671327 1.540731 0.1743071 0.325926 0.43009567 0.581714 0.7560216 0.756021C1.3490802 17.907174 1.6723665 18 2.5638852 18Z</string>
@@ -642,6 +647,7 @@ Dacă reactivaţi datele, puteţi fi taxat de către operator.</string>
     <string name="face_data_manage_delete_msg">Ștergeți datele faciale</string>
     <string name="face_data_manage_delete_sure">"Nu veți mai putea debloca telefonul utilizând datele faciale după ce o veți șterge."</string>
     <string name="face_data_manage_delete_title">Date faciale</string>
+    <string name="face_data_manage_unlock_liftcamera_msg">După ce ecranul se iluminează, glisați în sus pentru a debloca telefonul utilizând datele faciale.</string>
     <string name="face_data_manage_unlock_msg">Deblocați telefonul utilizând datele faciale</string>
     <string name="face_data_manage_unlock_slide_msg">Înlocuiți glisarea cu deblocarea facială</string>
     <string name="face_data_manage_unlock_title">Deblocare utilizând datele faciale</string>
@@ -658,6 +664,7 @@ Dacă reactivaţi datele, puteţi fi taxat de către operator.</string>
     <string name="face_unlock_down">Ridicați capul</string>
     <string name="face_unlock_fail">"Nu s-a putut verifica chipul"</string>
     <string name="face_unlock_fail_retry">"Nu v-am putut verifica chipul. Atingeți mai sus pentru a încerca din nou."</string>
+    <string name="face_unlock_fail_retry_global">Atingeți mai sus pentru a utiliza Deblocarea facială</string>
     <string name="face_unlock_identify_error">A apărut o eroare de recunoaștere</string>
     <string name="face_unlock_not_found">"Nu v-am putut recunoaște"</string>
     <string name="face_unlock_not_roi">Încadrați chipul în interiorul ramei</string>
@@ -1342,6 +1349,11 @@ De asemenea, sunteți conectat la o rețea VPN, care vă poate monitoriza activi
     <string name="power_remaining_charging_duration_only">%1$s rămas până la încărcarea completă</string>
     <string name="power_remaining_duration_only">Aprox. %1$s rămas</string>
     <string name="power_remaining_duration_only_short">%1$s rămas</string>
+    <string name="power_save_ps_clean">Goliți memoria cache când telefonul este blocat</string>
+    <string name="power_save_ps_close_setting">Dezactivați serviciile în fundal (sincronizare, GPS) pentru a economisi acumulatorul</string>
+    <string name="power_save_ps_freeze">Blocați aplicațiile care rulează în fundal</string>
+    <string name="power_save_ps_limit">Restricționați activitatea aplicațiilor de sistem</string>
+    <string name="process_kernel_label">SO Android</string>
     <string name="profile_owned_footer">Profilul poate fi monitorizat</string>
     <string name="prompt_danger">Pericol</string>
     <string name="prompt_detecting">Se detectează</string>
