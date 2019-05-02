@@ -188,6 +188,8 @@
     <string name="liked">Adăugată la Favorite</string>
     <string name="lks_left_net_deny">Accesul la rețea este restricționat</string>
     <string name="lks_left_net_error">"Nu s-a putut conecta la rețea."</string>
+    <string name="lks_left_top_notice">Atingeți aici pentru a reveni în partea de sus</string>
+    <string name="lks_left_top_notice_refresh">Atingeți pentru a vedea elementele noi</string>
     <string name="lks_logo_desc2">Imagini de fundal noi, în fiecare zi</string>
     <string name="lks_subscription_toast">Imagine de fundal schimbată cu succes</string>
     <string name="llks_pop_btm_des">Începeți ziua cu un zâmbet</string>
@@ -199,6 +201,16 @@
     <string name="llks_pop_top_des_backup">Livrate pe ecranul dvs. în fiecare zi</string>
     <string name="llks_pop_top_title">Imagini de fundal noi</string>
     <string name="llks_pop_top_title_backup">Imagini noi</string>
+    <string name="llks_setting_view_title">Ecran adițional</string>
+    <string name="llks_simple_mode">Modul Simplificat</string>
+    <string name="llks_simple_mode_desc">Dispunere simplificată și scurtături suplimentare</string>
+    <string name="llks_standard_mode">Implicit</string>
+    <string name="llks_standard_mode_desc">Imagini de fundal, povești și recomandări zilnice</string>
+    <string name="llks_tools_gallery_name">Carusel de imagini de fundal</string>
+    <string name="llks_tools_nfc_data">%s CNY</string>
+    <string name="llks_tools_nfc_name">NFC</string>
+    <string name="llks_tools_remote_control_name">Telecomandă Mi</string>
+    <string name="llks_tools_smart_devices_name">Mi Home</string>
     <string name="load_hdpicture_complete">Imagine originală încărcată cu succes</string>
     <string name="loading">&lt;CDATA&gt;Doar o secundă&amp;#8230;&lt;/CDATA&gt;</string>
     <string name="lock_screen_date">EEEE, dd MMMM</string>
@@ -377,6 +389,8 @@
     <string name="sst_wallpaper_history_title">Istoric</string>
     <string name="sst_wifi_only_desc">Dezactivați pentru a actualiza imaginile de fundal doar prin Wi-Fi</string>
     <string name="sst_wifi_only_title">Activați descărcarea prin date mobile</string>
+    <string name="subscribe_apply_wp">Imagine de fundal pentru Blocarea ecranului aplicată cu succes</string>
+    <string name="subscribe_dlg_content">Abonați-vă pentru a primi imagini de fundal noi livrate zilnic în Blocarea ecranului și salutări zilnice.</string>
     <string name="subscribe_item_checked">Abonat</string>
     <string name="subscribe_item_unchecked">Dezabonat</string>
     <string name="summary">"Acceptați &lt;a href='%s'&gt;Politica noastră de Confidențialitate&lt;/a&gt; pentru a vedea conținut online. Dacă nu sunteți de acord, imaginile locale vor fi disponibile în continuare."</string>
@@ -399,6 +413,7 @@
     <string name="toast_ad_down_tip2">Se descarcă %s</string>
     <string name="toast_load_hd_fail">"Nu s-a putut încărca imaginea originală"</string>
     <string name="toast_neterror_tip">A apărut o eroare de rețea</string>
+    <string name="toast_update_no_more_newest_feeds">Niciun element nou deocamdată</string>
     <string name="top_search_tip">Căutați categoriile care vă plac</string>
     <string name="uninstall_introducation_text_desc">Caruselul de imagini de fundal vă aduce imagini calitative noi direct în Blocarea ecranului. Înainte de a-l dezinstala, asigurați-vă că vă puteți descurca fără aceste caracteristici.</string>
     <string name="uninstall_introduction_text_title">Despre Caruselul de imagini de fundal</string>

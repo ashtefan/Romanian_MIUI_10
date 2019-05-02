@@ -695,7 +695,7 @@ Dacă reactivaţi datele, puteţi fi taxat de către operator.</string>
     <string name="fingerprint_again_identified_msg">Amprenta este activă acum. O puteți utiliza pentru a debloca telefonul sau introduceți parola.</string>
     <string name="fingerprint_dialog_touch_sensor">Atingeți senzorul de amprentă</string>
     <string name="fingerprint_enter_second_psw_msg">Introduceți parola Spațiului Secundar după repornirea telefonului pentru a putea utiliza recunoașterea amprentei</string>
-    <string name="fingerprint_enter_second_psw_msg_oldman">"Nu se poate accesa Spațiul Secundar cât timp sunteți în modul Ușor"</string>
+    <string name="fingerprint_enter_second_psw_msg_oldman">"Nu se poate accesa Spațiul Secundar cât timp sunteți în modul Simplificat"</string>
     <string name="fingerprint_enter_second_psw_title">Introduceți parola Spațiului secundar</string>
     <string name="fingerprint_not_identified_msg">Prea multe încercări nereușite. Introduceți parola acum sau încercați să folosiți amprenta în câteva secunde.</string>
     <string name="fingerprint_not_identified_msg_lock">Prea multe încercări nereușite. Introduceți parola acum.</string>
