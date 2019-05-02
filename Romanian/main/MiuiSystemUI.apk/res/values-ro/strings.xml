@@ -571,6 +571,7 @@ Dacă reactivaţi datele, puteţi fi taxat de către operator.</string>
     <string name="dlg_summary_nfc">Dezactivați NFC</string>
     <string name="dlg_summary_title">Modul extrem de economisire a acumulatorului oprește toate activitățile din fundal după ce părăsiți o aplicație și reveniți la Ecranul principal. Dacă doriți totuși ca o aplicație să ruleze în fundal, adăugați-o în lista excepțiilor.</string>
     <string name="dnd_is_off">Modul Nu Deranjați este oprit</string>
+    <string name="dnd_notification_warnings_title">Apelurile și notificările vor fi reduse la tăcere până când dezactivați modul Nu deranjați</string>
     <string name="do_disclosure_generic">Acest dispozitiv este gestionat de către organizația dumneavoastră</string>
     <string name="do_disclosure_with_name">Acest dispozitiv este gestionat de către %s</string>
     <string name="do_not_silence">"Nu redu la tăcere"</string>
@@ -1214,6 +1215,7 @@ De asemenea, sunteți conectat la o rețea VPN, care vă poate monitoriza activi
     <string name="notification_channel_controls_closed_accessibility">Controalele notificărilor pentru %1$s închise</string>
     <string name="notification_channel_controls_opened_accessibility">Controalele notificărilor pentru %1$s deschise</string>
     <string name="notification_channel_disabled">"Nu veți mai primi aceste notificări."</string>
+    <string name="notification_channel_dnd">Nu deranjați</string>
     <string name="notification_channel_general">Mesaje generale</string>
     <string name="notification_channel_location">Locație</string>
     <string name="notification_channel_screenbutton">Butoane</string>

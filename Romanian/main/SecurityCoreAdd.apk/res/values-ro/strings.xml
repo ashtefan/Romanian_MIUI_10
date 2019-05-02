@@ -93,6 +93,8 @@ pentru a le putea vedea în orice moment"</string>
     <string name="do_not_ask">"Nu întreba din nou"</string>
     <string name="dont_import">Nu acum</string>
     <string name="downloading_space">Se descarcă…</string>
+    <string name="dual_animation">Lansați animația</string>
+    <string name="dual_animation_description">Afișează animația când sunt lansate aplicațiile clonate</string>
     <string name="enable">Activați</string>
     <string name="encrypt_space_delete_dialog_click_message">"*Dacă nu trebuie să mutați date, %s"</string>
     <string name="encrypt_space_delete_dialog_click_message_action">ștergeți și creați acum Spațiul Secundar.</string>
