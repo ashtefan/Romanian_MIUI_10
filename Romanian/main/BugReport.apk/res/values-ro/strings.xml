@@ -92,6 +92,7 @@
     <string name="feedback_description">Descriere</string>
     <string name="feedback_description_bugreport_hint">În unele situații (…) telefonul meu se comportă anormal (…).</string>
     <string name="feedback_description_hint">"Descrieți problema pe care o întâmpinați"</string>
+    <string name="feedback_description_hint_suggestion">"Spuneți-ne ce ați dori să îmbunătățim la MIUI."</string>
     <string name="feedback_description_label">Descriere</string>
     <string name="feedback_description_suggest_hint">"Doresc să adăugați o funcție nouă () deoarece îmi este folositoare pentru ()."</string>
     <string name="feedback_detail_tile">Progres</string>
@@ -100,6 +101,7 @@
     <string name="feedback_history_remind_login_desc">"Conectați-vă la contul Mi pentru a vedea detaliile și progresul raportului dumneavoastră"</string>
     <string name="feedback_id">ID: %d</string>
     <string name="feedback_jira_key">Cheia JIRA: %s</string>
+    <string name="feedback_jira_key_place_holder">Se crează o Jira…</string>
     <string name="feedback_package_log_failed">"Nu s-au putut comprima rapoartele de eroare"</string>
     <string name="feedback_phone_model_label">Modelul telefonului</string>
     <string name="feedback_probability_label">Probabilitate</string>
