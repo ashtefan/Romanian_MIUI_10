@@ -9,6 +9,10 @@
         <item>Băiat</item>
         <item>Fată</item>
     </string-array>
+    <string-array name="backup_automatically_key_words">
+        <item>Faceți o copie de rezervă pentru fotografii</item>
+        <item>Sincronizați fotografiile în Mi Cloud</item>
+    </string-array>
     <string-array name="card_last_week_day">
         <item>Lunea trecută</item>
         <item>Marțea trecută</item>

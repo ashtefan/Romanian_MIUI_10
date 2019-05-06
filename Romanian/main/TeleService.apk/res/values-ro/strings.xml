@@ -883,6 +883,7 @@ Doriţi să comutaţi oricum către un nou furnizor de servicii?"</string>
     <string name="ivr_type_cu_3">China Unicom 2G</string>
     <string name="ivr_type_settings">Setări plan de date</string>
     <string name="ivr_type_settings_hint">Introduceţi codul planului de date</string>
+    <string name="jump_to_mobile_network_setting">Setări pentru rețeaua mobilă</string>
     <string name="keep_screen_on">Păstrează activ</string>
     <string name="keep_screen_on_summary">Ecranul va rămâne activ pe durata încărcării</string>
     <string name="labelCDMAMore">Setările apelului CDMA</string>
@@ -1377,6 +1378,7 @@ Cartela SIM va fi blocată după o altă încercare greşită."</string>
     <string name="selectContact">selectați o persoană din agendă</string>
     <string name="select_application">Selectați aplicația</string>
     <string name="select_automatically">Selectaţi în mod automat</string>
+    <string name="select_dds_dialog_title">Selectați cartela SIM implicită pentru date mobile</string>
     <string name="select_logd_size_dialog_title">Selectați dimensiunea jurnalelor tampon</string>
     <string name="select_logd_size_title">Dimensiunea jurnalelor tampon</string>
     <string name="select_logpersist_dialog_title">Selectați jurnalele tampon pe care doriți să le păstrați pe telefon</string>

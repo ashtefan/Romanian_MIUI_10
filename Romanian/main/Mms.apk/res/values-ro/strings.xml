@@ -175,6 +175,8 @@
     <string name="dialog_message_mx">Mesageria Mi vă permite să trimiteți mesaje altor utilizatori MIUI fără costuri. Un mesaj SMS este necesar pentru activarea Mesageriei Mi. Operatorul vă va taxa pentru acest mesaj. Trebuie să acceptați \"%1$s\" și \"%2$s\" înainte de a utiliza Mesageria Mi.</string>
     <string name="dialog_message_networking">Aplicația de Mesagerie trebuie să utilizeze Pagini Aurii pentru a putea furniza recunoașterea ID-ului expeditorului. Aplicația de Mesagerie și Pagini Aurii trebuie să se conecteze la internet și să vă acceseze locația pentru a funcționa în mod normal. Permiteți?</string>
     <string name="dialog_message_rcs">Mesageria China Mobile vă permite să trimiteți mesaje altor utilizatori ai acestei rețele din Mainland China fără costuri. Trebuie să acceptați \"%1$s\" înainte de a utiliza Mesageria China Mobile.</string>
+    <string name="dialog_sim_locked_confirm">OK</string>
+    <string name="dialog_sim_locked_message">"Cartela dvs. SIM nu este complet operațională cu acest telefon întrucât nu respecta termenii și condițiile abonamentului dvs. Dacă aveți întrebări sau aveți nevoie de mai multe informații despre această situație, vă rugăm să contactați centrul de servicii Xiaomi sau magazinul de unde ați cumpărat produsul."</string>
     <string name="dialog_title_fake_cell_detect_error">Corectare</string>
     <string name="dialog_title_mx_rcs">Mesageria Mi</string>
     <string name="dialog_title_networking">Termenii și Condițiile</string>

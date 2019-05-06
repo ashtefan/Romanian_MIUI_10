@@ -37,6 +37,7 @@ această opțiune va fi activată în mod automat în spațiul secundar."</strin
     <string name="closeSecondSpace">Eliminați Spațiul Secundar</string>
     <string name="closeSecondSpaceSummary">Eliminați Spațiul Secundar împreună cu datele conținute</string>
     <string name="closeSuccess">Dezactivat</string>
+    <string name="close_kid_space_success">S-a șters Spațiul Copilului</string>
     <string name="close_second_space">Spațiul secundar a fost șters</string>
     <string name="close_second_space_success">Spațiul Secundar a fost eliminat</string>
     <string name="closed">Oprit</string>
@@ -200,6 +201,7 @@ Le puteți de asemenea descărca separat."</string>
     <string name="install">Instalați</string>
     <string name="install_error">"Nu s-a putut instala. Încercați din nou."</string>
     <string name="invalid_qr_code">Cod QR invalid</string>
+    <string name="kid_mode_label">Spațiul Copilului</string>
     <string name="list_empty_text">Gol</string>
     <string name="list_empty_text_xspace">Instalați WeChat/QQ/Weibo, creați aplicații clonate și reîncercați.</string>
     <string name="loading">Doar o secundă…</string>

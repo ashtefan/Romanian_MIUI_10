@@ -1132,10 +1132,14 @@ Această caracteristică poate fi dezactivată din [Setări]"</string>
     <string name="checking_find_device_status">Se verifică starea serviciului Localizare dispozitiv…</string>
     <string name="checking_for_updates">Verificare actualizări…</string>
     <string name="child_mode_settings">Control parental</string>
+    <string name="choose_keyguard_clock_style">Formatul ceasului din Blocarea ecranului</string>
+    <string name="choose_keyguard_clock_summary">"Această setare nu funcționează cu temele provenite din terțe părți"</string>
     <string name="choose_profile">Selectați profilul</string>
     <string name="choose_smartcover_type">Selectați tipul husei</string>
     <string name="choose_spell_checker">Selectați corectorul ortografic</string>
     <string name="choose_timezone">Selectaţi fusul orar</string>
+    <string name="choose_unlock_face_msg">Setați o metodă de blocare a ecranului înainte de a înregistra datele faciale.</string>
+    <string name="choose_unlock_fingerprint_msg">Setați o metodă de blocare a ecranului înainte de a adăuga amprenta.</string>
     <string name="choose_voice_input_title">Selectați intrarea vocală</string>
     <string name="cleaner">Curăţare</string>
     <string name="clear_activities">Ştergeţi valorile standard</string>
@@ -2204,7 +2208,6 @@ Când activați crearea automată a copiei de rezervă, datele dispozitivului ș
     <string name="gxzw_add_fingerprint_put_finger_title">Apăsați și ridicați degetul după ce simțiți o vibrație</string>
     <string name="gxzw_add_fingerprint_title">Adăugați o amprentă</string>
     <string name="gxzw_anim_light">Neon</string>
-    <string name="gxzw_anim_metal">Metal</string>
     <string name="gxzw_anim_pulse">Puls</string>
     <string name="gxzw_anim_rhythm">Ritm</string>
     <string name="gxzw_anim_star">Lumina stelelor</string>
@@ -3534,7 +3537,7 @@ OTG se dezactivează în mod automat după 10 minute de inactivitate."</string>
     <string name="passpoint_content">%1$s credențiale</string>
     <string name="passpoint_label">Salvat prin</string>
     <string name="passwordIncorrect">Parola introdusă este incorectă</string>
-    <string name="password_entrance_title">Blocare ecran</string>
+    <string name="password_entrance_title">Setați metoda de Blocare a ecranului</string>
     <string name="password_guard">Blocare</string>
     <string name="password_turned_off_text">Parola a fost dezactivată</string>
     <string name="password_turned_on_text">Parola a fost activată</string>
@@ -4555,7 +4558,6 @@ Notă: Nu puteți utiliza amprenta pentru a debloca acest dispozitiv. Pentru mai
     <string name="settings_safetylegal_activity_unreachable">Nu aveţi o conexiune de date. Pentru a vedea aceste informaţii acum, accesaţi %s de pe orice computer conectat la internet.</string>
     <string name="settings_safetylegal_title">Informaţii privind siguranţa</string>
     <string name="settings_shortcut">Comandă rapidă pentru setări</string>
-    <string name="setup_choose_unlock_fingerprint_msg">Setați metoda de blocare a ecranului înainte de a adăuga amprenta.</string>
     <string name="setup_choose_unlock_mixed_password">Parolă</string>
     <string name="setup_choose_unlock_mixpassword_title">Setați parola</string>
     <string name="setup_choose_unlock_password">PIN</string>

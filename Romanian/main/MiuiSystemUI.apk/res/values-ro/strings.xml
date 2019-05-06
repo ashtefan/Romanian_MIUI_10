@@ -453,6 +453,9 @@ Sample Rate"</string>
     <string name="change_theme_reboot">Modificarea temei necesită o repornire a telefonului.</string>
     <string name="charge_length_format">%1$s în urmă</string>
     <string name="chooseUsbActivity">Selectaţi o aplicaţie pentru dispozitivul USB</string>
+    <string name="choose_clock_title_left_top">Aliniat la stânga</string>
+    <string name="choose_clock_title_middle">Centrat</string>
+    <string name="choose_clock_title_vertical">Vertical</string>
     <string name="choose_profile">Selectați profilul</string>
     <string name="clear_adb_keys">Revocați autorizările de depanare prin USB</string>
     <string name="clear_all_notifications_text">Goliți tot</string>
@@ -571,7 +574,7 @@ Dacă reactivaţi datele, puteţi fi taxat de către operator.</string>
     <string name="dlg_summary_nfc">Dezactivați NFC</string>
     <string name="dlg_summary_title">Modul extrem de economisire a acumulatorului oprește toate activitățile din fundal după ce părăsiți o aplicație și reveniți la Ecranul principal. Dacă doriți totuși ca o aplicație să ruleze în fundal, adăugați-o în lista excepțiilor.</string>
     <string name="dnd_is_off">Modul Nu Deranjați este oprit</string>
-    <string name="dnd_notification_warnings_title">Apelurile și notificările vor fi reduse la tăcere până când dezactivați modul Nu deranjați</string>
+    <string name="dnd_notification_warnings_title">Modul Nu deranjați este activ. Apelurile și notificările vor fi reduse la tăcere.</string>
     <string name="do_disclosure_generic">Acest dispozitiv este gestionat de către organizația dumneavoastră</string>
     <string name="do_disclosure_with_name">Acest dispozitiv este gestionat de către %s</string>
     <string name="do_not_silence">"Nu redu la tăcere"</string>
@@ -687,6 +690,13 @@ Dacă reactivaţi datele, puteţi fi taxat de către operator.</string>
     <string name="face_unlock_sc_status">Glisați în jos pe ecran pentru a deschide Camera</string>
     <string name="face_unlock_stay_away_screen">Stați la 25-40 cm de ecran</string>
     <string name="face_unlock_success">Date faciale verificate cu succes</string>
+    <string name="face_unlock_success_show_message_dialog_msg">Permiteți vizualizarea notificărilor în Blocarea ecranului.</string>
+    <string name="face_unlock_success_show_message_dialog_negative_btn">Nu, mulțumesc</string>
+    <string name="face_unlock_success_show_message_dialog_positive_btn">Permiteți</string>
+    <string name="face_unlock_success_show_message_dialog_title">Notificări în Blocarea ecranului</string>
+    <string name="face_unlock_success_show_message_msg">Afișează doar sursa notificării când telefonul este blocat și adaugă detaliile notificării după ce datele faciale sunt verificate</string>
+    <string name="face_unlock_success_show_message_title">Afișează detaliile notificării după verificarea datelor faciale</string>
+    <string name="face_unlock_success_show_message_toast">Notificările vor fi afișate în Blocarea ecranului</string>
     <string name="face_unlock_success_stay_screen_msg">Rămâneți în Blocarea ecranului după ce se verifică datele faciale. Glisați în sus pentru a accesa Ecranul principal.</string>
     <string name="face_unlock_success_stay_screen_title">Rămâneți în Blocarea ecranului după deblocare</string>
     <string name="failed_to_open_app_settings_toast">"Accesarea setărilor pentru %1$s a eșuat"</string>

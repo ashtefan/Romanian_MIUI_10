@@ -39,6 +39,7 @@
     <string name="agreement_summary">Documente legale</string>
     <string name="ai_album_open_switch_button_title">Porniți analizarea fotografiilor</string>
     <string name="ai_album_requesting_title">Algoritmul AI încă procesează fotografiile. Reveniți în scurt timp.</string>
+    <string name="ai_album_setting_key_word">Căutați fotografii</string>
     <string name="ai_album_setting_sub_title">Permiteți algoritmului AI să identifice persoane, locuri și obiecte din fotografiile dumneavoastră pentru a le putea găsi mai repede.</string>
     <string name="ai_album_setting_title">Identifică obiectele din fotografii</string>
     <string name="album_already_exists_check">Vizualizați</string>
@@ -194,6 +195,8 @@
     <string name="backuped_title">Sincronizate cu succes</string>
     <string name="backuping_title_gprs">Sincronizare utilizând datele mobile…</string>
     <string name="backuping_title_normal">Sincronizare…</string>
+    <string name="base_btn_cancel">Renunțați</string>
+    <string name="base_btn_download">Descărcați</string>
     <string name="begin_share">S-a creat albumul copilului \"%s\", partajați-l chiar acum</string>
     <string name="begin_share_toast">Creați separat un Album al Copilului înainte de a-l partaja?</string>
     <string name="blank_app_name"/>
@@ -553,6 +556,7 @@ efecte pentru fotografii"</string>
     <string name="filter_category_master">Master</string>
     <string name="filter_category_portrait">Portret</string>
     <string name="filter_category_scene">Peisaj</string>
+    <string name="filter_category_sky">Cer</string>
     <string name="filter_film_blackwhite">Alb-negru</string>
     <string name="filter_film_dew">Rouă</string>
     <string name="filter_film_fade">Decolorare</string>
@@ -595,6 +599,17 @@ efecte pentru fotografii"</string>
     <string name="filter_scene_series">Reflecții</string>
     <string name="filter_scene_vivid">Intens</string>
     <string name="filter_scene_warm">Soare</string>
+    <string name="filter_sky_cloudy">Înnorat</string>
+    <string name="filter_sky_detect_forbidden_tips">"Nu s-a putut detecta cerul"</string>
+    <string name="filter_sky_download_failed">"Nu s-a putut descărca extensia. Verificați setările de rețea și încercați din nou."</string>
+    <string name="filter_sky_download_finish">Extensie descărcată cu succes</string>
+    <string name="filter_sky_download_sdk_without_wifi_msg">"Dacă nu sunteți conectat la o rețea Wi-Fi, puteți utiliza datele mobile pentru a descărca extensia (%1$d MB) care vă permite să înlocuiți cerul din fotografiile dumneavoastră."</string>
+    <string name="filter_sky_download_sdk_without_wifi_title">Descărcați extensia</string>
+    <string name="filter_sky_dusk">Amurg</string>
+    <string name="filter_sky_glow">Strălucitor</string>
+    <string name="filter_sky_rainbow">Curcubeu</string>
+    <string name="filter_sky_sunny">Însorit</string>
+    <string name="filter_sky_sunset">Apus</string>
     <string name="finish_create_baby_album_toast">A fost creat un album pentru \"%s\" în Mi Cloud</string>
     <string name="finish_fill_baby">Creare</string>
     <string name="flash_off">Nu s-a utilizat blițul</string>
@@ -1291,6 +1306,7 @@ pentru a personaliza Galeria"</string>
     <string name="today">Astăzi</string>
     <string name="too_many_recipients">Nu puteţi adăuga mai mult de %2$s destinatari (aţi adăugat %1$s).</string>
     <string name="trash_bin">Coș de gunoi</string>
+    <string name="trash_bin_key_word">Fotografii eliminate</string>
     <string name="trash_bin_summary">Vedeți fotografiile salvate care au fost șterse recent</string>
     <string name="try_again_later">Încercați din nou mai târziu.</string>
     <string name="try_to_send">Trimiteţi</string>

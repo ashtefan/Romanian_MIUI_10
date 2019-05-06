@@ -282,6 +282,7 @@ trebuie să creați o copie de rezervă în iCloud mai întâi."</string>
     <string name="perm_read_phone_state">"Citire stare telefon"</string>
     <string name="perm_read_sms">Citire SMS-uri</string>
     <string name="perm_storage">Citire și scriere de/pe stocarea externă</string>
+    <string name="phone_title">Setări telefon</string>
     <string name="platform_chooser_item_android_mi">Telefon Xiaomi</string>
     <string name="platform_chooser_item_android_others">Alte mărci</string>
     <string name="platform_chooser_item_ios">Importați de pe un dispozitiv iOS</string>

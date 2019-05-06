@@ -222,6 +222,8 @@
     <string name="HIPS_Perm_add_voicemail_Desc">adăugare mesaje vocale</string>
     <string name="HIPS_Perm_background_start_activity">Pornire în fundal</string>
     <string name="HIPS_Perm_background_start_activity_Desc">pornire în fundal</string>
+    <string name="HIPS_Perm_deamon_notification">Notificare permanentă</string>
+    <string name="HIPS_Perm_deamon_notification_Desc">afișează notificările permanente</string>
     <string name="HIPS_Perm_get_accounts">Accesare conturi de pe telefon</string>
     <string name="HIPS_Perm_get_accounts_Desc">accesarea tuturor conturilor de pe telefon</string>
     <string name="HIPS_Perm_get_installed_apps">Obținere informații despre aplicațiile instalate</string>

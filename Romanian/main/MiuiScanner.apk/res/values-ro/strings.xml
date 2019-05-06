@@ -49,6 +49,7 @@
     <string name="business_card">Carte de vizită</string>
     <string name="business_card_result_title">Carte de vizită</string>
     <string name="business_card_title">Plasați cartea de vizită în interiorul cadrului</string>
+    <string name="business_card_with_qr_code">Plasați cartea de vizită sau codul QR în interiorul cadrului</string>
     <string name="business_copy">Copiați</string>
     <string name="business_new_contacts">Creați un contact</string>
     <string name="business_no_result">"Nu s-a putut recunoaște cartea de vizită. Încercați din nou."</string>
