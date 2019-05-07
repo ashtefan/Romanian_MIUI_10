@@ -37,10 +37,6 @@
     <plurals name="mins_ago">
         <item quantity="other">cu %1$d min în urmă</item>
     </plurals>
-    <plurals name="miot_device_camera_size">
-        <item quantity="other">%d camere inteligente</item>
-        <item quantity="one">%d cameră inteligentă</item>
-    </plurals>
     <plurals name="payment_record_dialog_delete_message">
         <item quantity="other">Ștergeți %s elemente din plată?</item>
         <item quantity="one">Ștergeți %s element din plată?</item>

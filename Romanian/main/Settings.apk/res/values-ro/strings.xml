@@ -557,6 +557,19 @@ Ultima rulare pe %2$s"</string>
     <string name="backup_pw_cancel_button_text">Anulaţi</string>
     <string name="backup_pw_set_button_text">Setaţi parola pentru copia de rezervă</string>
     <string name="backup_section_title">Creaţi şi restabiliţi copii de rezervă</string>
+    <string name="backup_set_clear_success">Parola copiei de rezervă a fost dezactivată cu succes</string>
+    <string name="backup_set_clear_title">Dezactivați parola copiei de rezervă</string>
+    <string name="backup_set_confirm">OK</string>
+    <string name="backup_set_confirm_clear">Dezactivați</string>
+    <string name="backup_set_enter_new_pw">Introduceți noua parolă a copiei de rezervă</string>
+    <string name="backup_set_enter_new_pw_again">Confirmați noua parolă a copiei de rezervă</string>
+    <string name="backup_set_enter_old_pw">Introduceți vechea parolă a copiei de rezervă</string>
+    <string name="backup_set_enter_pw_title">Introduceți parola copiei de rezervă</string>
+    <string name="backup_set_error_pw">Parola introdusă este incorectă</string>
+    <string name="backup_set_modify_title">Modificați parola copiei de rezervă</string>
+    <string name="backup_set_new_pw_title">Introduceți noua parolă a copiei de rezervă</string>
+    <string name="backup_set_null_pw">Introduceți mai întâi parola</string>
+    <string name="backup_set_pw_confirm_title">Confirmați noua parolă a copiei de rezervă</string>
     <string name="badge_title">Afișați insigna pictogramei aplicației desktop</string>
     <string name="band_mode_failed">Nereuşit</string>
     <string name="band_mode_loading">Se încarcă lista benzilor…</string>
@@ -2212,7 +2225,7 @@ Când activați crearea automată a copiei de rezervă, datele dispozitivului ș
     <string name="gxzw_anim_rhythm">Ritm</string>
     <string name="gxzw_anim_star">Lumina stelelor</string>
     <string name="gxzw_anim_title">Animație amprentă</string>
-    <string name="gxzw_aod_show_summary">Pictograma amprentei va fi afișată când ecranul este oprit. Această funcție crește consumul de energie al sistemului.</string>
+    <string name="gxzw_aod_show_summary">Ridicați telefonul sau atingeți ecranul pentru a afișa pictograma amprentei. Această funcție crește consumul de energie al sistemului.</string>
     <string name="gxzw_aod_show_tittle">Afișează pictograma amprentei când ecranul este oprit</string>
     <string name="gxzw_dialog_message">"Pentru a putea utiliza în mod normal senzorul de amprentă încorporat, nu folosiți folii de protecție. În cazul în care totuși considerați necesară o folie de protecție, alegeți una compatibilă și autorizată."</string>
     <string name="gxzw_dialog_not_show_again">"Nu arăta din nou"</string>
@@ -2428,7 +2441,6 @@ Puteți modifica acest lucru mai târziu în Setări &gt; Aplicații și notific
     <string name="keyguard_notification_status_title">Când sunt primite notificări și ecranul este oprit</string>
     <string name="keyguard_security_setting_others">Altele</string>
     <string name="keyguard_security_setting_privacy_policy">Politica de Confidențialitate</string>
-    <string name="keyguard_vertical_clock_title">Ceas vertical</string>
     <string name="keywords_accounts">cont</string>
     <string name="keywords_airplane">Avion;Mod Avion;Aeroplan;Mod Aeroplan;Zbor;Mod Zbor</string>
     <string name="keywords_all_apps">aplicații, descărcare, aplicație, sistem</string>
