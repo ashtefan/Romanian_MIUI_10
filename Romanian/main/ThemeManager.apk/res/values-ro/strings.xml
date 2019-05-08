@@ -71,6 +71,7 @@ Aplicația Teme va detecta aplicațiile pe care le utilizați și va afișa imag
     <string name="apply_theme_with_ringtones">Utilizaţi tonurile de apel incluse în teme</string>
     <string name="audio_duration_minutes_format">%1$d minute</string>
     <string name="audio_duration_seconds_format">%1$d secunde</string>
+    <string name="audition_ringtone">Redați</string>
     <string name="automatically_update_using_theme_tips">Actualizați în mod automat data viitoare</string>
     <string name="backup_theme_dialog_message">Creaţi o copie de rezervă a temei actuale?</string>
     <string name="backup_theme_dialog_ok">Copie de rezervă</string>
@@ -97,6 +98,7 @@ Aplicația Teme va detecta aplicațiile pe care le utilizați și va afișa imag
     <string name="component_title_settings_video_wallpaper">Imagini de fundal cu efecte speciale</string>
     <string name="component_title_video_wallpaper">Clipuri de fundal</string>
     <string name="component_title_wallpaper">Imagini de fundal</string>
+    <string name="count_down_tip">%ds rămas</string>
     <string name="current_using_desktop_wallpaper_text">Ecranul principal</string>
     <string name="current_using_lockscreen_wallpaper_text">Blocarea ecranului</string>
     <string name="current_version_incompatible">Incompatibilă</string>
@@ -226,6 +228,7 @@ Pentru a dezactiva această funcție, mergeți la Setări &gt; Sunete și vibra�
     <string name="item_resource_audio_optional_notification_ring">Notificări</string>
     <string name="item_resource_audio_optional_phone_ring">Sunet apel</string>
     <string name="lab">Laborator Teme</string>
+    <string name="like_list">Elemente care mi-au plăcut</string>
     <string name="live_wallpaper">Imagini de fundal live</string>
     <string name="loading">Doar o secundă…</string>
     <string name="loading_resource_detail_fail">Nu a reuşit încărcarea resursei</string>
@@ -294,6 +297,7 @@ Pentru a dezactiva această funcție, mergeți la Setări &gt; Sunete și vibra�
     <string name="online_precust_scenery">Scenariu</string>
     <string name="online_search_hint">Căutaţi resurse online</string>
     <string name="password_toggle_content_description">Comutați vizibilitatea parolei</string>
+    <string name="playing_ringtone">Se redă</string>
     <string name="pref_privacy_policy">Politica de Confidențialitate</string>
     <string name="present_local_fonts">Fonturile mele</string>
     <string name="present_local_themes">Temele mele</string>
@@ -330,7 +334,6 @@ Pentru a dezactiva această funcție, mergeți la Setări &gt; Sunete și vibra�
     <string name="resource_alarm_default">Alarmă</string>
     <string name="resource_app_name">Vedeți resursele</string>
     <string name="resource_apply">Aplicaţi</string>
-    <string name="resource_apply_trial">Încercaţi acum</string>
     <string name="resource_back">Înapoi</string>
     <string name="resource_buy">Cumpăraţi</string>
     <string name="resource_can_not_selected">%1$s nu poate fi selectat</string>
@@ -402,7 +405,6 @@ Pentru a dezactiva această funcție, mergeți la Setări &gt; Sunete și vibra�
     <string name="resource_download">Descărcaţi</string>
     <string name="resource_download_notification_title_many">%1$s teme descărcate</string>
     <string name="resource_download_notification_title_one">Temă descărcată</string>
-    <string name="resource_download_trial">Încercaţi gratuit</string>
     <string name="resource_downloaded_title">Resurse descărcate</string>
     <string name="resource_downloading">Descărcare…</string>
     <string name="resource_exchange">Valorificaţi</string>
@@ -568,8 +570,6 @@ Pentru a dezactiva această funcție, mergeți la Setări &gt; Sunete și vibra�
     <string name="theme_changed_failed_message">Aplicare eşuată</string>
     <string name="theme_changed_message">Temă aplicată</string>
     <string name="theme_changing_dialog_title">Aplicare…</string>
-    <string name="theme_comment_dialog_message">Evaluați această aplicație și spuneți-ne părerea dumneavoastră.</string>
-    <string name="theme_comment_dialog_ok">Evaluați</string>
     <string name="theme_component_title_alarm">Alarmă</string>
     <string name="theme_component_title_alarmstyle">Stil alarmă</string>
     <string name="theme_component_title_all">Temă</string>
@@ -619,7 +619,6 @@ Pentru a dezactiva această funcție, mergeți la Setări &gt; Sunete și vibra�
     <string name="theme_select_others">Răsfoiţi</string>
     <string name="theme_setting">Setări</string>
     <string name="theme_staggered_item_text">Primiți Credite Mi</string>
-    <string name="theme_to_comment">Nu e rău!</string>
     <string name="theme_user_agreement_allow">De acord</string>
     <string name="theme_user_agreement_content1">"Prin atingerea De acord, sunteți de acord cu termenii declaraţi în "</string>
     <string name="theme_user_agreement_content2">Acordul utilizatorului</string>
@@ -662,6 +661,13 @@ Pentru a dezactiva această funcție, mergeți la Setări &gt; Sunete și vibra�
     <string name="transparent_wallpaper_white_wallpaper_failed">"Nu s-a putut albi fundalul"</string>
     <string name="transparent_wallpaper_white_wallpaper_success">Culoarea fundalului este albă acum</string>
     <string name="transparent_wallpaper_white_wallpaper_tip">Imaginile de fundal transparente arată cel mai bine pe un fundal alb</string>
+    <string name="trial_count_empty">Nu mai există elemente gratuite pentru astăzi. Reveniți mâine!</string>
+    <string name="trial_count_tip">Perioada de încercare expiră în %1$s:%2$s:%3$s</string>
+    <string name="trial_for_free">Încercare gratuită</string>
+    <string name="trial_get_failed_tip">Finalizați vizionarea videoclipului pentru a obține tema.</string>
+    <string name="trial_get_success_tip">"Felicitări! Ați obținut o perioadă de încercare gratuită de 3 zile."</string>
+    <string name="trial_now">Încercați acum</string>
+    <string name="try_5_min">Încercați pentru 5 minute</string>
     <string name="uid_change_dialog_message">"Ați eliminat actualizările. Reporniți telefonul pentru a putea utiliza temele."</string>
     <string name="uid_change_dialog_ok">Am înțeles</string>
     <string name="uid_change_dialog_title">Reporniți telefonul</string>
@@ -679,6 +685,11 @@ Pentru a dezactiva această funcție, mergeți la Setări &gt; Sunete și vibra�
     <string name="using_theme_next_automatic_update">Actualizări automate</string>
     <string name="using_theme_next_automatic_update_summary">Actualizați temele descărcate în mod automat prin Wi-Fi când ecranul este blocat</string>
     <string name="using_theme_show_ad">Recomandări</string>
+    <string name="video_ad_click">Încercați acum</string>
+    <string name="video_ad_try_for_free">Încercare gratuită</string>
+    <string name="video_ad_uncomplete_tip">Finalizați vizualizarea videoclipului pentru a obține tema.</string>
+    <string name="video_ad_uncomplete_tip_cancel">Renunțați</string>
+    <string name="video_ad_uncomplete_tip_continue">Continuați vizionarea</string>
     <string name="video_audio_apply_success">Videoclip cu sunet configurat cu succes</string>
     <string name="video_data_tips_message">Utilizarea datelor mobile poate genera costuri suplimentare. Continuați oricum?</string>
     <string name="video_data_tips_title">Avertisment utilizare date</string>

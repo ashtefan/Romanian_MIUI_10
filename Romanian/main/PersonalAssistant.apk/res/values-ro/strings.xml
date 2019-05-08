@@ -34,14 +34,14 @@
     <string name="agenda_settings_credit">Arată facturile de plată</string>
     <string name="agenda_settings_elecbill">Arată facturile de electricitate și gaz</string>
     <string name="agenda_settings_loan">Arată informațiile despre ratele bancare</string>
-    <string name="alipay_cancel">Renunțați</string>
-    <string name="alipay_cancel_sel">Renunțați</string>
-    <string name="alipay_confirm_cancel">Renunțați</string>
+  <string name="alipay_cancel">Renunțați</string>
+  <string name="alipay_cancel_sel">Renunțați</string>
+  <string name="alipay_confirm_cancel">Renunțați</string>
     <string name="alipay_init">Inițializare Alipay…</string>
     <string name="alipay_init_success">Alipay a fost inițializată cu succes​</string>
-    <string name="alipay_login_cancel">Renunțați</string>
-    <string name="alipay_pre_router_cancel">Renunțați</string>
-    <string name="alipay_risk_process_cancel">Renunțați</string>
+  <string name="alipay_login_cancel">Renunțați</string>
+  <string name="alipay_pre_router_cancel">Renunțați</string>
+  <string name="alipay_risk_process_cancel">Renunțați</string>
     <string name="alipay_scan">Scaner</string>
     <string name="alipay_sdk_minute_refresh">Reîmprospătează în fiecare minut</string>
     <string name="alipay_sdk_open_alipay">Deschideți aplicația Alipay</string>
@@ -53,7 +53,7 @@
     <string name="alipay_sdk_payed_show_paycode">Vedeți codul</string>
     <string name="alipay_sdk_payed_success">Achitat cu succes</string>
     <string name="alipay_sdk_tiemout">Sesiunea a expirat. Conectați-vă din nou.</string>
-    <string name="alipay_template_month_dialog_cancel">Renunțați</string>
+  <string name="alipay_template_month_dialog_cancel">Renunțați</string>
     <string name="all_function_title">Toate scurtăturile</string>
     <string name="app_label">Asistent inteligent</string>
     <string name="app_setting">Setări Asistent inteligent</string>
@@ -598,7 +598,7 @@ Unele comenzi trimise prin SF Express de către vânzători din afara Taobao, Tm
     <string name="favorite_title_modify">Modificați</string>
     <string name="favorite_title_modify_failed">"Nu s-a putut modifica titlul"</string>
     <string name="favorite_title_modify_success">Modificat cu succes</string>
-    <string name="feedback_cancel">Renunțați</string>
+  <string name="feedback_cancel">Renunțați</string>
     <string name="flight">Zbor</string>
     <string name="flight_num">Numărul zborului</string>
     <string name="flight_num_example">De ex. RO1102</string>
@@ -779,7 +779,7 @@ Unele comenzi trimise prin SF Express de către vânzători din afara Taobao, Tm
     <string name="midrop_parent">Mi Drop</string>
     <string name="midrop_send">Trimiteți</string>
     <string name="mifare_card">Simulator card</string>
-    <string name="mini_cancel">Renunțați</string>
+  <string name="mini_cancel">Renunțați</string>
     <string name="miot_cta_dialog_title">Permiteți autorizarea</string>
     <string name="miot_del_dialog_cancel">Păstrați</string>
     <string name="miot_del_dialog_sure">Eliminați</string>
@@ -834,7 +834,7 @@ Unele comenzi trimise prin SF Express de către vânzători din afara Taobao, Tm
     <string name="monthly_report_entry_text">Vedeți raportul lunar</string>
     <string name="monthly_report_lable">Raport lunar</string>
     <string name="more_express_numbers">Mai multe numere de la curier</string>
-    <string name="msp_memo_user_cancel">操作已经Renunțați。</string>
+  <string name="msp_memo_user_cancel">操作已经Renunțați。</string>
     <string name="music">Muzică și radio</string>
     <string name="music_card_error_str">A apărut o eroare; deschideți aplicația de Muzică pentru a reda</string>
     <string name="music_open">Arată cardurile pentru muzică și radio</string>

@@ -83,7 +83,7 @@
     <string name="beauty_body_body">Subțire</string>
     <string name="beauty_body_head">Cap</string>
     <string name="beauty_body_legged">Picioare</string>
-    <string name="beauty_body_reset_tip">Efectele siluetei au fost resetate cu succes</string>
+    <string name="beauty_body_reset_tip">Efectele siluetei au fost eliminate cu succes</string>
     <string name="beauty_body_shoulder">Umeri</string>
     <string name="beauty_body_slim_count_tip">Efectele siluetei funcționează doar pentru fotografierea persoanelor</string>
     <string name="beauty_body_whole">Corp</string>
@@ -92,7 +92,7 @@
     <string name="beauty_fragment_tab_name_3d_remodeling">Remodelare</string>
     <string name="beauty_fragment_tab_name_beauty">Înfrumusețare</string>
     <string name="beauty_fragment_tab_name_makeup">Avansat</string>
-    <string name="beauty_reset_toast">Efecte de înfrumusețare eliminate cu succes</string>
+    <string name="beauty_reset_toast">Efecte de înfrumusețare resetate cu succes</string>
     <string name="beauty_tab_name_live_beauty">Înfrumusețare</string>
     <string name="beauty_tab_name_live_filter">Filtre</string>
     <string name="bokeh_use_hint">Adâncime de câmp</string>
@@ -279,10 +279,10 @@ Curățați lentila pentru un efect îmbunătățit."</string>
     <string name="live_speed_extreme_fast">Foarte rapid</string>
     <string name="live_speed_extreme_slow">Foarte încet</string>
     <string name="live_speed_fast">Rapid</string>
-    <string name="live_speed_fragment_tab_name">Viteză</string>
+    <string name="live_speed_fragment_tab_name">Înregistrează viteza</string>
     <string name="live_speed_normal">Obișnuită</string>
     <string name="live_speed_slow">Redusă</string>
-    <string name="live_sticker_fragment_tab_name">Stickere</string>
+    <string name="live_sticker_fragment_tab_name">Sticker magic TikTok</string>
     <string name="live_sticker_network_error_hint">Eroare de rețea</string>
     <string name="live_sticker_updating">Actualizare…</string>
     <string name="macro_mode">Macro</string>
@@ -760,7 +760,7 @@ Modul unghi foarte larg vine în întâmpinarea dvs. atunci când nu vă puteți
     <string name="user_agree">De acord</string>
     <string name="user_agreement2">Termenii Serviciului</string>
     <string name="user_agreement4">Politica de Confidențialitate</string>
-    <string name="user_notice_identify_summary_format">"Utilizând acest serviciu, sunteți de acord cu %1$s și %2$s Xiaomi."</string>
+    <string name="user_notice_identify_summary_format">"Utilizând acest serviciu, sunteți de acord cu %1$s și %2$s Xiaomi. Acceptați să vă conectați la internet?"</string>
     <string name="user_notice_title">Termeni și Condiții</string>
     <string name="video_camera_label">Cameră video</string>
     <string name="video_effect_entry_blackwhite">Alb-negru</string>
