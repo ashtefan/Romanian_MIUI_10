@@ -1048,6 +1048,11 @@
         <item>10 minute</item>
         <item>30 de minute</item>
     </string-array>
+    <string-array name="drip_battery_indicator_style_entries">
+        <item>Grafic</item>
+        <item>Procent (în interiorul pictogramei)</item>
+        <item>Procent (alături de pictogramă)</item>
+    </string-array>
     <string-array name="eap_method_without_sim_auth">
         <item>PEAP</item>
         <item>TLS</item>
