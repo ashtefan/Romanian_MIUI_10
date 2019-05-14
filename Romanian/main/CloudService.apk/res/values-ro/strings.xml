@@ -253,7 +253,6 @@ la contul dvs. Mi pentru a reactiva Mi Cloud."</string>
     <string name="micloud_find_device_open_fail">"Nu s-a putut activa localizarea dispozitivului"</string>
     <string name="micloud_find_device_opened">Localizarea dispozitivului este pornită</string>
     <string name="micloud_find_device_opened_content">Localizați dispozitivul accesând %s</string>
-    <string name="micloud_find_device_opened_content_url">i.mi.com</string>
     <string name="micloud_find_device_sms_alert">Este posibil să fie necesară trimiterea unui mesaj SMS pentru activarea acestui serviciu. Operatorul dvs. vă va taxa pentru acest mesaj. Atunci când schimbați cartela SIM, este posibil să fie trimis în mod automat un mesaj pentru a reactiva această funcție.</string>
     <string name="micloud_find_device_verify_button">Reactivați Localizarea dispozitivului</string>
     <string name="micloud_find_device_verify_close">Dezactivați Localizarea dispozitivului</string>
@@ -261,8 +260,6 @@ la contul dvs. Mi pentru a reactiva Mi Cloud."</string>
     <string name="micloud_find_device_verify_progress">Se reactivează Localizarea dispozitivului…</string>
     <string name="micloud_first_login_summary" />
     <string name="micloud_first_login_title" />
-    <string name="micloud_footer_international_url">mi.com/micloud</string>
-    <string name="micloud_footer_normal_url">i.mi.com</string>
     <string name="micloud_full_influence_dspt">"Toate fotografiile, videoclipurile, notele și aplicațiile vor rămâne rezervate în Cloud.
 
 În acest fel, dacă pierdeţi sau se deteriorează dispozitivul, datele dvs. vor fi în continuare în siguranță.
@@ -524,8 +521,6 @@ Această caracteristică criptează și trimite ID-ul dispozitivului dvs. pe ser
     <string name="sync_dspt_entrance_provision_network">Această aplicație trebuie să se conecteze la internet pentru a funcționa în mod normal. Sincronizarea datelor poate necesita conectarea la rețeaua de date mobile și activarea Wi-Fi.</string>
     <string name="sync_dspt_entrance_provision_skip"><u>Omiteţi acest pas</u></string>
     <string name="sync_dspt_provision">"Sincronizaţi fotografiile, contactele, notele și altele pe toate dispozitivele, sau accesați-le la "</string>
-    <string name="sync_dspt_provision2">i.mi.com</string>
-    <string name="sync_dspt_provision2_int">www.mi.com/micloud</string>
     <string name="sync_dspt_provision3">". Puteți activa sau dezactiva această funcţie oricând în Setări.
 "</string>
     <string name="sync_dspt_provision_header">Sincronizare</string>
