@@ -253,12 +253,16 @@ la contul dvs. Mi pentru a reactiva Mi Cloud."</string>
     <string name="micloud_find_device_open_fail">"Nu s-a putut activa localizarea dispozitivului"</string>
     <string name="micloud_find_device_opened">Localizarea dispozitivului este pornită</string>
     <string name="micloud_find_device_opened_content">Localizați dispozitivul accesând %s</string>
+    <string name="micloud_find_device_opened_content_url">i.mi.com</string>
+    <string name="micloud_find_device_sms_alert">Este posibil să fie necesară trimiterea unui mesaj SMS pentru activarea acestui serviciu. Operatorul dvs. vă va taxa pentru acest mesaj. Atunci când schimbați cartela SIM, este posibil să fie trimis în mod automat un mesaj pentru a reactiva această funcție.</string>
     <string name="micloud_find_device_verify_button">Reactivați Localizarea dispozitivului</string>
     <string name="micloud_find_device_verify_close">Dezactivați Localizarea dispozitivului</string>
     <string name="micloud_find_device_verify_fail">"Nu s-a putut reactiva Localizarea dispozitivului"</string>
     <string name="micloud_find_device_verify_progress">Se reactivează Localizarea dispozitivului…</string>
     <string name="micloud_first_login_summary" />
     <string name="micloud_first_login_title" />
+    <string name="micloud_footer_international_url">mi.com/micloud</string>
+    <string name="micloud_footer_normal_url">i.mi.com</string>
     <string name="micloud_full_influence_dspt">"Toate fotografiile, videoclipurile, notele și aplicațiile vor rămâne rezervate în Cloud.
 
 În acest fel, dacă pierdeţi sau se deteriorează dispozitivul, datele dvs. vor fi în continuare în siguranță.
@@ -282,8 +286,8 @@ Pentru a rezolva acest lucru, fie puteți şterge unele fișierele vechi, fie pu
     <string name="micloud_main_network_error">"Nu se poate conecta la rețea"</string>
     <string name="micloud_main_simple_last_sync_time">Ultima sincronizare： %s</string>
     <string name="micloud_main_simple_off">Sincronizarea este oprită</string>
-    <string name="micloud_main_sync_mode_summary">Sincronizați majoritatea elementelor când este conectat încărcătorul și ecranul este oprit</string>
-    <string name="micloud_main_sync_mode_title">Sincronizare cu economisirea energiei</string>
+    <string name="micloud_main_sync_mode_summary">"Elementele de mai jos vor fi sincronizate în timp real când este activată această funcție. Acest lucru poate crește consumul de energie al telefonului."</string>
+    <string name="micloud_main_sync_mode_title">Sincronizare în timp real</string>
     <string name="micloud_main_wait_charge">Încărcați complet acumulatorul pentru a relua sincronizarea</string>
     <string name="micloud_main_wait_charge_sleep">Închideți ecranul și încărcați complet acumulatorul pentru a relua sincronizarea</string>
     <string name="micloud_main_wait_wlan">Se așteaptă conectarea la Wi-Fi</string>
@@ -452,7 +456,7 @@ Această caracteristică criptează și trimite ID-ul dispozitivului dvs. pe ser
     <string name="mx_voip_dspt">Mi Voice</string>
     <string name="next">Înainte</string>
     <string name="noRemind">Nu-mi reaminti</string>
-    <string name="no_sim">Niciun card SIM detectat</string>
+    <string name="no_sim">Nicio cartelă SIM detectată</string>
     <string name="open_micloud_sync">Porniți sincronizarea cu Mi Cloud</string>
     <string name="other_settings">Alte setări</string>
     <string name="passed_synced_time_day">Sincronizat cu %dd zile în urmă</string>
@@ -520,6 +524,8 @@ Această caracteristică criptează și trimite ID-ul dispozitivului dvs. pe ser
     <string name="sync_dspt_entrance_provision_network">Această aplicație trebuie să se conecteze la internet pentru a funcționa în mod normal. Sincronizarea datelor poate necesita conectarea la rețeaua de date mobile și activarea Wi-Fi.</string>
     <string name="sync_dspt_entrance_provision_skip"><u>Omiteţi acest pas</u></string>
     <string name="sync_dspt_provision">"Sincronizaţi fotografiile, contactele, notele și altele pe toate dispozitivele, sau accesați-le la "</string>
+    <string name="sync_dspt_provision2">i.mi.com</string>
+    <string name="sync_dspt_provision2_int">www.mi.com/micloud</string>
     <string name="sync_dspt_provision3">". Puteți activa sau dezactiva această funcţie oricând în Setări.
 "</string>
     <string name="sync_dspt_provision_header">Sincronizare</string>
@@ -552,6 +558,8 @@ Această caracteristică criptează și trimite ID-ul dispozitivului dvs. pe ser
     <string name="upgrade_space_successful_total">%s GB disponibili</string>
     <string name="upgrade_space_tb">TB</string>
     <string name="user_agreement">Acordul de utilizare</string>
+    <string name="user_agreement_content">"Utilizând acest serviciu, sunteți de acord cu %s."</string>
+    <string name="user_agreement_link">"Termenii Serviciului Mi Cloud"</string>
     <string name="user_agreement_p5">"
 "</string>
     <string name="user_agreement_p6">"Prin utilizarea acestui serviciu, sunteţi de acord cu "</string>

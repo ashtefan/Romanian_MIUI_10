@@ -280,8 +280,6 @@
     <string name="data_monitor_dialog_message">Se pare că ceva vă crește traficul de date mobile. Deschideți pagina de pornire pentru a opri acest lucru.</string>
     <string name="data_traffic_continue">Continuați</string>
     <string name="data_traffic_download_cancel">Renunțați</string>
-    <string name="data_traffic_download_confirm">Se utilizează conexiunea de date mobile</string>
-    <string name="data_traffic_download_ok">Ok</string>
     <string name="data_traffic_download_prompt">Videoclipul curent poate fi descărcat doar prin Wi-Fi</string>
     <string name="data_traffic_download_setting">Setări</string>
     <string name="data_traffic_goto">Trafic liber de date</string>

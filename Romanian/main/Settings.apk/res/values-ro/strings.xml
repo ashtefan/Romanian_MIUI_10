@@ -1145,6 +1145,7 @@ Această caracteristică poate fi dezactivată din [Setări]"</string>
     <string name="checking_find_device_status">Se verifică starea serviciului Localizare dispozitiv…</string>
     <string name="checking_for_updates">Verificare actualizări…</string>
     <string name="child_mode_settings">Control parental</string>
+    <string name="choose_a_card_to_reset">Selectați cartela SIM pe care doriți să o resetați</string>
     <string name="choose_keyguard_clock_style">Formatul ceasului din Blocarea ecranului</string>
     <string name="choose_keyguard_clock_summary">"Această setare nu funcționează cu temele provenite din terțe părți"</string>
     <string name="choose_profile">Selectați profilul</string>
@@ -1534,6 +1535,7 @@ Această setare afectează toți utilizatorii telefonului."</string>
     <string name="default_spell_checker">Corectorul ortografic implicit</string>
     <string name="default_theme">Implicită</string>
     <string name="default_usb_mode">Conexiune USB</string>
+    <string name="default_vol_stream_title">Control volum implicit flux</string>
     <string name="delete">Ştergeţi</string>
     <string name="delete_fingerprint_confirm_msg">Eliminați amprenta?</string>
     <string name="delete_fingerprint_text">Eliminați amprenta</string>
@@ -1606,9 +1608,9 @@ Această setare afectează toți utilizatorii telefonului."</string>
     <string name="device_name_input_hint">Introduceţi numele dispozitivului dvs.</string>
     <string name="device_name_input_overlength">Ați depășit limita de caractere</string>
     <string name="device_name_usage_point">Alte dispozitive din apropiere pot vedea acest nume</string>
-    <string name="device_picker">Selector de dispozitive Bluetooth</string>
+    <string name="device_picker">Selectați dispozitivul Bluetooth</string>
     <string name="device_rear_camera">Camera posterioară</string>
-    <string name="device_reset_title">Resetați dispozitivul</string>
+    <string name="device_screen_consumption">Consum ecran</string>
     <string name="device_screen_resolution">Rezoluția ecranului</string>
     <string name="device_screen_size">Mărimea ecranului</string>
     <string name="device_screen_usage">Utilizare ecran de la încărcarea completă</string>
@@ -1663,7 +1665,7 @@ Această setare afectează toți utilizatorii telefonului."</string>
     <string name="display_auto_rotate_stay_in_landscape">Blochează la modul peisaj</string>
     <string name="display_auto_rotate_stay_in_portrait">Blochează la modul portret</string>
     <string name="display_auto_rotate_title">Rotire conținut ecran</string>
-    <string name="display_font_size_label">Dimensiunea fontului:</string>
+    <string name="display_category_title">Afișaj</string>
     <string name="display_dashboard_summary">Imagine de fundal, închidere, dimensiune font</string>
     <string name="display_label">Ecran</string>
     <string name="display_order_text">Sortaţi după:</string>
@@ -1697,6 +1699,7 @@ Această setare afectează toți utilizatorii telefonului."</string>
     <string name="dndm_auto_button_title">Perioadă repetare Nu deranjați</string>
     <string name="dndm_auto_setting_group">Grafic</string>
     <string name="dndm_auto_time_setting">Setaţi perioada</string>
+    <string name="dndm_auto_time_setting_summary">%1$s-%2$s</string>
     <string name="dndm_auto_time_turn_off">Până la</string>
     <string name="dndm_auto_time_turn_off_title">Dezactivare automată</string>
     <string name="dndm_auto_time_turn_on">De la</string>
@@ -2260,12 +2263,12 @@ Când activați crearea automată a copiei de rezervă, datele dispozitivului ș
     <string name="header_account_settings">Setări cont</string>
     <string name="header_add_an_account">Adăugaţi un cont</string>
     <string name="header_application_sync_settings">Setări privind sincronizarea aplicaţiei</string>
-    <string name="header_category_access">ACCES</string>
-    <string name="header_category_accounts">CONTURI</string>
-    <string name="header_category_connections">CONEXIUNI</string>
-    <string name="header_category_device">DISPOZITIV</string>
-    <string name="header_category_personal">PERSONAL</string>
-    <string name="header_category_system">SISTEM</string>
+    <string name="header_category_access">Acces</string>
+    <string name="header_category_accounts">Conturi</string>
+    <string name="header_category_connections">Conexiuni</string>
+    <string name="header_category_device">Dispozitiv</string>
+    <string name="header_category_personal">Personal</string>
+    <string name="header_category_system">Sistem</string>
     <string name="header_category_wireless_networks">Wireless și rețele</string>
     <string name="header_data_and_synchronization">Datele şi sincronizarea</string>
     <string name="heavy_weight_stop_description">Această aplicaţie nu poate fi oprită în siguranţă. Oprirea aplicaţiei ar putea duce la pierderea datelor curente.</string>
@@ -2866,7 +2869,7 @@ Sunt alți utilizatori pe acest dispozitiv.
     <string name="max_cpu10_info">"Deca-core Max "</string>
     <string name="max_cpu2_info">Dual-core Max</string>
     <string name="max_cpu4_info">"Quad-core Max "</string>
-    <string name="max_cpu6_info">Hexa-core Max</string>
+    <string name="max_cpu6_info">"Hexa-core Max "</string>
     <string name="max_cpu8_info">"Octa-core Max "</string>
     <string name="max_fingerprint_number_reached">"Nu se pot adăuga mai mult de 5 amprente. Pentru a putea adăuga o nouă amprentă va trebui să eliminați una sau mai multe amprente existente."</string>
     <string name="maximum_memory_use">Utilizare maximă a memoriei</string>
@@ -3102,7 +3105,7 @@ Selectaţi sistemul de operare de mai jos:"</string>
     <string name="music_audio_effect_settings">Setări efecte</string>
     <string name="music_dirac_control">Optimizare calitate audio</string>
     <string name="music_dirac_mode_cancelling">Reducere zgomot Mi (3.5mm)</string>
-  <string name="music_dirac_mode_capsule">Mi Capsule</string>
+    <string name="music_dirac_mode_capsule">Mi Capsule</string>
     <string name="music_dirac_mode_earbuds">Mi Earbuds</string>
     <string name="music_dirac_mode_general">General</string>
     <string name="music_dirac_mode_general_earbuds">General</string>
@@ -3230,7 +3233,7 @@ Selectaţi sistemul de operare de mai jos:"</string>
     <string name="nfc_how_it_works_got_it">Am înțeles</string>
     <string name="nfc_how_it_works_title">Plată la terminal</string>
     <string name="nfc_more_title">Mai multe...</string>
-    <string name="nfc_payment_default">Plată implicit</string>
+    <string name="nfc_payment_default">Implicit plată</string>
     <string name="nfc_payment_default_not_set">Nesetat</string>
     <string name="nfc_payment_favor_default">Întotdeauna</string>
     <string name="nfc_payment_favor_open">Cu excepția cazului în care o altă aplicație de plată este deschisă</string>
@@ -3972,6 +3975,7 @@ Interfață UT: %5$s"</string>
 "&lt;li&gt; Aplicaţii prestabilite pentru acţiuni&lt;/li&gt;"
 "&lt;li&gt; Restricţii privind datele de fundal pentru aplicaţii&lt;/li&gt;"
 "&lt;li&gt; Orice restricţii pentru permisiuni&lt;/li&gt;"
+
  Nu veţi pierde nimic din datele aplicaţiilor."</string>
     <string name="reset_app_preferences_title">Resetaţi preferințele aplicațiilor?</string>
     <string name="reset_dashboard_title">Resetați</string>
@@ -4245,6 +4249,7 @@ Pentru a utiliza fixarea ecranului:
     <string name="search_accessibility_screen_magnification_title">Gesturi pentru magnificare;Magnificare</string>
     <string name="search_accessibility_settings">Accesibilitate</string>
     <string name="search_account_list">Alte conturi;Cont;Conturi</string>
+    <string name="search_add_facerecoginition_text">Deblocare facială;Recunoaștere chip</string>
     <string name="search_advanced_settings">Setări avansate;Wi-Fi;Setări Wi-Fi;Setări WLAN</string>
     <string name="search_airplane_mode">Mod avion;mod aeroplan;mod Zbor;Avion;Aeroplan;Zbor</string>
     <string name="search_alarm_sound_title">Sunet alarmă;ton de alarmă;alarmă</string>
@@ -4311,6 +4316,7 @@ Pentru a utiliza fixarea ecranului:
     <string name="search_lock_settings">Blocare ecran și parolă;Deblocare Bluetooth;parolă;Deblocați cu un dispozitiv Bluetooth</string>
     <string name="search_lock_sounds_enable_title">Sunet blocare ecran</string>
     <string name="search_manage_device_admin">Administratori dispozitiv</string>
+    <string name="search_manage_facerecoginition_text">Deblocare facială;Recunoaștere chip</string>
     <string name="search_manage_notification_access_title">Acces la notificări</string>
     <string name="search_master_clear_title">Resetare la configurarea din fabrică</string>
     <string name="search_menu">Căutare</string>
@@ -4712,12 +4718,12 @@ Codul PIN poate fi incorect."</string>
     <string name="simulate_color_space">Simulați spațiul de culori</string>
     <string name="single_key_use">Buton unic</string>
     <string name="single_key_use_summary">Utilizați butonul Acasă pentru funcțiile celorlalte 2 butoane</string>
-    <string name="size_byte">B</string>
-    <string name="size_giga_byte">GB</string>
-    <string name="size_kilo_byte">KB</string>
-    <string name="size_mega_byte">MB</string>
-    <string name="size_peta_byte">PB</string>
-    <string name="size_tera_byte">TB</string>
+    <string name="size_byte"> B</string>
+    <string name="size_giga_byte"> GB</string>
+    <string name="size_kilo_byte"> KB</string>
+    <string name="size_mega_byte"> MB</string>
+    <string name="size_peta_byte"> PB</string>
+    <string name="size_tera_byte"> TB</string>
     <string name="skip_anyway_button_label">Omiteți oricum</string>
     <string name="skip_label">Omiteţi</string>
     <string name="skip_lock_screen_confirm_msg">"Notificările, controalele playerului muzical și scurtăturile nu vor fi afișate în Blocarea ecranului."</string>
@@ -4792,6 +4798,7 @@ Acest lucru este posibil datorită unui certificat de încredere instalat pe dis
     <string name="status_bar_carrier_settings_no_sim_card">Nicio cartelă SIM</string>
     <string name="status_bar_settings">Panoul notificărilor și bara de stare</string>
     <string name="status_bar_settings_all_app_display_loading">Doar o secundă…</string>
+    <string name="status_bar_settings_carrier_sim">"SIM %1$s: "</string>
     <string name="status_bar_settings_expand_top_notification">Extindeți notificarea din partea superioară</string>
     <string name="status_bar_settings_manage_notification">Notificările aplicaţiilor</string>
     <string name="status_bar_settings_notification_bar">Panou notificări</string>
@@ -6160,7 +6167,7 @@ puteţi utiliza, de asemenea, reţelele altor utilizatori"</string>
     <string name="wifi_tether_checkbox_text">Hotspot portabil</string>
     <string name="wifi_tether_configure_ap_text">Configuraţi hotspotul portabil</string>
     <string name="wifi_tether_configure_ssid_default">Hotspot Android</string>
-    <string name="wifi_tether_configure_subtext">%1$s %2$s portabil</string>
+    <string name="wifi_tether_configure_subtext">%1$s portabil %2$s</string>
     <string name="wifi_tether_enabled_subtext">%1$s este activă</string>
     <string name="wifi_tether_enabled_summary">%1$s este activă</string>
     <string name="wifi_tether_failed_subtext">Eroare de hotspot portabil</string>
