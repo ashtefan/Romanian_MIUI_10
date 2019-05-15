@@ -893,7 +893,6 @@ Utilizați doar încărcătorul furnizat de producător."</string>
     <string name="keyguard_charging_normal_and_level_tip">Încărcare %d%%</string>
     <string name="keyguard_charging_quick_and_level_tip">Încărcare rapidă %d%%</string>
     <string name="keyguard_charging_super_quick_and_level_tip">Se încarcă rapid %d%%</string>
-    <string name="keyguard_fancy_colon"></string>
     <string name="keyguard_indication_charging_time">Se încarcă (%s până la încărcarea completă)</string>
     <string name="keyguard_indication_charging_time_fast">Se încarcă rapid(%s până la încărcarea completă)</string>
     <string name="keyguard_indication_charging_time_slowly">Se încarcă lent(%s până la încărcarea completă)</string>
