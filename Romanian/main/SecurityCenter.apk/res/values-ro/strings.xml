@@ -1792,8 +1792,7 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="privacy_apps_manage_dialog_title">Despre aplicațiile ascunse</string>
     <string name="privacy_apps_manager_dialog_message">"Pictograma acestei aplicații nu va mai fi afișată pe Ecranul principal după ce o veți ascunde. Ascundeți această aplicație acum?"</string>
     <string name="privacy_apps_tutorial">Tutorial</string>
-    <string name="privacy_apps_tutorial_prompt_pageone">"Atunci când ascundeți o aplicație, aceasta este mutată într-un dosar ascuns. Scurtătura acesteia de pe Ecranul principal va fi de asemenea ascunsă.
-Această funcție nu este disponibilă pentru aplicațiile de sistem."</string>
+    <string name="privacy_apps_tutorial_prompt_pageone">Această caracteristică vă permite să ascundeți pictogramele aplicațiilor astfel încât să nu mai apară pe Ecranul principal.</string>
     <string name="privacy_apps_tutorial_prompt_pagethree">După ce introduceți parola, dosarul ce conține aplicațiile ascunse va fi afișat.</string>
     <string name="privacy_apps_tutorial_prompt_pagetwo">"Glisați cu două degete pe ecran. Veți vedea un mesaj care vă cere să introduceți parola pentru Blocarea aplicațiilor."</string>
     <string name="privacy_declare_dialog_title">Condiții de utilizare</string>

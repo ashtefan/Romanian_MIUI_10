@@ -204,7 +204,6 @@
     <string name="checking_now">Se verifică...</string>
     <string name="choosertitle_sharevia">Distribuiţi prin</string>
     <string name="clear_history">Ştergeţi istoricul</string>
-    <string name="clear_most_visited">Istoric recent</string>
     <string name="clear_search_history">Ştergeţi istoricul</string>
     <string name="clear_video_download">Eliminați videoclipurile</string>
     <string name="clip_dialog_title">Deschideţi URL-ul copiat?</string>
@@ -331,6 +330,8 @@ Vă rugăm să comunicați acest cod tehnicianului."</string>
     <string name="document_open_message">Pentru a îmbunătăți experiența de citire și a vă asigura securitatea, utilizați aplicația personalizată WPS</string>
     <string name="document_open_other">Alte aplicații</string>
     <string name="document_open_title">Deschideți cu</string>
+    <string name="document_open_txt_message">Pentru a îmbunătăți experiența de citire și a vă asigura securitatea, utilizați aplicația Bookshelf</string>
+    <string name="document_open_txt_start_read">Începeți să citiți</string>
     <string name="dont_remind_again">Se memorează această alegere</string>
     <string name="download_btn_select_all">Selectați tot</string>
     <string name="download_btn_select_none">Deselectați tot</string>
