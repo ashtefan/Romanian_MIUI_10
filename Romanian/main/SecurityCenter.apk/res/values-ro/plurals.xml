@@ -363,6 +363,10 @@ Dacă activați din nou datele mobile, operatorul vă poate taxa pentru trafic s
         <item quantity="other">Verificat %d zile la rând</item>
         <item quantity="one">Verificat %d dată</item>
     </plurals>
+    <plurals name="function_shield_num">
+        <item quantity="other">%d caracteristici</item>
+        <item quantity="one">%d caracteristică</item>
+    </plurals>
     <plurals name="hide_txt_hint_with_blank_2">
         <item quantity="other">    încă +%1$d caractere</item>
         <item quantity="one">    încă +%1$d caracter</item>

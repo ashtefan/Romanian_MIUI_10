@@ -48,7 +48,7 @@
     <string name="accessibility_action_divider_top_50">Sus 50%</string>
     <string name="accessibility_action_divider_top_70">Sus 70%</string>
     <string name="accessibility_action_divider_top_full">Ecran complet sus</string>
-    <string name="accessibility_airplane_mode">Mod Avion</string>
+    <string name="accessibility_airplane_mode">Mod Avion.</string>
     <string name="accessibility_ambient_display_charging">Se încarcă</string>
     <string name="accessibility_aspect_button">Mod Ecran complet</string>
     <string name="accessibility_assistant">Asistent ecran</string>
@@ -332,8 +332,11 @@
     <string name="battery_low_title">Conectaţi încărcătorul</string>
     <string name="battery_low_title_power_save">Economisirea acumulatorului</string>
     <string name="battery_low_why">Setări</string>
+  <string name="battery_meter_bg_path">M23 13l38 0c8.284271 0 15 6.715729 15 15 0 8.284271 -6.715729 15 -15 15L23 43C14.715729 43 8 36.284271 8 28 8 19.715729 14.715729 13 23 13Zm0 3c-6.627417 0 -12 5.372583 -12 12 0 6.627417 5.372583 12 12 12l38 0C67.627417 40 73 34.627417 73 28 73 21.372583 67.627417 16 61 16l-38 0z</string>
   <string name="battery_meter_charging_mask">M44.98169 12.995727L27.492101 31.243375c-0.382155 0.398719 -0.368727 1.031741 0.02999 1.413896 0.184016 0.17637 0.428434 0.275817 0.683313 0.278019l8.295572 0.07167 -3.523194 10.060547 7.10315 0 17.347191 -18.375047c0.379131 -0.401595 0.36092 -1.034498 -0.04068 -1.413628 -0.185614 -0.175232 -0.431214 -0.272849 -0.686477 -0.272849l-8.119673 0 3.481811 -10.010254 -7.08142 0z</string>
+  <string name="battery_meter_charging_path">M40.571 30.474L40.329 30 33 30 49 13 44.428 25.526 44.671 26 52 26 36 43Z</string>
   <string name="battery_meter_progress_mask">M2.5638852 0C1.6723665 0 1.3490802 0.09282561 1.0231543 0.2671327 0.69722837 0.4414398 0.4414398 0.69722837 0.2671327 1.0231543 0.09282561 1.3490802 0 1.6723665 0 2.5638852L0 0 2.5638852 0Zm0 18L0 18 0 15.436115c0 0.891518 0.09282561 1.214805 0.2671327 1.540731 0.1743071 0.325926 0.43009567 0.581714 0.7560216 0.756021C1.3490802 17.907174 1.6723665 18 2.5638852 18Z</string>
+  <string name="battery_meter_progress_path">M9 0l38 0c4.986 0 9 4.014 9 9 0 4.986 -4.014 9 -9 9L9 18C4.014 18 0 13.986 0 9 0 4.014 4.014 0 9 0Z</string>
     <string name="battery_meter_very_low_overlay_symbol">!</string>
     <string name="battery_panel_title">Utilizarea acumulatorului</string>
     <string name="battery_profiles">Utilizaţi profiluri pentru acumulator</string>
@@ -401,21 +404,21 @@
     <string name="bluetooth_profile_sap">Utilizat pentru accesul la cartela SIM</string>
     <string name="bluetooth_sap_profile_summary_connected">Conectat la SAP</string>
     <string name="bluetooth_sap_profile_summary_use_for">Utilizat pentru accesul la cartela SIM</string>
-    <string name="bluetooth_select_a2dp_codec_bits_per_sample">Bluetooth Audio Bits Per Sample</string>
+    <string name="bluetooth_select_a2dp_codec_bits_per_sample">Biți per eșantion Bluetooth Audio</string>
     <string name="bluetooth_select_a2dp_codec_bits_per_sample_dialog_title">"Selectați codecul Bluetooth Audio:
 Biți per eșantion"</string>
-    <string name="bluetooth_select_a2dp_codec_channel_mode">Mod canal Bluetooth</string>
-    <string name="bluetooth_select_a2dp_codec_channel_mode_dialog_title">"Selectați codecul Bluetooth Audio:
+    <string name="bluetooth_select_a2dp_codec_channel_mode">Mod canal Bluetooth audio</string>
+    <string name="bluetooth_select_a2dp_codec_channel_mode_dialog_title">"Selectați codecul Bluetooth audio:
 Mod canal"</string>
-    <string name="bluetooth_select_a2dp_codec_ldac_playback_quality">Codec Bluetooth Audio LDAC: Calitate redare</string>
-    <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">"Selectați codecul Bluetooth Audio LDAC:
+    <string name="bluetooth_select_a2dp_codec_ldac_playback_quality">Codec Bluetooth audio LDAC: Calitate redare</string>
+    <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">"Selectați codecul Bluetooth audio LDAC:
 Calitate redare"</string>
-  <string name="bluetooth_select_a2dp_codec_sample_rate">Bluetooth Audio Sample Rate</string>
-    <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">"Selectați codecul Bluetooth Audio:
-Sample Rate"</string>
+  <string name="bluetooth_select_a2dp_codec_sample_rate">Rata eșantionului Bluetooth audio</string>
+    <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">"Selectați codecul Bluetooth audio:
+Rată eșantion"</string>
     <string name="bluetooth_select_a2dp_codec_streaming_label">Redare online: %1$s</string>
-    <string name="bluetooth_select_a2dp_codec_type">Codec Bluetooth Audio</string>
-    <string name="bluetooth_select_a2dp_codec_type_dialog_title">Selectați codecul Bluetooth Audio</string>
+    <string name="bluetooth_select_a2dp_codec_type">Codec Bluetooth audio</string>
+    <string name="bluetooth_select_a2dp_codec_type_dialog_title">Selectați codecul Bluetooth audio</string>
     <string name="bluetooth_select_avrcp_version_dialog_title">Selectați versiunea Bluetooth AVRCP</string>
     <string name="bluetooth_select_avrcp_version_string">Versiunea Bluetooth AVRCP</string>
     <string name="bluetooth_tethered">Conectat prin tethering Bluetooth</string>
@@ -425,7 +428,7 @@ Sample Rate"</string>
     <string name="bt_hci_snoop_log">Activați Bluetooth HCI snoop log</string>
     <string name="bt_hci_snoop_log_summary">Captează toate pachetele bluetooth HCI într-un fișier</string>
     <string name="bt_is_off">Bluetooth-ul este oprit</string>
-  <string name="btn_camera">Enter your face</string>
+    <string name="btn_camera">Arătați-vă chipul</string>
     <string name="bugreport_in_power">Scurtătură raportare erori</string>
     <string name="bugreport_in_power_summary">Afișează un buton în meniul de Pornire pentru extragerea unui raport cu erori</string>
     <string name="button_convert_fbe">Ștergeți și convertiți…</string>
@@ -496,17 +499,17 @@ Sample Rate"</string>
     <string name="daltonizer_mode_tritanomaly">Tritanomalie (albastru-galben)</string>
     <string name="daltonizer_type_overridden">Suprascris de către %1$s</string>
     <string name="data_connection_5g">5G</string>
-    <string name="data_connection_5g_basic">5GBasic</string>
-    <string name="data_connection_5g_sa">5GSA</string>
-    <string name="data_connection_5g_uwb">5GUWB</string>
+    <string name="data_connection_5g_basic">5G Basic</string>
+    <string name="data_connection_5g_sa">5G SA</string>
+    <string name="data_connection_5g_uwb">5G UWB</string>
     <string name="data_connection_no_internet">Neconectat la internet</string>
     <string name="data_saver">Economisire date</string>
     <string name="data_saver_description">"Pentru a ajuta la reducerea utilizării datelor, Economisirea datelor previne trimiterea sau primirea datelor în fundal pentru unele aplicații. O aplicație pe care o utilizați în prezent poate accesa datele, dar o va face mai rar. Acest lucru poate însemna, de exemplu, că imaginile nu vor fi afișate decât atunci când le veți atinge."</string>
     <string name="data_saver_enable_button">Activați</string>
     <string name="data_saver_enable_title">Activați Economisirea datelor?</string>
-    <string name="data_usage_disabled_dialog">Aţi atins limita specificată pentru utilizarea datelor.
+    <string name="data_usage_disabled_dialog">"Aţi atins limita specificată pentru utilizarea datelor.
     
-Dacă reactivaţi datele, puteţi fi taxat de către operator.</string>
+Dacă reactivaţi datele, puteţi fi taxat de către operator."</string>
     <string name="data_usage_disabled_dialog_3g_title">Datele 2G-3G au fost dezactivate</string>
     <string name="data_usage_disabled_dialog_4g_title">Datele 4G au fost dezactivate</string>
     <string name="data_usage_disabled_dialog_enable">Reactivaţi datele</string>
@@ -689,7 +692,6 @@ Dacă reactivaţi datele, puteţi fi taxat de către operator.</string>
     <string name="face_unlock_rotated_right">Mișcați capul către stânga</string>
     <string name="face_unlock_sc_status">Glisați în jos pe ecran pentru a deschide Camera</string>
     <string name="face_unlock_stay_away_screen">Stați la 25-40 cm de ecran</string>
-    <string name="face_unlock_success">Date faciale verificate cu succes</string>
     <string name="face_unlock_success_show_message_dialog_msg">Permiteți vizualizarea notificărilor în Blocarea ecranului.</string>
     <string name="face_unlock_success_show_message_dialog_negative_btn">Nu, mulțumesc</string>
     <string name="face_unlock_success_show_message_dialog_positive_btn">Permiteți</string>
@@ -877,7 +879,6 @@ Utilizați doar încărcătorul furnizat de producător."</string>
     <string name="keyguard_charged">Încărcat</string>
     <string name="keyguard_charging_back_to_lockscreen">Înapoi la Blocarea ecranului</string>
     <string name="keyguard_charging_info_battery_used_time_text">Pe acumulator</string>
-    <string name="keyguard_charging_info_click_to_detail">Vedeți detaliile</string>
     <string name="keyguard_charging_info_drained_power_percent_text">Descărcat</string>
     <string name="keyguard_charging_info_last_charge_time">d/M H:mm</string>
     <string name="keyguard_charging_info_last_charge_today_time">Astăzi %s</string>
@@ -889,6 +890,10 @@ Utilizați doar încărcătorul furnizat de producător."</string>
     <string name="keyguard_charging_info_tip_text4">"Nu utilizați intens telefonul pe durata încărcării pentru a evita supraîncălzirea."</string>
     <string name="keyguard_charging_info_tip_text5">Acumulatorii se încarcă mai greu când temperatura acestora crește mai mult decât în mod obișnuit.</string>
     <string name="keyguard_charging_info_tip_text6">Închideți ecranul și lăsați telefonul deoparte pentru a se răci.</string>
+    <string name="keyguard_charging_normal_and_level_tip">Încărcare %d%%</string>
+    <string name="keyguard_charging_quick_and_level_tip">Încărcare rapidă %d%%</string>
+    <string name="keyguard_charging_super_quick_and_level_tip">Se încarcă rapid %d%%</string>
+    <string name="keyguard_fancy_colon"></string>
     <string name="keyguard_indication_charging_time">Se încarcă (%s până la încărcarea completă)</string>
     <string name="keyguard_indication_charging_time_fast">Se încarcă rapid(%s până la încărcarea completă)</string>
     <string name="keyguard_indication_charging_time_slowly">Se încarcă lent(%s până la încărcarea completă)</string>
@@ -1056,9 +1061,10 @@ d MMMM"</string>
     <string name="lock_screen_magazine_default_content">Porția zilnică de imagini noi</string>
     <string name="lock_screen_magazine_default_title">Carusel de imagini de fundal</string>
     <string name="lock_screen_magazine_global_button_text">Mai multe</string>
+    <string name="lock_screen_magazine_preview_fullscreen_bottom_button_global_text">Mai multe</string>
+    <string name="lock_screen_magazine_preview_fullscreen_bottom_button_text">Introduceți</string>
     <string name="lock_screen_no_sim_card_emergency_only">Doar apeluri de urgență</string>
     <string name="lock_screen_no_sim_card_no_service">Fără serviciu</string>
-    <string name="lock_wallpaper_enter">Introduceți</string>
     <string name="lockscreen_access_pattern_area">Zonă model.</string>
     <string name="lockscreen_access_pattern_cell_added">Celulă adăugată</string>
     <string name="lockscreen_access_pattern_cell_added_verbose">Celula %1$s a fost adăugată</string>
@@ -1076,7 +1082,6 @@ d MMMM"</string>
     <string name="lockscreen_shortcut_left">Scurtătura din stânga</string>
     <string name="lockscreen_shortcut_right">Scurtătura din dreapta</string>
     <string name="lockscreen_sim_error_message_short">Cartela SIM nu este validă.</string>
-    <string name="lockscreen_storage_locked">Deblocați pentru toate caracterisiticile și datele</string>
     <string name="lockscreen_unlock_left">Scurtătura din stânga deblochează de asemenea</string>
     <string name="lockscreen_unlock_right">Scurtătura din dreapta deblochează de asemenea</string>
     <string name="long_screenshot_not_support_msg">"Aplicația curentă nu suportă captura de ecran extinsă"</string>
@@ -1288,7 +1293,6 @@ De asemenea, sunteți conectat la o rețea VPN, care vă poate monitoriza activi
     <string name="open_extreme_power_save_mode_title">Activați modul Extrem de economisire a acumulatorului</string>
     <string name="open_lock_screen_magazine_hint_text">Glisați spre dreapta pentru mai multe opțiuni</string>
     <string name="open_remote_center_hint_text">Glisați spre dreapta pentru a accesa scurtăturile</string>
-    <string name="orb_search_action">Căutați o Acțiune</string>
     <string name="other">Altele</string>
     <string name="overlay_display_devices_title">Simulare ecrane secundare</string>
     <string name="overview">Privire generală</string>
@@ -1325,10 +1329,8 @@ De asemenea, sunteți conectat la o rețea VPN, care vă poate monitoriza activi
     <string name="pointer_location">Localizare indicator</string>
     <string name="pointer_location_summary">Afișează atingerile ecranului</string>
     <string name="power_charging_duration">%1$s - %2$s până la încărcarea completă</string>
-    <string name="power_charging_duration_ac">%1$s - %2$s până la încărcarea completă la CA</string>
-    <string name="power_charging_duration_usb">%1$s - %2$s până la încărcarea completă prin USB</string>
-    <string name="power_charging_duration_wireless">%1$s - %2$s până la încărcarea completă fără fir</string>
     <string name="power_discharging_duration">%1$s - aprox. %2$s rămas</string>
+    <string name="power_discharging_duration_short">%1$s - %2$s rămas</string>
     <string name="power_notification_controls_description">"Cu ajutorul controlului notificărilor, puteți seta un nivel de importanță pe o scară de la 0 la 5 pentru notificările unei aplicații. 
 
 "&lt;b&gt;Nivelul 5&lt;/b&gt;" 
@@ -1352,7 +1354,7 @@ De asemenea, sunteți conectat la o rețea VPN, care vă poate monitoriza activi
 "&lt;b&gt;Nivelul 1&lt;/b&gt;" 
 - Se previne intreruperea modului Ecran complet 
 - Nu le vedeți niciodată 
-- NNu sunteți avertizat sonor sau prin vibrații 
+- Nu sunteți avertizat sonor sau prin vibrații 
 - Sunt ascunse din Blocarea ecranului și din bara de stare 
 - Se afișează în partea de jos a listei de notificări 
 

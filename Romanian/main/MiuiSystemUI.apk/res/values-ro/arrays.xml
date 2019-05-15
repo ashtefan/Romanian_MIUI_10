@@ -45,16 +45,16 @@
         <item>Stereo</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
-        <item>Optimizat pentru Calitate Audio</item>
-        <item>Calitate echilibrată între Audio și Conexiune</item>
-        <item>Optimizat pentru Calitate Conexiune</item>
-        <item>Cea mai bună opțiune (Bit Rate adaptiv)</item>
+        <item>Optimizat pentru calitate audio</item>
+        <item>Calitate echilibrată între audio și conexiune</item>
+        <item>Optimizat pentru calitatea conexiunii</item>
+        <item>Cel mai bun efect (Bit rate adaptiv)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
-        <item>Optimizat pentru Calitate Audio (990kbps/909kbps)</item>
-        <item>Calitate echilibrată între Audio și Conexiune (660kbps/606kbps)</item>
-        <item>Optimizat pentru Calitate Conexiune (330kbps/303kbps)</item>
-        <item>Cea mai bună opțiune (Bit Rate adaptiv)</item>
+        <item>Optimizat pentru calitate audio (990kbps/909kbps)</item>
+        <item>Calitate echilibrată între audio și conexiune (660kbps/606kbps)</item>
+        <item>Optimizat pentru calitatea conexiunii (330kbps/303kbps)</item>
+        <item>Cea mai bună opțiune (Bit rate adaptiv)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
         <item>Utilizați selectarea de către sistem (Implicit)</item>
@@ -77,8 +77,8 @@
         <item>aptX</item>
         <item>aptX HD</item>
         <item>LDAC</item>
-        <item>Activați Codecurile opționale</item>
-        <item>Dezactivați Codecurile opționale</item>
+        <item>Activați Codecurile Opționale</item>
+        <item>Dezactivați Codecurile Opționale</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
         <item>Utilizați selectarea de către sistem (Implicit)</item>
@@ -87,8 +87,8 @@
         <item>aptX</item>
         <item>aptX HD</item>
         <item>LDAC</item>
-        <item>Activați Codecurile opționale</item>
-        <item>Dezactivați Codecurile opționale</item>
+        <item>Activați Codecurile Opționale</item>
+        <item>Dezactivați Codecurile Oopționale</item>
     </string-array>
     <string-array name="bluetooth_avrcp_versions">
         <item>AVRCP 1.4 (Implicit)</item>
@@ -196,13 +196,13 @@
     <string-array name="lockscreen_num_pad_klondike">
         <item>+</item>
         <item></item>
-        <item>ABC</item>
+        <item>AĂÎBC</item>
         <item>DEF</item>
         <item>GHI</item>
         <item>JKL</item>
         <item>MNO</item>
         <item>PQRS</item>
-        <item>TUV</item>
+        <item>TȚUV</item>
         <item>WXYZ</item>
     </string-array>
     <string-array name="miui_volume_timer_segments_title">
@@ -262,14 +262,14 @@
     </string-array>
     <string-array name="select_logpersist_summaries">
         <item>Oprit</item>
-        <item>Tot</item>
-        <item>Tot doar radio</item>
-        <item>Doar kernel</item>
+        <item>Toate jurnalele tampon</item>
+        <item>Toate jurnalele cu excepția celor pentru radio</item>
+        <item>Doar jurnalele kernel</item>
     </string-array>
     <string-array name="select_logpersist_titles">
         <item>Oprit</item>
-        <item>Tot</item>
-        <item>Tot fără radio</item>
+        <item>Toate</item>
+        <item>Toate, cu excepția celor radio</item>
         <item>Doar kernel</item>
     </string-array>
     <string-array name="show_non_rect_clip_entries">
@@ -307,7 +307,7 @@
         <item>MTP (Protocol Transfer Media)</item>
         <item>PTP (Protocol Transfer Fotografii)</item>
         <item>RNDIS (USB Ethernet)</item>
-        <item>Sursă audio</item>
+        <item>Sursă Audio</item>
         <item>MIDI</item>
     </string-array>
     <string-array name="weather_type">

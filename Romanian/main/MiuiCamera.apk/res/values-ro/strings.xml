@@ -486,7 +486,7 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="pref_camera_jpegquality_entry_low">Scăzută</string>
     <string name="pref_camera_jpegquality_entry_normal">Standard</string>
     <string name="pref_camera_jpegquality_title">Calitate fotografie</string>
-    <string name="pref_camera_long_press_shutter_feature_title">Menținerea apăsată a butonului de declanșare</string>
+    <string name="pref_camera_long_press_shutter_feature_title">Apăsarea și menținerea apăsată a butonului de declanșare</string>
     <string name="pref_camera_long_press_viewfinder_google_lens">Google Lens</string>
     <string name="pref_camera_long_press_viewfinder_lock_ae_af">Blocare AE/AF</string>
     <string name="pref_camera_long_press_viewfinder_title">Setări vizor</string>
@@ -529,7 +529,6 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="pref_camera_portrait_with_facebeauty_title">Înfrumusețare în modul Portret</string>
     <string name="pref_camera_proximity_lock_summary">Blocați atingerile când este în poșetă/buzunar</string>
     <string name="pref_camera_proximity_lock_title">Mod poșetă/buzunar</string>
-    <string name="pref_camera_raw_title">RAW</string>
     <string name="pref_camera_recordlocation_entry_off">Dezactivat</string>
     <string name="pref_camera_recordlocation_entry_on">Activat</string>
     <string name="pref_camera_recordlocation_title">Stocaţi informaţia despre locaţie</string>
@@ -554,9 +553,9 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="pref_camera_settings_title">Setări</string>
     <string name="pref_camera_sharpness_title">Precizie</string>
     <string name="pref_camera_show_gender_age_config_title">Vârstă și sex</string>
-    <string name="pref_camera_show_gender_age_entry_alias">Afişare vârstă când înfrumusețarea este activată</string>
+    <string name="pref_camera_show_gender_age_entry_alias">Afişare vârstă când Înfrumusețarea este activată</string>
     <string name="pref_camera_show_gender_age_entry_off">Oprit</string>
-    <string name="pref_camera_show_gender_age_entry_on">Afişare vârstă şi sex când înfrumusețarea este activată</string>
+    <string name="pref_camera_show_gender_age_entry_on">Afişare vârstă şi sex când Înfrumusețarea este activată</string>
     <string name="pref_camera_show_gender_age_label_alias">Vârstă</string>
     <string name="pref_camera_show_gender_age_label_on">Vârstă și sex</string>
     <string name="pref_camera_show_gender_age_title">Vârstă și sex</string>
@@ -738,8 +737,6 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="text_ai_scene_selector_text_on">SILUETĂ</string>
     <string name="time_lapse_error">"Nu se poate utiliza această dimensiune video pentru înregistrarea în intervale de timp"</string>
     <string name="title_snap_double_confirm">Confirmați din nou</string>
-    <string name="toast_burst_snap_finished_end">fotografii</string>
-    <string name="toast_burst_snap_finished_start">Fotografiere în rafală</string>
     <string name="toast_burst_snap_forbidden_when_audio_capture_open">Fotografierea în serie nu este acceptată atunci când captarea vocii este activată</string>
     <string name="toast_saving">Salvare fotografii…</string>
     <string name="toast_start_audio_capture">Faceţi un sunet pentru a fotografia</string>

@@ -93,11 +93,11 @@
         <item>Zile de lucru</item>
         <item>Zilele săptămânii</item>
         <item>Personalizat</item>
-     </string-array>
+    </string-array>
     <string-array name="alarm_repeat_type_no_workdays">
         <item>O dată</item>
         <item>În fiecare zi</item>
         <item>Zilele săptămânii</item>
         <item>Personalizat</item>
-     </string-array>
+    </string-array>
 </resources>
