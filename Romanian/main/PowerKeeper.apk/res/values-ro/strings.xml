@@ -5,6 +5,8 @@
     <string name="action_bar_delete">Ştergeţi</string>
     <string name="action_settings">Setări</string>
     <string name="active_classify">Sortați după starea activității</string>
+    <string name="adaptive_battery_summary">Se limitează utilizarea bateriei pentru aplicațiile ce nu se folosesc frecvent</string>
+    <string name="adaptive_battery_title">Utilizare baterie adaptivă</string>
     <string name="activity_title_poweranalyze">Testare acumulator</string>
     <string name="activity_title_powerconfigure">Setări acumulator</string>
     <string name="activity_title_poweroptimize">Economisire acumulator</string>
