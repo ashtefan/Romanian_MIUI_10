@@ -1511,6 +1511,7 @@ Această setare afectează toți utilizatorii telefonului."</string>
     <string name="debug_networking_category">Rețea</string>
     <string name="debug_view_attributes">Activați vizualizarea atributelor</string>
     <string name="decline_remote_bugreport_action">Renunțați</string>
+    <string name="decryption_settings_summary">Telefonul nu este criptat</string>
     <string name="defalut_launcher_title">Lansatorul de sistem implicit</string>
     <string name="default_admin_support_msg">"Această acțiune este dezactivată. Contactați administratorul organizației pentru a afla mai multe detalii."</string>
     <string name="default_app">(Implicit)</string>
@@ -1543,7 +1544,7 @@ Această setare afectează toți utilizatorii telefonului."</string>
     <string name="delete_or_keep_legacy_passwords_confirm_msg">Eliminați această amprentă?</string>
     <string name="delete_rule">Ștergeți regulile</string>
     <string name="delete_saved_network">Ștergeți rețelele salvate</string>
-    <string name="delete_sound_effect">\"Ștergeți\" sunetul</string>
+    <string name="delete_sound_effect">Sunetul \"Ștergere\"</string>
     <string name="deleted_apps">Aplicații șterse</string>
     <string name="deletion_helper_automatic_title">Automat</string>
     <string name="deletion_helper_manual_title">Manual</string>
@@ -1812,6 +1813,10 @@ Puteți vizualiza rapoartele generate în Managerul de Fișiere."</string>
     <string name="enable_compatibility">Scalaţi aplicaţia</string>
     <string name="enable_freeform_support">Activați ferestrele cu formă liberă</string>
     <string name="enable_freeform_support_summary">Activați suportul pentru efectul experimental de ferestre cu formă liberă.</string>
+    <string name="enable_gnss_raw_meas_full_tracking">Forțați măsurători GNSS complete</string>
+    <string name="enable_gnss_raw_meas_full_tracking_summary">Urmăriți toate constelațiile și frecvențele GNSS fără ciclu de funcționare</string>
+    <string name="enable_gpu_debug_layers">Activați straturile de depanare GPU</string>
+    <string name="enable_gpu_debug_layers_summary">Permite încărcarea straturilor de depanare GPU pentru aplicațiile de depanare</string>
     <string name="enable_mobile_data_when_opening_hotspot">Activaţi, de asemenea, conexiunea de date mobile?</string>
     <string name="enable_opengl_traces_title">Activați monitorizarea OpenGL</string>
     <string name="enable_quick_setting">Arată în Setările Rapide</string>
@@ -1950,7 +1955,7 @@ Pentru mai multe detalii, contactați administratorul organizației."</string>
     <string name="expandable_under_keyguard_title">Afișează în Blocarea securizată a ecranului</string>
     <string name="experimental_category_title">Experimental</string>
     <string name="experimental_preference">(Experimental)</string>
-    <string name="extended_power_menu">Meniu extins repornire</string>
+    <string name="extended_power_menu">Meniu extins de repornire</string>
     <string name="external_code_size_label">Stocare aplicaţie pe USB</string>
     <string name="external_data_size_label">Card SD</string>
     <string name="external_source_switch_title">Permiteți din această sursă</string>
@@ -2036,6 +2041,8 @@ Pentru mai multe detalii, contactați administratorul organizației."</string>
     <string name="fingerprint_unlock_skip_fingerprint">Continuați fără amprentă</string>
     <string name="fingerprint_unlock_title">Puteți debloca telefonul utilizând amprenta. Din motive de siguranță, această opțiune necesită o metodă de blocare a ecranului de rezervă.</string>
     <string name="fingerprint_usage_category_title">Utilizați amprenta pentru</string>
+    <string name="fingerprint_wakeup_summary">Se deschide ecranul când nu au fost înregistrate amprente digitale.</string>
+    <string name="fingerprint_wakeup_title">Atingeți senzorul de amprentă pentru a porni ecranul</string>
     <string name="finish_application">Opriţi</string>
     <string name="finish_button">Finalizați</string>
     <string name="finish_button_label">Finalizaţi</string>
@@ -2575,7 +2582,7 @@ Puteți modifica acest lucru mai târziu în Setări &gt; Aplicații și notific
     <string name="locale_remove_menu">Eliminați</string>
     <string name="locale_settings">Regiune</string>
     <string name="location_access_summary">Aplicațiile pot obține date despre locația dumneavoastră</string>
-    <string name="location_access_title">Acces la locaţiee</string>
+    <string name="location_access_title">Acces la locaţie</string>
     <string name="location_agps_apn_choose_dialog_title">Tipuri APN</string>
     <string name="location_agps_apn_summary">Selectaţi tipul APN preferat</string>
     <string name="location_agps_apn_type">Tipuri APN</string>
@@ -2620,7 +2627,7 @@ Puteți modifica acest lucru mai târziu în Setări &gt; Aplicații și notific
     <string name="location_network_based">Wi-Fi şi reţeaua mobilă</string>
     <string name="location_no_recent_apps">Nicio aplicație nu a solicitat locația recent</string>
     <string name="location_off_summary">Oprit</string>
-    <string name="location_on_summary">Pornit / %1$s</string>
+    <string name="location_on_summary">Pornit</string>
     <string name="location_scanning_bluetooth_always_scanning_description">Îmbunătățiți precizia de localizare permițând permanent serviciilor și aplicațiilor de sistem detectarea dispozitivelor Bluetooth.</string>
     <string name="location_scanning_bluetooth_always_scanning_title">Scanare dispozitive Bluetooth</string>
     <string name="location_scanning_screen_title">Scanare</string>
@@ -3457,6 +3464,7 @@ Acest lucru va permite aplicației să comute modul Nu deranjați și să modifi
     <string name="operator_warning">Contorizarea datelor mobile realizată de către operator poate diferi de cea din telefon</string>
     <string name="optimization_cancel">Renunțați</string>
     <string name="ota_disable_automatic_update">Actualizări automate de sistem</string>
+    <string name="ota_disable_automatic_update_summary">Se aplică actualizările atunci când dispozitivul repornește</string>
     <string name="otg_button">OTG</string>
     <string name="otg_closed">Oprit</string>
     <string name="otg_opened">Pornit</string>
@@ -5147,6 +5155,8 @@ O abordare Google asupra sincronizării datelor, care vă permite accesul la age
     <string name="tether_settings_title_wifi">Hotspot portabil</string>
     <string name="tether_share_qrcode_title">Partajați codul QR</string>
     <string name="tethering_footer_info">Utilizați hotspot-ul și tethering-ul pentru a furniza Internet altor dispozitive prin intermediul conexiunii de date mobile.</string>
+    <string name="tethering_hardware_offload">Tethering accelerare hardware</string>
+    <string name="tethering_hardware_offload_summary">Se utilizează accelerarea hardware pentru tethering, dacă este disponibilă</string>
     <string name="tethering_help_button_text">Ajutor</string>
     <string name="tethering_settings_not_available">Modificați setările pentru tethering în Spațiul Principal</string>
     <string name="the_way_of_wakeup_voice_assistant_summary">Treziți Asistentul vocal în modul Ecran complet (fără butoane virtuale)</string>
@@ -5377,7 +5387,47 @@ Amprentele salvate vor fi de asemenea eliminate din acest profil și nu veți ma
     <string name="usage_access_description">Accesul la utilizare permite unei aplicații să monitorizeze ce alte aplicații utilizați și cât de des, precum și operatorul, setările de limbă și alte detalii.</string>
     <string name="usage_access_title">Aplicații cu acces la utilizare</string>
     <string name="usage_log">Statistici utilizare aplicaţii</string>
+    <string name="usage_state_app_timer">Timp de ecran</string>
+    <string name="usage_state_app_usage_detail_title">Detalii utilizare aplicație</string>
+    <string name="usage_state_app_usage_list_title">"Timpul ecranului al aplicaţiei</string>
+    <string name="usage_state_app_usage_list_week_title">Timpul ecranului al aplicaţiei</string>
+    <string name="usage_state_app_usage_tip_title" formatted="false">Timp ecran între %d:00 şi %d:00</string>
+    <string name="usage_state_app_use_time">Timp de ecran în aplicaţie</string>
+    <string name="usage_state_channel_mouth">Ultimele 30 de zile</string>
+    <string name="usage_state_channel_week">Ultimele 7 zile</string>
+    <string name="usage_state_date">d MMM</string>
+    <string name="usage_state_device_noti_today_tip_title" formatted="false">Notificări între %d:00 şi %d:00</string>
+    <string name="usage_state_device_unlock_today_tip_title" formatted="false">Dispozitiv deblocat între %d:00 şi %d:00</string>
+    <string name="usage_state_friday">Vin</string>
+    <string name="usage_state_go_more">Mai multe aplicaţii</string>
+    <string name="usage_state_less_one_minute">Mai puțin de 1 minut</string>
+    <string name="usage_state_monday">Lun</string>
+    <string name="usage_state_mourth_day">Timp de ecran %s</string>
+    <string name="usage_state_noti_mourth_day">Notificări %s</string>
+    <string name="usage_state_notification">Gestionare notificări</string>
+    <string name="usage_state_notification_manager">Gestionați notificările aplicației</string>
+    <string name="usage_state_remind_summary">Activați pentru a primi alerte ale timpului ecranului. Puteți seta diferite limite de timp pentru zilele săptămânii și weekend-uri.</string>
+    <string name="usage_state_remind_title">Alertă timp de ecran</string>
+    <string name="usage_state_rest_day">Weekend-uri</string>
+    <string name="usage_state_saturday">Sâm</string>
+    <string name="usage_state_set_invalid_time_toast">Nu se pot seta limite de timp mai scurte de 1 minut</string>
+    <string name="usage_state_sunday">Dum</string>
+    <string name="usage_state_thursday">Joi</string>
+    <string name="usage_state_today">Azi</string>
+    <string name="usage_state_today_total_text">Timp de ecran azi</string>
+    <string name="usage_state_tuesday">Mar</string>
+    <string name="usage_state_unlock_mourth_day">Deblocat %s</string>
+    <string name="usage_state_usage_time">Timp de ecran</string>
+    <string name="usage_state_usage_time_remind">Alertă timp de ecran</string>
+    <string name="usage_state_use_time_remind_title">Alertă timp de ecran</string>
+    <string name="usage_state_wednesday">Mie</string>
+    <string name="usage_state_week_day_hour_minute" formatted="false">Weekend-uri: %dh %dm</string>
+    <string name="usage_state_week_total_text">Timpul ecranului (ultimele 7 zile)</string>
+    <string name="usage_state_work_day">Zilele săptămânii</string>
+    <string name="usage_state_work_day_hour_minute" formatted="false">Zilele săptămânii: %dh %dm</string> 
     <string name="usage_stats_label">Statistici de utilizare</string>
+    <string name="usage_stats_normal_day">Zilele săptămânii</string>
+    <string name="usage_stats_week_day">Weekend-uri</string>
     <string name="usage_time_label">Durată de utilizare</string>
     <string name="usage_type_actual_power">Energie consumată observată</string>
     <string name="usage_type_audio">Audio</string>
@@ -5399,6 +5449,25 @@ Amprentele salvate vor fi de asemenea eliminate din acest profil și nu veți ma
     <string name="usage_type_video">Video</string>
     <string name="usage_type_wake_lock">Menţinut activ</string>
     <string name="usage_type_wifi_running">Funcţionare Wi-Fi</string>
+    <string name="usagestats_app_category_miui_financial">Finanţe</string>
+    <string name="usagestats_app_category_miui_game">Jocuri</string>
+  <string name="usagestats_app_category_miui_life">Stil de viață</string>
+  <string name="usagestats_app_category_miui_productivity">Productivitate</string>
+  <string name="usagestats_app_category_miui_reading">Citire</string>
+  <string name="usagestats_app_category_miui_shopping">Cumpărături</string>
+  <string name="usagestats_app_category_miui_social">Reţele sociale</string>
+  <string name="usagestats_app_category_miui_system">Aplicaţii de sistem</string>
+  <string name="usagestats_app_category_miui_tools">Instrumente</string>
+  <string name="usagestats_app_category_miui_undefined">Altele</string>
+  <string name="usagestats_app_category_miui_video_etc">Muzică şi video</string>
+  <string name="usagestats_device_notification_des">Limită timp de ecran pentru azi: %s</string>
+  <string name="usagestats_device_notification_des_over">Ați ajuns deja la limita de timp a ecranului.</string>
+  <string name="usagestats_device_notification_des_reset" formatted="false">Limita de azi: %s | %s rămas</string>
+  <string name="usagestats_device_notification_title">Alertă timp de ecran</string>
+  <string name="usagestats_device_timeout_des" formatted="false">Azi ați folosit dispozitivul %dh %dm. Odihniți-vă!</string>
+  <string name="usagestats_device_timeout_negative">Reaminteşte-mi într-o oră</string>
+  <string name="usagestats_device_timeout_positive">Am înțeles</string>
+<string name="usagestats_device_timeout_title">Alertă timp de ecran</string>
     <string name="usb_adb_input">Depanare USB (Setări de securitate)</string>
     <string name="usb_adb_input_desc">Permite acordarea de permisiuni și simularea depanării prin USB</string>
     <string name="usb_audio_disable_routing">Dezactivați rutarea audio USB</string>
@@ -5406,6 +5475,8 @@ Amprentele salvate vor fi de asemenea eliminate din acest profil și nu veți ma
     <string name="usb_charging_summary">Opriți toate celelalte opţiuni de conexiune USB pentru a accelera încărcarea.</string>
     <string name="usb_charging_title">Accelerare încărcare</string>
     <string name="usb_connection_category">Conectaţi ca</string>
+    <string name="usb_default_info">Când un dispozitiv este conectat și telefonul este deblocat, se vor aplica aceste setări. Conectați numai dispozitive de încredere.</string>
+    <string name="usb_default_label">Configurație USB implicită</string>
     <string name="usb_eject">Demontați stocarea USB</string>
     <string name="usb_eject_summary">Demontați stocarea USB pentru a o putea elimina în siguranță</string>
     <string name="usb_format">Ștergeți stocarea USB</string>
