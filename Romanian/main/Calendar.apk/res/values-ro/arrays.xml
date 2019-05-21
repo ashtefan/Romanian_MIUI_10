@@ -28,6 +28,10 @@
         <item>Doar acest eveniment</item>
         <item>Toate evenimentele din serie</item>
     </string-array>
+    <string-array name="close_alarm_repeating_labels">
+        <item>Doar data aceasta</item>
+        <item>Dezactivează memento-ul repetitiv</item>
+    </string-array>
     <string-array name="date_calculate_spinner">
         <item>Înainte</item>
         <item>Înapoi</item>
@@ -48,6 +52,7 @@
         <item>10 minute</item>
         <item>15 minute</item>
         <item>30 de minute</item>
+        <item>1 oră</item>
     </string-array>
     <string-array name="delete_repeating_labels">
         <item>Doar acest eveniment</item>
@@ -83,6 +88,10 @@
     <string-array name="ligue_1">
         <item>5</item>
         <item>Ligue 1</item>
+    </string-array>
+    <string-array name="open_alarm_repeating_labels">
+        <item>Doar data aceasta</item>
+        <item>Setați memento-ul repetitiv</item>
     </string-array>
     <string-array name="pisces_info">
         <item>pești</item>

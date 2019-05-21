@@ -1463,6 +1463,8 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="note_sms_none">Niciun mesaj</string>
     <string name="noti_back_diving_mode_title">S-a activat modul Imersiv. Atingeți pentru a dezactiva.</string>
     <string name="notification_battery_consume_abnormal_title">Acumulatorul se descărcă foarte rapid</string>
+    <string name="notification_battery_scan_consume_abnormal_summary">Atingeți pentru a remedia problema</string>
+    <string name="notification_battery_scan_consume_abnormal_title_set">%s descarcă acumulatorul</string>
     <string name="notification_exit_power_save_mode">Economisirea acumulatorului este dezactivată</string>
     <string name="notification_exit_power_save_mode_subtitle">Acumulator încărcat %s.</string>
     <string name="notification_mask_summary">Ascunde conținutul notificărilor din Blocarea ecranului și din Perdeaua de notificări</string>
@@ -1581,6 +1583,13 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="password_type">Schimbați parola</string>
     <string name="password_type_underline">&lt;u&gt;Schimbați parola&lt;/u&gt;</string>
     <string name="password_xspace_forget_pattern_message">Pentru a modifica parola Spațiului secundar, trebuie să ștergeți Spațiul Secundar curent și să creați un altul.</string>
+    <string name="pc_abnormal_scan_button_text">Închideți aplicațiile</string>
+    <string name="pc_abnormal_scan_reason_prevent_standby">Previne intrarea sistemului în modul repaos</string>
+    <string name="pc_abnormal_scan_reason_reconnect">Încearcă să se conecteze prea des la rețea</string>
+    <string name="pc_abnormal_scan_reason_runtime_exception">Rulează anormal</string>
+    <string name="pc_abnormal_scan_reason_scan_wifi">Caută prea des Wi-Fi-ul</string>
+    <string name="pc_abnormal_scan_reason_use_GPS">Utilizează serviciile de localizare prea des</string>
+    <string name="pc_abnormal_scan_reason_wake_system">Trezește sistemul prea des</string>
     <string name="pc_activity_title">Optimizați utilizarea acumulatorului</string>
     <string name="pc_battery_history_show_imei">IMEI:</string>
     <string name="pc_install_manager">Instalare prin USB</string>

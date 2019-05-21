@@ -98,6 +98,7 @@
     <string name="popup_camera_calibrate_now">Calibrați</string>
     <string name="popup_camera_calibrate_success">Calibrată cu succes. Puteți deschide camera frontală acum.</string>
     <string name="popup_camera_front_failed">"Nu s-a putut deschide camera frontală. Încercați din nou."</string>
+    <string name="popup_camera_front_when_use">Aplicația Cameră trebuie să pornească din nou camera frontală. O porniți acum?</string>
     <string name="popup_camera_popup_falied_times_calibrate">"Nu s-a putut deschide camera frontală de mai multe ori. Încercați să calibrați camera."</string>
     <string name="popup_camera_sure">Am înțeles</string>
     <string name="popup_camera_sure_wait">Am înțeles (%ds)</string>
@@ -199,6 +200,7 @@
     <string name="twohours">1 oră</string>
     <string name="unknown_caller">Număr necunoscut</string>
     <string name="user_switching_dialog_text">Comutare…</string>
+    <string name="voice_assistant_tips">A fost setat ca apăsarea lungă a butonului de pornire să pornească asistentul vocal</string>
     <string name="voice_begin">Ce anume căutați?</string>
     <string name="voice_button_action_down">Eliberați pentru a căuta</string>
     <string name="voice_button_action_up">Atingeți pentru a vorbi</string>
