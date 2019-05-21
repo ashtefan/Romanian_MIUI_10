@@ -131,7 +131,6 @@ Glisați în jos pentru a actualiza sau verificați setările de rețea"</string
     <string name="global_aqi">ICA: %1$s %2$s</string>
     <string name="hour_minute_time_format">HH:mm</string>
     <string name="hourly_forcast_now">Acum</string>
-    <string name="hourly_forecast_bottom_aqi_chinese">%1$s%2$s</string>
     <string name="hourly_forecast_date">d/M</string>
     <string name="hourly_forecast_title_24_hours_desc">Prognoza pe 24 de ore</string>
     <string name="hourly_forecast_title_hourly_desc">Prognoza orară</string>
