@@ -559,7 +559,7 @@ Pentru a dezactiva această funcție, mergeți la Setări &gt; Sunete și vibra�
     <string name="theme_apply_audio_dialog_item_color_ring_back_tone">Sunet de apel personalizat</string>
     <string name="theme_apply_audio_dialog_item_mms">Sunet pentru mesaje</string>
     <string name="theme_apply_audio_dialog_item_notification">Notificări</string>
-    <string name="theme_apply_audio_dialog_item_ringtone">Sunet de apel</string>
+    <string name="theme_apply_audio_dialog_item_ringtone">Ton de apel</string>
     <string name="theme_apply_failured">"Nu s-a putut aplica"</string>
     <string name="theme_apply_success">Aplicat cu succes</string>
     <string name="theme_applying">Aplicare…</string>
@@ -572,7 +572,7 @@ Pentru a dezactiva această funcție, mergeți la Setări &gt; Sunete și vibra�
     <string name="theme_changing_dialog_title">Aplicare…</string>
     <string name="theme_component_title_alarm">Alarmă</string>
     <string name="theme_component_title_alarmstyle">Stil alarmă</string>
-    <string name="theme_component_title_all">Temă</string>
+    <string name="theme_component_title_all">Teme</string>
     <string name="theme_component_title_audio_effect">Sunet</string>
     <string name="theme_component_title_boot_animation">Animaţie Boot</string>
     <string name="theme_component_title_boot_audio">Sunet de Boot</string>
@@ -590,7 +590,7 @@ Pentru a dezactiva această funcție, mergeți la Setări &gt; Sunete și vibra�
     <string name="theme_component_title_notification">Notificare</string>
     <string name="theme_component_title_others">Altele</string>
     <string name="theme_component_title_photo_frame">Cadre imagine</string>
-    <string name="theme_component_title_ringtone">Ton de apel</string>
+    <string name="theme_component_title_ringtone">Tonuri de apel</string>
     <string name="theme_component_title_statusbar">Bară de stare</string>
     <string name="theme_component_title_wallpaper">Ecran principal</string>
     <string name="theme_current_using_has_update">Este disponibilă o actualizare</string>

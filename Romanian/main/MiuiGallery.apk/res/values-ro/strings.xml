@@ -619,7 +619,7 @@ efecte pentru fotografii"</string>
     <string name="flash_on">S-a utilizat blițul</string>
     <string name="frame_not_support_image_ratio">"Această rată de aspect nu este suportată"</string>
     <string name="free_view_desc">Vizualizare 3D</string>
-    <string name="gallery_setting">Galerie</string>
+    <string name="gallery_setting">Setări</string>
     <string name="gallery_sync_disable_toast">Sincronizarea fotografiilor din Galeria este dezactivată</string>
     <string name="generate_story_summary">MIUI va analiza fotografiile și va crea albume cu povești. Dezactivați această caracteristică pentru a opri crearea de albume.</string>
     <string name="generate_story_title">Albume de poveste</string>
