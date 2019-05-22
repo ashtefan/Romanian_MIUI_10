@@ -402,6 +402,8 @@ Administratorul dumneavoastră poate monitoriza și administra setările, accesu
     <string name="app_ops_running">Rulează</string>
     <string name="app_ops_settings">Operații ale aplicației</string>
     <string name="app_overlay_permission_preference">Permisiune a aplicației de desenare deasupra</string>
+    <string name="app_permission_summary_allowed">Permisă</string>
+    <string name="app_permission_summary_not_allowed">Nepermisă</string>
     <string name="app_permissions">Permisiunile aplicației</string>
     <string name="app_permissions_summary">Aplicații ce utilizează %1$s</string>
     <string name="app_process_limit_title">Limita proceselor în fundal</string>
