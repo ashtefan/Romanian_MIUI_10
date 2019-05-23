@@ -223,6 +223,7 @@ Economisirea acumulatorului se va dezactiva în mod automat atunci când veți c
      <string name="capability_title_canRetrieveWindowContent">Recuperează conținutul ferestrei</string>
      <string name="capital_off">OPRIT</string>
      <string name="capital_on">PORNIT</string>
+     <string name="car_loading_profile">Se încarcă</string>
      <string name="car_mode_disable_notification_message">Atingeţi pentru a ieşi din modul Maşină.</string>
      <string name="car_mode_disable_notification_title">Mod Maşină activat</string>
      <string name="carrier_app_dialog_button">OBȚINEȚI APLICAȚIA</string>
@@ -501,6 +502,9 @@ Pentru a obține asistență contactați "</string>
      <string name="granularity_label_word">cuvânt</string>
      <string name="gsm_alphabet_default_charset"/>
      <string name="hardware">Arată tastatura virtuală</string>
+     <string name="harmful_app_warning_open_anyway">Deschideți oricum</string>
+     <string name="harmful_app_warning_title">Aplicație dăunătoare detectată</string>
+     <string name="harmful_app_warning_uninstall">DEZINSTALAȚI</string>
      <string name="heavy_weight_notification">Rulează %1$s</string>
      <string name="heavy_weight_notification_detail">Atingeţi pentru a comuta la aplicaţie</string>
      <string name="heavy_weight_switcher_text">O altă aplicaţie rulează deja şi trebuie oprită înainte a putea porni o aplicaţie nouă.</string>
@@ -854,13 +858,17 @@ Contactaţi furnizorul de servicii pentru a obţine o altă cartelă SIM."</stri
      <string name="minute_picker_description">Cursor circular pentru minute</string>
      <string name="minutes">min.</string>
      <string name="mismatchPin">"Codurile PIN introduse nu se potrivesc."</string>
-    <string name="mmcc_authentication_reject">SIM nepermis</string>
-    <string name="mmcc_illegal_me">Telefon nepermis</string>
-    <string name="mmcc_illegal_ms">SIM nepermis</string>
-    <string name="mmcc_imsi_unknown_in_hlr">SIM nefurnizat</string>
+     <string name="mmcc_authentication_reject">Cardul SIM nu este permis pentru voce</string>
+     <string name="mmcc_authentication_reject_msim_template">Cardul SIM %d nu este permis</string>
+     <string name="mmcc_illegal_me">Telefonul nu este permis pentru voce</string>
+     <string name="mmcc_illegal_me_msim_template">Cardul SIM %d nu este permis</string>
+     <string name="mmcc_illegal_ms">Cardul SIM nu este permis pentru voce</string>
+     <string name="mmcc_illegal_ms_msim_template">Cardul SIM %d nu este permis</string>
+     <string name="mmcc_imsi_unknown_in_hlr">Cardul SIM nu este activat pentru voce</string>
+     <string name="mmcc_imsi_unknown_in_hlr_msim_template">Cardul SIM %d nu este prevăzut</string>
      <string name="mmiComplete">MMI finalizat.</string>
      <string name="mmiError">Problemă de conexiune sau cod MMI nevalid.</string>
-    <string name="mmiErrorWhileRoaming">Nu se pot modifica setările pentru redirecționarea apelurilor din telefon cât timp sunteți în roaming.</string>
+     <string name="mmiErrorWhileRoaming">Nu se pot modifica setările pentru redirecționarea apelurilor din telefon cât timp sunteți în roaming.</string>
      <string name="mmiFdnError">Operaţia este limitată la numerele cu apelări restricţionate.</string>
      <string name="mobile_provisioning_apn" />
      <string name="mobile_provisioning_url" />
@@ -889,14 +897,21 @@ Contactaţi furnizorul de servicii pentru a obţine o altă cartelă SIM."</stri
      <string name="no_permissions">Nu se solicită nicio permisiune</string>
      <string name="no_recent_tasks">Nu există aplicaţii recente.</string>
      <string name="noon">prânz</string>
+    <string name="notification_app_name_settings">Setări</string>
+    <string name="notification_app_name_system">Sistem</string>
+    <string name="notification_appops_camera_active">Cameră foto</string>
+    <string name="notification_appops_microphone_active">Microfon</string>
+    <string name="notification_appops_overlay_active">se afișează peste alte aplicații de pe ecran</string>
     <string name="notification_channel_account">stare cont</string>
     <string name="notification_channel_alerts">Alerte</string>
     <string name="notification_channel_call_forward">Redirecționare apel</string>
     <string name="notification_channel_car_mode">Mod Mașină</string>
     <string name="notification_channel_developer">Mesaje dezvoltator</string>
     <string name="notification_channel_device_admin">Administrare dispozitiv</string>
+    <string name="notification_channel_do_not_disturb">Nu deranja</string>
     <string name="notification_channel_emergency_callback">Mod apelare de urgență</string>
     <string name="notification_channel_foreground_service">Aplicațiile rulează în fundal</string>
+    <string name="notification_channel_heavy_weight_app">Aplicația rulează</string>
     <string name="notification_channel_hotspot">Notificare hotspot Wi-Fi</string>
     <string name="notification_channel_mobile_data_alert">Alerte date mobile</string>
     <string name="notification_channel_network_alert">Alerte</string>
@@ -906,7 +921,9 @@ Contactaţi furnizorul de servicii pentru a obţine o altă cartelă SIM."</stri
     <string name="notification_channel_physical_keyboard">Tastatură fizică</string>
     <string name="notification_channel_retail_mode">Retail demo</string>
     <string name="notification_channel_security">Securitate</string>
+    <string name="notification_channel_sim">Starea cardului SIM</string>
     <string name="notification_channel_sms">Mesaje SMS</string>
+    <string name="notification_channel_system_changes">Modificări de sistem</string>
     <string name="notification_channel_updates">Actualizări</string>
     <string name="notification_channel_usb">Conexiune USB</string>
     <string name="notification_channel_virtual_keyboard">Tastatură virtuală</string>
@@ -914,13 +931,14 @@ Contactaţi furnizorul de servicii pentru a obţine o altă cartelă SIM."</stri
     <string name="notification_channel_vpn">Stare VPN</string>
     <string name="notification_channel_wfc">Apelare prin Wi-Fi</string>
     <string name="notification_description">Stare apel vocal</string>
-     <string name="notification_header_divider_symbol">•</string>
+    <string name="notification_header_divider_symbol">•</string>
     <string name="notification_header_divider_symbol_with_spaces">" • "</string>
      <string name="notification_hidden_by_policy_text">Conținut ascuns de politica curentă</string>
      <string name="notification_hidden_text">Conținut ascuns</string>
      <string name="notification_inbox_ellipsis">…</string>
      <string name="notification_listener_binding_label">Serviciu de citire a notificărilor</string>
      <string name="notification_ranker_binding_label">Servicul de clasificare a notificărilor</string>
+     <string name="notification_reply_button_accessibility">Răspundeți</string>
      <string name="notification_title">Eroare de conectare pentru %1$s</string>
      <string name="notification_work_profile_content_description">Profil Servici</string>
      <string name="now_string_shortest">acum</string>
@@ -1236,6 +1254,7 @@ pentru contul %s."</string>
      <string name="policylab_watchLogin">Monitorizaţi încercările de deblocare a ecranului</string>
      <string name="policylab_wipeData">Ștergere integrală date</string>
      <string name="policylab_wipeData_secondaryUser">Ștergere date utilizator</string>
+     <string name="popup_window_default_title">Fereastră pop-up</string>
      <string name="postalTypeCustom">Personalizat</string>
      <string name="postalTypeHome">Domiciliu</string>
      <string name="postalTypeOther">Altele</string>
@@ -1332,6 +1351,7 @@ Ascultarea la volum ridicat pentru perioade lungi de timp vă poate afecta auzul
      <string name="screen_compat_mode_scale">Scară</string>
      <string name="screen_compat_mode_show">Afişaţi întotdeauna</string>
      <string name="screen_lock">Blocaţi ecranul</string>
+     <string name="screenshot_edit">Editați</string>
      <string name="search_go">Căutaţi</string>
      <string name="search_hint">Căutare…</string>
      <string name="search_language_hint">Introduceți numele limbii</string>
@@ -1380,6 +1400,10 @@ Ascultarea la volum ridicat pentru perioade lungi de timp vă poate afecta auzul
      <string name="shareactionprovider_share_with">Partajați cu</string>
      <string name="shareactionprovider_share_with_application">Partajați cu %s</string>
      <string name="sharing_remote_bugreport_notification_title">Trimitere raport cu erori…</string>
+     <string name="shortcut_restore_not_supported">Nu s-a putut restabili comanda rapidă deoarece aplicația nu acceptă backupul și restabilirea</string>
+     <string name="shortcut_restore_signature_mismatch">Nu s-a putut restabili comanda rapidă din cauza nepotrivirii semnăturii aplicației</string>
+     <string name="shortcut_restore_unknown_issue">Nu s-a putut restabili comanda rapidă</string>
+     <string name="shortcut_restored_on_lower_version">Aplicația a trecut la o versiune inferioară sau nu este compatibilă cu această comandă rapidă</string>
      <string name="show_ime">Păstrează pe ecran cât timp tastatura fizică este activă</string>
      <string name="shutdown_confirm">Telefonul dvs. se va închide.</string>
      <string name="shutdown_confirm_question">Doriţi să închideţi?</string>
@@ -1399,6 +1423,8 @@ Ascultarea la volum ridicat pentru perioade lungi de timp vă poate afecta auzul
      <string name="sipAddressTypeOther">Altul</string>
      <string name="sipAddressTypeWork">Serviciu</string>
      <string name="skip_button_label">Omiteţi</string>
+     <string name="slices_permission_request">%1$s vrea să afișeze porțiuni din %2$s</string>
+     <string name="sms">Mesaj</string>
      <string name="sms_control_message">&lt;b>%1$s&lt;/b> trimite un număr mare de mesaje SMS. Permiteţi acestei aplicaţii să trimită în continuare mesaje?</string>
      <string name="sms_control_no">Refuzaţi</string>
      <string name="sms_control_title">Se trimit mesaje SMS</string>
@@ -1523,6 +1549,8 @@ Ascultarea la volum ridicat pentru perioade lungi de timp vă poate afecta auzul
      <string name="volume_alarm">Volum alarmă</string>
      <string name="volume_bluetooth_call">Volum apel Bluetooth</string>
      <string name="volume_call">Volum apel de intrare</string>
+     <string name="volume_dialog_ringer_guidance_silent">Apelurile și notificările vor avea sunetul dezactivat</string>
+     <string name="volume_dialog_ringer_guidance_vibrate">Apelurile și notificările vor vibra</string>
      <string name="volume_icon_description_bluetooth">Bluetooth</string>
      <string name="volume_icon_description_incall">Apel</string>
      <string name="volume_icon_description_media">Media</string>
@@ -1537,13 +1565,13 @@ Ascultarea la volum ridicat pentru perioade lungi de timp vă poate afecta auzul
      <string name="vpn_lockdown_config">Atingeți pentru a configura</string>
      <string name="vpn_lockdown_connected">Conectat la reţeaua VPN activată permanent</string>
      <string name="vpn_lockdown_connecting">Se efectuează conectarea la reţeaua VPN activată permanent…</string>
-    <string name="vpn_lockdown_disconnected">Rețea VPN permanent activă deconectată</string>
+     <string name="vpn_lockdown_disconnected">Rețea VPN permanent activă deconectată</string>
      <string name="vpn_lockdown_error">Eroare de reţea VPN activată permanent</string>
      <string name="vpn_text">Atingeţi pentru a gestiona reţeaua.</string>
      <string name="vpn_text_long">Conectat la %s. Atingeţi pentru a gestiona reţeaua.</string>
      <string name="vpn_title">VPN activat</string>
      <string name="vpn_title_long">VPN este activat de %s</string>
-  <string name="vr_listener_binding_label">VR listener</string>
+     <string name="vr_listener_binding_label">VR listener</string>
      <string name="wait">Aşteptaţi</string>
      <string name="wallpaper_binding_label">Imagine de fundal</string>
      <string name="web_user_agent" formatted="false">Mozilla/5.0 (Linux; U; Android %s) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 %sSafari/537.36</string>
@@ -1586,7 +1614,7 @@ Doriţi să o închideţi?"</string>
      <string name="wifi_connect_alert_message">Aplicația %1$s dorește să se conecteze la rețeaua Wi-Fi %2$s</string>
      <string name="wifi_connect_alert_title">Permiteți conectarea?</string>
      <string name="wifi_connect_default_application">O aplicație</string>
-    <string name="wifi_localhotspot_configure_ssid_default">AndroidShare</string>
+     <string name="wifi_localhotspot_configure_ssid_default">AndroidShare</string>
      <string name="wifi_no_internet">Rețeaua Wi-Fi nu are acces la internet</string>
      <string name="wifi_no_internet_detailed">Atingeți pentru opțiuni</string>
      <string name="wifi_p2p_dialog_title">Wi-Fi Direct</string>
@@ -1626,4 +1654,8 @@ Doriţi să o închideţi?"</string>
      <string name="zen_mode_forever">Până când veți dezactiva modul Nu deranjați</string>
      <string name="zen_mode_forever_dnd">Până când veți dezactiva modul Nu deranjați</string>
      <string name="zen_mode_until">Până la %1$s</string>
+     <string name="zen_upgrade_notification_content">Atingeți pentru a verifica ce este blocat.</string>
+     <string name="zen_upgrade_notification_title">Funcția Nu deranja s-a schimbat</string>
+     <string name="zen_upgrade_notification_visd_content">Atingeți ca să aflați mai multe și să modificați</string>
+     <string name="zen_upgrade_notification_visd_title">Funcția nouă Nu deranja ascunde notificările</string>
 </resources>
