@@ -96,7 +96,7 @@ Ultima copie de rezervă a fost creată la %2$s"</string>
     <string name="find_device_error_password_changed">Parola contului a fost schimbată recent.</string>
     <string name="find_device_error_server">Eroare de server</string>
     <string name="find_device_error_unknown">Eroare necunoscută.</string>
-    <string name="find_device_gdpr_prompt">Activând Localizarea dispozitivului, sunteți de acord cu Politica noastră de Confidențialitate. Dacă aveți nevoie să revocați autorizarea, vă rugăm să dezactivați această caracteristică.</string>
+    <string name="find_device_gdpr_prompt">Activând Localizarea dispozitivului, sunteți de acord cu &lt;u&gt;&lt;a href="app://com.miui.cloudservice.gdpr.license"&gt;Politica noastră de Confidențialitate&lt;/a&gt;&lt;/u&gt;. Dacă aveți nevoie să revocați autorizarea, vă rugăm să dezactivați această caracteristică.</string>
     <string name="find_device_gdpr_prompt_policy_doc_name">Politica de Confidențialitate</string>
     <string name="find_device_notice_p1">Accesaţi</string>
     <string name="find_device_notice_p3">"pentru a localiza, bloca, sau restabili telefonul dvs.
