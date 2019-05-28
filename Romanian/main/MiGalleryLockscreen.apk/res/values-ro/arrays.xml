@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="feature_desc">
-        <item>Salutări matinale: Abonați-vă pentru a primi salutări în fiecare dimineață.</item>
-        <item>Combină Blocarea implicită a ecranului cu teme personalizate pentru a putea utiliza Caruselul de imagini de fundal.</item>
+        <item>S-au remediat unele probleme cunoscute.</item>
     </string-array>
     <string-array name="alphabet_table">
         <item>\#</item>
