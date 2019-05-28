@@ -178,6 +178,7 @@ Verificați ora locală și reîncercați."</string>
     <string name="mibi_menu_feedback">Feedback</string>
     <string name="mibi_menu_lock">Adăugați blocarea aplicațiilor</string>
     <string name="mibi_menu_qa">Întrebări frecvente</string>
+    <string name="mibi_menu_qa_feedback">Întrebări frecvente și feedback</string>
     <string name="mibi_menu_shotcut">Plasați pe ecranul principal</string>
     <string name="mibi_mili_center">Mi Credit</string>
     <string name="mibi_milicenter_title">Mi Credit</string>
@@ -239,6 +240,7 @@ Verificați ora locală și reîncercați."</string>
     <string name="mibi_paytool_msp_not_installed">Nu ați instalat extensia de securitate mobilă %1$s, o instalați acum?</string>
     <string name="mibi_paytool_paypal">Paypal</string>
     <string name="mibi_paytool_tenpay">Tenpay</string>
+    <string name="mibi_paytool_wechat_return_cancel">Anulare revenire la WeChat</string>
     <string name="mibi_paytool_weixin">WeChat</string>
     <string name="mibi_prepaid_card_order_info">%1$s card cadou: CNY %2$s</string>
     <string name="mibi_prepaid_carriers_picker_hint">Selectați operatorul</string>

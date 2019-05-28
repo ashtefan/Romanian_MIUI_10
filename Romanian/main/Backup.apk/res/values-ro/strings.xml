@@ -178,6 +178,7 @@ https://appleid.apple.com/#!&amp;page=signin to close"</string>
     <string name="flash_drive_restore_btn">Restaurați de pe dispozitivul USB</string>
     <string name="flash_drive_search_backup_files">"Se caută copiile de rezervă pe dispozitivul USB…
 Nu modificați și nu redenumiți fișierele."</string>
+    <string name="gallery_summary">Setări pentru Galerie (nu include fotografile)</string>
     <string name="guarded_mode_dialog_backup_message">"Nu se pot crea copii de rezervă în modul Vizitator."</string>
     <string name="guarded_mode_dialog_title">"Modul Vizitator este activat"</string>
     <string name="guarded_mode_dialog_transfer_message">"Nu se poate utiliza aplicația Mi Mover în modul Vizitator."</string>
@@ -625,6 +626,7 @@ Eliberați spațiu sau transferați de mai multe ori fișiere mai mici."</string
     <string name="usb_trans_old_phone_low_space_title">Nu există spațiu de stocare suficient</string>
     <string name="usb_trans_select_data_no_space">"Doar %s este disponibil pe stocarea USB.
 Eliberați spațiu sau transferați doar elementele importante."</string>
+    <string name="user_feedback">Feedback</string>
     <string name="user_name">ID-ul Apple sau adresa de e-mail</string>
     <string name="user_name_null">"Numele de utilizator nu poate rămâne necompletat"</string>
     <string name="user_notice_declaration_ignore">"Nu arăta din nou"</string>

@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+	<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="APN_NAME_CMMMS">CMMMS</string>
     <string name="APN_NAME_CMNET">CMNET</string>
@@ -3042,6 +3042,7 @@ Sunt alți utilizatori pe acest dispozitiv.
     <string name="miui_sos_statusbar_summary">Atingeți pentru a dezactiva</string>
     <string name="miui_sos_statusbar_title">Mesajele SOS sunt activate</string>
     <string name="miui_special_feature">Funcții speciale</string>
+    <string name="miui_touch_filtered_touchassistant_warning">Căsuța de dialog pentru permisiuni este acoperită de Asistentul de ecran. Mutați Asistentul de ecran sau dezactivați această funcție.</string>
     <string name="miui_touch_filtered_warning">Dacă o aplicație blochează fereastra de dialog cu permisiuni, trageți elementul deoparte sau închideți aplicația.</string>
     <string name="miui_updater">Actualizare de sistem</string>
     <string name="miui_userguide">Ghidul utilizatorului</string>
@@ -4811,8 +4812,6 @@ Acest lucru este posibil datorită unui certificat de încredere instalat pe dis
     <string name="status_bar_settings_expand_top_notification">Extindeți notificarea din partea superioară</string>
     <string name="status_bar_settings_manage_notification">Notificările aplicaţiilor</string>
     <string name="status_bar_settings_notification_bar">Panou notificări</string>
-    <string name="status_bar_settings_notification_led_custom">Culoare personalizată</string>
-    <string name="status_bar_settings_notification_sound_custom">Sunet personalizat</string>
     <string name="status_bar_settings_notification_use_app_icon">Utilizați pictogramele aplicației pentru notificări</string>
     <string name="status_bar_settings_qs_layout">Dispunere setări rapide</string>
     <string name="status_bar_settings_show_lte_for_4g">Afișează pictograma LTE pentru 4G</string>

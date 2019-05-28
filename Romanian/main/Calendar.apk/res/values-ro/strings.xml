@@ -458,6 +458,9 @@ Verificați setările de rețea și încercați din nou."</string>
   <string name="preferences_import_credit_repayment">Plățile prin card de credit</string>
   <string name="preferences_import_travel">bilete de tren</string>
     <string name="preferences_notification_ringtone_title">Sunet</string>
+    <string name="preferences_popup_alert_smart_summary">MIUI va identifica în mod automatevenimentele relevante</string>
+    <string name="preferences_popup_alert_smart_tips">"Înlocuiți notificările tradiționale cu alerte pop-up pentru a evita ratarea evenimentelor importante. Alertele pop-up alerts nu vor apărea când jucați jocuri, redați videoclipuri în modul ecran complet sau când utilizați modul Mașină."</string>
+    <string name="preferences_popup_alert_title">Alerte pop-up</string>
     <string name="preferences_title">Calendar</string>
     <string name="preferences_use_home_tz_descrip">Afișați calendarul şi orele evenimentelor în fusul orar de acasă când călătoriți</string>
     <string name="preferences_use_home_tz_title">Utilizați fusul orar de acasă</string>

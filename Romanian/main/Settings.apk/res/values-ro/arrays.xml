@@ -1765,11 +1765,6 @@ Notă: Doar pentru Ubuntu 8.04!"</item>
         <item>Sunet de apel</item>
         <item>Media</item>
     </string-array>
-    <string-array name="aod_clock_style_entries">
-        <item>Orizontal</item>
-        <item>Vertical</item>
-        <item>În linie</item>
-    </string-array>
     <string-array name="dark_ui_mode_entries">
         <item>Automat (bazat pe ora din zi)</item>
         <item>Activ permanent</item>
