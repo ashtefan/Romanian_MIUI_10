@@ -521,6 +521,7 @@ Administratorul dumneavoastră poate monitoriza și administra setările, accesu
     <string name="automatic_storage_manager_freed_bytes">"%1$s total obținut
 
 Ultima rulare pe %2$s"</string>
+    <string name="automatic_storage_manager_master_switch_title">Utilizați Managerul spațiului de stocare</string>
     <string name="automatic_storage_manager_preference_title">Manager spațiu de stocare</string>
     <string name="automatic_storage_manager_settings">Gestionare spațiu de stocare</string>
     <string name="automatic_storage_manager_text">Pentru a vă ajuta să eliberați spațiu de stocare, managerul elimină de pe telefon fotografiile și videoclipurile care au fost sincronizate.</string>
@@ -2015,6 +2016,7 @@ Pentru mai multe detalii, contactați administratorul organizației."</string>
     <string name="fingerprint_first_open_screen_password_face_tittle">Biometric (setați parola de blocare a ecranului mai întâi)</string>
     <string name="fingerprint_first_open_screen_password_tittle">Amprentă (setați parola pentru Blocarea ecranului mai întâi)</string>
     <string name="fingerprint_for_keyguard_disabled">Amprenta a fost dezactivată din setările de securitate.</string>
+    <string name="fingerprint_gesture_screen_title">Glisați amprenta</string>
     <string name="fingerprint_identify_input_password_msg">Introduceți parola</string>
     <string name="fingerprint_identify_msg">Scanare amprentă…</string>
     <string name="fingerprint_identify_try_again_msg">"Scanare nereușită, încercați din nou"</string>
@@ -2035,6 +2037,7 @@ Pentru mai multe detalii, contactați administratorul organizației."</string>
     <string name="fingerprint_others_title">Altele</string>
     <string name="fingerprint_payment">Plăți prin amprentă</string>
     <string name="fingerprint_removal_failed">"Nu s-a putut elimina amprenta; încercați din nou mai târziu"</string>
+    <string name="fingerprint_swipe_for_notifications_suggestion_title">Vedeți notificările rapid</string>
     <string name="fingerprint_swipe_for_notifications_summary">Pentru a verifica notificările, glisați în jos pe senzorul de amprentă de pe spatele telefonului.</string>
     <string name="fingerprint_swipe_for_notifications_title">Glisați amprenta pentru notificări</string>
     <string name="fingerprint_unlock_set_unlock_password">Amprentă + Parolă</string>
@@ -2202,6 +2205,9 @@ Când activați crearea automată a copiei de rezervă, datele dispozitivului ș
     <string name="gesture_double_twist_sensor_vendor"/>
     <string name="gesture_preference_summary">Gesturi rapide pentru a controla telefonul</string>
     <string name="gesture_preference_title">Gesturi</string>
+    <string name="gesture_prevent_ringing_screen_title">Dezactivați soneria</string>
+    <string name="gesture_prevent_ringing_sound_title">Comandă rapidă pentru dezactivarea soneriei</string>
+    <string name="gesture_prevent_ringing_title">Apăsați în același timp pe butonul de pornire și pe creșterea volumului</string>
     <string name="gesture_setting_off">Oprit</string>
     <string name="gesture_setting_on">Pornit</string>
     <string name="gesture_wakeup_title">Trezire dispozitiv la atingerea dublă a ecranului</string>
@@ -5115,6 +5121,10 @@ O abordare Google asupra sincronizării datelor, care vă permite accesul la age
     <string name="system_ui_settings">Afișează personalizarea SystemUI</string>
     <string name="system_update_settings_list_item_summary" />
     <string name="system_update_settings_list_item_title">Actualizări de sistem</string>
+    <string name="systemui_theme_dark">Întunecată</string>
+    <string name="systemui_theme_light">Deschisă</string>
+    <string name="systemui_theme_wallpaper">Automată (în funcție de imaginea de fundal)</string>
+    <string name="take_call_on_title">Preluați apelul pe</string>
     <string name="talkback_summary">Citire ecran în principal pentru persoane nevăzătoare sau cu acuitate vizuală scăzută</string>
     <string name="talkback_title">Talkback</string>
     <string name="talkback_watermark_enable">Ștampilă TalkBack</string>
