@@ -255,7 +255,7 @@ Administratorul dumneavoastră poate monitoriza și administra setările, accesu
     <string name="allow_bind_app_widget_activity_allow_bind_title">Creaţi widgetul şi permiteţi accesul?</string>
     <string name="allow_bind_app_widget_activity_always_allow_bind">Permiteţi întotdeauna ca %1$s să creeze widgeturi şi să acceseze datele acestora</string>
     <string name="allow_data_usage_title">Permiteți utilizarea datelor mobile în roaming</string>
-    <string name="allow_device_id_access">Selectați aplicațiile care pot accesa ID-ul dispozitivului</string>
+    <string name="allow_device_id_access">Aplicații cu acces la ID-ul dispozitivului</string>
     <string name="allow_float_summary">Permiteți notificări plutitoare</string>
     <string name="allow_float_title">Notificări plutitoare</string>
     <string name="allow_keyguard_summary">Permiteți notificările în Blocarea ecranului</string>
@@ -263,7 +263,6 @@ Administratorul dumneavoastră poate monitoriza și administra setările, accesu
     <string name="allow_lights_title">Permiteți utilizarea LED-ului</string>
     <string name="allow_mock_location">Permiteţi locaţiile fictive</string>
     <string name="allow_mock_location_summary">Permiteţi locaţiile fictive</string>
-    <string name="allow_oaid_used">Permiteți utilizarea ID-ului dispozitivului</string>
     <string name="allow_overlay_description">Această permisiune face ca o aplicație să fie afișată peste alte aplicații pe care le utilizați și poate interfera cu utilizarea acelor aplicații sau poate modifica modul în care acestea sunt afișate sau se comportă.</string>
     <string name="allow_sound">Permiteți sunetul</string>
     <string name="allow_sound_title">Permiteți sunete</string>
@@ -574,7 +573,7 @@ Ultima rulare pe %2$s"</string>
     <string name="backup_set_new_pw_title">Introduceți noua parolă a copiei de rezervă</string>
     <string name="backup_set_null_pw">Introduceți mai întâi parola</string>
     <string name="backup_set_pw_confirm_title">Confirmați noua parolă a copiei de rezervă</string>
-    <string name="badge_title">Afișează simbolurile pictogramei aplicațiilor</string>
+    <string name="badge_title">Afișați insigna pictogramei aplicației desktop</string>
     <string name="band_mode_failed">Nereuşit</string>
     <string name="band_mode_loading">Se încarcă lista benzilor…</string>
     <string name="band_mode_set">Setaţi</string>
@@ -1596,7 +1595,7 @@ Această setare afectează toți utilizatorii telefonului."</string>
     <string name="device_display_layout_title">Caracteristici</string>
     <string name="device_edit_title">Editaţi numele dispozitivului</string>
     <string name="device_feedback">Trimiteți feedback despre acest dispozitiv</string>
-    <string name="device_id">ID-ul dispozitivului pentru recomandări personalizate</string>
+    <string name="device_id">ID-ul dispozitivului</string>
     <string name="device_info_default">Necunoscut</string>
     <string name="device_info_label">Informaţii despre dispozitiv</string>
     <string name="device_info_not_available">Indisponibil</string>
@@ -1612,7 +1611,6 @@ Această setare afectează toți utilizatorii telefonului."</string>
     <string name="device_name_input_hint">Introduceţi numele dispozitivului dvs.</string>
     <string name="device_name_input_overlength">Ați depășit limita de caractere</string>
     <string name="device_name_usage_point">Alte dispozitive din apropiere pot vedea acest nume</string>
-    <string name="device_oaid">ID-ul dispozitivului</string>
     <string name="device_picker">Selectați dispozitivul Bluetooth</string>
     <string name="device_rear_camera">Camera posterioară</string>
     <string name="device_screen_consumption">Consum ecran</string>
@@ -4024,14 +4022,11 @@ Interfață UT: %5$s"</string>
     <string name="resolver_settings_label">Aranjați</string>
     <string name="restore_default_apn">Se restabilesc setările APN implicite.</string>
     <string name="restore_default_apn_completed">Resetarea setărilor APN prestabilite a fost finalizată.</string>
-    <string name="restore_device_id_content">Recomandările personalizate vor fi resetate</string>
-    <string name="restore_device_id_title">Resetați ID-ul dispozitivului</string>
-    <string name="restore_dialog_content">Resetarea ID-ului dispozitivului va reseta de asemenea și recomandările personalizate. Resetați acum?</string>
-    <string name="restore_dialog_positive">Resetați</string>
+    <string name="restore_device_id_content">Resetați recomandările personalizate</string>
+    <string name="restore_device_id_title">Restaurați ID-ul dispozitivului</string>
+    <string name="restore_dialog_content">Restaurarea ID-ului dispozitivului va reseta recomandările personalizate.</string>
+    <string name="restore_dialog_positive">Restaurați</string>
     <string name="restore_dialog_title">Atenție</string>
-    <string name="restore_oaid_content">Resetarea ID-ului curent al dispozitivului va crea unul nou. Resetați acum?</string>
-    <string name="restore_oaid_positive">Resetați</string>
-    <string name="restore_oaid_title">Se resetează ID-ul dispozitivului</string>
     <string name="restr_pin_enter_admin_pin">Introduceți codul PIN al administratorului</string>
     <string name="restrict_background_blacklisted">Utilizarea datelor în fundal este dezactivată</string>
     <string name="restrict_bg_app">Restricționați</string>
@@ -4142,13 +4137,12 @@ Această setare afectează toţi utilizatorii acestui telefon."</string>
     <string name="screen_paper_mode_global_summary">Utilizați modul lectură pentru toate aplicaţiile</string>
     <string name="screen_paper_mode_global_title">Toate aplicaţiile</string>
     <string name="screen_paper_mode_hdr_toast">"Modul Citire va fi dezactivat când redați videoclipuri HDR. El se va reactiva în mod automat după încheierea redării."</string>
-    <string name="screen_paper_mode_hdr_toast_new">Modul Citire va fi dezactivat în mod automat pe durata redării videoclipurilor HDR și a verificării amprentei. Dispozitivul va reveni la modul Citire după finalizarea acestor acțiuni.</string>
     <string name="screen_paper_mode_local_summary">Utilizați modul lectură pentru aplicaţiile selectate</string>
     <string name="screen_paper_mode_local_title">Aplicaţiile selectate</string>
     <string name="screen_paper_mode_off_apps_title">Nu utilizați Modul Lectură</string>
     <string name="screen_paper_mode_range_title">Setări</string>
     <string name="screen_paper_mode_set_apps_title">Aplicaţiile modului lectură</string>
-    <string name="screen_paper_mode_summary">Modul Lectură face culorile ecranului mai calde, permițând ochilor să se relaxeze.</string>
+    <string name="screen_paper_mode_summary">Modul Lectură face culorile ecranului mai calde permițând ochilor să se relaxeze</string>
     <string name="screen_paper_mode_time_summary">Setați ora de activare/dezactivare a modului Lectură</string>
     <string name="screen_paper_mode_time_title">Program</string>
     <string name="screen_paper_mode_title">Mod lectură</string>
@@ -5386,7 +5380,7 @@ Amprentele salvate vor fi de asemenea eliminate din acest profil și nu veți ma
     <string name="unlock_set_unlock_pin_title">Parolă numerică</string>
     <string name="unlock_set_unlock_summary">Setaţi o blocare pentru ecran</string>
     <string name="unlock_setup_wizard_fingerprint_details">Odată ce ați setat o metodă de blocare a ecranului, puteți seta și amprenta în Setări &gt; Securitate.</string>
-    <string name="unlogin_account_summary">Toate serviciile Mi. Un singur cont Mi.</string>
+    <string name="unlogin_account_summary">Toate serviciile Mi. Un singur cont Mi</string>
     <string name="unlogin_account_title">Conectați-vă la contul Mi</string>
     <string name="unmount_inform_text">Cardul SD va fi demontat.</string>
     <string name="unmute_sound_title">Reia redarea sunetelor</string>

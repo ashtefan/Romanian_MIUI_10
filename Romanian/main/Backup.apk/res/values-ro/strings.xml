@@ -284,7 +284,7 @@ trebuie să creați o copie de rezervă în iCloud mai întâi."</string>
     <string name="notif_trans_sending_failed">"Trimiterea datelor a eșuat"</string>
     <string name="notif_trans_wait_for_reconnecting">Conexiunea a fost întreruptă. Conectați-vă din nou.</string>
     <string name="old_soft_name">Conectați-vă printr-un cod QR</string>
-    <string name="old_way">Puteți de asemenea genera un cod QR pe noul telefon și să-l scanați folosind telefonul vechi.</string>
+    <string name="old_way">Vă puteți conecta de asemenea printr-un cod QR. Atingeți pentru a genera codul.</string>
     <string name="page_loading">Doar o secundă…</string>
     <string name="password">Parolă</string>
     <string name="password_null">"Parola nu poate fi necompletată"</string>
@@ -633,8 +633,7 @@ Eliberați spațiu sau transferați doar elementele importante."</string>
     <string name="user_notice_message">Unele funcții necesită accesul la internet pentru a funcționa normal.</string>
     <string name="user_notice_title">Atenționare</string>
     <string name="view_password_description">Afișează parola</string>
-    <string name="wait_link">"Deschideți aplicația Mi Mover pe vechiul telefon,
-atingeți \"Sunt expeditor\" și selectați un hotspot la care să vă conectați.
+    <string name="wait_link">"Conectați vechiul dispozitiv la acest hotspot.
 Nu părăsiți această pagină până nu se stabilește conexiunea."</string>
     <string name="waiting">Doar o secundă…</string>
     <string name="wifi_title">Setări Wi-Fi</string>
