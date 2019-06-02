@@ -88,7 +88,7 @@ Ultima copie de rezervă a fost creată la %2$s"</string>
     <string name="find_device_disabled_title">Localizare dispozitiv dezactivată</string>
     <string name="find_device_disabling">Dezactivare…</string>
     <string name="find_device_dspt">Localizați, blocaţi sau resetați dispozitivul de la distanță</string>
-    <string name="find_device_dspt_provision">"Dacă pierdeți dispozitivul, puteţi să accesaţi %s pentru a-l localiza, bloca, sau reseta. Puteți activa sau dezactiva această opţiune în Setări."</string>
+    <string name="find_device_dspt_provision">"Dacă vă pierdeți dispozitivul, puteţi să accesaţi &lt;font color=#ff0000&gt;%s&lt;/font&gt; pentru a-l localiza, bloca, sau reseta. Puteți activa sau dezactiva oricând această opţiune în Setări."</string>
     <string name="find_device_dspt_provision_3">. Puteți activa sau dezactiva această caracteristică oricând în Setări.</string>
     <string name="find_device_dspt_provision_4">Dacă veţi schimba cartela SIM, un mesaj SMS va fi trimis automat pentru a reactiva această funcție.</string>
     <string name="find_device_enabling">Activare…</string>
@@ -96,7 +96,7 @@ Ultima copie de rezervă a fost creată la %2$s"</string>
     <string name="find_device_error_password_changed">Parola contului a fost schimbată recent.</string>
     <string name="find_device_error_server">Eroare de server</string>
     <string name="find_device_error_unknown">Eroare necunoscută.</string>
-    <string name="find_device_gdpr_prompt">Activând Localizarea dispozitivului, sunteți de acord cu Politica noastră de Confidențialitate. Dacă aveți nevoie să revocați autorizarea, vă rugăm să dezactivați această caracteristică.</string>
+    <string name="find_device_gdpr_prompt">Activând Localizarea dispozitivului, sunteți de acord cu &lt;u&gt;&lt;a href="app://com.miui.cloudservice.gdpr.license"&gt;Politica noastră de Confidențialitate&lt;/a&gt;&lt;/u&gt;. Dacă aveți nevoie să revocați autorizarea, vă rugăm să dezactivați această caracteristică.</string>
     <string name="find_device_gdpr_prompt_policy_doc_name">Politica de Confidențialitate</string>
     <string name="find_device_notice_p1">Accesaţi</string>
     <string name="find_device_notice_p3">"pentru a localiza, bloca, sau restabili telefonul dvs.
@@ -283,7 +283,7 @@ Pentru a rezolva acest lucru, fie puteți şterge unele fișierele vechi, fie pu
     <string name="micloud_main_network_error">"Nu se poate conecta la rețea"</string>
     <string name="micloud_main_simple_last_sync_time">Ultima sincronizare： %s</string>
     <string name="micloud_main_simple_off">Sincronizarea este oprită</string>
-    <string name="micloud_main_sync_mode_summary">"Elementele de mai jos vor fi sincronizate în timp real când este activată această funcție. Acest lucru poate crește consumul de energie al telefonului."</string>
+    <string name="micloud_main_sync_mode_summary">Sincronizați toate elementele cu excepția fotografiilor și a videoclipurilor în timp real. Activarea acestei funcții va crește consumul de energie al telefonului."</string>
     <string name="micloud_main_sync_mode_title">Sincronizare în timp real</string>
     <string name="micloud_main_wait_charge">Încărcați complet acumulatorul pentru a relua sincronizarea</string>
     <string name="micloud_main_wait_charge_sleep">Închideți ecranul și încărcați complet acumulatorul pentru a relua sincronizarea</string>

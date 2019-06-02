@@ -348,9 +348,13 @@
     <string name="news_change">Modificați</string>
     <string name="no_network">"Nu se poate conecta la rețea, încercați mai târziu"</string>
     <string name="no_network_btn">Reîncercați</string>
+    <string name="notification_garbage_cleanup_summary">Coșul de gunoi a atins %s</string>
+    <string name="notification_garbage_cleanup_title">Curățați fișierele inutile</string>
+    <string name="notification_low_memory_cache_summary">Mai puțin de 1,5 GB spațiu de stocare disponibil</string>
+    <string name="notification_low_memory_cache_title">Goliți memoria cache</string>
+    <string name="notification_low_memory_deepclean_summary">Curățarea profundă poate elibera spațiul de stocare din dispozitivul dumneavoastră</string>
+    <string name="notification_low_memory_deepclean_title">Spațiul de stocare este redus</string>
     <string name="notification_summary_after_auto_cleanup">Curăţat %s.</string>
-    <string name="notification_summary_of_garbage_cleanup">Atingeți pentru a elibera spațiu.</string>
-    <string name="notification_title_of_garbage_cleanup">Dimensiune coş de reciclare: %s</string>
     <string name="notify_when">Atenționează-mă când dimensiunea coșului de gunoi atinge 100 MB</string>
     <string name="ok">OK</string>
     <string name="one_tap_clean_GB">%s GB</string>

@@ -276,6 +276,9 @@
     <string name="cleaner_video_description">Ștergeți videoclipurile care ocupă mult spațiu de stocare</string>
     <string name="cleaner_video_pick_delete_selected">Ștergeți videoclipurile selectate</string>
     <string name="cleaner_video_title">Ștergeți videoclipurile</string>
+    <string name="clear_dup_medias">Ștergeți fotografiile dublate</string>
+    <string name="clear_dup_success">Șterse cu succes</string>
+    <string name="clear_dup_tip">Se șterg fotografiile dublate</string>
     <string name="click_download_gif">Apăsați pentru a descărca imaginea gif</string>
     <string name="click_top_right">Atingeți pictograma din dreapta-sus</string>
     <string name="close">Închideți</string>

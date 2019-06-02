@@ -145,7 +145,7 @@
     <string name="app_manager_app_storage">"Stocare: "</string>
     <string name="app_manager_app_traffic">"Utilizare date: "</string>
     <string name="app_manager_app_update">Actualizări</string>
-    <string name="app_manager_app_version_name">Versiune:</string>
+    <string name="app_manager_app_version_name">"Versiune: "</string>
     <string name="app_manager_appupdate_remind">Notificare despre actualizări</string>
     <string name="app_manager_as_dlg_msg">Dacă permiteți aplicațiilor să pornească în mod automat este posibil să fie solicitată mai multă memorie RAM și să crească consumul de energie. Permiteți oricum?</string>
     <string name="app_manager_as_dlg_title">Atenție</string>
@@ -889,7 +889,7 @@ Toate datele de pe telefon pot fi șterse iar parola pentru Blocarea ecranului p
     <string name="first_aid_item4_content">Acumulator</string>
     <string name="first_aid_item5_content">Alte probleme</string>
     <string name="first_aid_result_feedback_button">Trimiteți</string>
-    <string name="first_aid_result_feedback_summary">"Nu s-a găsit nicio problemă dar eu am remarcat câteva."</string>
+    <string name="first_aid_result_feedback_summary">"Scanarea de securitate nu a găsit nicio problemă, dar eu am remarcat câteva."</string>
     <string name="first_aid_result_feedback_title">Feedback</string>
     <string name="first_aid_result_summary_normal">Totul arată bine!</string>
     <string name="first_aid_result_summary_not_finished">"Scanarea nu s-a finalizat. Unele riscuri pot fi nedectate."</string>
@@ -1262,7 +1262,7 @@ răspunsul operatorului"</string>
     <string name="managed_user_title">Toate aplicațiile de Servici</string>
     <string name="manual_input_free_traffic">Setaţi utilizarea datelor în afara orelor de vârf</string>
     <string name="manual_input_traffic">Setaţi utilizarea datelor</string>
-    <string name="manual_item_white_list_summary">Se împiedică optimizarea aplicațiilor selectate</string>
+    <string name="manual_item_white_list_summary">Se împiedică optimizarea elementelor selectate</string>
     <string name="manual_item_white_list_title">Excepţii</string>
     <string name="mark_agent">Blocare apeluri de la agenții</string>
     <string name="mark_agent_block">Raportat ca agenție</string>
@@ -1463,6 +1463,8 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="note_sms_none">Niciun mesaj</string>
     <string name="noti_back_diving_mode_title">S-a activat modul Imersiv. Atingeți pentru a dezactiva.</string>
     <string name="notification_battery_consume_abnormal_title">Acumulatorul se descărcă foarte rapid</string>
+    <string name="notification_battery_scan_consume_abnormal_summary">Atingeți pentru a remedia problema</string>
+    <string name="notification_battery_scan_consume_abnormal_title_set">%s descarcă acumulatorul</string>
     <string name="notification_exit_power_save_mode">Economisirea acumulatorului este dezactivată</string>
     <string name="notification_exit_power_save_mode_subtitle">Acumulator încărcat %s.</string>
     <string name="notification_mask_summary">Ascunde conținutul notificărilor din Blocarea ecranului și din Perdeaua de notificări</string>
@@ -1581,6 +1583,13 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="password_type">Schimbați parola</string>
     <string name="password_type_underline">&lt;u&gt;Schimbați parola&lt;/u&gt;</string>
     <string name="password_xspace_forget_pattern_message">Pentru a modifica parola Spațiului secundar, trebuie să ștergeți Spațiul Secundar curent și să creați un altul.</string>
+    <string name="pc_abnormal_scan_button_text">Închideți aplicațiile</string>
+    <string name="pc_abnormal_scan_reason_prevent_standby">Previne intrarea sistemului în modul repaos</string>
+    <string name="pc_abnormal_scan_reason_reconnect">Încearcă să se conecteze prea des la rețea</string>
+    <string name="pc_abnormal_scan_reason_runtime_exception">Rulează anormal</string>
+    <string name="pc_abnormal_scan_reason_scan_wifi">Caută prea des Wi-Fi-ul</string>
+    <string name="pc_abnormal_scan_reason_use_GPS">Utilizează serviciile de localizare prea des</string>
+    <string name="pc_abnormal_scan_reason_wake_system">Trezește sistemul prea des</string>
     <string name="pc_activity_title">Optimizați utilizarea acumulatorului</string>
     <string name="pc_battery_history_show_imei">IMEI:</string>
     <string name="pc_install_manager">Instalare prin USB</string>

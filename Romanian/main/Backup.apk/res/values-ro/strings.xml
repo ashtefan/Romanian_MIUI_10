@@ -124,6 +124,10 @@ https://appleid.apple.com/#!&amp;page=signin to close"</string>
     <string name="dialog_app_upgrade_download">Actualizați</string>
     <string name="dialog_app_upgrade_exit">Ieșiți</string>
     <string name="dialog_app_upgrade_message">Este disponibilă o nouă versiune a Mi Mover. Actualizați Mi Mover acum?</string>
+    <string name="dialog_backup_password_backup_tips">"Nu se pot face copii de rezervă cât timp parola pentru copiile de rezervă este activă. Dezactivați parola."</string>
+    <string name="dialog_backup_password_cancel">Renunțați</string>
+    <string name="dialog_backup_password_change_machine_tips">"Nu veți putea transfera copiile de rezervă protejate cu parolă. Dezactivați parola înainte de a utiliza Mi Mover."</string>
+    <string name="dialog_backup_password_to_settings">Setări</string>
     <string name="dir_date_format">dd-MM-yyyy_HH-mm-ss</string>
     <string name="disable_encrypt_description">Nu cripta</string>
     <string name="disable_encrypt_title">Dezactivați criptarea</string>
@@ -174,6 +178,7 @@ https://appleid.apple.com/#!&amp;page=signin to close"</string>
     <string name="flash_drive_restore_btn">Restaurați de pe dispozitivul USB</string>
     <string name="flash_drive_search_backup_files">"Se caută copiile de rezervă pe dispozitivul USB…
 Nu modificați și nu redenumiți fișierele."</string>
+    <string name="gallery_summary">Setări pentru Galerie (nu include fotografile)</string>
     <string name="guarded_mode_dialog_backup_message">"Nu se pot crea copii de rezervă în modul Vizitator."</string>
     <string name="guarded_mode_dialog_title">"Modul Vizitator este activat"</string>
     <string name="guarded_mode_dialog_transfer_message">"Nu se poate utiliza aplicația Mi Mover în modul Vizitator."</string>
@@ -279,7 +284,7 @@ trebuie să creați o copie de rezervă în iCloud mai întâi."</string>
     <string name="notif_trans_sending_failed">"Trimiterea datelor a eșuat"</string>
     <string name="notif_trans_wait_for_reconnecting">Conexiunea a fost întreruptă. Conectați-vă din nou.</string>
     <string name="old_soft_name">Conectați-vă printr-un cod QR</string>
-    <string name="old_way">Vă puteți conecta de asemenea printr-un cod QR. Atingeți pentru a genera codul.</string>
+    <string name="old_way">Puteți de asemenea genera un cod QR pe noul telefon și să-l scanați folosind telefonul vechi.</string>
     <string name="page_loading">Doar o secundă…</string>
     <string name="password">Parolă</string>
     <string name="password_null">"Parola nu poate fi necompletată"</string>
@@ -621,13 +626,15 @@ Eliberați spațiu sau transferați de mai multe ori fișiere mai mici."</string
     <string name="usb_trans_old_phone_low_space_title">Nu există spațiu de stocare suficient</string>
     <string name="usb_trans_select_data_no_space">"Doar %s este disponibil pe stocarea USB.
 Eliberați spațiu sau transferați doar elementele importante."</string>
+    <string name="user_feedback">Feedback</string>
     <string name="user_name">ID-ul Apple sau adresa de e-mail</string>
     <string name="user_name_null">"Numele de utilizator nu poate rămâne necompletat"</string>
     <string name="user_notice_declaration_ignore">"Nu arăta din nou"</string>
     <string name="user_notice_message">Unele funcții necesită accesul la internet pentru a funcționa normal.</string>
     <string name="user_notice_title">Atenționare</string>
     <string name="view_password_description">Afișează parola</string>
-    <string name="wait_link">"Conectați vechiul dispozitiv la acest hotspot.
+    <string name="wait_link">"Deschideți aplicația Mi Mover pe vechiul telefon,
+atingeți \"Sunt expeditor\" și selectați un hotspot la care să vă conectați.
 Nu părăsiți această pagină până nu se stabilește conexiunea."</string>
     <string name="waiting">Doar o secundă…</string>
     <string name="wifi_title">Setări Wi-Fi</string>

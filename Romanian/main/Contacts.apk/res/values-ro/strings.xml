@@ -665,6 +665,9 @@ Motivul: \"%s\""</string>
     <string name="menu_set_ring_tone">Setaţi ton apel</string>
     <string name="menu_settings">Setări</string>
     <string name="menu_share">Distribuiţi</string>
+    <string name="menu_share_qrcode">Cod QR</string>
+    <string name="menu_share_text">Text</string>
+    <string name="menu_share_vcard_file">Fișier</string>
     <string name="menu_show_all_calls">Afişaţi toate apelurile</string>
     <string name="menu_show_voicemails_only">Afişaţi numai mesajele vocale</string>
     <string name="menu_splitAggregate">Separaţi</string>
@@ -1048,8 +1051,10 @@ Apăsaţi pictograma Îmbinare de mai jos pentru a începe.</string>
     <string name="set_data_package">Setați mai întâi planul de date</string>
     <string name="set_default">Setaţi ca prestabilit</string>
     <string name="set_photo_failed_msg">"Nu s-a putut atribui fotografia"</string>
+    <string name="share_contact_as">Partajați contactul ca</string>
     <string name="share_error">Acest contact nu poate fi distribuit</string>
     <string name="share_over_limit">Nu se pot partaja mai mult de 1000 de contacte</string>
+    <string name="share_qrcode">Partajați codul QR</string>
     <string name="share_via">Trimiteţi utilizând</string>
     <string name="share_visible_contacts">Distribuiţi contactele vizibile din agendă</string>
     <string name="shortcutActivityTitle">Alegeţi un contact din agendă pentru a crea o comandă rapidă</string>
