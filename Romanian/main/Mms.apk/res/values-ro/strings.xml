@@ -261,6 +261,7 @@
     <string name="guild_add_recipients">Atingeţi pentru a adăuga destinatari din agendă</string>
     <string name="guild_msim_switcher">Atingeți pentru a comuta cartelele SIM</string>
     <string name="has_invalid_recipient">Destinatari nevalizi: &lt;%1$s&gt;</string>
+    <string name="heduohao_sub_sim_card">Sub</string>
     <string name="hidden_sender_address">Adresă de expeditor ascunsă</string>
     <string name="hold_to_talk">Mențineți pentru a vorbi</string>
     <string name="hybrid_check_network">Setări de rețea</string>
@@ -586,6 +587,7 @@
     <string name="received_label">"Primit: "</string>
     <string name="recipient_editor_count_format">%d</string>
     <string name="recipient_label">"Destinatar: "</string>
+    <string name="recipients_contain_sub_sim_number">"Se pare că există număr de pe cartela SIM secundară printre destinatari. Trimiteți acest mesaj utilizând cartela SIM secundară."</string>
     <string name="recipients_over_size">Prea mulţi destinatari.</string>
     <string name="recommend_bar_cancel">Ignorați</string>
     <string name="recommend_bar_message_mx">Mesageria Mi vă permite să trimiteți mesaje către alți utilizatori MIUI fără a fi taxat.</string>
@@ -761,6 +763,9 @@
     <string name="storage_limits_setting">Setaţi limitele</string>
     <string name="storage_limits_setting_dismiss">Fără limite</string>
     <string name="storage_unavailable">Spaţiu indisponibil</string>
+    <string name="sub_sim_card">Sub</string>
+    <string name="sub_sim_card_indicator">Sub%d</string>
+    <string name="sub_sim_not_support_mms">"Nu se poate trimite mesajul MMS utilizând cartela SIM secundară"</string>
     <string name="subject_hint">Subiect</string>
     <string name="subject_label">"Subiect: "</string>
     <string name="subscribe">Abonați-vă</string>
