@@ -165,6 +165,7 @@ https://appleid.apple.com/#!&amp;page=signin to close"</string>
     <string name="feature_title_call_log">Istoric apeluri</string>
     <string name="feature_title_contacts">Contacte</string>
     <string name="feature_title_mms">MMS</string>
+    <string name="feature_title_mms_setting">Setări pentru MMS</string>
     <string name="feature_title_sms">Mesaje</string>
     <string name="file_uploading">Încărcare…</string>
     <string name="files_backup_info">Toate fișierele de pe cardul SD(inclusiv fotografii, melodii, videoclipuri, date ale aplicațiilor, etc.)</string>

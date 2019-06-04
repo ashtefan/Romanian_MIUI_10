@@ -209,6 +209,9 @@
     <string name="setting_alarm_arriving_summary">Afișează o notificare înainte de a suna alarma</string>
     <string name="setting_alarm_arriving_title">Notificare înainte de alarmă</string>
     <string name="settings">Setări</string>
+    <string name="shortcut_new_alarm">Setați alarma</string>
+    <string name="shortcut_start_timer">Porniți cronometrul</string>
+    <string name="shortcut_stop_watch">Porniți temporizatorul</string>
     <string name="shut_down_keep_screen">"Ecranul nu va fi păstrat pornit"</string>
     <string name="shutdown_alarm_disable_summary">"Alarma nu va mai suna după ce închideți telefonul"</string>
     <string name="shutdown_alarm_enable_summary">"Alarma va suna dacă este setată peste cel puțin 5 minute după ce opriți telefonul"</string>

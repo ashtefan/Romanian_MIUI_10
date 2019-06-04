@@ -989,6 +989,7 @@ Toate datele de pe telefon pot fi șterse iar parola pentru Blocarea ecranului p
     <string name="gateway_exception_summary2">Nu se poate conecta la server</string>
     <string name="gateway_exception_title">Testare router</string>
     <string name="gb_ad_game_size"> MB</string>
+    <string name="gb_add_game_hint">Adăugați elemente din lista de aplicații</string>
     <string name="gb_advance_settings_edge_gear1">Niciunul</string>
     <string name="gb_advance_settings_edge_gear2">Mic</string>
     <string name="gb_advance_settings_edge_gear3">Mediu</string>
@@ -1026,6 +1027,7 @@ Toate datele de pe telefon pot fi șterse iar parola pentru Blocarea ecranului p
     <string name="gb_first_window_summary">Crește viteza și performanța la nivel de sistem</string>
     <string name="gb_first_window_title">Creșterea vitezei în jocuri</string>
     <string name="gb_get_gift_right_now">Verificați acum</string>
+    <string name="gb_global_settings">Setări generale</string>
     <string name="gb_have_signed">Verificat astăzi</string>
     <string name="gb_msg_completely_shielded">Ascundeți mesajele</string>
     <string name="gb_msg_completely_shielded_summary">Ascundeți</string>
