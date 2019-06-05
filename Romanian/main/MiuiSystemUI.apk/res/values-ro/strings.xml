@@ -1471,8 +1471,6 @@ De asemenea, sunteți conectat la o rețea VPN, care vă poate monitoriza activi
     <string name="quick_settings_settings_label">Setări</string>
     <string name="quick_settings_sync_label">Sincronizare</string>
     <string name="quick_settings_tethering_label">Tethering</string>
-    <string name="quick_settings_tiles_retail_mode">celulă,economizor acumulator,powermode,lanternă,rotire,locație</string>
-    <string name="quick_settings_tiles_stock">celulă,wi-fi,lanternă,silențios,captură ecran,bt,iluminare automată,avion,blocare ecran,gps,rotire,mod lectură,mod silențios,economizor acumulator,mod extrem de economisire,personalizat(com.milink.service/com.milink.ui.service.MiLinkTileService),drivemode,powermode,vibrate,hotspot,sync,screenbutton,nfc,edit</string>
     <string name="quick_settings_time_label">Ora</string>
     <string name="quick_settings_toast_drag_to_enable_custom_tile">Pentru a adăuga un element, apăsați și mențineți apăsat iar apoi mutați-l în partea de sus a panoului.</string>
     <string name="quick_settings_user_label">Eu</string>
