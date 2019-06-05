@@ -958,6 +958,11 @@ Toate datele de pe telefon pot fi șterse iar parola pentru Blocarea ecranului p
     <string name="gamebooster_network_dialog_title">"Unele caracteristici nu sunt disponibile"</string>
     <string name="gamebox_app_not_find">Instalați mai întâi aplicația.</string>
     <string name="gamebox_browser_not_find">Instalați browser-ul Mi mai întâi</string>
+    <string name="gamebox_display_1">Niciunul</string>
+    <string name="gamebox_display_2">Saturat</string>
+    <string name="gamebox_display_3">Luminos</string>
+    <string name="gamebox_display_4">Luminos și saturat</string>
+    <string name="gamebox_display_set">"Vizualizare îmbunătățită: "</string>
     <string name="gamebox_dnd">DND</string>
     <string name="gamebox_func_antimsg_close">Notificările plutitoare sunt permise acum</string>
     <string name="gamebox_func_antimsg_open">Notificările plutitoare sunt restricționate acum</string>
