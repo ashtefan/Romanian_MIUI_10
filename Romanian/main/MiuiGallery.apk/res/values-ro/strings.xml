@@ -15,7 +15,7 @@
     <string name="add_to_album_success">Adăugată în album</string>
     <string name="add_to_album_tip">Fotografii din Cloud</string>
     <string name="add_to_favorites_failed">"Nu s-a putut adăuga în Favorite"</string>
-    <string name="add_to_secret_exist">Fotografia există deja în albumul secret</string>
+    <string name="add_to_secret_exist">Acest element există deja în albumul secret</string>
     <string name="add_to_secret_fail">Nu s-a putut adăuga în albumul secret</string>
     <string name="add_to_secret_failed_with_reason">"Nu se poate adăuga în albumul secret. %1$s."</string>
     <string name="add_to_secret_successful">Adăugat în albumul secret</string>
@@ -201,6 +201,13 @@
     <string name="begin_share_toast">Creați separat un Album al Copilului înainte de a-l partaja?</string>
     <string name="blank_app_name"/>
     <string name="browse_category_title">Răsfoiți</string>
+    <string name="burst_image_download_item_title" formatted="false">Descărcați originalul (%s|%s)</string>
+    <string name="burst_preview_title">Fotografiere în rafală</string>
+    <string name="burst_save_all">Salvați-le pe toate</string>
+    <string name="burst_save_choice_title" formatted="false">S-au selectat %d din %d</string>
+    <string name="burst_save_confirm_dialog_title">Se salvează fotografiile</string>
+    <string name="burst_save_error_msg">"Nu s-au putut salva"</string>
+    <string name="burst_save_processing">Se procesează…</string>
     <string name="buy_member_tip">Deveniți membru</string>
     <string name="by_email">E-mail</string>
     <string name="by_others">Altele</string>
@@ -362,6 +369,8 @@
     <string name="custom_select_title_select_item">Selectați elementele</string>
     <string name="debugging_info">Informațiile de depanare au fost generate cu succes. Atingeți OK pentru a deschide dosarul.</string>
     <string name="debugging_tip">Se generează raportul erorilor</string>
+    <string name="decrypt_video_failed">"Nu s-a putut pregăti videoclipul"</string>
+    <string name="decrypting_video">Se pregătește videoclipul…</string>
     <string name="default_relation_name">Grup nou</string>
     <string name="define_by_user">Personalizat</string>
     <string name="delete">Ştergeţi</string>
@@ -417,6 +426,10 @@
     <string name="downloading_dialog_message">Puteți selecta calitatea imaginilor descărcate sau dezactiva descărcarea automată din Setări.</string>
     <string name="downloading_title">Se descarcă fotografiile din Mi Cloud</string>
     <string name="edit_baby_info">Vizualizaţi informaţiile despre copil</string>
+    <string name="editor_cancel">Renunțați</string>
+    <string name="editor_export">Salvați</string>
+    <string name="editor_talkback_redo">Reluați</string>
+    <string name="editor_talkback_undo">Anulați</string>
     <string name="email_picker_title">Adăugaţi un e-mail distribuit</string>
     <string name="empty_description_conditions">Reamintiți-vă momentele importante</string>
     <string name="empty_description_no_cards">Reamintiți-vă momentele importante</string>
@@ -590,7 +603,7 @@ efecte pentru fotografii"</string>
     <string name="filter_people_movie">Film</string>
     <string name="filter_people_nature">Natural</string>
     <string name="filter_people_pink">Îmbujorat</string>
-    <string name="filter_people_riddle">Ghicitoare</string>
+    <string name="filter_people_riddle">Bomboană</string>
     <string name="filter_people_sepia">Sepia</string>
     <string name="filter_people_story">Poveste</string>
     <string name="filter_people_tea">Ceai</string>
@@ -615,6 +628,7 @@ efecte pentru fotografii"</string>
     <string name="filter_sky_sunset">Apus</string>
     <string name="finish_create_baby_album_toast">A fost creat un album pentru \"%s\" în Mi Cloud</string>
     <string name="finish_fill_baby">Creare</string>
+    <string name="first_time_add_video_to_secret_tips">Actualizați aplicația Galerie pentru a putea ascunde videoclipuri</string>
     <string name="flash_off">Nu s-a utilizat blițul</string>
     <string name="flash_on">S-a utilizat blițul</string>
     <string name="frame_not_support_image_ratio">"Această rată de aspect nu este suportată"</string>
@@ -905,7 +919,7 @@ pentru a personaliza Galeria"</string>
     <string name="photo_editor_crop_rotation_format">%d°</string>
     <string name="photo_editor_doodle">Mâzgălitură</string>
     <string name="photo_editor_filter">Filtru</string>
-    <string name="photo_editor_font_default">&gt;Mi Lanting (Regular)</string>
+    <string name="photo_editor_font_default">Mi Lanting (Obișnuit)</string>
     <string name="photo_editor_frame">Ramă</string>
     <string name="photo_editor_label">Editați</string>
     <string name="photo_editor_long_crop">Decupare</string>
@@ -936,6 +950,7 @@ pentru a personaliza Galeria"</string>
     <string name="photo_editor_navigator_module_downloading">Se descarcă %s…</string>
     <string name="photo_editor_navigator_need_download">Conectați-vă la internet pentru a descărca %s.</string>
     <string name="photo_editor_remove_watermark">Eliminați amprenta</string>
+    <string name="photo_editor_remove_watermark_on">Adăugați amprenta</string>
     <string name="photo_editor_remover">Ștergeți</string>
     <string name="photo_editor_rotate">Rotire</string>
     <string name="photo_editor_saving">Se salvează…</string>
@@ -944,6 +959,7 @@ pentru a personaliza Galeria"</string>
     <string name="photo_editor_talkback_confirm">Confirmați</string>
     <string name="photo_editor_talkback_crop_16_9">Șaisprezece pe nouă</string>
     <string name="photo_editor_talkback_crop_1_1">Unu la unu</string>
+    <string name="photo_editor_talkback_crop_2_3">Doi pe trei</string>
     <string name="photo_editor_talkback_crop_3_4">Trei pe patru</string>
     <string name="photo_editor_talkback_crop_4_3">Patru pe trei</string>
     <string name="photo_editor_talkback_crop_9_16">Nouă pe șaisprezece</string>
@@ -1213,6 +1229,12 @@ pentru a personaliza Galeria"</string>
     <string name="slim_running">Se optimizează…</string>
     <string name="slim_space">eliberat</string>
     <string name="slim_stop">Opriți optimizarea</string>
+    <string name="special_type_eye_repair">S-au remediat ochii închiși utilizând AI</string>
+    <string name="special_type_hdr">HDR</string>
+    <string name="special_type_night_beauty">Înfrumusețare AI în lumină redusă</string>
+    <string name="special_type_night_mode">Mod noapte AI</string>
+    <string name="special_type_portrait">Portret pictură AI</string>
+    <string name="special_type_wide_angle">Unghi foarte larg AI</string>
     <string name="start_debug">Reparare Galerie</string>
     <string name="start_to_use_face_albumset">Sortare după persoane</string>
     <string name="sticker_ad">Fluturași</string>
@@ -1334,14 +1356,14 @@ pentru a personaliza Galeria"</string>
     <string name="video_editor_adjust">Intensificați</string>
     <string name="video_editor_analyzing">Analizare videoclip…</string>
     <string name="video_editor_audio">Audio</string>
+    <string name="video_editor_audio_antiquity">Retro</string>
     <string name="video_editor_audio_custom">Selectați</string>
-    <string name="video_editor_audio_dynamic">Techno</string>
-    <string name="video_editor_audio_love">Romantic</string>
-    <string name="video_editor_audio_memory">Memory</string>
+    <string name="video_editor_audio_dream">Vis</string>
+    <string name="video_editor_audio_electronics">Electro</string>
     <string name="video_editor_audio_none">Niciunul</string>
-    <string name="video_editor_audio_rock">Rock</string>
-    <string name="video_editor_audio_sad">Baladă</string>
-    <string name="video_editor_audio_young">Ukulele</string>
+    <string name="video_editor_audio_quiet">Zen</string>
+    <string name="video_editor_audio_summertime">Vară</string>
+    <string name="video_editor_audio_vitality">Vigoare</string>
     <string name="video_editor_auto_trim">Auto ajustare</string>
     <string name="video_editor_auto_trim_tip">Auto ajustare…</string>
     <string name="video_editor_cancel">Renunțați</string>

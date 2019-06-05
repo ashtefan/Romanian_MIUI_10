@@ -60,6 +60,10 @@
         <item quantity="other">%d Intrări Asistent inteligent</item>
         <item quantity="one">%d Intrare Asistent inteligent</item>
     </plurals>
+    <plurals name="dirty_phrase_count">
+        <item quantity="other">%d fraze frecvente</item>
+        <item quantity="one">%d frază frecventă</item>
+    </plurals>
     <plurals name="dirty_secretphoto_count">
         <item quantity="other">"%d fotografii ascunse nu sunt sincronizate. Deconectați-vă după ce toate elementele sunt sincronizate pentru a le păstra, altfel vor fi șterse."</item>
         <item quantity="one">"%d fotografie ascunsă nu este sincronizată. Deconectați-vă după ce toate elementele sunt sincronizate pentru a le păstra, altfel vor fi șterse."</item>

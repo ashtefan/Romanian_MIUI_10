@@ -124,9 +124,12 @@ https://appleid.apple.com/#!&amp;page=signin to close"</string>
     <string name="dialog_app_upgrade_download">Actualizați</string>
     <string name="dialog_app_upgrade_exit">Ieșiți</string>
     <string name="dialog_app_upgrade_message">Este disponibilă o nouă versiune a Mi Mover. Actualizați Mi Mover acum?</string>
+    <string name="dialog_backup_password_auto_backup_tips">"Nu se pot face copii de rezervă în mod automat cât timp parola pentru copiile de rezervă este activă. Dezactivați mai întâi parola."</string>
     <string name="dialog_backup_password_backup_tips">"Nu se pot face copii de rezervă cât timp parola pentru copiile de rezervă este activă. Dezactivați parola."</string>
     <string name="dialog_backup_password_cancel">Renunțați</string>
+    <string name="dialog_backup_password_change_device_restore_tips">"Nu se poate utiliza Mi Mover cât timp parola pentru copiile de rezervă este activă. Dezactivați mai întâi parola."</string>
     <string name="dialog_backup_password_change_machine_tips">"Nu veți putea transfera copiile de rezervă protejate cu parolă. Dezactivați parola înainte de a utiliza Mi Mover."</string>
+    <string name="dialog_backup_password_restore_tips">"Nu se pot restaura elementele cât timp parola pentru copiile de rezervă este activă. Dezactivați mai întâi parola.."</string>
     <string name="dialog_backup_password_to_settings">Setări</string>
     <string name="dir_date_format">dd-MM-yyyy_HH-mm-ss</string>
     <string name="disable_encrypt_description">Nu cripta</string>
@@ -165,6 +168,7 @@ https://appleid.apple.com/#!&amp;page=signin to close"</string>
     <string name="feature_title_call_log">Istoric apeluri</string>
     <string name="feature_title_contacts">Contacte</string>
     <string name="feature_title_mms">MMS</string>
+    <string name="feature_title_mms_setting">Setări mesagerie</string>
     <string name="feature_title_sms">Mesaje</string>
     <string name="file_uploading">Încărcare…</string>
     <string name="files_backup_info">Toate fișierele de pe cardul SD(inclusiv fotografii, melodii, videoclipuri, date ale aplicațiilor, etc.)</string>
@@ -201,6 +205,7 @@ Nu modificați și nu redenumiți fișierele."</string>
     <string name="hsa_verify_failed_message">Autentificarea în doi pași a eșuat. Puteți reîncerca sau dezactiva autentificarea în doi pași.</string>
     <string name="hsa_verify_retry">Încercați din nou</string>
     <string name="hsa_verify_shutdown">Dezactivați</string>
+    <string name="iCloud_ID_verification_tip">"Introduceți codul de verificare prin SMS trimis la numărul de telefon asociat cu ID-ul dumneavoastră Apple. Ignorați codul pop-up afișat pe ecranul iPhone-ului."</string>
     <string name="icloud_backup_tip">Conectați-vă la iCloud utilizând vechiului telefon iOS</string>
     <string name="icloud_how_to_backup_tip_steps">"1. Accesați Setări din telefonul dvs. iOS și apoi alegeți iCloud.
 2. Comutați butoanele pentru contacte și alte elemente.
@@ -427,6 +432,7 @@ Vă rugăm eliberați cel puțin %s."</string>
     <string name="trans_cancel_selection_message">Dacă părăsiți Mi Mover, transferul în derulare va fi întrerupt. Așteptați până la încheierea transferului.</string>
     <string name="trans_cancel_selection_title">Rămâneți în Mi Mover</string>
     <string name="trans_cancelling">Oprire transfer…</string>
+    <string name="trans_complete_restoring">Transfer încheiat cu succes. Se restaurează datele aplicațiilor…</string>
     <string name="trans_connect_failed_device_incompatible">"Dispozitivul nu este compatibil. Opriți transferul și încercați din nou."</string>
     <string name="trans_connect_failed_message">"Nu s-a putut conecta; reîncercați mai târziu sau reporniți telefonul. Pe celălalt telefon accesați Setări &gt; Setări adiționale &gt; Mi Mover, apăsați [Sunt expeditor] sau lansați aplicația Mi Mover după repornirea telefonului"</string>
     <string name="trans_connect_failed_title">"Nu s-a putut conecta"</string>

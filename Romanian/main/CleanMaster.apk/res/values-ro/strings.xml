@@ -386,7 +386,7 @@
     <string name="pref_content_cleanup_white_list_none">Nimic</string>
     <string name="pref_summary_auto_clean_and_alert">Setaţi curăţarea automată</string>
     <string name="pref_summary_auto_update_cleanup_db">Actualizat %s</string>
-    <string name="pref_summary_cleanup_white_list">Se împiedică ca aplicațiile selectate să fie curățate</string>
+    <string name="pref_summary_cleanup_white_list">Se împiedică curățarea fișierelor selectate</string>
     <string name="pref_summary_expand_cache_group">Se afișează detaliile cache-ului în mod automat</string>
     <string name="pref_summary_garbage_auto_clean_content">Selectați ce elemente se vor curăța automat</string>
     <string name="pref_summary_garbage_cleanup_check_size">Curățare automată atunci când coşul de reciclare ajunge la o anumită dimensiune</string>

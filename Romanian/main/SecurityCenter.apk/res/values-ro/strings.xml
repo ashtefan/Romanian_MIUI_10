@@ -958,6 +958,11 @@ Toate datele de pe telefon pot fi șterse iar parola pentru Blocarea ecranului p
     <string name="gamebooster_network_dialog_title">"Unele caracteristici nu sunt disponibile"</string>
     <string name="gamebox_app_not_find">Instalați mai întâi aplicația.</string>
     <string name="gamebox_browser_not_find">Instalați browser-ul Mi mai întâi</string>
+    <string name="gamebox_display_1">Niciunul</string>
+    <string name="gamebox_display_2">Saturat</string>
+    <string name="gamebox_display_3">Luminos</string>
+    <string name="gamebox_display_4">Luminos și saturat</string>
+    <string name="gamebox_display_set">"Vizualizare îmbunătățită: "</string>
     <string name="gamebox_dnd">DND</string>
     <string name="gamebox_func_antimsg_close">Notificările plutitoare sunt permise acum</string>
     <string name="gamebox_func_antimsg_open">Notificările plutitoare sunt restricționate acum</string>
@@ -989,6 +994,7 @@ Toate datele de pe telefon pot fi șterse iar parola pentru Blocarea ecranului p
     <string name="gateway_exception_summary2">Nu se poate conecta la server</string>
     <string name="gateway_exception_title">Testare router</string>
     <string name="gb_ad_game_size"> MB</string>
+    <string name="gb_add_game_hint">Adăugați elemente din lista de aplicații</string>
     <string name="gb_advance_settings_edge_gear1">Niciunul</string>
     <string name="gb_advance_settings_edge_gear2">Mic</string>
     <string name="gb_advance_settings_edge_gear3">Mediu</string>
@@ -1026,6 +1032,7 @@ Toate datele de pe telefon pot fi șterse iar parola pentru Blocarea ecranului p
     <string name="gb_first_window_summary">Crește viteza și performanța la nivel de sistem</string>
     <string name="gb_first_window_title">Creșterea vitezei în jocuri</string>
     <string name="gb_get_gift_right_now">Verificați acum</string>
+    <string name="gb_global_settings">Setări generale</string>
     <string name="gb_have_signed">Verificat astăzi</string>
     <string name="gb_msg_completely_shielded">Ascundeți mesajele</string>
     <string name="gb_msg_completely_shielded_summary">Ascundeți</string>
@@ -1818,6 +1825,7 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="prompt_input_time_illegal">"Nu se poate seta această oră; modificați-o și încercați din nou"</string>
     <string name="protocol_exception_title">Diagnosticare protocol de rețea</string>
     <string name="protocol_loop_back_exception_summary">Bucla locală de testare a eșuat. Pentru a raporta această problemă către MIUI, deschideţi aplicaţia Raportare probleme și trimiteţi un jurnal de pe dispozitivul dvs.</string>
+    <string name="qucick_replay_instrument">Utilizați răspunsuri rapide în notificările aplicațiilor de mesagerie selectate (de ex. WhatsApp, WeChat, QQ)</string>
     <string name="quick_optimize_checking">Scanare</string>
     <string name="quick_optimize_no_fix_issue_subtitle">"Nu s-a putut extinde durata de viață a acumulatorului"</string>
     <string name="quick_optimize_no_fix_issue_title">"Nu s-au putut rezolva problemele legate de acumulator"</string>
@@ -1827,6 +1835,8 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="quick_optimize_sub_summary_text">S-a prelungit durata de viață a acumulatorului cu %s</string>
     <string name="quick_optimize_suggest_battery_consume_too_fast">Telefonul se descarcă rapid; rezolvați problema</string>
     <string name="quick_optimize_suggest_battery_over_heat">Telefonul se încălzește excesiv; rezolvați problema</string>
+    <string name="quick_replay_list_title">Aplicații disponibile</string>
+    <string name="quick_reply_title">Răspunsuri rapide</string>
     <string name="quite_all_string">Renunțați</string>
     <string name="reach_daily_limit_value_body">Reduceți utilizarea datelor mobile.</string>
     <string name="reach_daily_limit_value_title">S-a atins limita zilnică de utilizare a datelor</string>

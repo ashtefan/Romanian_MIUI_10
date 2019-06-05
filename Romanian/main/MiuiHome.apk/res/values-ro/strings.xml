@@ -30,9 +30,11 @@
     <string name="announce_for_open_default_preview">S-au dechis setările implicite ale ecranului Acasă</string>
     <string name="announce_for_open_folder">S-a deschis dosarul %1$s</string>
     <string name="announce_for_open_launcher_menu">S-a deschis meniul</string>
+    <string name="announce_for_search_bar">Bara de căutare</string>
     <string name="announce_for_show_uninstall_dialog">A apărut căsuța de dialog pentru dezinstalare. Renunțați sau confirmați.</string>
     <string name="announce_for_unchecked">%1$s, neverificat</string>
     <string name="announce_for_widget_span">Lățime %1$d, înălțime %2$d</string>
+    <string name="announce_for_xiaoai">Mi AI</string>
     <string name="app_already_exist">Aplicaţia există deja</string>
     <string name="app_being_backup_message">Aplicația este în curs de rezervare</string>
     <string name="app_being_restored_message">Aplicaţia este în curs de restabilire</string>
@@ -289,6 +291,8 @@
     <string name="preferences_general_title">Setări adiţionale</string>
     <string name="preferences_title">Setări lansator de sistem</string>
     <string name="preferred_app_settings_not_selected">Neselectat</string>
+    <string name="privacy_thumbnail_blur_summary">Previzualizări blurate ale aplicațiilor în Recente</string>
+    <string name="privacy_thumbnail_blur_title">Previzualizări blurate ale aplicațiilor</string>
     <string name="process" />
     <string name="quick_app">Aplicații rapide</string>
     <string name="recents_config_title">Recente</string>

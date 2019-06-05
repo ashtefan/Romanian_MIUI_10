@@ -8,9 +8,12 @@
     <string name="as_new_device_summary">Ștergeți copiile de rezervă anterioare din Mi Cloud</string>
     <string name="authentication_failed">"Nu s-a putut verifica contul."</string>
     <string name="back_up_task_in_process">Creare copie de rezervă…</string>
-    <string name="back_up_task_unfinished">Rezervare nefinalizată</string>
+    <string name="back_up_task_unfinished">"Nu s-a putut crea copia de rezervă"</string>
     <string name="backing_up_to_micloud">Creare copie de rezervă…</string>
     <string name="backup_fail_wifi_needed">"Nu s-a putut crea copia de rezervă; este necesară conectarea la Wi-Fi."</string>
+    <string name="backup_failed_reason_cloud_space_not_enough">Nu există suficient spațiu de stocare în Mi Cloud. Actualizați-vă planul sau eliberați spațiu de stocare.</string>
+    <string name="backup_failed_reason_disk_space_not_enough">Nu există suficient spațiu de stocare. Eliberați mai întâi spațiu de stocare.</string>
+    <string name="backup_failed_reason_network_error">Eroare de rețea. Așteptați un minut sau două și încercați din nou.</string>
     <string name="backup_finished_notification_content">S-au salvat aplicațiile de pe ecranul principal, setările sistemului, etc.</string>
     <string name="backup_now">Faceți o copie de rezervă acum</string>
     <string name="backup_size">Dimensiune: %s</string>
@@ -186,6 +189,8 @@ Verificați setările de rețea și încercați din nou."</string>
     <string name="restore_detail_category_settings">Setări</string>
     <string name="restore_detail_more">Mai multe</string>
     <string name="restore_detail_title">Selectați elementele de restaurat</string>
+    <string name="restore_failed_reason_disk_space_not_enough">Nu există spațiu de stocare suficient. Eliberați mai întâi spațiu de stocare.</string>
+    <string name="restore_failed_reason_network_error">Eroare de rețea. Așteptați un minut sau două și încercați din nou.</string>
     <string name="restore_finish_description">Restaurare finalizată</string>
     <string name="restore_finished_notification_content">S-au restaurat Ecranul principal, aplicațiile, setările de sistem, etc.</string>
     <string name="restore_from_cloud">Restabilire dintr-o copie de rezervă Mi Cloud</string>
@@ -197,6 +202,7 @@ Verificați setările de rețea și încercați din nou."</string>
     <string name="restore_network_unconnect">%s (Se așteaptă conexiunea)</string>
     <string name="restore_task_cancelling">Renunțare…</string>
     <string name="restore_task_in_process">Restaurare…</string>
+    <string name="restore_task_unfinished">"Nu s-a putut restaura"</string>
     <string name="restore_unfinished">Restaurare; încercați din nou mai târziu</string>
     <string name="restoring_file_title_no_progress">Se restaurează fișierele…</string>
     <string name="restoring_settings">Restaurare Setări…</string>

@@ -313,6 +313,7 @@
     <string name="tax_param_error">Introduceți corect primele de asigurare</string>
     <string name="tax_payment_period">Numărul de plăți</string>
     <string name="tax_rate_provider">Calculată în funcție de noile reglementări de taxare. Datele sunt furnizate de către hexun.com și East Money.</string>
+    <string name="tax_rate_provider_east_money">Calculată conform noilor reglementări fiscale. Datele sunt furnizate de către East Money.</string>
     <string name="tax_result_real_get">După impozitare</string>
     <string name="tax_social_insurance">Asigurare socială</string>
     <string name="tax_thershold_foreign">%s (Monede naționale străine)</string>

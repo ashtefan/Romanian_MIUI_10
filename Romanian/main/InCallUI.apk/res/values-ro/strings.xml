@@ -209,11 +209,16 @@
     <string name="respond_via_sms_custom_message">Mesaj personalizat</string>
     <string name="select_audio_dialog_title">Selectați modul de răspuns</string>
     <string name="select_one_sim_title">Se poate utiliza doar SIM %1$d</string>
+    <string name="select_one_sim_title_for_heduohao">Se poate utiliza doar cartela SIM %1$d Sub %2$d</string>
     <string name="select_sim_hint">"Nu se poate utiliza cartela SIM %2$d, în timp ce SIM %1$d este în uz."</string>
+    <string name="select_sim_hint_for_heduohao">"Nu se poate utiliza alta, cât timp cartela SIM %1$d Sub %2$d este în uz."</string>
     <string name="select_voice_call_sim">Selectaţi cartela SIM</string>
     <string name="separate_from_conference">Separaţi apelul</string>
     <string name="sim1_description">SIM 1</string>
+    <string name="sim1_heduohao_card">Sub1</string>
     <string name="sim2_description">SIM 2</string>
+    <string name="sim2_heduohao_card">Sub2</string>
+    <string name="sim3_heduohao_card">Sub3</string>
     <string name="sip_call_not_support_record">"Nu se pot înregistra apelurile SIP"</string>
     <string name="supp_service_notification_call_waiting">Numărul format este ocupat. Vă rugăm așteptați…</string>
     <string name="suspect_info">Fiți atenți cui furnizați datele personale.</string>
