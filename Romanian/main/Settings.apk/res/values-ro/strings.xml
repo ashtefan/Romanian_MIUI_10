@@ -3884,7 +3884,8 @@ OTG se dezactivează în mod automat după 10 minute de inactivitate."</string>
     <string name="proxy_warning_limited_support">Proxy-ul HTTP este utilizat de browser, dar nu poate fi utilizat de alte aplicaţii.</string>
     <string name="qtifeedback_settings_subtitle">Raportare Qualcomm Technologies</string>
     <string name="qtifeedback_settings_title">Feedback componente hardware</string>
-    <string name="query_hint_text">Caută în Setări</string>
+    <string name="query_hint_text">Căutați în Setări</string>
+    <string name="quick_reply_title">Răspunsuri rapide</string>
     <string name="quick_settings_developer_tiles">File setări rapide dezvoltator</string>
     <string name="quiet">Nu deranjați</string>
     <string name="quiet_group">Nu deranjați</string>

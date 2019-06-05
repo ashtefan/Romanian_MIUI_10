@@ -221,7 +221,7 @@ la contul dvs. Mi pentru a reactiva Mi Cloud."</string>
     <string name="micloud_dspt">Utilizaţi Mi Cloud pentru a sincroniza datele, pentru a localiza dispozitivul,</string>
     <string name="micloud_dspt_provision">Utilizaţi Mi Cloud pentru a sincroniza datele, localiza dispozitivul și pentru a partaja lucruri prietenilor.</string>
     <string name="micloud_dspt_provision_xms">Utilizaţi Mi Cloud pentru a sincroniza datele.</string>
-    <string name="micloud_find_device_close_alert_content">"Dacă dezactivați această caracteristică, nu veți mai putea localiza telefonul în cazul în care îl veți pierde."</string>
+    <string name="micloud_find_device_close_alert_content">"Dacă dezactivați Localizarea dispozitivului, nu veți mai putea localiza telefonul utilizând această funcție. Dacă telefonul dvs. suportă funcționalitatea NFC, toate cardurile bancare și cartelele vor fi șterse din Mi Pay."</string>
     <string name="micloud_find_device_close_alert_negtive">Dezactivați oricum</string>
     <string name="micloud_find_device_close_alert_positive">Păstrați activă</string>
     <string name="micloud_find_device_close_alert_title">Dezactivați Localizarea telefonului?</string>
