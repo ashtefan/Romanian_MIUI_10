@@ -67,11 +67,15 @@
     <string name="access_control_reset_by_account">Conectaţi-vă la contul Mi pentru a reseta parola</string>
     <string name="access_point_names">Numele punctelor de acces</string>
     <string name="accessibility_autoclick_delay_preference_title">Întârziere atingere</string>
+    <string name="accessibility_autoclick_description">Dacă folosiți un mouse, puteți seta cursorul să acționeze automat când nu se mai mișcă de un anumit interval de timp.</string>
     <string name="accessibility_autoclick_preference_title">Click după oprirea cursorului</string>
     <string name="accessibility_captioning_title">Subtitrări</string>
     <string name="accessibility_category_personal">Conturi profil personal</string>
     <string name="accessibility_category_work">Conturi profil de Servici - %s</string>
     <string name="accessibility_close_tab">Închideți fila curentă</string>
+    <string name="accessibility_daltonizer_master_switch_title">Utilizați corecție de culoare</string>
+    <string name="accessibility_description_state_stopped">Acest serviciu nu funcționează corect.</string>
+    <string name="accessibility_disable_animations">Eliminați animațiile</string>
     <string name="accessibility_display_daltonizer_preference_subtitle">Această caracteristică este experimentală și poate afecta performanța dispozitivului.</string>
     <string name="accessibility_display_daltonizer_preference_title">Corecție de culoare</string>
     <string name="accessibility_display_inversion_preference_subtitle">(Experimental) Poate afecta performanța dispozitivului</string>
@@ -147,6 +151,17 @@ Nu puteți mări zona tastaturii și bara de navigare."</string>
     <string name="accessibility_toggle_master_mono_title">Mono</string>
     <string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">Actualizare mărire ecran la tranziția între aplicații</string>
     <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">Actualizare automată a măririi ecranului</string>
+    <string name="accessibility_touch_vibration_title">Vibrație la atingere</string>
+    <string name="accessibility_vibration_intensity_high">Ridicată</string>
+    <string name="accessibility_vibration_intensity_low">Scăzută</string>
+    <string name="accessibility_vibration_intensity_medium">Medie</string>
+    <string name="accessibility_vibration_intensity_off">Dezactivat</string>
+    <string name="accessibility_vibration_settings_title">Vibrație</string>
+    <string name="accessibility_vibration_summary">Sunet %1$s, atingere %2$s</string>
+    <string name="accessibility_vibration_summary_high">Vibrații ridicate setate pentru sonerie și notificări</string>
+    <string name="accessibility_vibration_summary_low">Vibrații scăzute setate pentru sonerie și notificări</string>
+    <string name="accessibility_vibration_summary_medium">Vibrații medii setate pentru sonerie și notificări</string>
+    <string name="accessibility_vibration_summary_off">Vibrații dezactivate pentru sonerie și notificări</string>
     <string name="accessibility_vpn_settings_info">Configurare VPN</string>
     <string name="accessibility_wifi_off">Wi-Fi oprit.</string>
     <string name="accessibility_wifi_one_bar">Semnal Wi-Fi: o linie.</string>
@@ -828,6 +843,8 @@ Ultima rulare pe %2$s"</string>
     <string name="bluetooth_map_profile_summary_connected">Conectat la map</string>
     <string name="bluetooth_map_profile_summary_use_for">Utilizat pentru map</string>
     <string name="bluetooth_map_request">Solicitarea accesului la mesaje</string>
+    <string name="bluetooth_max_connected_audio_devices_dialog_title">Selectați numărul maxim de dispozitive audio Bluetooth conectate</string>
+    <string name="bluetooth_max_connected_audio_devices_string">Numărul maxim de dispozitive audio Bluetooth conectate</string>
     <string name="bluetooth_menu_advanced">Avansate</string>
     <string name="bluetooth_name_not_set">Nu a fost setat niciun nume, se utilizează numele contului</string>
     <string name="bluetooth_no_devices_found">Nu există disp. Bluetooth în apropiere.</string>
@@ -913,7 +930,7 @@ Mod canal"</string>
     <string name="bluetooth_select_a2dp_codec_ldac_playback_quality">Codec Bluetooth Audio LDAC: Calitate redare</string>
     <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">"Selectați codecul Bluetooth Audio LDAC:
 Calitate redare"</string>
-  <string name="bluetooth_select_a2dp_codec_sample_rate">Bluetooth Audio Sample Rate</string>
+  <string name="bluetooth_select_a2dp_codec_sample_rate">Rata de eșantionare audio Bluetooth</string>
     <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">"Selectați codecul Bluetooth Audio:
 Sample Rate"</string>
     <string name="bluetooth_select_a2dp_codec_streaming_label">Redare online: %1$s</string>
@@ -924,6 +941,8 @@ Sample Rate"</string>
     <string name="bluetooth_settings">Bluetooth</string>
     <string name="bluetooth_settings_summary">Gestionaţi conexiunile, setaţi numele dispozitivului şi detectabilitatea acestuia</string>
     <string name="bluetooth_settings_title">Bluetooth</string>
+    <string name="bluetooth_show_devices_without_names">Afișați dispozitive Bluetooth fără nume</string>
+    <string name="bluetooth_show_devices_without_names_summary">Dispozitivele Bluetooth fără nume (numai adresele MAC) vor fi afișate</string>
     <string name="bluetooth_show_received_files">Afişaţi fişierele primite</string>
     <string name="bluetooth_talkback_bluetooth">Bluetooth</string>
     <string name="bluetooth_talkback_computer">Computer</string>
@@ -1676,6 +1695,9 @@ Această setare afectează toți utilizatorii telefonului."</string>
     <string name="display_auto_rotate_stay_in_portrait">Blochează la modul portret</string>
     <string name="display_auto_rotate_title">Rotire conținut ecran</string>
     <string name="display_category_title">Afișaj</string>
+    <string name="display_cutout_emulation">Simulare decupaj ecran</string>
+    <string name="display_cutout_emulation_keywords">decupare ecran</string>
+    <string name="display_cutout_emulation_none">Niciunul</string>
     <string name="display_dashboard_summary">Imagine de fundal, închidere, dimensiune font</string>
     <string name="display_label">Ecran</string>
     <string name="display_order_text">Sortaţi după:</string>
@@ -4629,6 +4651,7 @@ Notă: Nu puteți utiliza amprenta pentru a debloca acest dispozitiv. Pentru mai
     <string name="share_remote_bugreport_dialog_message">Administratorul IT a solicitat un raport cu erori pentru a-l ajuta să depaneze acest dispozitiv. Aplicațiile și datele acestora pot fi partajate, iar telefonul se poate mișca mai greu o perioadă.</string>
     <string name="share_remote_bugreport_dialog_message_finished">Administratorul IT a solicitat un raport cu erori pentru a-l ajuta să depaneze acest dispozitiv. Aplicațiile și datele acestora pot fi partajate.</string>
     <string name="share_remote_bugreport_dialog_title">Partajați raportul cu erori?</string>
+    <string name="share_this_wifi">Extindere acoperire WLAN</string>
     <string name="sharing_remote_bugreport_dialog_message">Acest raport cu erori este partajat administorului IT. Contactați-l pentru a afla mai multe detalii.</string>
     <string name="short_summary_font_size">Măriți sau micșorați textul de pe ecran</string>
     <string name="show_all_anrs">Afişaţi toate elementele ANR</string>
@@ -4642,6 +4665,8 @@ Notă: Nu puteți utiliza amprenta pentru a debloca acest dispozitiv. Pentru mai
     <string name="show_dev_on">Aţi devenit dezvoltator!</string>
     <string name="show_fc">Afişarea închiderilor forţate</string>
     <string name="show_fc_summary">Afişaţi aplicaţiile închise forţat</string>
+    <string name="show_first_crash_dialog">Afișați întotdeauna caseta de dialog pentru blocări</string>
+    <string name="show_first_crash_dialog_summary">Afișați caseta de dialog de fiecare dată când se blochează o aplicație</string>
     <string name="show_hw_layers_updates">Arată actualizările nivelurilor hardware</string>
     <string name="show_hw_layers_updates_summary">Elementele hardware clipesc în verde la actualizare</string>
     <string name="show_hw_screen_updates">Vizualizează actualizările randărilor GPU</string>

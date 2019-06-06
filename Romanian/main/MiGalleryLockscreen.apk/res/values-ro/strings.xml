@@ -212,7 +212,7 @@
     <string name="llks_tools_remote_control_name">Telecomandă Mi</string>
     <string name="llks_tools_smart_devices_name">Mi Home</string>
     <string name="load_hdpicture_complete">Imagine originală încărcată cu succes</string>
-    <string name="loading">&lt;CDATA&gt;Doar o secundă&amp;#8230;&lt;/CDATA&gt;</string>
+    <string name="loading">Doar o secundă…</string>
     <string name="lock_screen_date">EEEE, dd MMMM</string>
     <string name="lock_screen_date_12">EEEE, dd MMMM</string>
     <string name="lockscreen_h5_back_tv">Înapoi</string>
