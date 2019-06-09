@@ -12,6 +12,7 @@
     <string name="APN_NAME_CUSUPL">China Unicom AGPS</string>
     <string name="APN_NAME_CUWAP">China Unicom WAP</string>
     <string name="Accounts_settings_title">Conturi</string>
+    <string name="a11y_settings_label">Setări de accesibilitate</string>
     <string name="abc_action_bar_home_description">Navigați acasă</string>
     <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
     <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
@@ -95,7 +96,14 @@ Dacă telefonul este utilizat de mai multe persoane, utilizarea acestei scurtăt
     <string name="accessibility_global_gesture_preference_title">Scurtătură accesibilitate</string>
     <string name="accessibility_lock_screen_progress">%1$d din %2$d caractere utilizate</string>
     <string name="accessibility_long_press_timeout_preference_title">Întârziere la atingere continuă</string>
+    <string name="accessibility_manual_zen_less_time">Mai puțin timp.</string>
+    <string name="accessibility_manual_zen_more_time">Mai mult timp.</string>
+    <string name="accessibility_menu_description">"Meniul de accesibilitate oferă comenzi rapide convenabile care vă permit să controlați dispozitivul.
+
+Porniți această caracteristică și atingeți butonul Accesibilitate din partea de jos a ecranului pentru a deschide meniul."</string>
     <string name="accessibility_menu_item_settings">Setări</string>
+    <string name="accessibility_menu_service_name">Meniul de accesibilitate</string>
+    <string name="accessibility_menu_summary">Controlați dispozitivul utilizând comenzi rapide convenabile</string>
     <string name="accessibility_more_settings">Setări suplimentare</string>
     <string name="accessibility_no_service_selected">Niciun serviciu selectat</string>
     <string name="accessibility_no_services_installed">Nu există servicii instalate</string>
@@ -2247,6 +2255,7 @@ Când activați crearea automată a copiei de rezervă, datele dispozitivului ș
     <string name="global_locale_change_title">Schimbaţi limba</string>
     <string name="go_back_button_label">Mergeți înapoi</string>
     <string name="go_to_sleep">Închide ecranul</string>
+    <string name="google_assistant_label">Asistent Google</string>
     <string name="google_backup_enable">Activați crearea copiilor de rezervă</string>
     <string name="google_backup_section_title">Copii de rezervă şi restabilire Google</string>
     <string name="google_title">Google</string>
@@ -2816,6 +2825,7 @@ cât cel pentru Spațiul principal"</string>
     <string name="lockscreen_glogin_checking_password">Verificare…</string>
     <string name="lockscreen_glogin_password_hint">Parolă</string>
     <string name="lockscreen_glogin_submit_button">Conectare</string>
+    <string name="lockscreen_label">Ecran de blocare</string>
     <string name="lockscreen_magazine">Carusel imagini de fundal</string>
     <string name="lockscreen_magazine_summary">Calitate ridicată pentru imaginile de fundal</string>
     <string name="lockscreen_magazine_title">Caruselul de imagini de fundal</string>
@@ -3675,6 +3685,7 @@ OTG se dezactivează în mod automat după 10 minute de inactivitate."</string>
     <string name="power_key_how_start_detail">Apăsați și mențineți apăsat butonul de Pornire timp de 0,5 sec. Eliberați-l pentru a vorbi.</string>
     <string name="power_key_start_enjoy">Aflați mai multe despre Asistentul Google</string>
     <string name="power_key_start_guide">Trezirea Asistentului Waking utilizând butonul de Pornire pe dispozitivele cu ecran complet</string>
+    <string name="power_label">Energie</string>
     <string name="power_last_full_charge_summary">cu ^1 în urmă</string>
     <string name="power_menu_under_keyguard_summary">Permiteți accesul la meniul de pornire când telefonul este blocat</string>
     <string name="power_menu_under_keyguard_title">Acces la meniul de pornire</string>
@@ -3909,6 +3920,7 @@ OTG se dezactivează în mod automat după 10 minute de inactivitate."</string>
     <string name="query_hint_text">Căutați în Setări</string>
     <string name="quick_reply_title">Răspunsuri rapide</string>
     <string name="quick_settings_developer_tiles">File setări rapide dezvoltator</string>
+    <string name="quick_settings_label">Comutatoare</string>
     <string name="quiet">Nu deranjați</string>
     <string name="quiet_group">Nu deranjați</string>
     <string name="quiet_important_interruptions_mode">Permiteți doar excepțiile</string>
@@ -3990,6 +4002,8 @@ Interfață UT: %5$s"</string>
     <string name="really_remove_account_title">Eliminaţi contul?</string>
     <string name="rebootiing_for_updates">Repornire…</string>
     <string name="receiver_clean">Eliberați spațiu</string>
+    <string name="recent_app_category_title">Aplicații deschise recent</string>
+    <string name="recent_apps_label">Recente</string>
     <string name="recent_location_requests_summary">Vizualizaţi aplicaţiile care solicită accesul la informaţiile despre locația dvs.</string>
     <string name="recent_location_requests_title">Acces locaţie</string>
     <string name="recommend_item_1">Carcasă telefon</string>
@@ -4257,6 +4271,7 @@ Pentru a utiliza fixarea ecranului:
     <string name="screensaver_settings_title">Screensaver</string>
     <string name="screensaver_settings_when_to_dream">Când să pornească</string>
     <string name="screenshot">Captură de ecran</string>
+    <string name="screenshot_label">Captură de ecran</string>
     <string name="screenshot_three_gesture">Glisați pe ecran 3 degete în jos pentru a realiza o captură de ecran</string>
     <string name="screenshot_three_gesture_summary">Celelalte gesturi cu 3 degete vor fi dezactivate</string>
     <string name="sd_card_settings_label">Card SD</string>
@@ -5759,6 +5774,7 @@ Atingeți butonul (+) pentru a adăuga cuvinte"</string>
     <string name="volume_bluetooth_description">Volum bluetooth</string>
     <string name="volume_category_title">Volum</string>
     <string name="volume_hifi_description">Setări Hi-Fi</string>
+    <string name="volume_label">Volum</string>
     <string name="volume_media_description">Muzică, videoclipuri, jocuri şi alt conţinut media</string>
     <string name="volume_media_mute">Dezactivaţi sunetul muzicii şi al altui conţinut media</string>
     <string name="volume_notification_description">Notificări</string>
