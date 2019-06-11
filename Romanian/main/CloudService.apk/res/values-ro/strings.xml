@@ -368,6 +368,7 @@ Pentru a rezolva acest lucru, fie puteți şterge unele fișierele vechi, fie pu
     <string name="micloud_request_permission_confirm">Am înțeles</string>
     <string name="micloud_request_permission_content">Mi Cloud necesită acordarea unor permisiuni pentru sincronizarea datelor. Permiteți Mi Cloud să acceseze Calendarul, Contactele, Contul Mi, starea cartelei SIM, istoricul apelurilor și al mesajelor.</string>
     <string name="micloud_request_permission_title">Mi Cloud necesită acordarea unor permisiuni</string>
+    <string name="micloud_request_sync_too_frequent">Prea multe solicitări. Așteptați un minut sau două și încercați din nou.</string>
     <string name="micloud_sec_dspt">și pentru a partaja lucruri prietenilor.</string>
     <string name="micloud_setting_antispam_summary">Excepții și numere de telefon blocate</string>
     <string name="micloud_setting_browser_summary">Marcaje, istoric şi file</string>
@@ -538,6 +539,7 @@ Această caracteristică criptează și trimite ID-ul dispozitivului dvs. pe ser
     <string name="sync_sub_1_sms_1_intl_sms">Operatorul dvs. vă poate taxa pentru un mesaj SMS local şi unul internaţional utilizate pentru a activa acest serviciu.</string>
     <string name="sync_sub_2_intl_sms">Operatorul dvs. vă poate taxa pentru două mesaje SMS internaţionale utilizate pentru a activa acest serviciu.</string>
     <string name="sync_sub_2_sms">Operatorul dvs. vă poate taxa pentru două mesaje SMS utilizate pentru a activa acest serviciu.</string>
+    <string name="system_busy_or_network_error">A apărut o eroare. Așteptați un minut sau două și încercați din nou.</string>
     <string name="sync_sub_dspt">Operatorul dvs. vă poate taxa pentru un mesaj SMS utilizat pentru a activa acest serviciu.</string>
     <string name="sync_sub_dspt_provision">Sincronizaţi fotografiile, contactele, muzica, aplicațiile și altele între toate dispozitivele dvs.</string>
     <string name="sync_sub_int_dspt">Operatorul dvs. vă poate taxa pentru un mesaj SMS internaţional utilizat pentru a activa acest serviciu.</string>
@@ -564,6 +566,7 @@ Această caracteristică criptează și trimite ID-ul dispozitivului dvs. pe ser
     <string name="user_detail_agreement">Acordul Utilizatorului</string>
     <string name="user_detail_privacy_policy">Politica de Confidențialitate</string>
     <string name="user_storage_info_available_text_prefix">%s disponibil</string>
+    <string name="waiting_for_sync">Se așteaptă…</string>
     <string name="warning_bar_action_add_short_cut">Adăugați</string>
     <string name="warning_bar_action_close">Închideți</string>
     <string name="warning_bar_action_turn_on_master_sync">Activați</string>

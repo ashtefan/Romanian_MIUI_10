@@ -1084,6 +1084,8 @@ d MMMM"</string>
     <string name="lockscreen_sim_error_message_short">Cartela SIM nu este validă.</string>
     <string name="lockscreen_unlock_left">Scurtătura din stânga deblochează de asemenea</string>
     <string name="lockscreen_unlock_right">Scurtătura din dreapta deblochează de asemenea</string>
+    <string name="long_screenshot_guide_text">"Atingeți pentru a realiza
+o captură de ecran derulantă"</string>
     <string name="long_screenshot_not_support_msg">"Aplicația curentă nu suportă captura de ecran extinsă"</string>
     <string name="long_screenshot_out_of_memory_error">Dimensiunea imaginii este prea mare</string>
     <string name="long_screenshot_processing">Procesare…</string>
