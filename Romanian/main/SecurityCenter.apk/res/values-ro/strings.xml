@@ -236,6 +236,8 @@ Nu veți pierde datele aplicațiilor."</string>
     <string name="app_manager_show_detail_infos">Vedeți tot</string>
     <string name="app_manager_start_by">Lansată de către %s</string>
     <string name="app_manager_system_mobile_disable">Opriți datele mobile</string>
+    <string name="app_manager_thumbnail_blur_summary">Previzualizări blurate ale aplicațiilor în Recente</string>
+    <string name="app_manager_thumbnail_blur_title">Previzualizări blurate ale aplicațiilor</string>
     <string name="app_manager_title">Gestionare aplicații</string>
     <string name="app_manager_total_size">Total</string>
     <string name="app_manager_uninstall">Dezinstalați</string>

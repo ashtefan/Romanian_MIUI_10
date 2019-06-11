@@ -1212,6 +1212,7 @@ Această caracteristică poate fi dezactivată din [Setări]"</string>
     <string name="close_miui_optimization_title">Dezactivați optimizarea MIUI</string>
     <string name="close_optimization_message">Dispunerea textului, conturile și alte componente ale MIUI pot fi afectate după ce veți dezactiva această caracteristică.</string>
     <string name="close_optimization_option">Dezactivați</string>
+    <string name="close_privacy_thumbnail_blur_title">"Previzualizările nu sunt blurate"</string>
     <string name="cloud_backup_section_title">Copie de rezervă Mi Cloud</string>
     <string name="cloud_backup_settings_section_title">Setări copie de rezervă</string>
     <string name="cloud_restore_section_summary">Restaurați setările de sistem, dispunerea Ecranului principal și aplicațiile</string>
@@ -1279,12 +1280,15 @@ Această caracteristică poate fi dezactivată din [Setări]"</string>
     <string name="confirm_enable_oem_unlock_text">ATENȚIE: Caracteristicile de protecție a dispozitivului nu vor funcționa pe acest dispozitiv atât timp cât această setare este activă.</string>
     <string name="confirm_enable_oem_unlock_title">Permiteți deblocarea OEM?</string>
     <string name="confirm_erase">Confirmaţi ştergerea</string>
+    <string name="confirm_fingerprint">Verificați-vă amprenta</string>
     <string name="confirm_fingerprint_icon_content_description">Utilizați amprenta pentru a continua.</string>
     <string name="confirm_fingerprint_msg">Puneți degetul pe scanerul de amprentă</string>
     <string name="confirm_frp_credential_message">Telefonul a fost resetat la valorile din fabrică. Îl puteți debloca utilizând parola anterioară.</string>
     <string name="confirm_frp_credential_skip_txt">Utilizați contul Google în schimb</string>
     <string name="confirm_frp_credential_title">Deblocați după revenirea la valorile din fabrică</string>
     <string name="confirm_new_backup_pw_prompt">Reintroduceţi aici noua parolă pentru copia de rezervă completă</string>
+    <string name="confirm_password_with_fingerprint">Utilizați amprenta</string>
+    <string name="confirm_password_with_password">Introduceți parola</string>
     <string name="confirm_privacy_password">Introduceți parola pentru protejarea confidențialității</string>
     <string name="confirm_privacy_password_fingerprint">Scanați amprenta sau introduceți parola pentru protejarea confidențialității</string>
     <string name="confirm_reset_aaid">OK</string>
@@ -3507,6 +3511,7 @@ Acest lucru va permite aplicației să comute modul Nu deranjați și să modifi
     <string name="open_miui_optimization_title">Activați optimizarea MIUI</string>
     <string name="open_optimization_message">Activați optimizarea pentru a vă bucura de o interfață rapidă și fluentă.</string>
     <string name="open_optimization_option">Activați</string>
+    <string name="open_privacy_thumbnail_blur_title">Previzualizările sunt blurate</string>
     <string name="open_wifi_connect_summary">Atingeţi pentru a vizualiza detalii</string>
     <string name="open_wifi_connect_title">Conectat la %1$s</string>
     <string name="opening_paragraph_delete_profile_unknown_company">Acest profil de Servici este gestionat de către:</string>
@@ -3862,6 +3867,8 @@ OTG se dezactivează în mod automat după 10 minute de inactivitate."</string>
     <string name="privacy_relative">Legate de confidențialitate</string>
     <string name="privacy_settings">Creare copie de rezervă şi resetare</string>
     <string name="privacy_settings_title">Creare copie de rezervă</string>
+    <string name="privacy_thumbnail_blur_progress_message">Doar o secundă…</string>
+    <string name="privacy_thumbnail_blur_title">Previzualizări blurate ale aplicațiilor</string>
     <string name="private_gallery_need_to_unlock">Parola este necesară:</string>
     <string name="private_gallery_recording_intro_header">Desenați un model de deblocare:</string>
     <string name="private_gallery_reset_by_account">Pentru a reseta parola, conectați-vă la contul dvs. Mi</string>
