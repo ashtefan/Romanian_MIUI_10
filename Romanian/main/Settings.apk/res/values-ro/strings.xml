@@ -1574,7 +1574,7 @@ Această setare afectează toți utilizatorii telefonului."</string>
     <string name="default_spell_checker">Corectorul ortografic implicit</string>
     <string name="default_theme">Implicită</string>
     <string name="default_usb_mode">Conexiune USB</string>
-    <string name="default_vol_stream_title">Control volum implicit flux</string>
+    <string name="default_vol_stream_title">Control volum flux implicit</string>
     <string name="delete">Ştergeţi</string>
     <string name="delete_fingerprint_confirm_msg">Eliminați amprenta?</string>
     <string name="delete_fingerprint_text">Eliminați amprenta</string>
