@@ -1643,7 +1643,10 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="power_cell">Semnal mobil</string>
     <string name="power_center_auto_shutdown">Planificare pornire/oprire</string>
     <string name="power_center_back">Înapoi</string>
+    <string name="power_center_battery_last">%s rămas</string>
     <string name="power_center_charge_time">%1$s până la încărcarea completă</string>
+    <string name="power_center_dialog_msg_bottom">Puteți crește durata de viață a acumulatorului cu %1$dh și %2$dm. Activați Economisirea acumulatorului?</string>
+    <string name="power_center_dialog_msg_top">Când Economisirea acumulatorului este activă, MIUI va face următoarele optimizări:</string>
     <string name="power_center_hints_scan_danger_result">Puteți remedia problemele legate de acumulator acum</string>
     <string name="power_center_list_item_auto_brightness">Ajustați iluminarea ecranului în mod automat</string>
     <string name="power_center_list_item_battery_status_time">h</string>
@@ -1651,8 +1654,11 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="power_center_list_item_deep_save_title">Setări avansate</string>
     <string name="power_center_list_item_set_lockscreen_time">Opriți ecranul după 30 de secunde de inactivitate</string>
     <string name="power_center_main_percent_formatted">%s%%</string>
+    <string name="power_center_one_key_save">Optimizați</string>
     <string name="power_center_ontime_boot">Ora de pornire</string>
     <string name="power_center_ontime_shutdown">Ora de oprire</string>
+    <string name="power_center_power_save_summary_text">Creșteți timpul rămas cu până la %1$dh și %2$dm</string>
+    <string name="power_center_power_save_title_text">Economisire acumulator</string>
     <string name="power_center_repeat">Repetare</string>
     <string name="power_center_scan_item_title_GPS">Ajustați acuratețea GPS-ului</string>
     <string name="power_center_scan_item_title_abnormal">Probleme legate de acumulator</string>
@@ -1669,6 +1675,8 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="power_center_state_off">Dezactivat</string>
     <string name="power_center_state_on">Activat</string>
     <string name="power_center_stop_scan_title">Opriți scanarea</string>
+    <string name="power_center_super_save_summary_text">Creșteți timpul rămas cu până la %1$dh și %2$dm</string>
+    <string name="power_center_super_save_title_text">Ultra economisire acumulator</string>
     <string name="power_center_time_to_boot">Ora de pornire</string>
     <string name="power_center_time_to_shutdown">Ora de oprire</string>
     <string name="power_center_title">Optimizare acumulator</string>
@@ -1681,6 +1689,8 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="power_customize_giveup_change">Renunţaţi la modificări?</string>
     <string name="power_dialog_cancel">Anulaţi</string>
     <string name="power_dialog_ok">OK</string>
+    <string name="power_dialog_super_save_msg">"Ultra economisirea acumulatorului restricționează cele mai energofage caracteristici și scade performanța dispozitivului dvs. pentru a menține funcțiile de bază (de ex. apeluri, SMS-uri ți conectarea la rețea) disponibile pentru un timp cât mai lung. Activați ultra economisirea acumulatorului?"</string>
+    <string name="power_dialog_super_save_title">Ultra economisire a acumulatorului</string>
     <string name="power_idle">Telefon inactiv</string>
     <string name="power_optimize_auto_catagory_title">Probleme acumulator</string>
     <string name="power_optimize_battery_save_idea">Optimizați utilizarea acumulatorului</string>
@@ -1716,7 +1726,13 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="power_save_summary_text">"Activați Economisirea acumulatorului pentru a reduce activitatea în fundal a aplicațiilor, opriți sincronizarea și ascundeți animațiile de sistem."</string>
     <string name="power_save_title_text">Economisire acumulator</string>
     <string name="power_screen">Ecran</string>
+    <string name="power_setting_background_app_save_summary">Limitați activitatea în fundal a aplicațiilor fără a afecta funcționalitatea</string>
+    <string name="power_setting_background_app_save_title">Economisire acumulator în fundal</string>
+    <string name="power_setting_category_other">Setări adiționale</string>
+    <string name="power_setting_power_save_summary_text">Optimizați setările de sistem pentru a economisi acumulatorul</string>
+    <string name="power_setting_super_save_summary_text">Restricționați majoritatea funcțiilor de sistem pentru a economisi acumulatorul</string>
     <string name="power_settings_category_title">Indicator energie acumulator</string>
+    <string name="power_settings_lock_screen_saver_title">Setări pentru blocarea ecranului</string>
     <string name="power_settings_number">Procent</string>
     <string name="power_settings_saver_title">Reducere consum de energie</string>
     <string name="power_settings_shape">Grafic</string>
@@ -1834,7 +1850,9 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="quick_optimize_no_issue">Nicio problemă a acumulatorului</string>
     <string name="quick_optimize_no_issue_subtitle">Totul pare în regulă</string>
     <string name="quick_optimize_no_issue_title">"Nu s-au găsit probleme legate de acumulator"</string>
+    <string name="quick_optimize_sub_battery_text">Aproximativ %s rămas</string>
     <string name="quick_optimize_sub_summary_text">S-a prelungit durata de viață a acumulatorului cu %s</string>
+    <string name="quick_optimize_sub_summary_with_battery_text">S-a adăugat %1$s, aproximativ %2$s rămas</string>
     <string name="quick_optimize_suggest_battery_consume_too_fast">Telefonul se descarcă rapid; rezolvați problema</string>
     <string name="quick_optimize_suggest_battery_over_heat">Telefonul se încălzește excesiv; rezolvați problema</string>
     <string name="quick_replay_list_title">Aplicații disponibile</string>
@@ -2509,6 +2527,8 @@ Datele rămase includ datele reportate din luna anterioară."</string>
     <string name="usbsharenet_pc_exception_summary">"Nu se poate conecta la internet utilizând conexiunea USB partajată. Verificați conexiunea la internet a computerului."</string>
     <string name="use_immediately">Utilizați</string>
     <string name="user_define_title">Adăugați reguli</string>
+    <string name="user_guide">Glisați în sus pentru a descoperi mai multe jocuri noi</string>
+  <string name="user_guide_title">Joystick Picks</string>
     <string name="video_repeat">Redați din nou</string>
     <string name="virus_auto_update_engine">Actualizări automate： %s</string>
     <string name="virus_scan_process_pre">%</string>

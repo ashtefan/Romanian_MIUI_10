@@ -124,6 +124,18 @@ Dacă activați din nou datele mobile, operatorul vă poate taxa pentru trafic s
         <item quantity="other">Suplimentați cu %d minute</item>
         <item quantity="one">Suplimentați cu %d minut</item>
     </plurals>
+    <plurals name="pc_main_power_center_battery_day">
+        <item quantity="other">%s zile</item>
+        <item quantity="one">%s zi</item>
+    </plurals>
+    <plurals name="pc_main_power_center_battery_hour">
+        <item quantity="other">%s ore</item>
+        <item quantity="one">%s oră</item>
+    </plurals>
+    <plurals name="pc_main_power_center_battery_minute">
+        <item quantity="other">%s minute</item>
+        <item quantity="one">%s minut</item>
+    </plurals>
     <plurals name="notification_battery_scan_consume_abnormal_title_split">
         <item quantity="other">%2$d alicații, inclusiv %1$s, descarcă acumulatorul</item>
         <item quantity="one">%2$d aplicație, inclusiv %1$s, descarcă acumulatorul</item>

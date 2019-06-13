@@ -510,7 +510,10 @@ Verificați setările de rețea și încercați din nou."</string>
     <string name="repeat_label_frequency">Frecvenţă</string>
     <string name="repeat_label_interval">În fiecare</string>
     <string name="repeat_label_week">Săptămână</string>
-    <string name="repeat_lunar_yearly">Anual, în fiecare lună</string>
+    <string name="repeat_lunar_monthly"/>
+    <string name="repeat_lunar_monthly_detail"/>
+    <string name="repeat_lunar_yearly"/>
+    <string name="repeat_lunar_yearly_detail"/>
     <string name="repeat_month_day_splitter">" "</string>
     <string name="repeat_week_info">" %1$s %2$s"</string>
     <string name="repeats_label">Repetare</string>
