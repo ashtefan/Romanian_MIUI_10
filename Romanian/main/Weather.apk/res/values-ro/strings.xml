@@ -153,8 +153,6 @@ Glisați în jos pentru a actualiza sau verificați setările de rețea"</string
     <string name="international_details_uv_index_title">INDICE UV</string>
     <string name="international_details_wind_title">VÂNT</string>
     <string name="it_is_going_to_rain">"Va ploua"</string>
-    <string name="item_city_list_region_no_data">-- / --</string>
-    <string name="item_city_list_temperature_no_data">--</string>
     <string name="locate_fail_detail_err">"Nu se poate obține locația.
 Apăsați pe ecran pentru a adăuga manual sau pentru a repoziționa orașul"</string>
     <string name="location_provider_btn_text">Activați serviciile de localizare</string>
