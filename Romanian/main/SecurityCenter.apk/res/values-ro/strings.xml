@@ -1060,7 +1060,7 @@ Toate datele de pe telefon pot fi șterse iar parola pentru Blocarea ecranului p
     <string name="get_sys_info">Obținere informații…</string>
     <string name="gigabyteShort">GB</string>
     <string name="gmscore_support_remind">Activați această caracteristică dacă întâmpinați probleme în utilizarea Gmail, Hărți Google și în alte aplicații Google. Acest lucru va reduce durata de viață a acumulatorului.</string>
-    <string name="gmscore_support_service">Servicii Google</string>
+    <string name="gmscore_support_service">Servicii Google de bază</string>
     <string name="go_to">Mergeți</string>
     <string name="go_to_setting_fingerprint">Setări</string>
     <string name="google_base_app_install_choice">Aplicația necesită Google Services Framework pentru a funcționa în mod normal, le descărcați și le instalați?</string>
