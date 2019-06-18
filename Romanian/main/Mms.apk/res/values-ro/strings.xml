@@ -416,7 +416,7 @@
     <string name="networking_allow_desc_without_mx">Mesageria Mi trebuie să se conecteze la internet pentru a funcționa în mod normal. Pentru a vă furniza servicii gratuite de text și voce, recunoașterea numerelor necunoscute, filtrarea mesajelor de tip spam, precum și a altor caracteristici, Mesageria Mi trebuie să poată utiliza Pagini Aurii. Permiteți Pagini Aurii să se conecteze la internet, să vă obțină locația și să vă citească agenda?</string>
     <string name="networking_allow_title">Atenție</string>
     <string name="new_message">Mesaj nou</string>
-    <string name="new_message_arrived">Aveţi un mesaj nou</string>
+    <string name="new_message_arrived">Aveți un mesaj nou</string>
     <string name="new_phrase">Adăugaţi un răspuns</string>
     <string name="new_phrase_hint">Introduceţi un răspuns nou</string>
     <string name="no">Anulaţi</string>

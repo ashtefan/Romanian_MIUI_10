@@ -13,7 +13,7 @@
         <item>Adresă</item>
         <item>Notă</item>
         <item>Relație</item>
-     </string-array> 
+    </string-array>
     <string-array name="entries_mms_validity_period">
         <item>Maximă</item>
         <item>2 zile</item>
@@ -41,11 +41,11 @@
     <string-array name="resent_via_entries_mms">
         <item>SMS</item>
         <item>Mesaj Mi</item>
-       </string-array>
+    </string-array>
     <string-array name="resent_via_entries_sms">
         <item>SMS</item>
         <item>Mesaj Mi</item>
-     </string-array> 
+    </string-array>
     <string-array name="select_dialog_items">
         <item>1 secundă</item>
         <item>2 seconde</item>

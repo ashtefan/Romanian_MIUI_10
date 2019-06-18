@@ -134,13 +134,13 @@
     <string name="permission_intro_phone">Pentru luarea de notițe pe durata apelurilor</string>
     <string name="permission_intro_storage">Pentru salvarea notițelor și a atașamentelor</string>
     <string name="permlab_accessNote">Accesare note</string>
-    <string name="pref_desc_skip_confirm_for_quick_delete">"Nu arăta fereastra de dialog când se elimină o notiță printr-un gest"</string>
+    <string name="pref_desc_skip_confirm_for_quick_delete">Glisați în sus cu 2 degete pentru a șterge notițele fără confirmare</string>
     <string name="pref_title_cloud_trash_bin">Ștergeți notițele din Mi Cloud</string>
     <string name="pref_title_common">Setări adiţionale</string>
     <string name="pref_title_font_size">Dimensiunea fontului</string>
     <string name="pref_title_note_style">Stil notă</string>
     <string name="pref_title_show_root_folder_in_homepage">Arată doar notițele rapide în pagina principală</string>
-    <string name="pref_title_skip_confirm_for_quick_delete">Ștergere rapidă</string>
+    <string name="pref_title_skip_confirm_for_quick_delete">Ștergere utilizând gesturi</string>
     <string name="recover_notes_hint">A apărut o eroare; recuperați notițele accesând i.mi.com</string>
     <string name="redo">Repetaţi</string>
     <string name="refuse_to_open_as_pic_because_of_loading">Așteptați încărcarea notiței și reîncercați.</string>
@@ -208,6 +208,7 @@
     <string name="toast_notes_hidden_edit">Această notiță a fost ascunsă cu succes. Glisați în jos pentru a vedea notițele ascunse.</string>
     <string name="toast_notes_hidden_home">Această notiță a fost ascunsă cu succes. Glisați în jos pentru a vedea notițele ascunse.</string>
     <string name="toast_notes_unhidden">Eliminată din ascunse cu succes</string>
+    <string name="toast_pic_is_not_really">Se salvează imaginea…</string>
     <string name="toast_reach_text_limit_attachment">Nu puteţi adăuga atașamente noi pentru că nota este prea lungă</string>
     <string name="toast_reach_text_limit_checkbox">"Nu se poate adăuga căsuța de bifare deoarece notița este prea lungă"</string>
     <string name="toast_reach_text_limit_truncate">Această nota este prea lungă. A fost tăiat o parte din textul de la sfârșit.</string>
