@@ -874,6 +874,7 @@ Contactaţi furnizorul de servicii pentru a obţine o altă cartelă SIM."</stri
      <string name="mobile_provisioning_url" />
      <string name="month_day_year" formatted="false">%-e %B %Y</string>
      <string name="more_item_label">Mai multe</string>
+     <string name="move_button_text">Atingeți conturul butonului pentru a putea muta întreaga fereastră</string>
      <string name="muted_by">Redus la tăcere de către %1$s</string>
      <string name="needPuk">Cartela SIM este blocată. Introduceţi codul PUK pentru a o debloca.</string>
      <string name="needPuk2">Introduceţi codul PUK2 pentru a debloca cartela SIM.</string>

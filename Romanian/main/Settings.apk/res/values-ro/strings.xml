@@ -2167,10 +2167,6 @@ Pentru mai multe detalii, contactați administratorul organizației."</string>
     <string name="force_stop">Opriţi forţat</string>
     <string name="force_stop_dlg_text">Dacă forţaţi oprirea unei aplicaţii, aceasta se poate comporta necorespunzător.</string>
     <string name="force_stop_dlg_title">Opriţi forţat?</string>
-    <string name="force_touch">3D Touch</string>
-    <string name="force_touch_demo">Arată un demo</string>
-    <string name="force_touch_enable">Activați 3D Touch</string>
-    <string name="force_touch_enable_tips">Atingeți pictogramele aplicațiilor din Lansator cu un efort pentru a vedea meniurile scurtăturilor atunci când 3D Touch este activ.</string>
     <string name="foreground_traffic">În prim plan %s</string>
     <string name="forget">Renunțați</string>
     <string name="forget_password_button_text"><u>Parolă uitată</u></string>

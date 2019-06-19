@@ -2,6 +2,7 @@
 <resources>
     <string name="action_add_to_workspace">Adăugați la Spațiul de lucru</string>
     <string name="activity_not_found">"Aplicaţia nu este instalată pe telefon"</string>
+    <string name="activity_not_unlocked">Așteptați până când telefonul este repornit complet înainte de a deschide aplicațiile</string>
     <string name="add_screen">Adăugați un ecran</string>
     <string name="announce_for_app_move_in_folder">A fost mutată în poziția %1$d din dosar</string>
     <string name="announce_for_checked">%1$s, verificat</string>
@@ -93,6 +94,7 @@
     <string name="custom_wallpaper_picker">Răsfoiţi</string>
     <string name="defalut_launcher_title">Lansatorul implicit</string>
     <string name="default_folder_title_game">Jocuri</string>
+    <string name="default_folder_title_meitu">Aplicații Meitu</string>
     <string name="default_folder_title_recommend">Alte aplicații</string>
     <string name="default_folder_title_security">Sistem</string>
     <string name="default_folder_title_services">Servicii</string>
@@ -321,6 +323,9 @@
     <string name="setting_wallpaper_tip">Ciupiți sau glisaţi pentru a ajusta</string>
     <string name="settings">Setări</string>
     <string name="settings_shortcut">Setări</string>
+    <string name="shake_to_align_icons">Scuturați telefonul pentru a umple celulele goale cu pictograme</string>
+    <string name="shake_to_align_icons_summary">Scuturați telefonul când este în modul editare pentru a umple în mod automat celulele goale cu pictograme</string>
+    <string name="shake_to_align_icons_title">Scuturați pentru a umple celulele goale</string>
     <string name="share">Distribuiți</string>
     <string name="sharedUserId" />
     <string name="show_all">Afişaţi tot</string>
@@ -336,6 +341,7 @@
     <string name="status_installing">Instalare</string>
     <string name="status_paused">în pauză</string>
     <string name="status_pending">în aşteptare</string>
+    <string name="system_shortcuts_more_operation">Informații despre aplicație</string>
     <string name="title_jeejen">Ecran principal Jeejen</string>
     <string name="title_select_live_folder">Selectaţi dosarul</string>
     <string name="title_select_shortcut">Selectaţi comanda rapidă</string>
