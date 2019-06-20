@@ -1730,10 +1730,10 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="power_save_mode_summary">Monitorizează procesele în fundal și dezactivează sincronizarea.</string>
     <string name="power_save_on_time_end_time_summary_na">La</string>
     <string name="power_save_on_time_start_time_summary_na">De la</string>
-    <string name="power_save_ps_clean">Goliți memoria cache când telefonul este blocat</string>
-    <string name="power_save_ps_close_setting">Dezactivați serviciile în fundal (sincronizare, GPS) pentru a economisi acumulatorul</string>
-    <string name="power_save_ps_freeze">Blocați aplicațiile care rulează în fundal</string>
-    <string name="power_save_ps_limit">Restricționați activitatea aplicațiilor de sistem</string>
+    <string name="power_save_ps_clean">Se golește memoria cache când telefonul este blocat</string>
+    <string name="power_save_ps_close_setting">Se dezactivează serviciile de fundal (sincronizare, GPS) pentru a economisi acumulatorul</string>
+    <string name="power_save_ps_freeze">Se opresc aplicațiile ce rulează în fundal</string>
+    <string name="power_save_ps_limit">Se restricționează activitatea aplicațiilor de sistem</string>
     <string name="power_save_started_summary_text">"Economisirea acumulatorului este activă. Aceasta reduce activitățile din fundal ale aplicațiilor, oprește sincronizarea și reduce animațiile de sistem."</string>
     <string name="power_save_summary_text">"Activați Economisirea acumulatorului pentru a reduce activitatea în fundal a aplicațiilor, opriți sincronizarea și ascundeți animațiile de sistem."</string>
     <string name="power_save_title_text">Economisire acumulator</string>
