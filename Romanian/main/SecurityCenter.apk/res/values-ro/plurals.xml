@@ -136,6 +136,42 @@ Dacă activați din nou datele mobile, operatorul vă poate taxa pentru trafic s
         <item quantity="other">%s minute</item>
         <item quantity="one">%s minut</item>
     </plurals>
+    <plurals name="power_main_battery_last_day">
+        <item quantity="other">%s zile rămase</item>
+        <item quantity="one">%s zi rămasă</item>
+    </plurals>
+    <plurals name="power_main_battery_last_hour">
+        <item quantity="other">%s ore rămase</item>
+        <item quantity="one">%s oră rămasă</item>
+    </plurals>
+    <plurals name="power_main_battery_last_minute">
+        <item quantity="other">%s minute rămase</item>
+        <item quantity="one">%s minut rămas</item>
+    </plurals>
+    <plurals name="pc_main_sub_battery_text_day">
+        <item quantity="other">%s zile rămase</item>
+        <item quantity="one">%s zi rămasă</item>
+    </plurals>
+    <plurals name="pc_main_sub_battery_text_hour">
+        <item quantity="other">%s ore rămase</item>
+        <item quantity="one">%s oră rămasă</item>
+    </plurals>
+    <plurals name="pc_main_sub_battery_text_minute">
+        <item quantity="other">%s minute rămase</item>
+        <item quantity="one">%s minut rămas</item>
+    </plurals>
+    <plurals name="pc_main_power_manager_day">
+        <item quantity="other">%s zile până la încărcarea completă</item>
+        <item quantity="one">%s zi până la încărcarea completă</item>
+    </plurals>
+    <plurals name="pc_main_power_manager_hour">
+        <item quantity="other">%s ore până la încărcarea completă</item>
+        <item quantity="one">%s oră până la încărcarea completă</item>
+    </plurals>
+    <plurals name="pc_main_power_manager_minute">
+        <item quantity="other">%s minute până la încărcarea completă</item>
+        <item quantity="one">%s minut până la încărcarea completă</item>
+    </plurals>
     <plurals name="notification_battery_scan_consume_abnormal_title_split">
         <item quantity="other">%2$d alicații, inclusiv %1$s, descarcă acumulatorul</item>
         <item quantity="one">%2$d aplicație, inclusiv %1$s, descarcă acumulatorul</item>
