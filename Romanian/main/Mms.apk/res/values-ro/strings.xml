@@ -98,16 +98,7 @@
     <string name="cm_privacy_dialog_tips">"Serviciile de mesagerie inteligentă sunt furnizate de către operatorul dvs. Aplicația de Mesagerie trebuie să se conecteze la Internet și să vă acceseze locația pentru a vă furniza aceste servicii. Trebuie să acceptați %1s operatorului înainte de a utiliza aceste servicii. Sunteți de acord?"</string>
     <string name="cm_privacy_dialog_title">Atenție</string>
     <string name="cmcc_privacy">Acordul de Confidențialitate al operatorului China Mobile</string>
-    <string name="complain_input_number">Introduceți numărul de telefon</string>
-    <string name="complain_jump">Omiteți</string>
     <string name="complain_message_title">Raportați</string>
-    <string name="complain_ok">OK</string>
-    <string name="complain_phone_number">Numărul de telefon (opțional)</string>
-    <string name="complain_reason">De ce raportați acest mesaj?</string>
-    <string name="complain_success">Vă mulțumim pentru feedback. Ne ajută să îmbunătățim aplicația de Mesagerie!</string>
-    <string name="complain_tips">"Conținutul mesajelor recente pe care le raportați va fi încărcat pe serverele noastre împreună cu numărul de telefon pe care l-ați furnizat. Furnizorii serviciului vor revizui mesajul raportat.
-"</string>
-    <string name="complain_upload">Plângerea a fost înregistrată</string>
     <string name="compressing">Imaginea este prea mare. Se comprimă…</string>
     <string name="confirm">Confirmaţi</string>
     <string name="confirm_add_blacklist_dialog_dspt">Adăugaţi acest număr în lista blocărilor?</string>
@@ -171,6 +162,7 @@
     <string name="delete_wild_sims_title">Ștergeți numerele de telefon selectate</string>
     <string name="delivery_report_activity">Raport de expediere</string>
     <string name="delivery_toast_body">Mesaj primit de %s</string>
+    <string name="dialog_complain_tips">Permiteți aplicației de Mesagerie să se conecteze la rețea pentru a putea raporta elementele.</string>
     <string name="dialog_message_fake_cell_detect_error">Corectați informațiile despre acest mesaj? Pentru aceasta, MIUI trebuie să încarce numărul de telefon (%1$s), conținutul mesajului și informațiile despre locație pe serverele sale.</string>
     <string name="dialog_message_mx">Mesageria Mi vă permite să trimiteți mesaje altor utilizatori MIUI fără costuri. Un mesaj SMS este necesar pentru activarea Mesageriei Mi. Operatorul vă va taxa pentru acest mesaj. Trebuie să acceptați \"%1$s\" și \"%2$s\" înainte de a utiliza Mesageria Mi.</string>
     <string name="dialog_message_networking">Aplicația de Mesagerie trebuie să utilizeze Pagini Aurii pentru a putea furniza recunoașterea ID-ului expeditorului. Aplicația de Mesagerie și Pagini Aurii trebuie să se conecteze la internet și să vă acceseze locația pentru a funcționa în mod normal. Permiteți?</string>
@@ -416,7 +408,7 @@
     <string name="networking_allow_desc_without_mx">Mesageria Mi trebuie să se conecteze la internet pentru a funcționa în mod normal. Pentru a vă furniza servicii gratuite de text și voce, recunoașterea numerelor necunoscute, filtrarea mesajelor de tip spam, precum și a altor caracteristici, Mesageria Mi trebuie să poată utiliza Pagini Aurii. Permiteți Pagini Aurii să se conecteze la internet, să vă obțină locația și să vă citească agenda?</string>
     <string name="networking_allow_title">Atenție</string>
     <string name="new_message">Mesaj nou</string>
-    <string name="new_message_arrived">Aveți un mesaj nou</string>
+    <string name="new_message_arrived">Atingeți pentru a vedea</string>
     <string name="new_phrase">Adăugaţi un răspuns</string>
     <string name="new_phrase_hint">Introduceţi un răspuns nou</string>
     <string name="no">Anulaţi</string>
@@ -666,7 +658,7 @@
     <string name="security_alert_dialog_title">Raportaţi</string>
     <string name="select_audio">Alegeţi componenta audio</string>
     <string name="select_bottom_text">Text în partea de jos</string>
-    <string name="select_copy_text">Selectați textul de copiat</string>
+    <string name="select_copy_text">Selectați și copiați textul</string>
     <string name="select_different_attachment">Alegeți un alt atașament.</string>
     <string name="select_different_audio">Alegeți un alt fișier audio.</string>
     <string name="select_different_picture">Alegeți o altă imagine.</string>
@@ -809,7 +801,7 @@
     <string name="undelivered_msg_dialog_title">Mesaje neexpediate</string>
     <string name="undelivered_sms_dialog_body">Acest mesaj nu s-a putut trimite</string>
     <string name="unknown_num">Număr necunoscut</string>
-    <string name="unknown_sender">Expeditor necunoscut</string>
+    <string name="unknown_sender">Aveți un mesaj nou</string>
     <string name="unstick">Anulați fixarea</string>
     <string name="unstick_conversation">Anulați fixarea conversaţiei actuale</string>
     <string name="unsticked_conversation">Conversație eliberată deja</string>

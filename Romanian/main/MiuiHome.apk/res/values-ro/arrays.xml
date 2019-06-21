@@ -40,6 +40,9 @@
         <item>Prestabilită</item>
         <item>Clasică</item>
     </string-array>
+    <string-array name="quality_business_devices">
+        <item>litiu</item>
+    </string-array>
     <string-array name="transformation_entries">
         <item>Glisare cu salt</item>
         <item>Glisare</item>
@@ -54,8 +57,5 @@
         <item>În centru</item>
         <item>La stânga</item>
         <item>La dreapta</item>
-    </string-array>
-    <string-array name="quality_business_devices">
-        <item>litiu</item>
     </string-array>
 </resources>

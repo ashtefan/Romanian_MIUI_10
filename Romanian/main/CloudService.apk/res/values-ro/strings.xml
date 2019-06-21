@@ -283,8 +283,8 @@ Pentru a rezolva acest lucru, fie puteți şterge unele fișierele vechi, fie pu
     <string name="micloud_main_network_error">"Nu se poate conecta la rețea"</string>
     <string name="micloud_main_simple_last_sync_time">Ultima sincronizare： %s</string>
     <string name="micloud_main_simple_off">Sincronizarea este oprită</string>
-    <string name="micloud_main_sync_mode_summary">Sincronizați toate elementele cu excepția fotografiilor și a videoclipurilor în timp real. Activarea acestei funcții va crește consumul de energie al telefonului."</string>
-    <string name="micloud_main_sync_mode_title">Sincronizare în timp real</string>
+    <string name="micloud_main_sync_mode_summary">Sincronizați datele aplicațiilor în timp real. Activarea acestei funcții va crește consumul de energie al telefonului.</string>
+    <string name="micloud_main_sync_mode_title">Sincronizare rapidă</string>
     <string name="micloud_main_wait_charge">Încărcați complet acumulatorul pentru a relua sincronizarea</string>
     <string name="micloud_main_wait_charge_sleep">Închideți ecranul și încărcați complet acumulatorul pentru a relua sincronizarea</string>
     <string name="micloud_main_wait_wlan">Se așteaptă conectarea la Wi-Fi</string>
