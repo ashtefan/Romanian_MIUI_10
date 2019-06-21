@@ -1062,7 +1062,7 @@ d MMMM"</string>
     <string name="lock_screen_magazine_global_button_text">Mai multe</string>
     <string name="lock_screen_magazine_label">Deschideți Caruselul de imagini de fundal</string>
     <string name="lock_screen_magazine_preview_fullscreen_bottom_button_global_text">Mai multe</string>
-    <string name="lock_screen_magazine_preview_fullscreen_bottom_button_text">Introduceți</string>
+    <string name="lock_screen_magazine_preview_fullscreen_bottom_button_text">Deschideţi</string>
     <string name="lock_screen_no_sim_card_emergency_only">Doar apeluri de urgență</string>
     <string name="lock_screen_no_sim_card_no_service">Fără serviciu</string>
     <string name="lockscreen_access_pattern_area">Zonă model.</string>
