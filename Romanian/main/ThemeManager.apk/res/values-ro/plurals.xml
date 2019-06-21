@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="guide_used_number">
+        <item quantity="other">Aplicat pe %1$d dispozitive</item>
+        <item quantity="one">Aplicat pe %1$d dispozitiv</item>
+    </plurals>
     <plurals name="resource_comment_score_count">
         <item quantity="other">%d comentarii</item>
         <item quantity="one">%d comentariu</item>

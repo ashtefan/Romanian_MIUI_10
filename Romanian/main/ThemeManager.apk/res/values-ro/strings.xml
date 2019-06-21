@@ -1,8 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="abc_action_bar_home_description">Navigați acasă</string>
-    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
-    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
     <string name="abc_action_bar_up_description">Navigați în sus</string>
     <string name="abc_action_menu_overflow_description">Mai multe opțiuni</string>
     <string name="abc_action_mode_done">Finalizat</string>
@@ -22,6 +20,16 @@
     <string name="abc_font_family_menu_material">sans-serif</string>
     <string name="abc_font_family_subhead_material">sans-serif</string>
     <string name="abc_font_family_title_material">sans-serif-medium</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">șterge</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">spațiu</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
     <string name="abc_search_hint">Căutați…</string>
     <string name="abc_searchview_description_clear">Goliți interogarea</string>
     <string name="abc_searchview_description_query">Interogare de căutare</string>
@@ -31,6 +39,8 @@
     <string name="abc_shareactionprovider_share_with">Partajați prin</string>
     <string name="abc_shareactionprovider_share_with_application">Partajați prin %s</string>
     <string name="abc_toolbar_collapse_description">Restrângeți</string>
+    <string name="about_app_name">Despre aplicația Teme</string>
+    <string name="about_version_update">"Ce este nou"</string>
     <string name="accessibility_setting_hint">"Atingeți butonul din colțul din dreapta sus pentru a activa acest serviciu.
 Aplicația Teme va detecta aplicațiile pe care le utilizați și va afișa imagini de fundal transparente în aplicațiile pe care le alegeți.​"</string>
     <string name="accessibiliy_description_content_account">Profil</string>
@@ -60,6 +70,7 @@ Aplicația Teme va detecta aplicațiile pe care le utilizați și va afișa imag
     <string name="ad_downloading_tip">Acest element este în curs de descărcare. Puteți vedea progresul în perdeaua de Notificări.</string>
     <string name="add_resource_detail_fail">"Nu s-a putut adăuga resursa"</string>
     <string name="all_resources">Toate</string>
+    <string name="already_latest_version">Actualizată la zi</string>
     <string name="app_ad_title">Recomandări zilnice</string>
     <string name="app_disable_transparent_wallpaper">Fără imagine de fundal transparentă</string>
     <string name="app_enable_transparent_wallpaper">Cu imagine de fundal transparentă</string>
@@ -89,8 +100,14 @@ Aplicația Teme va detecta aplicațiile pe care le utilizați și va afișa imag
     <string name="card_retry">Reîncercați</string>
     <string name="change_host_hint">Modificare gazdă</string>
     <string name="change_wallpaper">Imagine de fundal</string>
+    <string name="character_counter_content_description">Limita de caractere depășește %1$d din %2$d</string>
+    <string name="check_has_new_version">Este disponibilă o actualizare</string>
     <string name="classification_more_understand_you">Selectați categoria favorită</string>
     <string name="close">Închideţi</string>
+    <string name="common_applying">Se aplică…</string>
+    <string name="common_downloading">Se descarcă…</string>
+    <string name="common_format_date_no_year">dd/MM</string>
+    <string name="common_skip">Omiteți</string>
     <string name="component_backup_preference_title">Faceți o copie de rezervă a temei</string>
     <string name="component_category_finest_title">Recomandate</string>
     <string name="component_category_more_title">Altele</string>
@@ -101,6 +118,7 @@ Aplicația Teme va detecta aplicațiile pe care le utilizați și va afișa imag
     <string name="count_down_tip">%ds rămas</string>
     <string name="current_using_desktop_wallpaper_text">Ecranul principal</string>
     <string name="current_using_lockscreen_wallpaper_text">Blocarea ecranului</string>
+    <string name="current_version">Versiunea curentă: %1$s</string>
     <string name="current_version_incompatible">Incompatibilă</string>
     <string name="deleting">Ştergere…</string>
     <string name="description_author">Autor</string>
@@ -198,6 +216,8 @@ Aplicația Teme va detecta aplicațiile pe care le utilizați și va afișa imag
     <string name="gift_use_fail_dlg_title">Ceva a mers prost</string>
     <string name="gift_used">Trimis</string>
     <string name="go_accessibility_setting">Selectați</string>
+    <string name="goto_purchased_list">Vedeți istoricul achizițiilor</string>
+    <string name="goto_wechat">Contul WeChat \"%1$s\" a fost copiat în clipboard. Deschideți WeChat acum?</string>
     <string name="hide_free">Ascundeți %1$s gratuite</string>
     <string name="hide_incompatible">Ascundeți %1$s incompatibile</string>
     <string name="hide_pull_down_message">Ascundeți brelocul?</string>
@@ -235,6 +255,7 @@ Pentru a dezactiva această funcție, mergeți la Setări &gt; Sunete și vibra�
     <string name="loading_resource_detail_info">Doar o secundă…</string>
     <string name="local_photos">Fotografii locale</string>
     <string name="local_resouce_creator_name">Dezvoltator: %1$s</string>
+    <string name="lock_screen_apply">Setați ca Blocare a ecranului</string>
     <string name="lockscreen_apply_failured">"Nu se poate aplica imaginea de fundal pentru Blocarea ecranului"</string>
     <string name="lockscreen_apply_failured_but_home_apply_success">"Imaginea de fundal pentru Ecranul principal a fost aplicată. Nu se poate aplica imaginea de fundal pentru Blocarea ecranului"</string>
     <string name="lockscreen_apply_success">Imaginea de fundal pentru Blocarea ecranului a fost aplicată</string>
@@ -275,6 +296,7 @@ Pentru a dezactiva această funcție, mergeți la Setări &gt; Sunete și vibra�
     <string name="mix_icons_option_des">Pictograme Ecran principal. Debifați această căsuță pentru a folosi opțiunile implicite.</string>
     <string name="mix_lockscreen_option_des">Imagine de fundal și ceas. Debifați această căsuță pentru a folosi opțiunile implicite.</string>
     <string name="mix_tip">Componente ale temei</string>
+    <string name="mtrl_chip_close_icon_content_description">Eliminați %1$s</string>
     <string name="multi_sim_mms_ringtone_settings_dialog_message">Acest sunet de apel va fi aplicat pentru ambele cartele SIM.</string>
     <string name="multi_sim_ringtone_settings_dialog_message">Sunetul de apel este setat pentru ambele cartele SIM.</string>
     <string name="multi_sim_ringtone_settings_dialog_ok">Am înțeles</string>
@@ -283,8 +305,10 @@ Pentru a dezactiva această funcție, mergeți la Setări &gt; Sunete și vibra�
     <string name="my_gifts">Cadouri</string>
     <string name="my_gifts_purchased">Achiziționată</string>
     <string name="my_gifts_received">Primit</string>
+    <string name="network_exception">"Nu s-a putut conecta la rețea. Verificați setările de rețea și încercați din nou."</string>
     <string name="no_data">"Nu se poate conecta la rețea"</string>
     <string name="no_net_work_connection">Verificați setările de rețea și încercați din nou.</string>
+    <string name="official_accounts">WeChat</string>
     <string name="online_no_network">Imposibil de conectat la reţea</string>
     <string name="online_precust_abstract">Abstract</string>
     <string name="online_precust_animal">Animale</string>
@@ -296,7 +320,7 @@ Pentru a dezactiva această funcție, mergeți la Setări &gt; Sunete și vibra�
     <string name="online_precust_plant">Plante</string>
     <string name="online_precust_scenery">Scenariu</string>
     <string name="online_search_hint">Căutaţi resurse online</string>
-    <string name="password_toggle_content_description">Comutați vizibilitatea parolei</string>
+    <string name="password_toggle_content_description">Afișează parola</string>
     <string name="playing_ringtone">Se redă</string>
     <string name="pref_privacy_policy">Politica de Confidențialitate</string>
     <string name="present_local_fonts">Fonturile mele</string>
@@ -440,6 +464,7 @@ Pentru a dezactiva această funcție, mergeți la Setări &gt; Sunete și vibra�
     <string name="resource_import_successful">Descărcare finalizată</string>
     <string name="resource_importing">Import…</string>
     <string name="resource_is_off_shelf">Indisponibil</string>
+    <string name="resource_is_off_shelf_can_not_share">"Nu se poate partaja. Acest element nu mai este disponibil."</string>
     <string name="resource_list_title">Ultima selectată</string>
     <string name="resource_local_picker">Selectați sunetul de apel local</string>
     <string name="resource_menu_refresh">Reîmprospătaţi</string>
@@ -570,6 +595,9 @@ Pentru a dezactiva această funcție, mergeți la Setări &gt; Sunete și vibra�
     <string name="theme_changed_failed_message">Aplicare eşuată</string>
     <string name="theme_changed_message">Temă aplicată</string>
     <string name="theme_changing_dialog_title">Aplicare…</string>
+    <string name="theme_comment_dialog_cancel">Nu acum</string>
+    <string name="theme_comment_dialog_message">"Vă place tema pe care o utilizați acum? Vom aprecia feedback-ul dumneavoastră!"</string>
+    <string name="theme_comment_dialog_ok">Scrieți o recenzie</string>
     <string name="theme_component_title_alarm">Alarmă</string>
     <string name="theme_component_title_alarmstyle">Stil alarmă</string>
     <string name="theme_component_title_all">Teme</string>
@@ -685,6 +713,7 @@ Pentru a dezactiva această funcție, mergeți la Setări &gt; Sunete și vibra�
     <string name="using_theme_next_automatic_update">Actualizări automate</string>
     <string name="using_theme_next_automatic_update_summary">Actualizați temele descărcate în mod automat prin Wi-Fi când ecranul este blocat</string>
     <string name="using_theme_show_ad">Recomandări</string>
+    <string name="version_update">Căutați actualizări</string>
     <string name="video_ad_click">Încercați acum</string>
     <string name="video_ad_try_for_free">Încercare gratuită</string>
     <string name="video_ad_uncomplete_tip">Finalizați vizualizarea videoclipului pentru a obține tema.</string>
@@ -731,6 +760,8 @@ Pentru a dezactiva această funcție, mergeți la Setări &gt; Sunete și vibra�
     <string name="wallpaper_settings_no_history">Nu există istoric</string>
     <string name="wallpaper_settings_pad_more_page_title">Mai multe imagini de fundal</string>
     <string name="wallpaper_settings_page_title">Imagine de fundal</string>
+    <string name="wechat_not_found">Instalați mai întâi WeChat</string>
+    <string name="weibo">Weibo</string>
     <string name="wifi_check_cancel">Renunțați</string>
     <string name="wifi_check_confirm">Confirmați</string>
     <string name="wifi_check_message">Utilizați datele mobile pentru a descărca actualizările?</string>
@@ -738,4 +769,14 @@ Pentru a dezactiva această funcție, mergeți la Setări &gt; Sunete și vibra�
     <string name="xiaoai_speech_not_installed_download">Descărcați</string>
     <string name="xiaoai_speech_not_installed_message">Descărcați și instalați asistentul vocal Mi AI pentru a continua.</string>
     <string name="xiaoai_speech_not_installed_title">"Asistentul vocal Mi AI nu este instalat."</string>
+    <string name="xiaomi_update_sdk_bytes_unit">%1$s B</string>
+    <string name="xiaomi_update_sdk_connect_download_manager_fail">Conectarea la Managerul de Descărcări a eșuat; vă rugăm să verificați starea Managerului de Descărcări în Gestionarea Aplicațiilor.</string>
+    <string name="xiaomi_update_sdk_dialog_message">"Vă prezentăm versiunea %1$s
+Dimensiune: %2$s"</string>
+    <string name="xiaomi_update_sdk_dialog_message_diff">"Vă prezentăm versiunea %1$s
+Dimensiunea actualizării delta: %2$s"</string>
+    <string name="xiaomi_update_sdk_dialog_title">Actualizarea %1$s!</string>
+    <string name="xiaomi_update_sdk_external_storage_unavailable">Stocarea nu este disponibilă; vă rugăm să verificați cardul SD.</string>
+    <string name="xiaomi_update_sdk_kilobytes_unit">%1$s KB</string>
+    <string name="xiaomi_update_sdk_megabytes_unit">%1$s MB</string>
 </resources>

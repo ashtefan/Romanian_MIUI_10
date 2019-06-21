@@ -479,6 +479,7 @@ Nu veți pierde datele aplicațiilor."</string>
     <string name="button_background_connection">Permiteți</string>
     <string name="button_block_calls_from_cantacts">Deblocați</string>
     <string name="button_block_calls_from_strangers">Deblocați</string>
+    <string name="button_dark_mode">Remediați</string>
     <string name="button_do_not_disturb">Dezactivați</string>
     <string name="button_eye_shield">Dezactivați</string>
     <string name="button_first_aid_kit">Remediați acum</string>
@@ -1603,6 +1604,15 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="pc_battery_history_show_imei">IMEI:</string>
     <string name="pc_install_manager">Instalare prin USB</string>
     <string name="pc_main_activity_back">Înapoi</string>
+    <string name="pc_main_battery_text_day">S-au adăugat %1$s m, aproximativ %2$s z rămase</string>
+    <string name="pc_main_battery_text_day_hour">S-au adăugat %1$s m, aproximativ %2$s z și %3$s h rămase</string>
+    <string name="pc_main_battery_text_hour">S-au adăugat %1$s m, aproximativ %2$s h rămase</string>
+    <string name="pc_main_battery_text_hour_minute">S-au adăugat %1$s m, aproximativ %2$s h și %3$s m rămase</string>
+    <string name="pc_main_battery_text_minute">S-au adăugat %1$s m, aproximativ %2$s m rămase</string>
+    <string name="pc_main_power_manager_day_hour">%1$s z și %2$s h până la încărcarea completă</string>
+    <string name="pc_main_power_manager_hour_minute">%1$s h și %2$s m până la încărcarea completă</string>
+    <string name="pc_main_sub_battery_text_day_hour">%1$s z și %2$s h rămase</string>
+    <string name="pc_main_sub_battery_text_hour_minute">%1$s h și %2$s m rămase</string>
     <string name="pc_settings_title">Setări optimizare acumulator</string>
     <string name="pc_to_phone_install">Instalarea %s prin USB a fost blocată</string>
     <string name="per_month_pkg_traffic_settings">Setaţi limita de date</string>
@@ -1692,6 +1702,8 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="power_dialog_super_save_msg">"Ultra economisirea acumulatorului restricționează cele mai energofage caracteristici și scade performanța dispozitivului dvs. pentru a menține funcțiile de bază (de ex. apeluri, SMS-uri ți conectarea la rețea) disponibile pentru un timp cât mai lung. Activați ultra economisirea acumulatorului?"</string>
     <string name="power_dialog_super_save_title">Ultra economisire a acumulatorului</string>
     <string name="power_idle">Telefon inactiv</string>
+    <string name="power_main_battery_last_day_hour">%1$sz și %2$s h rămase</string>
+    <string name="power_main_battery_last_hour_minute">%1$s h și %2$s m rămase</string>
     <string name="power_optimize_auto_catagory_title">Probleme acumulator</string>
     <string name="power_optimize_battery_save_idea">Optimizați utilizarea acumulatorului</string>
     <string name="power_optimize_battery_save_more">Mai multe</string>
@@ -2178,6 +2190,7 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="summary_cloud_space_full">Obțineți mai mult spațiu de stocare și acces la funcții noi</string>
     <string name="summary_cmcc_app_check">Unele aplicații nu au putut fi verificate</string>
     <string name="summary_consume_power">Au fost semnalate creșteri ale temperaturii ce pot afecta durata de viață a acumulatorului</string>
+    <string name="summary_dark_mode">Unele pagini sunt randate în negru din cauza serviciilor terțe</string>
     <string name="summary_data_flow">Controlați utilizarea datelor mobile pentru a evita taxarea suplimentară</string>
     <string name="summary_default_app">"%s nu este setată ca aplicaţie de sistem prestabilită"</string>
     <string name="summary_dev">Împiedicați aplicațiile să acceseze datele de utilizator</string>
@@ -2345,6 +2358,7 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="title_cloud_space_full">Stocarea Cloud este plină</string>
     <string name="title_cmcc_app_check">Verificarea nu este completă</string>
     <string name="title_consume_power_rank">Utilizarea energiei de către aplicații</string>
+    <string name="title_dark_mode">"Unele elemente nu sunt afișate în mod corect"</string>
     <string name="title_data_flow">Controlați utilizarea datelor mobile</string>
     <string name="title_data_flow_monitor">Monitorizarea utilizării datelor este activă</string>
     <string name="title_dev_model_off">Opțiunile dezvoltator sunt oprite</string>
@@ -2399,6 +2413,7 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="toast_add_virus_white_list_no_need_repeat">Această excepție există deja</string>
     <string name="toast_auto_traffic_correct">Utilizarea datelor este ajustată în mod automat</string>
     <string name="toast_cleaner_cloudscan">Curăţarea va utiliza definiții on-line</string>
+    <string name="toast_dark_mode_fixed">Remediere finalizată cu succes. Părăsiți această pagină pentru a aplica modificările.</string>
     <string name="toast_flow_notification">Au fost activate notificările de utilizare a datelor</string>
     <string name="toast_garbage_lib">Au fost activate actualizările automate pentru Curăţare</string>
     <string name="toast_keyword_blank">Trebuie să introduceți un cuvânt cheie</string>

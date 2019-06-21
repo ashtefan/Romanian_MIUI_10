@@ -1026,12 +1026,12 @@
         <item>Setați ciclul de utilizare...</item>
     </string-array>
     <string-array name="date_of_app_all">
-        <item>Azi (date)</item>
-        <item>Luna aceasta (date)</item>
-        <item>Luna trecută (date)</item>
-        <item>Wi-Fi Azi</item>
-        <item>Wi-Fi luna aceasta</item>
-        <item>Wi-Fi luna trecută</item>
+        <item>"Azi (date mobile) "</item>
+        <item>"Luna aceasta (date mobile) "</item>
+        <item>"Luna trecută (date mobile) "</item>
+        <item>"Astăzi (Wi-Fi) "</item>
+        <item>"Luna aceasta (Wi-Fi) "</item>
+        <item>"Luna trecută (Wi-Fi) "</item>
     </string-array>
     <string-array name="date_of_traffic">
         <item>"Astăzi "</item>
@@ -1506,7 +1506,7 @@ Notă: Doar pentru Ubuntu 8.04!"</item>
         <item>Extrem</item>
     </string-array>
     <string-array name="traffic_type">
-        <item>"Utilizare date "</item>
+        <item>"Utilizare date mobile "</item>
         <item>"Utilizare Wi-Fi "</item>
     </string-array>
     <string-array name="transition_animation_scale_entries">
