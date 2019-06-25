@@ -68,7 +68,7 @@
     <string name="access_control_reset_by_account">Conectaţi-vă la contul Mi pentru a reseta parola</string>
     <string name="access_point_names">Numele punctelor de acces</string>
     <string name="accessibility_autoclick_delay_preference_title">Întârziere atingere</string>
-    <string name="accessibility_autoclick_description">Dacă folosiți un mouse, puteți seta cursorul să acționeze automat când nu se mai mișcă de un anumit interval de timp.</string>
+    <string name="accessibility_autoclick_description">Dacă folosiți un mouse, puteți seta cursorul să acționeze automat când nu se mai mișcă pentru un anumit interval de timp.</string>
     <string name="accessibility_autoclick_preference_title">Click după oprirea cursorului</string>
     <string name="accessibility_captioning_title">Subtitrări</string>
     <string name="accessibility_category_personal">Conturi profil personal</string>
@@ -949,8 +949,8 @@ Sample Rate"</string>
     <string name="bluetooth_settings">Bluetooth</string>
     <string name="bluetooth_settings_summary">Gestionaţi conexiunile, setaţi numele dispozitivului şi detectabilitatea acestuia</string>
     <string name="bluetooth_settings_title">Bluetooth</string>
-    <string name="bluetooth_show_devices_without_names">Afișați dispozitive Bluetooth fără nume</string>
-    <string name="bluetooth_show_devices_without_names_summary">Dispozitivele Bluetooth fără nume (numai adresele MAC) vor fi afișate</string>
+    <string name="bluetooth_show_devices_without_names">Afișați dispozitivele Bluetooth fără nume</string>
+    <string name="bluetooth_show_devices_without_names_summary">Vor fi afișate dispozitivele Bluetooth fără nume (numai adresele MAC)</string>
     <string name="bluetooth_show_received_files">Afişaţi fişierele primite</string>
     <string name="bluetooth_talkback_bluetooth">Bluetooth</string>
     <string name="bluetooth_talkback_computer">Computer</string>
@@ -1412,8 +1412,8 @@ Pentru a relua utilizarea telefonului, trebuie să efectuaţi o resetare la valo
     <string name="dangerous_option_hint_title">Opțiune cu risc ridicat activată</string>
     <string name="dangerous_option_switch_title">Notifică despre caracteristicile cu risc ridicat</string>
     <string name="dark_color_mode">Mod întunecat</string>
-    <string name="dark_color_summary_lcd">Se utilizează paletă de culori mai închisă pentru fundaluri de sistem și aplicații compatibile. Modul întunecat ajută la relaxarea ochilor atunci când utilizați dispozitivul în întuneric.</string>
-    <string name="dark_color_summary_oled">Se utilizează paletă de culori mai închisă pentru fundaluri de sistem și aplicații compatibile. Modul întunecat reduce consumul de energie și ajută la relaxarea ochilor.</string>
+    <string name="dark_color_summary_lcd">Se utilizează o paletă de culori mai închise pentru fundaluri de sistem și aplicații compatibile. Modul întunecat ajută la relaxarea ochilor atunci când utilizați dispozitivul în întuneric.</string>
+    <string name="dark_color_summary_oled">Se utilizează o paletă de culori mai închise pentru fundaluri de sistem și aplicații compatibile. Modul întunecat reduce consumul de energie și ajută la relaxarea ochilor.</string>
     <string name="dark_ui_mode">Mod noapte</string>
     <string name="dark_ui_mode_title">Setare mod noapte</string>
     <string name="dashboard_suggestion_condition_footer_content_description">Restrângere</string>
@@ -4692,7 +4692,7 @@ Notă: Nu puteți utiliza amprenta pentru a debloca acest dispozitiv. Pentru mai
     <string name="share_remote_bugreport_dialog_message">Administratorul IT a solicitat un raport cu erori pentru a-l ajuta să depaneze acest dispozitiv. Aplicațiile și datele acestora pot fi partajate, iar telefonul se poate mișca mai greu o perioadă.</string>
     <string name="share_remote_bugreport_dialog_message_finished">Administratorul IT a solicitat un raport cu erori pentru a-l ajuta să depaneze acest dispozitiv. Aplicațiile și datele acestora pot fi partajate.</string>
     <string name="share_remote_bugreport_dialog_title">Partajați raportul cu erori?</string>
-    <string name="share_this_wifi">Extindere acoperire WLAN</string>
+    <string name="share_this_wifi">Extindere acoperire Wi-Fi</string>
     <string name="sharing_remote_bugreport_dialog_message">Acest raport cu erori este partajat administorului IT. Contactați-l pentru a afla mai multe detalii.</string>
     <string name="short_summary_font_size">Măriți sau micșorați textul de pe ecran</string>
     <string name="show_all_anrs">Afişaţi toate elementele ANR</string>
@@ -4707,7 +4707,7 @@ Notă: Nu puteți utiliza amprenta pentru a debloca acest dispozitiv. Pentru mai
     <string name="show_fc">Afişarea închiderilor forţate</string>
     <string name="show_fc_summary">Afişaţi aplicaţiile închise forţat</string>
     <string name="show_first_crash_dialog">Afișați întotdeauna caseta de dialog pentru blocări</string>
-    <string name="show_first_crash_dialog_summary">Afișați caseta de dialog de fiecare dată când se blochează o aplicație</string>
+    <string name="show_first_crash_dialog_summary">Afișați caseta de dialog de fiecare dată când o aplicație se blochează</string>
     <string name="show_hw_layers_updates">Arată actualizările nivelurilor hardware</string>
     <string name="show_hw_layers_updates_summary">Elementele hardware clipesc în verde la actualizare</string>
     <string name="show_hw_screen_updates">Vizualizează actualizările randărilor GPU</string>
@@ -5487,12 +5487,12 @@ Amprentele salvate vor fi de asemenea eliminate din acest profil și nu veți ma
     <string name="usage_app_limit_summary">Aplicațiile selectate nu vor fi disponibile după atingerea limitei</string>
     <string name="usage_app_limit_title">Limitare durată de folosire</string>
     <string name="usage_app_other_settings">Setări adiționale</string>
-    <string name="usage_app_over_content">Azi ați folosit această aplicație timpe de %s.</string>
+    <string name="usage_app_over_content">Azi ați folosit această aplicație timp de %s.</string>
     <string name="usage_app_over_summary">Ați atins limita. Timpul a expirat!</string>
     <string name="usage_app_set_limit_time">Setare limită</string>
     <string name="usage_app_system_app_summary">Nu se poate limita durata de folosire pentru aplicațiile de sistem</string>
     <string name="usage_app_weekday_limit">Zile lucrătoare</string>
-    <string name="usage_app_weekend_limit">Zile de odihnă</string>
+    <string name="usage_app_weekend_limit">Zile libere</string>
     <string name="usage_log">Statistici utilizare aplicaţii</string>
     <string name="usage_state_app_timer">Durată de folosire</string>
     <string name="usage_state_app_usage_detail_title">Detalii utilizare aplicație</string>
@@ -5515,7 +5515,7 @@ Amprentele salvate vor fi de asemenea eliminate din acest profil și nu veți ma
     <string name="usage_state_notification_manager">Gestionați notificările aplicației</string>
     <string name="usage_state_remind_summary">Activați pentru a primi alerte ale duratei de folosire.</string>
     <string name="usage_state_remind_title">Alertă durată de folosire</string>
-    <string name="usage_state_rest_day">Zile de odihnă</string>
+    <string name="usage_state_rest_day">Zile libere</string>
     <string name="usage_state_saturday">Sâm</string>
     <string name="usage_state_set_invalid_time_toast">Nu se pot seta limite de timp mai scurte de un minut</string>
     <string name="usage_state_sunday">Dum</string>
@@ -5528,13 +5528,13 @@ Amprentele salvate vor fi de asemenea eliminate din acest profil și nu veți ma
     <string name="usage_state_usage_time_remind">Alertă durată de folosire</string>
     <string name="usage_state_use_time_remind_title">Alertă durată de folosire</string>
     <string name="usage_state_wednesday">Mie</string>
-    <string name="usage_state_week_day_hour_minute" formatted="false">Zile de odihnă: %dh %dm</string>
+    <string name="usage_state_week_day_hour_minute" formatted="false">Zile libere: %dh %dm</string>
     <string name="usage_state_week_total_text">Durata de folosire (ultimele 7 zile)</string>
     <string name="usage_state_work_day">Zile lucrătoare</string>
     <string name="usage_state_work_day_hour_minute" formatted="false">Zile lucrătoare: %dh %dm</string> 
     <string name="usage_stats_label">Statistici de utilizare</string>
     <string name="usage_stats_normal_day">Zile lucrătoare</string>
-    <string name="usage_stats_week_day">Zile de odihnă</string>
+    <string name="usage_stats_week_day">Zile libere</string>
     <string name="usage_time_label">Durată de utilizare</string>
     <string name="usage_type_actual_power">Energie consumată observată</string>
     <string name="usage_type_audio">Audio</string>
@@ -5566,7 +5566,7 @@ Amprentele salvate vor fi de asemenea eliminate din acest profil și nu veți ma
     <string name="usagestats_app_category_miui_system">Aplicaţii de sistem</string>
     <string name="usagestats_app_category_miui_tools">Instrumente</string>
     <string name="usagestats_app_category_miui_undefined">Altele</string>
-    <string name="usagestats_app_category_miui_video_etc">Muzică şi video</string>
+    <string name="usagestats_app_category_miui_video_etc">Muzică şi videoclipuri</string>
     <string name="usagestats_device_notification_des">Limita duratei de folosire pentru astăzi: %s</string>
     <string name="usagestats_device_notification_des_over">Ați ajuns deja la limita de timp a ecranului.</string>
     <string name="usagestats_device_notification_des_reset" formatted="false">Limita de azi: %s | %s rămas</string>
@@ -5582,7 +5582,7 @@ Amprentele salvate vor fi de asemenea eliminate din acest profil și nu veți ma
     <string name="usb_charging_summary">Opriți toate celelalte opţiuni de conexiune USB pentru a accelera încărcarea.</string>
     <string name="usb_charging_title">Accelerare încărcare</string>
     <string name="usb_connection_category">Conectaţi ca</string>
-    <string name="usb_default_info">Când un dispozitiv este conectat și telefonul este deblocat, se vor aplica aceste setări. Conectați numai dispozitive de încredere.</string>
+    <string name="usb_default_info">Se vor aplica aceste setări când este conectat un dispozitiv și telefonul este deblocat. Conectați numai dispozitive de încredere.</string>
     <string name="usb_default_label">Configurație USB implicită</string>
     <string name="usb_eject">Demontați stocarea USB</string>
     <string name="usb_eject_summary">Demontați stocarea USB pentru a o putea elimina în siguranță</string>
