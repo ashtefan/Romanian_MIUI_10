@@ -4641,6 +4641,8 @@ Notă: Nu puteți utiliza amprenta pentru a debloca acest dispozitiv. Pentru mai
     <string name="select_sim_for_calls">Apelați prin</string>
     <string name="select_sim_for_data">Selectați o cartelă SIM pentru date</string>
     <string name="select_ssid_type_title">Selectaţi SSID</string>
+    <string name="select_time_format_category_title">Format oră</string>
+    <string name="select_time_format_title">Format oră</string>
     <string name="select_to_speak_summary">Atingeți elementele de pe ecran pentru a le auzi rostite tare</string>
     <string name="select_usb_configuration_dialog_title">Selectați Configurația USB</string>
     <string name="select_usb_configuration_title">Selectați Configurația USB</string>
