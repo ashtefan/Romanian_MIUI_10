@@ -200,8 +200,10 @@
     <string name="begin_share">S-a creat albumul copilului \"%s\", partajați-l chiar acum</string>
     <string name="begin_share_toast">Creați separat un Album al Copilului înainte de a-l partaja?</string>
     <string name="blank_app_name"/>
+    <string name="blur_refocus_enter"/>
     <string name="browse_category_title">Răsfoiți</string>
     <string name="burst_image_download_item_title" formatted="false">Descărcați originalul (%s|%s)</string>
+    <string name="burst_photo_enter"/>
     <string name="burst_preview_title">Fotografiere în rafală</string>
     <string name="burst_save_all">Salvați-le pe toate</string>
     <string name="burst_save_choice_title" formatted="false">S-au selectat %d din %d</string>
@@ -758,6 +760,7 @@ pentru a personaliza Galeria"</string>
     <string name="more_album_hint">, etc.</string>
     <string name="more_face">Mai multe persoane care seamănă</string>
     <string name="more_face_album_name">Mai multe persoane</string>
+    <string name="motion_photo_enter"/>
     <string name="motion_photo_play">Joacă</string>
     <string name="move_to_other_albums_tip">Mutați acest album în Alte albume?</string>
     <string name="movie_add_disable">Puteți selecta maxim 20 de fotografii</string>
@@ -960,6 +963,7 @@ pentru a personaliza Galeria"</string>
     <string name="photo_editor_talkback_crop_16_9">Șaisprezece pe nouă</string>
     <string name="photo_editor_talkback_crop_1_1">Unu la unu</string>
     <string name="photo_editor_talkback_crop_2_3">Doi pe trei</string>
+    <string name="photo_editor_talkback_crop_3_2">Trei pe doi</string>
     <string name="photo_editor_talkback_crop_3_4">Trei pe patru</string>
     <string name="photo_editor_talkback_crop_4_3">Patru pe trei</string>
     <string name="photo_editor_talkback_crop_9_16">Nouă pe șaisprezece</string>
@@ -1229,6 +1233,7 @@ pentru a personaliza Galeria"</string>
     <string name="slim_running">Se optimizează…</string>
     <string name="slim_space">eliberat</string>
     <string name="slim_stop">Opriți optimizarea</string>
+    <string name="slow_motion_enter"/>
     <string name="special_type_eye_repair">S-au remediat ochii închiși utilizând AI</string>
     <string name="special_type_hdr">HDR</string>
     <string name="special_type_night_beauty">Portret AI în lumină redusă</string>
@@ -1276,6 +1281,7 @@ pentru a personaliza Galeria"</string>
     <string name="sub_discard_negative_btn">Renunțați</string>
     <string name="sub_discard_positive_btn">Salvați</string>
     <string name="success_create_quick_icon_on_desk">Creare reuşită</string>
+    <string name="super_slow_motion_enter"/>
     <string name="sync_album_in_proecess">Sincronizare album…</string>
     <string name="sync_battery_low">Acumulator descărcat</string>
     <string name="sync_cloud_space_full">Spaţiu insuficient în Cloud</string>

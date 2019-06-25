@@ -106,6 +106,7 @@
     <string name="dynamic_alarm_speech">Alarmă inteligentă</string>
     <string name="edit_alarm">Editați alarma</string>
     <string name="edit_systemtime">Editaţi data şi ora sistemului</string>
+    <string name="edit_systemtime_setting_summary">Data, ora și ceasul dual</string>
     <string name="elapsed_time_format">+%s</string>
     <string name="every_day">În fiecare zi</string>
     <string name="expired_timers_dismissed">Temporizator oprit cu succes</string>
@@ -214,7 +215,7 @@
     <string name="shortcut_stop_watch">Porniți temporizatorul</string>
     <string name="shut_down_keep_screen">"Ecranul nu va fi păstrat pornit"</string>
     <string name="shutdown_alarm_disable_summary">"Alarma nu va mai suna după ce închideți telefonul"</string>
-    <string name="shutdown_alarm_enable_summary">"Alarma va suna dacă este setată peste cel puțin 5 minute după ce opriți telefonul"</string>
+    <string name="shutdown_alarm_enable_summary">"Alarma va suna dacă este setată peste cel puțin 10 minute după ce opriți telefonul"</string>
     <string name="shutdown_alarm_title">Pornire telefon</string>
     <string name="silent_alarm_summary">Silenţios</string>
     <string name="skip_alarm_once_hint">Amânați o dată în %s</string>
@@ -240,6 +241,8 @@
   <string name="stat_repeat_self_define">Definit de utilizator</string>
   <string name="stat_repeat_weekdays">De luni până vineri</string>
   <string name="stat_repeat_weekends">În weekend</string>
+    <string name="status_bar_clock_date_time_format">H:mm:ss</string>
+    <string name="status_bar_clock_date_time_format_12">h:mm:ss aa</string>
     <string name="stopwatch_lap_empty_text">Niciun circuit</string>
     <string name="stopwatch_title">Cronometru</string>
     <string name="system_time_setting">Setări</string>
@@ -304,9 +307,12 @@
     <string name="workday_alarm_clock">Alarmă în zilele lucrătoare</string>
     <string name="worldclock_empty_text">Niciun ceas</string>
     <string name="worldclock_input_hint_text">Căutați țara sau orașul</string>
+    <string name="worldclock_resident_city_text">Ceasul secundar: %s</string>
+    <string name="worldclock_resident_city_text_detail">Ceasul dual este activ</string>
     <string name="worldclock_search_city">Selectați orașul</string>
     <string name="worldclock_title">Ceas</string>
     <string name="worldclock_world_time">Fusuri orare</string>
+    <string name="worldcolock_date_display_prefix">Curent: </string>
     <string name="worldcolock_timezone_current">Curent: %1$s</string>
     <string name="worldcolock_timezone_date">dd MMM</string>
     <string name="worldcolock_timezone_gap">%s H</string>

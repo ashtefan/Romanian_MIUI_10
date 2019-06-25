@@ -649,6 +649,7 @@ Operatorul vă poate taxa suplimentar dacă activați din nou datele mobile."</s
     <string name="deep_save_memory_clean_summary">Goliți memoria cache atunci când telefonul este blocat pentru a preveni utilizarea acumulatorului de către aplicații</string>
     <string name="deep_save_ontime_boot_shutdown_summary">Setați intervalul în care telefonul se va închide automat</string>
     <string name="delete">Ştergeţi</string>
+    <string name="delete_all_sms">Ștergeți-le pe toate</string>
     <string name="delete_from_manual_item_white_list">Eliminați din excepții</string>
     <string name="delete_input">Ștergeți</string>
     <string name="deleted_apps">Aplicaţii dezinstalate</string>
@@ -2006,6 +2007,7 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="sms_blacklist">Blocare SMS-uri</string>
     <string name="sms_cloud_block">Blocare în Cloud</string>
     <string name="sms_contact_block">Blocare SMS-uri de la contacte</string>
+    <string name="sms_delete_all_hint">Ștergeți toate mesajele acum?</string>
     <string name="sms_delete_hint">Ștergeți toate mesajele blocate provenite de la acest număr?</string>
     <string name="sms_delete_title">Ștergeți mesajele</string>
     <string name="sms_detail_correct_success_text">"Aici este starea utilizării datelor de la prcedenta calibrare (%1$s):"</string>

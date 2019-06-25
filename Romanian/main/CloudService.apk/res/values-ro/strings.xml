@@ -268,6 +268,7 @@ Atunci când se atinge limita spaţiului de stocare, datele vechi nu se vor şte
 
 Pentru a rezolva acest lucru, fie puteți şterge unele fișierele vechi, fie puteți achiziționa spațiu de stocare suplimentar."</string>
     <string name="micloud_full_influence_title">Când Mi Cloud este plin…</string>
+    <string name="micloud_last_sync_canceled">Sincronizarea a fost anulată. Încercați din nou.</string>
     <string name="micloud_main_battery_low">Nivelul acumulatorului este prea scăzut pentru a sincroniza</string>
     <string name="micloud_main_battery_message">Conectați încărcătorul pentru a sincroniza</string>
     <string name="micloud_main_button_set_internet">Setări</string>

@@ -75,6 +75,8 @@
     <string name="continue_update_negative_btn">Continuați</string>
     <string name="continue_update_positive_btn">Stop</string>
     <string name="daily_build">Zilnic</string>
+    <string name="default_filedownloader_notification_content">DescărcareaFișierelor rulează.</string>
+    <string name="default_filedownloader_notification_title">DescărcareaFișierelor</string>
     <string name="delay_update_text">Actualizați mai târziu</string>
     <string name="dialog_3g_desc">Luați aminte că descărcarea actualizării utilizând datele mobile va conduce la un trafic de date important.</string>
     <string name="dialog_3g_title">Avertizare!</string>
@@ -120,7 +122,7 @@
     <string name="go_on_download">Descărcaţi</string>
     <string name="important_suggestion">Politica de confidențialitate a fost modificată</string>
     <string name="install">Instalaţi</string>
-    <string name="install_desc">"Telefonul va reporni în modul Recuperare și va instala fișierul selectat: <b>%1$s</b>
+    <string name="install_desc">Telefonul va reporni în modul Recuperare și va instala fișierul selectat: &lt;b&gt;%1$s&lt;/b&gt;"
 Partiția de date nu va fi ștearsă."</string>
   <string name="install_title">Sunteți sigur că doriți să continuați?</string>
     <string name="install_failed">Actualizare eşuată</string>

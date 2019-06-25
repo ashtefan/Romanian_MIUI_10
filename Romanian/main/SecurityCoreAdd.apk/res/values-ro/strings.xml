@@ -149,6 +149,8 @@ Asigurați-vă că numele companiei este corect. Citiți și acceptați politici
     <string name="err_volume_not_enough">Spațiu de stocare insuficient</string>
     <string name="exit_private_space">Comutați</string>
     <string name="experience_more_features">Adăugați un dispozitiv pentru a vedea toate caracteristicile</string>
+    <string name="facebook_login">Conectați-vă utilizând Facebook</string>
+    <string name="facebook_send">Partajați prin Facebook</string>
     <string name="finger_print_num">Amprenta %d</string>
     <string name="finger_print_of_use">Utilizați amprenta</string>
     <string name="fingerprint_number_upper_limit">Prea multe încercări nereușite de deblocare</string>
@@ -198,12 +200,13 @@ Le puteți de asemenea descărca separat."</string>
     <string name="import_photo_suc">Fotografii importate</string>
     <string name="input_space_finger">Setați acum</string>
     <string name="input_space_password">Setați acum</string>
+    <string name="instagram_send">Partajați prin Instagram</string>
     <string name="install">Instalați</string>
     <string name="install_error">"Nu s-a putut instala. Încercați din nou."</string>
     <string name="invalid_qr_code">Cod QR invalid</string>
     <string name="kid_mode_label">Spațiul Copilului</string>
     <string name="list_empty_text">Gol</string>
-    <string name="list_empty_text_xspace">Instalați WeChat/QQ/Weibo, creați aplicații clonate și reîncercați.</string>
+    <string name="list_empty_text_xspace">Creați mai multe aplicații clonate și reîncercați.</string>
     <string name="loading">Doar o secundă…</string>
     <string name="loading_apps">Se încarcă aplicațiile…</string>
     <string name="loading_space">Doar o secundă…</string>
@@ -265,8 +268,8 @@ Altfel nu veți putea accesa Spațiul secundar din Blocarea ecranului."</string>
     <string name="radio_button_icon_switch_title">Utilizând o scurtătură</string>
     <string name="radio_button_password_switch_title">Utilizând o parolă</string>
     <string name="removeSuccess">Șters cu succes</string>
-    <string name="remove_button">Eliminați și reporniți</string>
-    <string name="remove_button_time">Eliminați și reporniți (%ds)</string>
+    <string name="remove_button">Eliminați</string>
+    <string name="remove_button_time">Eliminați (%ds)</string>
     <string name="remove_second_space_msg">Toate datele aplicațiilor din Spațiul Secundar vor fi șterse după ce veți elimina Spațiul Secundar. Continuați?</string>
     <string name="remove_user_click_message">"*Dacă nu aveți elemente importante în Spațiul secundar, %s"</string>
     <string name="remove_user_click_message_action">puteți șterge Spațiul secundar și reporni telefonul acum.</string>
@@ -379,8 +382,8 @@ Dacă nu faceți actualizarea, și aplicațiile clonate pot funcționa necorespu
     <string name="start_new_fingerprint_tips">"Utilizați amprenta pentru Spațiul secundar
 pentru a accesa Spațiul secundar din Blocarea ecranului"</string>
     <string name="start_setting_guide_desc_title">Sunt câteva lucruri de setat</string>
-    <string name="stop_xspace_alert_content">"Toate aplicațiile clonate și datele acestora vor fi șterse permanent. Va trebui să reporniți telefonul pentru a aplica această modificare. Ștergeți conturile acum?"</string>
-    <string name="stop_xspace_alert_title">Se șterg conturile aplicațiilor clonate</string>
+    <string name="stop_xspace_alert_content">Ștergeți toate aplicațiile clonate precum și conturile și datele acestora? Telefonul va reporni pentru a aplica această modificare.</string>
+    <string name="stop_xspace_alert_title">"Ștergeți conturile aplicațiilor clonate"</string>
     <string name="summary_switch_apps_settings">Selectați aplicațiile utilizate în Spațiul curent</string>
     <string name="support_desc">Servicii de securitate oferite de Spaces Mobile</string>
     <string name="sure_to_use">Confirmați</string>
@@ -428,28 +431,32 @@ pentru a accesa Spațiul secundar din Blocarea ecranului"</string>
     <string name="undo_grant_dialog_message">Xiaomi nu va mai colecta informațiile necesare pentru această caracteristică (IMEI, ID-ul dispozitivului, versiunea de sistem, regiunea, etc.) după ce veți revoca autorizarea. Revocați acum?</string>
     <string name="undo_privacy_menu">Revoc autorizarea</string>
     <string name="undo_success">Revocată cu succes</string>
-    <string name="use_xiaoai_open">Treziți utilizând asistentul vocal</string>
+    <string name="use_google_open">Treziți utilizând asistentul Google</string>
+    <string name="use_xiaoai_open">Treziți utilizând Mi AI</string>
     <string name="wating">Doar o secundă…</string>
     <string name="weibo_send">Trimiteți în Weibo</string>
     <string name="weixin_pay">Plată WeChat</string>
     <string name="weixin_share_sign">Conectați-vă și partajați</string>
+    <string name="whatsapp_send">Partajați prin WhatsApp</string>
     <string name="xpsace_guide_button">Creați</string>
     <string name="xspace_account">Conturi aplicații clonate</string>
     <string name="xspace_chocie">Suport pentru aplicațiile clonate</string>
     <string name="xspace_creating">Se crează aplicația clonată…</string>
-    <string name="xspace_default_app_summary">Setați aplicația implicită pentru plăți, partajare, favorite și altele.</string>
-    <string name="xspace_default_app_title">Aplicația implicită</string>
+    <string name="xspace_default_app_summary">Setați aplicațiile implicite pentru conectare, partajare și asistență vocală.</string>
+    <string name="xspace_default_app_title">Personalizare</string>
     <string name="xspace_default_guide_notification_content">Atingeți pentru a modifica</string>
     <string name="xspace_default_guide_notification_main_title">Utilizând aplicația implicită</string>
     <string name="xspace_default_guide_notification_xspace_title">Utilizând aplicația clonată</string>
     <string name="xspace_default_setting_dialog_title"> implicită</string>
-    <string name="xspace_default_setting_label">Aplicația implicită</string>
+    <string name="xspace_default_setting_label">Personalizare</string>
     <string name="xspace_description">"Aplicațiile clonate sunt copii ale aplicațiilor care pot fi utilizate separat cu un alt cont.
 
 Unele aplicații clonate necesită suportul Google Services Framework. În aceste cazuri, se crează două aplicații Google Services Framework."</string>
+    <string name="xspace_facebook_title">Facebook</string>
     <string name="xspace_guide_des">Utilizați 2 conturi fără a comuta</string>
     <string name="xspace_guide_title">Creați o aplicație clonată</string>
     <string name="xspace_header">Aplicații clonate</string>
+    <string name="xspace_instagram_title">Instagram</string>
     <string name="xspace_install_failed">"Nu s-a putut crea"</string>
     <string name="xspace_installing">Se instalează…</string>
     <string name="xspace_introduce">Recomandate</string>
@@ -464,4 +471,5 @@ Unele aplicații clonate necesită suportul Google Services Framework. În acest
     <string name="xspace_uninstalling">Se dezinstalează…</string>
     <string name="xspace_weibo_title">Weibo</string>
     <string name="xspace_weixin_title">WeChat</string>
+    <string name="xspace_whatsapp_title">WhatsApp</string>
 </resources>

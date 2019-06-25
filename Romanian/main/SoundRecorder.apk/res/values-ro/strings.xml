@@ -245,7 +245,9 @@
     <string name="status_bar_back">Pentru a merge înapoi, atingeţi această bară</string>
     <string name="status_bar_recording">Înregistrare…</string>
     <string name="status_bar_recording_pause">"Pauză înregistrare. "</string>
+    <string name="text_btn_backward_3_seconds">3 secunde înapoi</string>
     <string name="text_btn_complete">Stop</string>
+    <string name="text_btn_forward_3_seconds">3 secunde înainte</string>
     <string name="text_btn_list">Înregistrări</string>
     <string name="text_btn_mark">Marcați</string>
     <string name="text_btn_pause">Pauză</string>
@@ -255,6 +257,10 @@
     <string name="text_btn_recording">Înregistrare</string>
     <string name="text_btn_wave">Undă</string>
     <string name="text_finish">Confirmați</string>
+    <string name="text_play_speed_0_5">Viteză de redare 0,5x</string>
+    <string name="text_play_speed_1_0">Viteză de redare normală</string>
+    <string name="text_play_speed_1_5">Viteză de redare 1,5x</string>
+    <string name="text_play_speed_2_0">Viteză de redare 2x</string>
     <string name="timer_format" formatted="false">%02d:%02d</string>
     <string name="timer_format_three_sections" formatted="false">%02d:%02d:%02d</string>
     <string name="title_activity_recinbox_sdk_browser">RecinboxSdkBrowser</string>
