@@ -3040,6 +3040,8 @@ Sunt alți utilizatori pe acest dispozitiv.
     <string name="miui_lab_features">Caracteristici laborator MIUI</string>
     <string name="miui_lab_gallery_search_desc">Căutare îmbunătățită a imaginilor</string>
     <string name="miui_lab_gallery_search_title">Găsire fotografii din Galerie</string>
+    <string name="miui_lab_home_feed_desc">Idei strălucitoare. Povestiri convingătoare.</string>
+    <string name="miui_lab_home_feed_title">Centru Media</string>
     <string name="miui_lab_install_drive_mode_error">"Nu s-a putut instala; încercați din nou."</string>
     <string name="miui_lab_install_drive_mode_summary">"Modul Auto este o aplicație de sistem. Instalarea nu necesită conexiune la internet."</string>
     <string name="miui_lab_install_drive_mode_title">Instalați modul Auto</string>
