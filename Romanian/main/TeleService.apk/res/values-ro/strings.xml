@@ -392,8 +392,8 @@ Sample Rate"</string>
     <string name="call_record_auto_whitelist">Listă personalizată</string>
     <string name="call_record_auto_whitelist_no_item">Adăugaţi un număr prin atingerea butonului (+)</string>
     <string name="call_record_loading_content">Încărcare…</string>
-    <string name="call_record_off_summary">Înregistrarea apelurilor dezactivată</string>
-    <string name="call_record_on_summary">Apelurile vor fi înregistrate în mod automat</string>
+    <string name="call_record_off_summary">Dezactivat</string>
+    <string name="call_record_on_summary">Activat</string>
     <string name="call_record_setting">Înregistrare apel</string>
     <string name="call_record_whitelist_custom">Numere selectate</string>
     <string name="call_recording_notification_message">Atingeți pentru a asculta.</string>
@@ -1167,7 +1167,7 @@ Pentru mai multe opţiuni, încercaţi din nou sau apelaţi Serviciul Clienţi."
     <string name="path_telocation_custom_location_title">Aplicații de sistem/Telefon/Locație/Locațiile mele</string>
     <string name="path_telocation_enable_title">Aplicații de sistem/Telefon/Locație/Afișare locație</string>
     <string name="path_turnover_mute_title">Aplicații de sistem/Telefon/Setările apelurilor primite/Întoarcere pentru a dezactiva soneria</string>
-    <string name="path_voicemail_settings">Aplicații de sistem/Telefon/Setări avansate/Configurare</string>
+    <string name="path_voicemail_settings">Aplicații de sistem/Telefon/Setări avansate/Mesagerie vocală</string>
     <string name="pause_prompt_no">Nu</string>
     <string name="pause_prompt_str">"Se trimit tonuri
 "</string>
@@ -1681,7 +1681,7 @@ Această tabletă nu are difuzor. Puteți comuta la modul mâini-libere sau util
     <string name="voicemail_provider">Servicii</string>
     <string name="voicemail_provider_summary">Alegeţi serviciul de mesagerie vocală</string>
     <string name="voicemail_set_pin_dialog_title">Setați codul PIN</string>
-    <string name="voicemail_settings">Configurare</string>
+    <string name="voicemail_settings">Mesagerie vocală</string>
     <string name="voicemail_settings_number_hint">Introduceți numărul mesageriei vocale</string>
     <string name="voicemail_settings_number_label">Număr mesagerie vocală</string>
     <string name="voicemail_settings_number_title">Număr mesagerie vocală</string>
