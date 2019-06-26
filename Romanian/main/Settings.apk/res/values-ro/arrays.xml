@@ -1477,6 +1477,11 @@ Notă: Doar pentru Ubuntu 8.04!"</item>
         <item>Spaniolă (América)</item>
         <item>Portugheză (Brazilia)</item>
     </string-array>
+    <string-array name="time_format_entries">
+        <item>12-ore 1:00 PM</item>
+        <item>24-ore 13:00</item>
+        <item>Automat (bazat pe limba sistemului)</item>
+    </string-array>
     <string-array name="standard_configuration_version">
         <item>3 GB</item>
         <item>16 GB</item>

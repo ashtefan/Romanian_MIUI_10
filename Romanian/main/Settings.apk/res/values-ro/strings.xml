@@ -806,6 +806,8 @@ Ultima rulare pe %2$s"</string>
     <string name="bluetooth_devices">Dispozitive Bluetooth</string>
     <string name="bluetooth_disable_absolute_volume">Dezactivați volumul absolut</string>
     <string name="bluetooth_disable_absolute_volume_summary">Dezactivează caracteristica Bluetooth de volum absolut în cazul unor probleme cu volumul la unele dispozitive de la distanță cum ar fi volum foarte ridicat sau lipsa controlului.</string>
+    <string name="bluetooth_disable_inband_ringing">Dezactivare sonerie</string>
+    <string name="bluetooth_disable_inband_ringing_summary">Nu se redau tonurile de apel în căștile Bluetooth</string>
     <string name="bluetooth_disable_profile_message">Această acţiune va dezactiva:<b>%1$s</b> de pe:<b>%2$s</b></string>
     <string name="bluetooth_disable_profile_title">Dezactivaţi profilul?</string>
     <string name="bluetooth_disabled">Invizibil pentru alte dispozitive</string>
@@ -1394,6 +1396,7 @@ Pentru a relua utilizarea telefonului, trebuie să efectuaţi o resetare la valo
     <string name="current_zone">(curent)</string>
     <string name="custom_carrier_title">Editați numele operatorului</string>
     <string name="custom_wifi_name_title">Editați numele rețelei Wi-Fi</string>
+    <string name="customize_function">Modele disponibile</string>
     <string name="cutout_mode_always">Arată întotdeauna tăietura</string>
     <string name="cutout_mode_default">Auto</string>
     <string name="cutout_mode_settings_title">Unele aplicații pot fi afișate incorect dacă personalizați modul în care este afișată tăietura.</string>
@@ -2247,8 +2250,14 @@ Când activați crearea automată a copiei de rezervă, datele dispozitivului ș
     <string name="game_controller_settings_category">Controler de jocuri</string>
     <string name="game_mode_settings">Mod Jocuri</string>
     <string name="game_storage_settings">Jocuri</string>
+    <string name="gesture_c">Modelul C</string>
     <string name="gesture_double_twist_sensor_name"/>
     <string name="gesture_double_twist_sensor_vendor"/>
+    <string name="gesture_m">Modelul M</string>
+    <string name="gesture_open_alipay">Deschide Alipay</string>
+    <string name="gesture_open_camera">Deschide Camera</string>
+    <string name="gesture_open_music">Deschide Muzica</string>
+    <string name="gesture_open_wechat">Deschide WeChat</string>
     <string name="gesture_preference_summary">Gesturi rapide pentru a controla telefonul</string>
     <string name="gesture_preference_title">Gesturi</string>
     <string name="gesture_prevent_ringing_screen_title">Dezactivați soneria</string>
@@ -2256,7 +2265,9 @@ Când activați crearea automată a copiei de rezervă, datele dispozitivului ș
     <string name="gesture_prevent_ringing_title">Apăsați în același timp pe butonul de pornire și pe creșterea volumului</string>
     <string name="gesture_setting_off">Oprit</string>
     <string name="gesture_setting_on">Pornit</string>
+    <string name="gesture_w">Modelul W</string>
     <string name="gesture_wakeup_title">Trezire dispozitiv la atingerea dublă a ecranului</string>
+    <string name="gesture_z">Modelul Z</string>
     <string name="getConfiguredNetworks">obțineți configurările de rețea</string>
     <string name="getConnectionInfo">obțineți informații despre conexiune</string>
     <string name="giga_hertz">GHz</string>
@@ -3027,6 +3038,11 @@ Sunt alți utilizatori pe acest dispozitiv.
     <string name="miui_allow_vibrate">Vibrații</string>
     <string name="miui_data_usage_menu_metered">Hotspot-uri mobile</string>
     <string name="miui_experience_optimization">Activați optimizarea MIUI</string>
+    <string name="miui_input_method_settings">Setări privind metoda de introducere</string>
+    <string name="miui_lab_3d_gesture_desc">Deschideți ecranul de pornire și mişcaţi telefonul în aer conform unuia din modele pentru a deschide aplicațiile selectate</string>
+    <string name="miui_lab_3d_gesture_slogan">Desenați un model în aer cu telefonul pentru a deschide o aplicație</string>
+    <string name="miui_lab_3d_gesture_summary">Desenați un model în aer cu telefonul pentru a deschide o aplicație</string>
+    <string name="miui_lab_3d_gesture_title">Modele 3D</string>
     <string name="miui_ime_xiaoai_voice_hint">O modalitate mai rapidă și mai comodă pentru introducerea textelor</string>
     <string name="miui_ime_xiaoai_voice_title">Introducere vocală Mi AI</string>
     <string name="miui_lab_ai_cloud_closed">"Preîncărcarea AI nu este încă disponibilă."</string>
@@ -3040,6 +3056,8 @@ Sunt alți utilizatori pe acest dispozitiv.
     <string name="miui_lab_features">Caracteristici laborator MIUI</string>
     <string name="miui_lab_gallery_search_desc">Căutare îmbunătățită a imaginilor</string>
     <string name="miui_lab_gallery_search_title">Găsire fotografii din Galerie</string>
+    <string name="miui_lab_gesture_desc">Utilizați gesturi în loc de butoane pentru navigare</string>
+    <string name="miui_lab_gesture_title">Gesturi pe ecran complet</string>
     <string name="miui_lab_home_feed_desc">Idei strălucitoare. Povestiri convingătoare.</string>
     <string name="miui_lab_home_feed_title">Centru Media</string>
     <string name="miui_lab_install_drive_mode_error">"Nu s-a putut instala; încercați din nou."</string>
@@ -4623,6 +4641,8 @@ Notă: Nu puteți utiliza amprenta pentru a debloca acest dispozitiv. Pentru mai
     <string name="select_sim_for_calls">Apelați prin</string>
     <string name="select_sim_for_data">Selectați o cartelă SIM pentru date</string>
     <string name="select_ssid_type_title">Selectaţi SSID</string>
+    <string name="select_time_format_category_title">Format oră</string>
+    <string name="select_time_format_title">Format oră</string>
     <string name="select_to_speak_summary">Atingeți elementele de pe ecran pentru a le auzi rostite tare</string>
     <string name="select_usb_configuration_dialog_title">Selectați Configurația USB</string>
     <string name="select_usb_configuration_title">Selectați Configurația USB</string>
@@ -5120,6 +5140,7 @@ Luați în calcul utilizarea unui ^1 mai rapid pentru o mai bună performanță.
     <string name="support_account_picker_add_account">Adăugați un cont</string>
     <string name="support_account_request_prefix">Se solicită ca</string>
     <string name="support_country_format">%1$s - %2$s</string>
+    <string name="support_gesture_title">Modele 3D</string>
     <string name="support_country_list_title">Suport pentru:</string>
     <string name="support_disclaimer_do_not_show">Nu arăta din nou</string>
     <string name="support_disclaimer_title">Trimite informațiile de sistem</string>
