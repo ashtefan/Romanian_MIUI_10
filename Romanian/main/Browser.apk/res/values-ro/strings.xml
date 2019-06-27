@@ -47,11 +47,11 @@
     <string name="action_menu_text_bandwidth">Economisire date</string>
     <string name="action_menu_text_bandwidth_off">Economisire date</string>
     <string name="action_menu_text_bandwidth_on">Economisire date</string>
-    <string name="action_menu_text_bookmark_add_off">"Nu s-a putut adăuga site-ul"</string>
+    <string name="action_menu_text_bookmark_add_off">Nu s-a putut adăuga site-ul</string>
     <string name="action_menu_text_bookmark_removed">Ștergeți marcajul</string>
     <string name="action_menu_text_copy_url">Copiaţi URL</string>
     <string name="action_menu_text_create_qr_code">Cod QR</string>
-    <string name="action_menu_text_download">Administrați descărcările</string>
+    <string name="action_menu_text_download">Descărcări</string>
     <string name="action_menu_text_drop">Ieșiți din meniu</string>
     <string name="action_menu_text_exit">Ieşire</string>
     <string name="action_menu_text_find_in_page">Găsiţi în pagină</string>
@@ -63,7 +63,7 @@
     <string name="action_menu_text_nightmode_off">Mod nocturn</string>
     <string name="action_menu_text_nightmode_on">Mod nocturn</string>
     <string name="action_menu_text_readmode">Mod citire</string>
-    <string name="action_menu_text_refresh">Reîmprospătaţi</string>
+    <string name="action_menu_text_refresh">Reîmprospătare</string>
     <string name="action_menu_text_setting">Setări</string>
     <string name="action_menu_text_share">Partajaţi</string>
     <string name="action_menu_text_snapshot">Salvați pagina</string>
@@ -74,7 +74,7 @@
     <string name="action_menu_useful_page">Adaugă la Utile</string>
     <string name="action_menu_useful_page_added">Adăugat în pagina de start</string>
     <string name="action_menu_user_center">Profil</string>
-    <string name="action_modify_bookmark">Modificați semnul de carte</string>
+    <string name="action_modify_bookmark">Modificați marcajul</string>
     <string name="action_put_in_search_box">Puneți %s în căsuța de căutare</string>
     <string name="action_skip">Omiteți</string>
     <string name="action_text_all_select_bookmark">Selectați tot</string>
@@ -526,8 +526,8 @@ pentru a vedea filele deschise pe alte dispozitive"</string>
     <string name="miui_autologin_bar_title">Conectați-vă cu contul Mi</string>
     <string name="miui_bookmark_action_bar_add_group_title">Adăugaţi un grup</string>
     <string name="miui_bookmark_action_bar_new_group_title">Grup nou</string>
-    <string name="miui_quicksearch_enable_pref_summary">Afişaţi linkul în bara de căutare din panoul notificărilor</string>
-    <string name="miui_quicksearch_enable_pref_title">Bara de căutare din panoul notificărilor</string>
+    <string name="miui_quicksearch_enable_pref_summary">Afişaţi bara de căutare în panoul notificărilor</string>
+    <string name="miui_quicksearch_enable_pref_title">Bara de căutare în panoul notificărilor</string>
     <string name="miui_search_notification_message">Atingeţi pentru a deschide bara de căutare</string>
     <string name="miui_search_notification_title">Bara de căutare</string>
     <string name="miui_startpage">Pagină de pornire</string>
