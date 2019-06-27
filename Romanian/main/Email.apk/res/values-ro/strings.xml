@@ -1007,7 +1007,6 @@ pentru a primi notificări despre plăți și călătorii"</string>
     <string name="refreshing_done">Finalizat</string>
     <string name="release_to_refresh">Eliberați pentru a actualiza</string>
     <string name="remind_attachment_size_limit">Mărimea e-mailurilor ar trebui să fie sub %s MB</string>
-    <string name="remote_no_mail">"Nu mai există e-mailuri pe server."</string>
     <string name="remote_search_body_too_large_prompt">"Acest e-mail este prea lung.
 Așteptați până se finalizează sincronizarea sau citiți mesajul pe computer."</string>
     <string name="remove_account">Eliminaţi contul</string>
