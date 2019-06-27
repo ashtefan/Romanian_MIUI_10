@@ -85,6 +85,7 @@
     <string name="birthday_notification_type_term_lunar" />
     <string name="birthday_saved">Zi de naștere salvată</string>
     <string name="birthday_term">Ziua de naştere</string>
+    <string name="birthday_term_chinese_calendar">"Ziua de naștere a lui %1$s (Calendar Chinezesc Tradițional)"</string>
   <string name="book_card_free">Gratuit</string>
   <string name="book_card_rating_text">|   %1$s recenzii</string>
     <string name="can_not_create_long_event">Numele evenimentului este prea lung</string>
@@ -108,6 +109,7 @@
     <string name="chips_permission_text">Permiteți sugerarea de contacte</string>
   <string name="chongsha">Fantome</string>
     <string name="close_alarm">Dezactivați</string>
+    <string name="content_confirm_close_chinese_calendar">Toate evenimentele dvs. bazate pe calendarul Chinezesc Tradițional vor fi convertite la calendarul Gregorian după ce veți dezactiva această caracteristică. Anii și lunile din calendarul Gregorian vor fi utilizate pentru evenimentele repetate.</string>
     <string name="copy_email">Copiaţi adresa de e-mail</string>
     <string name="copy_number">Copiaţi numărul de telefon</string>
     <string name="countdown_event_title">Numărătoare inversă: %1$s</string>
@@ -342,6 +344,7 @@
     <string name="lunar_date">Dată lunară</string>
     <string name="lunar_day"/>
     <string name="lunar_to_solar"/>
+    <string name="lunar_to_solar_chinese_calendar">Din Chinezesc în Gregorian</string>
   <string name="match_ed">S-a încheiat</string>
   <string name="match_ing">În curs de desfășurare</string>
   <string name="match_not_started">nu a început</string>
@@ -537,6 +540,7 @@ Verificați setările de rețea și încercați din nou."</string>
     <string name="setting_about_miui_version">Versiunea MIUI: </string>
     <string name="setting_about_summary">Versiune: </string>
     <string name="setting_accounts">Conturi Calendar</string>
+    <string name="setting_chinese_calendar">Calendar Chinezesc</string>
   <string name="setting_content_promotion">内容推广</string>
     <string name="setting_daysoff_no_update">Informațiile despre sărbătorile oficiale sunt actualizate.</string>
     <string name="setting_daysoff_update">Actualizați informațiile despre sărbătorile oficiale</string>
@@ -560,11 +564,16 @@ Verificați setările de rețea și încercați din nou."</string>
     <string name="share_not_install_weibo">Vă rugăm să instalați aplicația Weibo.</string>
     <string name="share_title">Partajați</string>
     <string name="show_day_view">Afişaţi ziua</string>
+    <string name="shortcut_new_event">Adăugați un eveniment nou</string>
+    <string name="shortcut_next_agenda">Evenimentul următor</string>
+    <string name="shortcut_settings">Setări</string>
+    <string name="show_day_view">Afișează ziua</string>
   <string name="sms_import_description">O mai bună gestionare a mesajelor de evenimente legate de timp</string>
     <string name="solar_lunar_convert_date"/>
-    <string name="solar_lunar_convert_description"/>
-    <string name="solar_lunar_convert_tab"/>
+    <string name="solar_lunar_convert_description">Din Gregorian în Chinezesc Tradițional</string>
+    <string name="solar_lunar_convert_tab">Convertiți</string>
     <string name="solar_to_lunar"/>
+    <string name="solar_to_lunar_chinese_calendar">Din Gregorian în Chinezesc</string>
     <string name="start_date_calculate">Calculare</string>
     <string name="subscribe_card">Abonați-vă acum</string>
     <string name="subscribe_card_success">Abonare cu succes! Verificați detaliile în pagina principală</string>
@@ -595,6 +604,7 @@ Puteți adăuga, de asemenea, memento-uri pentru a nu rata nimic important."</st
   <string name="ticket_card_phase">- primul %1$s din</string>
     <string name="time_zone">Fus orar</string>
     <string name="timezone_label">Fus orar</string>
+    <string name="title_confirm_close_chinese_calendar">Se dezactivează calendarul Chinezesc</string>
     <string name="today">Azi</string>
     <string name="today_at_time_fmt">Astăzi la %s</string>
     <string name="today_icon_voice_contentdescription">Înapoi la ziua de astăzi</string>

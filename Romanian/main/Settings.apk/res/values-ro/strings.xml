@@ -5515,12 +5515,12 @@ Amprentele salvate vor fi de asemenea eliminate din acest profil și nu veți ma
     <string name="usage_app_weekday_limit">Zile lucrătoare</string>
     <string name="usage_app_weekend_limit">Zile libere</string>
     <string name="usage_log">Statistici utilizare aplicaţii</string>
-    <string name="usage_state_app_timer">Durată de folosire</string>
+    <string name="usage_state_app_timer">Durată de utilizare</string>
     <string name="usage_state_app_usage_detail_title">Detalii utilizare aplicație</string>
-    <string name="usage_state_app_usage_list_title">Durata de folosire a aplicaţiilor</string>
-    <string name="usage_state_app_usage_list_week_title">Durata de folosire a aplicaţiilor</string>
-    <string name="usage_state_app_usage_tip_title" formatted="false">Durata de folosire între %d:00 şi %d:00</string>
-    <string name="usage_state_app_use_time">Durata de folosire a aplicaţiilor</string>
+    <string name="usage_state_app_usage_list_title">Durata de utilizare a aplicaţiilor</string>
+    <string name="usage_state_app_usage_list_week_title">Durata de utilizare a aplicaţiilor</string>
+    <string name="usage_state_app_usage_tip_title" formatted="false">Durata de utilizare între %d:00 şi %d:00</string>
+    <string name="usage_state_app_use_time">Durata de utilizare a aplicaţiilor</string>
     <string name="usage_state_channel_mouth">Ultimele 30 de zile</string>
     <string name="usage_state_channel_week">Ultimele 7 zile</string>
     <string name="usage_state_date">d MMM</string>
@@ -5528,31 +5528,33 @@ Amprentele salvate vor fi de asemenea eliminate din acest profil și nu veți ma
     <string name="usage_state_device_unlock_today_tip_title" formatted="false">Dispozitiv deblocat între %d:00 şi %d:00</string>
     <string name="usage_state_friday">Vin</string>
     <string name="usage_state_go_more">Mai multe aplicaţii</string>
+    <string name="usage_state_hour_minute" formatted="false">%dh și %dm</string>
     <string name="usage_state_less_one_minute">Mai puțin de un minut</string>
     <string name="usage_state_monday">Lun</string>
-    <string name="usage_state_mourth_day">Durata de folosire %s</string>
+    <string name="usage_state_mourth_day">Durata de utilizare %s</string>
     <string name="usage_state_noti_mourth_day">Notificări %s</string>
     <string name="usage_state_notification">Gestionare notificări</string>
     <string name="usage_state_notification_manager">Gestionați notificările aplicației</string>
-    <string name="usage_state_remind_summary">Activați pentru a primi alerte ale duratei de folosire.</string>
-    <string name="usage_state_remind_title">Alertă durată de folosire</string>
+    <string name="usage_state_remind_summary">Activați pentru a primi alerte pentru durata de utilizare.</string>
+    <string name="usage_state_remind_title">Alertă durată de utilizare</string>
     <string name="usage_state_rest_day">Zile libere</string>
     <string name="usage_state_saturday">Sâm</string>
     <string name="usage_state_set_invalid_time_toast">Nu se pot seta limite de timp mai scurte de un minut</string>
     <string name="usage_state_sunday">Dum</string>
     <string name="usage_state_thursday">Joi</string>
     <string name="usage_state_today">Azi</string>
-    <string name="usage_state_today_total_text">Durata de folosire azi</string>
+    <string name="usage_state_today_total_text">Durata de utilizare azi</string>
     <string name="usage_state_tuesday">Mar</string>
     <string name="usage_state_unlock_mourth_day">Deblocat %s</string>
-    <string name="usage_state_usage_time">Durata de folosire</string>
-    <string name="usage_state_usage_time_remind">Alertă durată de folosire</string>
-    <string name="usage_state_use_time_remind_title">Alertă durată de folosire</string>
+    <string name="usage_state_usage_time">Durata de utilizare</string>
+    <string name="usage_state_usage_time_remind">Alertă durată de utilizare</string>
+    <string name="usage_state_use_time_remind_title">Alertă durată de utilizare</string>
     <string name="usage_state_wednesday">Mie</string>
-    <string name="usage_state_week_day_hour_minute" formatted="false">Zile libere: %dh %dm</string>
-    <string name="usage_state_week_total_text">Durata de folosire (ultimele 7 zile)</string>
+    <string name="usage_state_week_day_hour_minute" formatted="false">Zile libere: %dh și %dm</string>
+    <string name="usage_state_week_total_text">Durata de utilizare (în ultimele 7 zile)</string>
+    <string name="usage_state_which_mouth">MMM</string>
     <string name="usage_state_work_day">Zile lucrătoare</string>
-    <string name="usage_state_work_day_hour_minute" formatted="false">Zile lucrătoare: %dh %dm</string> 
+    <string name="usage_state_work_day_hour_minute" formatted="false">Zile lucrătoare: %dh și %dm</string> 
     <string name="usage_stats_label">Statistici de utilizare</string>
     <string name="usage_stats_normal_day">Zile lucrătoare</string>
     <string name="usage_stats_week_day">Zile libere</string>
@@ -5563,8 +5565,8 @@ Amprentele salvate vor fi de asemenea eliminate din acest profil și nu veți ma
     <string name="usage_type_computed_power">Energie consumată calculată</string>
     <string name="usage_type_cpu">Total procesor</string>
     <string name="usage_type_cpu_foreground">Procesor în prim plan</string>
-    <string name="usage_type_data_recv">Date primite</string>
-    <string name="usage_type_data_send">Date trimise</string>
+    <string name="usage_type_data_recv">Date mobile primite</string>
+    <string name="usage_type_data_send">Date mobile trimise</string>
     <string name="usage_type_data_wifi_recv">Date Wi-Fi primite</string>
     <string name="usage_type_data_wifi_send">Date Wi-Fi trimise</string>
     <string name="usage_type_flashlight">Lanternă</string>
@@ -5588,14 +5590,14 @@ Amprentele salvate vor fi de asemenea eliminate din acest profil și nu veți ma
     <string name="usagestats_app_category_miui_tools">Instrumente</string>
     <string name="usagestats_app_category_miui_undefined">Altele</string>
     <string name="usagestats_app_category_miui_video_etc">Muzică şi videoclipuri</string>
-    <string name="usagestats_device_notification_des">Limita duratei de folosire pentru astăzi: %s</string>
+    <string name="usagestats_device_notification_des">Limita duratei de utilizare pentru astăzi: %s</string>
     <string name="usagestats_device_notification_des_over">Ați ajuns deja la limita de timp a ecranului.</string>
     <string name="usagestats_device_notification_des_reset" formatted="false">Limita de azi: %s | %s rămas</string>
-    <string name="usagestats_device_notification_title">Alertă durată de folosire</string>
-    <string name="usagestats_device_timeout_des" formatted="false">Azi ați folosit dispozitivul %dh %dm. Odihniți-vă!</string>
+    <string name="usagestats_device_notification_title">Alertă durată de utilizare</string>
+    <string name="usagestats_device_timeout_des" formatted="false">Astăzi ați utilizat dispozitivul timp de %dh și %dm. Odihniți-vă!</string>
     <string name="usagestats_device_timeout_negative">Reaminteşte-mi într-o oră</string>
     <string name="usagestats_device_timeout_positive">Am înțeles</string>
-    <string name="usagestats_device_timeout_title">Alertă durată de folosire</string>
+    <string name="usagestats_device_timeout_title">Alertă durată de utilizare</string>
     <string name="usb_adb_input">Depanare USB (Setări de securitate)</string>
     <string name="usb_adb_input_desc">Permite acordarea de permisiuni și simularea depanării prin USB</string>
     <string name="usb_audio_disable_routing">Dezactivați rutarea audio USB</string>
