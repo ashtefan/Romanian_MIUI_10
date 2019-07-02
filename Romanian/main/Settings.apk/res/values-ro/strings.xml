@@ -6596,7 +6596,7 @@ puteţi utiliza, de asemenea, reţelele altor utilizatori"</string>
     <string name="zen_mode_selected_messages">Mesajele selectate</string>
     <string name="zen_mode_settings_summary_off">Nicio regulă automată activată</string>
     <string name="zen_mode_settings_title">Nu deranjați</string>
-    <string name="zen_mode_settings_turn_on_dialog_title">Activați Nu deranja</string>
+    <string name="zen_mode_settings_turn_on_dialog_title">Activați modul Nu deranjați</string>
     <string name="zen_mode_sound_summary_off">Oprit</string>
     <string name="zen_mode_sound_summary_off_with_info">Oprit / %1$s</string>
     <string name="zen_mode_sound_summary_on">Pornit</string>
@@ -6608,7 +6608,7 @@ puteţi utiliza, de asemenea, reţelele altor utilizatori"</string>
     <string name="zen_mode_summary_alarms_only_indefinite">Schimbă în doar pentru alarme pe o perioadă nedefinită</string>
     <string name="zen_mode_summary_always">Schimbă în întrerupe întotdeauna</string>
     <string name="zen_mode_system">Sunete la atingere</string>
-    <string name="zen_mode_unknown_app_set_behavior">Aceste setări nu pot fi modificate momentan. O aplicație a activat automat funcția Nu deranja cu comportament personalizat.</string>
+    <string name="zen_mode_unknown_app_set_behavior">Aceste setări nu pot fi modificate momentan. O aplicație a activat automat modul Nu deranjați cu comportament personalizat.</string>
     <string name="zen_mode_use_automatic_rule">Utilizați regula</string>
     <string name="zen_mode_visual_interruptions_settings_title">Blochează perturbările vizuale</string>
     <string name="zen_mode_visual_signals_settings_subtitle">Permiteți semnale vizuale</string>
@@ -6628,7 +6628,7 @@ puteţi utiliza, de asemenea, reţelele altor utilizatori"</string>
     <string name="zone_info_footer_no_dst">Utilizează %1$s. Fără oră de vară.</string>
     <string name="zone_info_offset_and_name">%2$s (%1$s)</string>
     <string name="zone_list_menu_sort_alphabetically">Sortare în ordine alfabetică</string>
-    <string name="zone_list_menu_sort_by_timezone">Sortaţi după fusul orar</string>
+    <string name="zone_list_menu_sort_by_timezone">Sortare după fusul orar</string>
     <string name="zone_menu_by_offset">Selectare după decalajul UTC</string>
     <string name="zone_menu_by_region">Selectare după regiune</string>
     <string name="zone_time_type_dst">Ora de vară</string>
