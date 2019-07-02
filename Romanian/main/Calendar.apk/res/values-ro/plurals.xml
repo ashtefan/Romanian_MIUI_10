@@ -54,7 +54,7 @@
     </plurals>
     <plurals name="birthday_event_description_days_later">
         <item quantity="other">%1$d zile până la</item>
-        <item quantity="one">%1$d zile până la</item>
+        <item quantity="one">%1$d zi până la</item>
     </plurals>
     <plurals name="birthday_notification_age_term">
         <item quantity="other">%1$s ani</item>

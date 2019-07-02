@@ -299,6 +299,9 @@ Administratorul dumneavoastră poate monitoriza și administra setările, accesu
     <string name="amber_alerts_title">Alerte AMBER</string>
     <string name="ambient_display_pickup_summary">Pentru a verifica rapid notificările, ridicați telefonul.</string>
     <string name="ambient_display_pickup_title">Ridicați pentru a verifica telefonul</string>
+    <string name="ambient_display_screen_summary_always_on">Activ permanent / Utilizare intensă a acumulatorului</string>
+    <string name="ambient_display_screen_summary_notifications">Notificări noi</string>
+    <string name="ambient_display_screen_title">Afișaj ambiental</string>
     <string name="ambient_display_summary">Pentru a verifica rapid notificările, atingeți de două ori ecranul.</string>
     <string name="ambient_display_title">Atingeți de două ori pentru a verifica telefonul</string>
     <string name="android_beam_disabled_summary">Pentru a utiliza această caracteristică, activați NFC</string>
@@ -312,6 +315,7 @@ Administratorul dumneavoastră poate monitoriza și administra setările, accesu
     <string name="animator_duration_scale_title">Scară durată Animator</string>
     <string name="another_migration_already_in_progress">O altă migrare este deja în curs.</string>
     <string name="anti_spam">Listă blocări</string>
+    <string name="aod_and_lock_screen_settings_title">Afișaj ambiental și Blocarea ecranului</string>
     <string name="aod_clock_style_title">Tip ceas</string>
     <string name="aod_close_color_inversion">"Această caracteristică nu poate fi combinată cu inversarea culorilor. Dezactivați inversarea culorilor mai întâi."</string>
     <string name="aod_dual_togother">HH:mm</string>
@@ -333,6 +337,8 @@ Administratorul dumneavoastră poate monitoriza și administra setările, accesu
     <string name="aod_sample_hour_vertical">02</string>
     <string name="aod_sample_minute">38</string>
     <string name="aod_sample_time">2:38</string>
+    <string name="aod_settings_category_name">Afișaj ambiental</string>
+    <string name="aod_settings_title">Afișaj ambiental</string>
     <string name="aod_to_close">Dezactivați</string>
     <string name="apn_apn">APN</string>
     <string name="apn_auth_type">Tip de autentificare</string>
@@ -2714,6 +2720,7 @@ Puteți modifica acest lucru mai târziu în Setări &gt; Aplicații și notific
     <string name="lock_profile_wipe_warning_content_pattern">Dacă introduceți și de această dată un model de Servici incorect, profilul de Servici și datele asociate vor si eliminate de pe acest dispozitiv.</string>
     <string name="lock_profile_wipe_warning_content_pin">Dacă introduceți și de această dată un cod PIN de Servici incorect, profilul de Servici și datele asociate vor si eliminate de pe acest dispozitiv.</string>
     <string name="lock_profile_wipe_warning_title">Ultima încercare</string>
+    <string name="lock_screen_display_category_name">Blocarea ecranului</string>
     <string name="lock_screen_intro_skip_dialog_text">Caracteristicile de protectie a dispozitivului nu vor fi activate. Nu veți putea împiedica alte persoane să utilizeze acest telefon dacă îl veți pierde sau dacă vă va fi furat.</string>
     <string name="lock_screen_intro_skip_dialog_text_frp">Caracteristicile de protectie a dispozitivului nu vor fi activate. Nu veți putea împiedica alte persoane să utilizeze acest telefon dacă îl veți pierde, dacă vă va fi furat sau dacă va fi șters.</string>
     <string name="lock_screen_notifications_interstitial_message">Când telefonul este blocat, cum doriți să fie afișate notificările?</string>
@@ -2729,6 +2736,7 @@ Puteți modifica acest lucru mai târziu în Setări &gt; Aplicații și notific
     <string name="lock_screen_notifications_title">Când dispozitivul este blocat</string>
     <string name="lock_screen_signature_summary">Acest mesaj va fi afișat în Blocarea ecranului</string>
     <string name="lock_screen_signature_title">Informații proprietar în Blocarea ecranului</string>
+    <string name="lock_screen_tip_toast">permiteți mai întâi din setările de notificări ale aplicației</string>
     <string name="lock_screen_unlock_show">Salt peste Blocarea ecranului</string>
     <string name="lock_screen_unlock_show_summary">Deschideți Ecranul de pornire sau introduceți direct parola</string>
     <string name="lock_secure_after_timeout_click_me_to_change_text">Apăsați pentru a modifica</string>
@@ -3084,6 +3092,7 @@ Sunt alți utilizatori pe acest dispozitiv.
     <string name="miui_sos_contacts_add">Contacte de urgență</string>
     <string name="miui_sos_contacts_category">Contacte de urgență</string>
     <string name="miui_sos_emergency_contacts">Contacte de urgență</string>
+    <string name="miui_sos_emergency_delete">Ștergeți</string>
     <string name="miui_sos_emergency_delivered_sms" formatted="false">%1s (%2s) a acceptat deja.</string>
     <string name="miui_sos_emergency_delivered_sms_noname">%1s a acceptat deja</string>
     <string name="miui_sos_emergency_failed_sms" formatted="false">"Nu s-a putut trimite mesajul către %1s (%2s)."</string>
@@ -3390,8 +3399,10 @@ Selectaţi sistemul de operare de mai jos:"</string>
     <string name="normal_smartcover_title">Husă opacă pentru ecran</string>
     <string name="not_battery_optimizing">Nu se utilizează optimizarea acumulatorului</string>
     <string name="not_installed">Neinstalată</string>
+    <string name="notch_and_status_bar_settings">Breton și bara de stare</string>
     <string name="notch_force_black_desc">Activați pentru a întuneca zona din jurul canelurii</string>
     <string name="notch_force_black_title">Ascunde canelura</string>
+    <string name="notch_settings">Breton</string>
     <string name="notes_privacy_password_role_instruction">Notițele private vor fi stocate aici.</string>
     <string name="notifi_channels">Categorii de notificări</string>
     <string name="notifi_channels_other">Altele</string>
@@ -3407,6 +3418,7 @@ Selectaţi sistemul de operare de mai jos:"</string>
     <string name="notification_badging_title">Permiteți punctele de notificare</string>
     <string name="notification_breathing_light_color_title">Notificări</string>
     <string name="notification_breathing_light_freq_title">Frecvenţă pulsare indicator luminos intermitent pt. notificări</string>
+    <string name="notification_center">Notificări</string>
     <string name="notification_channel_badge_title">Arată punctul de notificare</string>
     <string name="notification_channel_sound_title">Sunet</string>
     <string name="notification_channel_title">Categorie notificare</string>
@@ -4680,6 +4692,7 @@ Notă: Nu puteți utiliza amprenta pentru a debloca acest dispozitiv. Pentru mai
     <string name="settings_license_activity_unavailable">A apărut o problemă la încărcarea licenţelor.</string>
     <string name="settings_manual_activity_title">Manual</string>
     <string name="settings_manual_activity_unavailable">A apărut o problemă la încărcarea manuală.</string>
+    <string name="settings_new_version_btn">Actualizați</string>
     <string name="settings_notify_need_backup">Faceți o copie de rezervă a setărilor în Mi Cloud pentru a le accesa după ce vă schimbați telefonul.</string>
     <string name="settings_notify_new_version">Este disponibilă o actualizare. Atingeți pentru a vedea detaliile.</string>
     <string name="settings_notify_phone_recycled">Numărul dvs. de telefon a fost eliminat. Atingeți pentru a adăuga un alt număr de telefon.</string>
@@ -4920,6 +4933,7 @@ Acest lucru este posibil datorită unui certificat de încredere instalat pe dis
     <string name="status_bar_settings_qs_layout">Dispunere setări rapide</string>
     <string name="status_bar_settings_show_lte_for_4g">Afișează pictograma LTE pentru 4G</string>
     <string name="status_bar_settings_status_bar">Bară de stare</string>
+    <string name="status_bar_title">Bara de stare</string>
     <string name="status_bt_address">Adresă Bluetooth</string>
     <string name="status_data_state">Starea reţelei mobile</string>
     <string name="status_failed_to_write">Nu se poate modifica eticheta NFC. Dacă problema persistă, încercați cu o altă etichetă</string>
@@ -5838,7 +5852,7 @@ Atingeți butonul (+) pentru a adăuga cuvinte"</string>
     <string name="volume_bluetooth_description">Volum bluetooth</string>
     <string name="volume_category_title">Volum</string>
     <string name="volume_hifi_description">Setări Hi-Fi</string>
-    <string name="volume_label">Volum</string>
+    <string name="volume_launch_camera_summary">Apăsați de două ori butonul de volum pentru a deschide Camera foto atunci când ecranul este blocat</string>
     <string name="volume_media_description">Muzică, videoclipuri, jocuri şi alt conţinut media</string>
     <string name="volume_media_mute">Dezactivaţi sunetul muzicii şi al altui conţinut media</string>
     <string name="volume_notification_description">Notificări</string>
@@ -5933,6 +5947,7 @@ Atingeți butonul (+) pentru a adăuga cuvinte"</string>
     <string name="vt_provisioned_switch_string">Apel Video furnizat</string>
     <string name="wait_for_debugger">Aşteptaţi depanatorul</string>
     <string name="wait_for_debugger_summary">Înaintea executării, aplicaţia aşteaptă ataşarea depanatorului</string>
+    <string name="wakeup_and_sleep_settings_category_name">Setări pentru Blocarea ecranului</string>
     <string name="wakeup_for_keyguard_notification_title">Trezește ecranul pentru notificări</string>
     <string name="wallpaper_attributions">Imagini de fundal</string>
     <string name="wallpaper_attributions_values">"Furnizori imagini din satelit:

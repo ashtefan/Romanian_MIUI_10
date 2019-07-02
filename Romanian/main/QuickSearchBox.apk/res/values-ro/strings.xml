@@ -2,7 +2,7 @@
 <resources>
     <string name="app_loaction">Căutare pe Ecranul principal</string>
     <string name="app_name">Căutare</string>
-    <string name="appindex_description">funcțiile aplicațiilor instalate</string>
+    <string name="appindex_description">Funcțiile aplicațiilor instalate</string>
     <string name="appindex_search_label">Funcțiile aplicațiilor</string>
     <string name="application_desc">Aplicație</string>
     <string name="applications_search_label">Aplicații</string>

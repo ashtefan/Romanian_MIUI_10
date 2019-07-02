@@ -124,6 +124,8 @@ Glisați în jos pentru a actualiza sau verificați setările de rețea"</string
     <string name="feedback_overcast">Înnorat</string>
     <string name="feedback_report_privacy_msg">Raportul va conține date despre locație</string>
     <string name="feedback_result_fail_no_choice">Selectați condițiile meteo curente</string>
+    <string name="feedback_result_fail_no_reason">Vă mulțumim pentru feedback!</string>
+    <string name="feedback_result_fail_same_type">"Se pare că raportul dvs. nu este diferit de starea curentă a vremii. Încercați din nou."</string>
     <string name="feedback_result_success">Trimis cu succes. Vă mulțumim pentru feedback</string>
     <string name="feedback_sandy">Furtună de nisip</string>
     <string name="feedback_sunny">Însorit</string>
