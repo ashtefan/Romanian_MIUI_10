@@ -21,6 +21,10 @@
     <string name="auto_start_warning_deny">Refuzaţi</string>
     <string name="auto_start_warning_title">Permiteţi %s să pornească în mod automat?</string>
     <string name="autofill">Completare automată</string>
+    <string name="autofill_save_message">Permiteți MIUI să salveze informațiile conturilor și parolele?</string>
+    <string name="autofill_save_ok">Permiteți</string>
+    <string name="autofill_save_sub_message">"Veți putea gestiona parolele salvate în Setări &gt; Setări adiționale &gt; Securitate &gt; Confidențialitate &gt; Gestionați parolele."</string>
+    <string name="autofill_save_title">Salvează parolele în mod automat</string>
     <string name="button_text_cancel">Renunțați</string>
     <string name="button_text_delete">Dezinstalați</string>
     <string name="button_text_delete_timer">Dezinstalați (%d)</string>
@@ -38,7 +42,7 @@
     <string name="eighthours">8 ore</string>
     <string name="enable_livetalk_summary">0.05 lei/minut pentru apelurile locale</string>
     <string name="enable_livetalk_title">Porniți livetalk</string>
-    <string name="fc_dialog_body">Trimiteţi un raport de probleme către Mi pentru analiză? Acest raport poate să conțină informații de identificare personală. Raportul dvs. va fi folosit pentru a ajuta la rezolvarea aceastei probleme și nu va fi niciodată partajat în scop comercial.</string>
+    <string name="fc_dialog_body">Trimiteţi un raport de probleme către Mi pentru analiză? Acest raport poate să conțină informații de identificare personală. Raportul dvs. va fi folosit pentru a ajuta la rezolvarea acestei probleme și nu va fi niciodată partajat în scop comercial.</string>
     <string name="fc_dialog_jump_to_preview">Vizualizare sumar</string>
     <string name="first_back_long_press_message">Pentru a personaliza apăsarea și menținerea apăsată a butoanelor de navigare accesaţi Setări > Setări adiționale > Butoane</string>
     <string name="fm_record_smaple_prefix_miui">Înregistrare FM</string>
@@ -86,7 +90,7 @@
     <string name="miui_warning_tip_info">A apărut o eroare în %1$s. Închideți această aplicație acum?</string>
     <string name="onehour">30 de minute</string>
     <string name="package_delete_confirm_step_1">Dezinstalați %s?</string>
-    <string name="package_delete_confirm_step_2">Dezinstalarea aceastei aplicații poate face sistemul instabil.</string>
+    <string name="package_delete_confirm_step_2">Dezinstalarea acestei aplicații poate face sistemul instabil.</string>
     <string name="package_delete_confirm_step_3">"Nu veți mai putea deschide această aplicație după ce o veți dezinstala."</string>
     <string name="paste">Lipire</string>
     <string name="perm_send_push_dspt">Se permit mesaje Mi de tip push</string>

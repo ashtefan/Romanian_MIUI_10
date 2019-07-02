@@ -496,7 +496,7 @@
     <string name="save_to_local">Descărcați</string>
     <string name="search_app">Aplicații și dosare</string>
     <string name="search_app_more">Mai multe</string>
-    <string name="search_description">Căutați toate fișierele din telefon</string>
+    <string name="search_description">Căutați în toate fișierele din telefon</string>
     <string name="search_download">Descărcări;Descărcări recente</string>
     <string name="search_empty_view_hint">Niciun rezultat</string>
     <string name="search_error_hint">Căutați</string>

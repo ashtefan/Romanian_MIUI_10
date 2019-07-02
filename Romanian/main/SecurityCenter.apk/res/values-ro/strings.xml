@@ -935,6 +935,7 @@ Toate datele de pe telefon pot fi șterse iar parola pentru Blocarea ecranului p
     <string name="function_shield_summary">Restricționați iluminarea automată, gesturile pentru capturi de ecran și modul Citire</string>
     <string name="function_shield_three_finger">Restricționați gesturile pentru capturi de ecran</string>
     <string name="function_shield_title">Experiență îmbunătățită</string>
+    <string name="function_shield_voice_trigger">"Nu trezi vocal Mi AI"</string>
     <string name="fw_blocked">Listă blocări</string>
     <string name="fw_blocked_count">"Blocat "</string>
     <string name="fw_blocked_join">" și "</string>

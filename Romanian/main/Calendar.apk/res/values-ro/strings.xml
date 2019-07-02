@@ -81,7 +81,7 @@
     <string name="birthday_notification_text_days_later">%1$s zile până la %4$s (%5$s)</string>
     <string name="birthday_notification_text_today">"Nu uitaţi să-i urați "La Mulţi Ani!""</string>
     <string name="birthday_notification_title_days_later">"Se apropie %2$s a lui %1$s."</string>
-    <string name="birthday_notification_title_today">"%1$s sărbătoreşte %3$s"</string>
+    <string name="birthday_notification_title_today">"%1$s își serbează %3$s"</string>
     <string name="birthday_notification_type_term_lunar" />
     <string name="birthday_saved">Zi de naștere salvată</string>
     <string name="birthday_term">Ziua de naştere</string>
