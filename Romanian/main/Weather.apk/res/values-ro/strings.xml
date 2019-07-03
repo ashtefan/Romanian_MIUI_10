@@ -241,7 +241,7 @@ Apăsați pe ecran pentru a adăuga manual sau pentru a repoziționa orașul"</s
     <string name="share_weather_desc_split">,</string>
     <string name="share_weather_save_pic_fail">"Nu s-a putut efectua captura de ecran"</string>
     <string name="shortcut_short_label_24_hour_forecast">Prognoza pe 24 de ore</string>
-    <string name="shortcut_short_label_recent_forecast">Verificați starea vremii</string>
+    <string name="shortcut_short_label_recent_forecast">Prognoza pe 5 zile</string>
     <string name="some_where_on_earth">Undeva pe Pământ</string>
     <string name="sunrise">Răsărit</string>
     <string name="sunset">Apus</string>
