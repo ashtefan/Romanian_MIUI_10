@@ -2285,7 +2285,6 @@ Când activați crearea automată a copiei de rezervă, datele dispozitivului ș
     <string name="gesture_setting_off">Oprit</string>
     <string name="gesture_setting_on">Pornit</string>
     <string name="gesture_w">Modelul W</string>
-    <string name="gesture_wakeup_title">Trezire dispozitiv la atingerea dublă a ecranului</string>
     <string name="gesture_z">Modelul Z</string>
     <string name="getConfiguredNetworks">obțineți configurările de rețea</string>
     <string name="getConnectionInfo">obțineți informații despre conexiune</string>
