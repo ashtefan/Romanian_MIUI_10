@@ -100,9 +100,13 @@
     <string name="popup_camera_calibrate_failed">"Nu s-a putut calibra"</string>
     <string name="popup_camera_calibrate_now">Calibrați</string>
     <string name="popup_camera_calibrate_success">Calibrată cu succes. Puteți deschide camera frontală acum.</string>
+    <string name="popup_camera_cancel_popup">Anulaţi</string>
+    <string name="popup_camera_continue_popup">Deschideţi Camera</string>
     <string name="popup_camera_front_failed">"Nu s-a putut deschide camera frontală. Încercați din nou."</string>
     <string name="popup_camera_front_when_use">Aplicația Cameră trebuie să pornească din nou camera frontală. O porniți acum?</string>
+    <string name="popup_camera_hid_device_name">Black Shark</string>
     <string name="popup_camera_popup_falied_times_calibrate">"Nu s-a putut deschide camera frontală de mai multe ori. Încercați să calibrați camera."</string>
+    <string name="popup_camera_remove_hid_device">Se pare că dispozitivul dvs. este conectat la un controler de jocuri. Este posibil să nu puteți deschide camera frontală atunci când este conectat un controler de jocuri.</string>
     <string name="popup_camera_sure">Am înțeles</string>
     <string name="popup_camera_sure_wait">Am înțeles (%ds)</string>
     <string name="popup_camera_takeback_falied_times_calibrate">"Nu s-a putut închide camera frontală de mai multe ori. Încercați să calibrați camera."</string>
