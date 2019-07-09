@@ -78,6 +78,7 @@
     <string name="added_next_play">Adăugată pentru a fi redată următoarea</string>
     <string name="agreement_desc">Acordul Utilizatorului (obligatoriu)</string>
     <string name="alaka_required">Ar trebui să plătiți pentru a asculta această melodie</string>
+    <string name="alarm_clock_ringtones_successful">Alarmă setată cu succes</string>
     <string name="album_label">Coperți de album</string>
     <string name="album_name">Album</string>
     <string name="album_search_title">Album</string>
@@ -168,6 +169,7 @@
     <string name="cancel">Anulaţi</string>
     <string name="cancel_running_download">Renunțați</string>
     <string name="change_download_quality">Modificați calitatea descărcărilor</string>
+    <string name="character_counter_content_description">Limita caracterelor depășeşte %1$d din %2$d</string>
     <string name="chart_first_song">1.%s</string>
     <string name="chart_second_song">2.%s</string>
     <string name="chart_third_song">3.%s</string>
@@ -541,6 +543,8 @@
     <string name="global_search_title_movie">Coloane sonore</string>
     <string name="global_search_title_prenatal">Muzică prenatală</string>
     <string name="global_search_title_radar">Recunoaștere melodii</string>
+    <string name="goto_local_search">Căutare pe dispozitiv</string>
+    <string name="goto_online_search">Căutare online</string>
     <string name="handle_later">Nu acum</string>
     <string name="hd_quality_audio">Calitate audio HD</string>
     <string name="headset_and_audio_effect_category">Căști și efecte audio</string>
@@ -608,6 +612,7 @@
     <string name="load_shuffle">Se încarcă…</string>
     <string name="loadercontainer_loading">Doar o secundă…</string>
     <string name="loading_hint">Doar o secundă…</string>
+    <string name="loading_reached_the_bottom">Asta este tot pentru moment.</string>
     <string name="local_header_title">Muzică locală</string>
     <string name="local_music">Melodii locale</string>
     <string name="local_music_empty">"Nu există melodii locale pentru a fi redate."</string>
@@ -695,6 +700,8 @@
     <string name="more_settings">Setări avansate</string>
     <string name="more_settings_summary">Temporizator, filtrare fișiere și multe altele</string>
     <string name="more_share">Partajați</string>
+    <string name="mtrl_chip_close_icon_content_description">Eliminaţi %1$s</string>
+    <string name="mulit_choice_management">Gestionați mai multe elemente</string>
     <string name="multichoice">Selectaţi</string>
     <string name="music_browser_label">Muzică</string>
     <string name="music_filter">Filtrare fişiere audio</string>
@@ -798,6 +805,7 @@
     <string name="open_download">Deschideți</string>
     <string name="open_online_service">Trebuie să activați serviciile online pentru a utiliza această caracteristică. Activați acum?</string>
     <string name="open_service">Activați</string>
+    <string name="operation_done_close">Închideţi</string>
     <string name="optimize_all_until_optimized">Se aplică noua copertă și versurile…</string>
     <string name="optimize_all_until_scanned">Așteptați până când aplicația Muzică termină căutarea melodiilor.</string>
     <string name="order_pending">Se așteaptă confirmarea</string>
@@ -805,6 +813,7 @@
     <string name="other_filter">Altele</string>
     <string name="other_song_in_album">Alte melodii din acest album</string>
     <string name="package_filter">Pachete</string>
+    <string name="password_toggle_content_description">Afișare parolă</string>
     <string name="pause_download">Opriți</string>
     <string name="paused_by_app">Oprită</string>
     <string name="paused_in_power_save_mode">Oprită când modul Economisire acumulator este activ</string>
@@ -923,7 +932,12 @@ Be Happy"</string>
     <string name="retry">Încercați din nou</string>
     <string name="retry_after_network_available">"Nu se poate conecta la rețea. Verificați conexiunea și încercați din nou."</string>
     <string name="retry_download">Reîncercați</string>
+    <string name="ringtone_editing">Editor de tonuri de apel</string>
     <string name="ringtone_not_support">"Acest format nu este acceptat"</string>
+    <string name="ringtone_selected">Selectat</string>
+    <string name="ringtones_play">Redare</string>
+    <string name="ringtones_stop">Oprire</string>
+    <string name="ringtones_successful">Ton de apel setat cu succes</string>
     <string name="root_downloads">Descărcări</string>
     <string name="s1">Salvați imaginea</string>
     <string name="s2">Permiteți serviciului de Reclame să stocheze această imagine în Galerie?</string>
@@ -943,14 +957,19 @@ Be Happy"</string>
     <string name="search_hint_local">Căutați melodii pe dispozitiv</string>
     <string name="search_hint_online">Căutați artiști, albume, melodii, liste de redare și videoclipuri online</string>
     <string name="search_history_clear_all">Goliți</string>
+    <string name="search_history_delete_all_dialog_titile">Ștergeți istoricul de căutare?</string>
     <string name="search_instant_online_music">Online</string>
     <string name="search_menu_title">Căutați</string>
+    <string name="search_result_local_songs">Local</string>
+    <string name="search_result_online_songs">Online</string>
+    <string name="search_songs">Căutați melodii</string>
     <string name="search_title_album">Albume</string>
     <string name="search_title_singer">Artişti</string>
     <string name="search_title_song">Melodii</string>
     <string name="second_symbol">s</string>
     <string name="select">Selectați</string>
     <string name="select_all">Selectaţi tot</string>
+    <string name="select_clip_desc">Selectați un clip din melodie</string>
     <string name="select_desc_sub">Puteți selecta până la 3 limbi</string>
     <string name="select_device">Selectaţi dispozitivul</string>
     <string name="select_displayed_folders">Selectaţi dosarele de afișat</string>
@@ -963,6 +982,7 @@ Be Happy"</string>
     <string name="send_to">Distribuiţi</string>
     <string name="send_to_title">Trimiteţi la (%1$s)</string>
     <string name="service_and_settings">Serviciu și setări</string>
+    <string name="set_as_alarm_clock_ringtone">Alarmă</string>
     <string name="service_stop">Serviciu întrerupt</string>
     <string name="set_as_ring">Setați ca ton de apel</string>
     <string name="set_id3_failed">"Nu se pot salva informaţiile"</string>
@@ -1017,6 +1037,7 @@ Be Happy"</string>
     <string name="song_name">Melodie</string>
     <string name="song_not_find">"Această melodie nu este disponibilă."</string>
     <string name="song_offline">Această melodie nu mai este disponibilă.</string>
+    <string name="song_picker_complete">Finalizat</string>
     <string name="song_unit">elemente</string>
     <string name="songgroup_pick_album">Albume</string>
     <string name="songgroup_pick_playlist">Liste de redare</string>
