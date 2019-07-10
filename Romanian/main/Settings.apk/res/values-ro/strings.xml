@@ -1053,9 +1053,9 @@ Sample Rate"</string>
     <string name="bootloader_summary">Actualizați dispozitivul prin USB</string>
     <string name="bootloader_tips">"%s
 
-Dacă ați făcut deja oricare dintre cele de mai sus, adăugați din nou contul dvs. Mi, în caz contrar, nu veți putea să deblocați dispozitivul."</string>
+Dacă ați făcut deja toate cele de mai sus, adăugați din nou contul dvs. Mi; în caz contrar, nu veți putea să deblocați dispozitivul."</string>
     <string name="bootloader_tips_ok">Am înțeles</string>
-    <string name="bootloader_tips_warning">Nu vă deconectați de la rețea, nu vă conectați la Contul Mi, nu efectuați o resetare la setările din fabrică sau ștergeți datele sistemului.</string>
+    <string name="bootloader_tips_warning">Nu vă deconectați de la rețea, deconectați-vă de la Contul Mi, efectuați o revenire la setările din fabrică sau ștergeți datele sistemului.</string>
     <string name="breathing_light_color_menu_title">Culoare indicator luminos intermitent</string>
     <string name="breathing_light_color_summary">Culoare indicator luminos intermitent pt. notificări</string>
     <string name="breathing_light_freq_summary">Pulsare indicator luminos intermitent la notificări noi</string>
@@ -1726,7 +1726,7 @@ Această setare afectează toți utilizatorii telefonului."</string>
     <string name="disabled_by_policy_title_screen_capture">Nu sunt permise capturile de ecran</string>
     <string name="disabled_by_policy_title_sms">SMS-urile nu sunt permise</string>
     <string name="disabled_low_ram_device">Această caracteristică nu este disponibilă pe acest dispozitiv</string>
-    <string name="disallow_lock_screen_summary">Mai întâi permiteți notificările în \"Notificările aplicației\"</string>
+    <string name="disallow_lock_screen_summary">Permiteți mai întâi afișarea notificărilor din \"Notificările aplicației\"</string>
     <string name="disconnect">deconectat</string>
     <string name="disconnected">Deconectat</string>
     <string name="display_auto_rotate_rotate">Pornit</string>

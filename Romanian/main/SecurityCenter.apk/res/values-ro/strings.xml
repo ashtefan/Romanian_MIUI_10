@@ -1026,11 +1026,11 @@ Toate datele de pe telefon pot fi șterse iar parola pentru Blocarea ecranului p
     <string name="gb_description_image_button_answer">Răspundeți</string>
     <string name="gb_description_image_button_reject">Respingeți</string>
     <string name="gb_description_image_button_video_answer">Apel video</string>
-    <string name="gb_first_guide_function_shiled_title">Dezactivați funcțiile sistemului atunci când este activat Joc Turbo</string>
-    <string name="gb_first_guide_gamebox_des">Utilizaţi scurtături în timp ce jucați jocuri</string>
-    <string name="gb_first_guide_handsfree_des">Răspundeți la apeluri din fundal</string>
-    <string name="gb_first_guide_shortcut_des">A fost creată o scurtătură pe ecranul de pornire pentru Joc Turbo</string>
-    <string name="gb_first_guide_title">Ridicaţi viteza și performanța la nivel de sistem</string>
+    <string name="gb_first_guide_function_shiled_title">Dezactivați funcțiile sistemului atunci când este activat modul Joc Turbo</string>
+    <string name="gb_first_guide_gamebox_des">Utilizaţi scurtături în timp ce jucați</string>
+    <string name="gb_first_guide_handsfree_des">Răspundeți la apelurile din fundal</string>
+    <string name="gb_first_guide_shortcut_des">A fost creată o scurtătură pe ecranul principal pentru Joc Turbo</string>
+    <string name="gb_first_guide_title">Creșteți viteza și performanța la nivel de sistem</string>
     <string name="gb_first_window_antimsg_summary_quick_answer">Utilizați răspunsuri rapide</string>
     <string name="gb_first_window_antimsg_summary_transparent_show">Vedeți textul pe un fundal transparent</string>
     <string name="gb_first_window_antimsg_title">Notificări convenabile</string>
