@@ -189,7 +189,7 @@ Nu puteți mări zona tastaturii și bara de navigare."</string>
     <string name="account_settings_menu_auto_sync">Auto sincronizare date</string>
     <string name="account_settings_menu_auto_sync_personal">Auto sincronizare date personale</string>
     <string name="account_settings_menu_auto_sync_work">Auto sincronizare date de servici</string>
-    <string name="account_settings_title">Google și conturi</string>
+    <string name="account_settings_title">Google și alte conturi</string>
     <string name="account_sync_settings_title">Sincronizare</string>
     <string name="account_sync_title">Sincronizare cont</string>
     <string name="action_drag_label_move_bottom">Mutați în partea de jos</string>
