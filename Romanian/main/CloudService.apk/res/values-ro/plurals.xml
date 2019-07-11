@@ -69,8 +69,8 @@
         <item quantity="one">"%d fotografie ascunsă nu este sincronizată. Deconectați-vă după ce toate elementele sunt sincronizate pentru a le păstra, altfel vor fi șterse."</item>
     </plurals>
     <plurals name="micloud_manual_pause_and_resume">
-        <item quantity="other">Sincronizarea este oprită. Se reia în %d minute…</item>
-        <item quantity="one">Sincronizarea este oprită. Se reia în %d minut…</item>
+        <item quantity="other">Se reia sincronizarea în %d minute</item>
+        <item quantity="one">Se reia sincronizarea în %d minut</item>
     </plurals>
     <plurals name="last_sync_time_mins_ago">
         <item quantity="other">Cu %s minute în urmă</item>

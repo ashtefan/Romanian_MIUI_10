@@ -3429,6 +3429,11 @@ Selectaţi sistemul de operare de mai jos:"</string>
     <string name="notch_force_black_desc">Activați pentru a întuneca zona din jurul canelurii</string>
     <string name="notch_force_black_title">Ascunde canelura</string>
     <string name="notch_settings">Breton</string>
+    <string name="notch_style_mod_description">Opțiuni afișare breton și bară de stare</string>
+    <string name="notch_style_mod_title">Ascunde bretonul</string>
+    <string name="notch_style_show">"Nu ascunde"</string>
+    <string name="notch_style_status_bar_inside">Ascunde fără să fie mutată bara de stare</string>
+    <string name="notch_style_status_bar_outside">Ascunde și mută bara de stare</string>
     <string name="notes_privacy_password_role_instruction">Notițele private vor fi stocate aici.</string>
     <string name="notifi_channels">Categorii de notificări</string>
     <string name="notifi_channels_other">Altele</string>

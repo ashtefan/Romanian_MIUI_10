@@ -253,6 +253,7 @@ pe toate dispozitivele cu Xunlei"</string>
     <string name="other">Alte</string>
     <string name="other_filter">Altele</string>
     <string name="package_filter">Pachete</string>
+    <string name="path_no_available">"Această cale nu este disponibilă"</string>
     <string name="pause_download">Pauză</string>
     <string name="paused">Întrerupt</string>
     <string name="paused_by_app">Întrerupt</string>
