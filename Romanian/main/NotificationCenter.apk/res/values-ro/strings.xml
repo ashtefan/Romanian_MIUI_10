@@ -8,6 +8,7 @@
     <string name="enable_float_notification">Se permit notificări plutitoare</string>
     <string name="enable_lockscreen_notification">Se permit notificări în Blocarea ecranului</string>
     <string name="enable_show_badge_notification">Se permit insignele notificărilor</string>
+    <string name="expand_top_notification">Extindeți notificarea din partea superioară</string>
     <string name="expandable_under_keyguard">Deschideți perdeaua de Notificări în Blocarea ecranului</string>
     <string name="float_notifications">Notificări plutitoare</string>
     <string name="hint_search_all">Căutați aplicații</string>

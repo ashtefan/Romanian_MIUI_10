@@ -193,6 +193,7 @@
     <string name="mortgage_item_years">Perioada de creditare</string>
     <string name="mortgage_loans_amount">Suma împrumutată</string>
     <string name="mortgage_provident_found_interest_rate">"Rata de dobândă a Fondului"</string>
+    <string name="mortgage_provider_east_money">Date furnizate de East Money</string>
     <string name="mortgage_repayment_amount">Suma de rambursat</string>
     <string name="mortgage_result">Rezultat</string>
     <string name="mortgage_show_details">Vedeți detaliile</string>
