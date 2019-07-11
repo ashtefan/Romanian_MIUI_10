@@ -2268,8 +2268,8 @@ Când activați crearea automată a copiei de rezervă, datele dispozitivului ș
     <string name="gadget_toggle_wifi">Se actualizează setările Wi-Fi</string>
     <string name="gadget_wifi">Wi-Fi</string>
     <string name="gallery_privacy_password_role_instruction">Fotografiile private vor fi stocate aici.</string>
-    <string name="game_booster_title">Jocuri Turbo</string>
     <string name="game_booster">Joc;Jocuri;Turbo;Joacă;Mod jocuri</string>
+    <string name="game_booster_title">Jocuri Turbo</string>
     <string name="game_controller_settings_category">Controler de jocuri</string>
     <string name="game_mode_settings">Mod Jocuri</string>
     <string name="game_storage_settings">Jocuri</string>
@@ -2757,9 +2757,9 @@ Puteți modifica acest lucru mai târziu în Setări &gt; Aplicații și notific
     <string name="lock_screen_notifications_summary_show">Afișează toate notificările și conținutul acestora</string>
     <string name="lock_screen_notifications_summary_show_profile">Afișează toate notificările de Servici</string>
     <string name="lock_screen_notifications_title">Când dispozitivul este blocat</string>
+    <string name="lock_screen_settings_title">Blocarea ecranului</string>
     <string name="lock_screen_signature_summary">Acest mesaj va fi afișat în Blocarea ecranului</string>
     <string name="lock_screen_signature_title">Informații proprietar în Blocarea ecranului</string>
-    <string name="lock_screen_tip_toast">permiteți mai întâi din setările de notificări ale aplicației</string>
     <string name="lock_screen_unlock_show">Salt peste Blocarea ecranului</string>
     <string name="lock_screen_unlock_show_summary">Deschideți Ecranul de pornire sau introduceți direct parola</string>
     <string name="lock_secure_after_timeout_click_me_to_change_text">Apăsați pentru a modifica</string>
@@ -2916,7 +2916,7 @@ cât cel pentru Spațiul principal"</string>
     <string name="manage_notification_access_summary_zero">Aplicațiile nu pot citi notificările</string>
     <string name="manage_notification_access_title">Acces la notificări</string>
     <string name="manage_notification_title">Notificările aplicațiilor</string>
-    <string name="manage_password">Gestionare parole</string>
+    <string name="manage_password">Gestionați parolele</string>
     <string name="manage_password_summary">Se completează automat conturile și parolele salvate</string>
     <string name="manage_space_text">Gestionaţi spaţiul</string>
     <string name="manage_trust_agents">Agenți de încredere</string>
@@ -5254,7 +5254,7 @@ Luați în calcul utilizarea unui ^1 mai rapid pentru o mai bună performanță.
 %1$s"</string>
     <string name="sync_plug">&lt;font fgcolor="#ffffffff"&gt;Bun venit la Sincronizarea Google!&lt;/font&gt;" 
 O abordare Google asupra sincronizării datelor, care vă permite accesul la agenda dvs., la întâlniri şi la multe alte informaţii, oriunde v-aţi afla. "</string>
-    <string name="sync_settings">Sincronizare</string>
+    <string name="sync_settings">Conturi și sincronizare</string>
     <string name="sync_wifi_label">Wi-Fi</string>
     <string name="sync_wifi_only">Doar în Wi-Fi</string>
     <string name="system">Sistem</string>
@@ -6538,6 +6538,8 @@ puteţi utiliza, de asemenea, reţelele altor utilizatori"</string>
     <string name="xiaomi_account">Contul Mi</string>
     <string name="xiaomi_cloud_service">Mi Cloud</string>
     <string name="xiaomi_cloud_service_description">Mi Cloud sincronizează contactele și fotografiile, creează copii de rezervă pentru aplicații și setări  și vă ajută să vă găsiți telefonul utilizând Localizarea telefonului.</string>
+    <string name="xiaomi_cloud_service_description_contact">contactele și</string>
+    <string name="xiaomi_cloud_service_description_format">Mi Cloud vă sincronizează %s fotografiile, face copie de rezervă pentru aplicații și setări și vă ajută să vă găsiți telefonul utilizând Localizarea dispozitivului.</string>
     <string name="xiaomi_cloud_service_disabled">Dezactivat</string>
     <string name="xiaomi_cloud_service_unknown">Necunoscut</string>
     <string name="xiaomi_money_service">Mi Credit</string>
