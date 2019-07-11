@@ -413,10 +413,7 @@
     <string name="downloading_empty">Gol</string>
     <string name="downloading_pause_apk">Oprit. Reluați descărcarea din Perdeaua de notificări.</string>
     <string name="due_date">Data expirării: %s</string>
-    <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
     <string name="durationformatlong_with">%2$02d:%5$02d.%6$02d</string>
-    <string name="durationformatshort">%2$d:%5$02d</string>
-    <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
     <string name="edit_playlist_info">Editați informațiile listei de redare</string>
     <string name="empty_page_no_album">Niciun album.</string>
     <string name="empty_page_no_artist">Niciun artist.</string>
