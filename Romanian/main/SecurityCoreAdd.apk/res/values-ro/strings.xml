@@ -163,16 +163,18 @@ Asigurați-vă că numele companiei este corect. Citiți și acceptați politici
     <string name="go_on_import">Importați</string>
     <string name="gpg_message">Crearea aplicațiilor duale necesită serviciile Google Play. Creați o dublură pentru serviciile Google Play?</string>
     <string name="gpg_title">Aplicație dublată pentru Google Play</string>
-    <string name="green_guard">Controale parentale</string>
+    <string name="green_guard">Control Parental</string>
     <string name="green_guard_des1">Adăugați dispozitive pentru a le controla de la distanță</string>
     <string name="green_guard_des2">Stiți în permanență unde se află dispozitivele gestionate</string>
     <string name="green_guard_des3">Controlați aplicațiile instalate și restricționați utilizarea acestora</string>
     <string name="green_guard_title2">Vedeți informațiile despre localizare</string>
     <string name="green_guard_title3">Gestionați aplicațiile</string>
-    <string name="greenguard_child_des">Utilizați aplicația noastră pentru a rămâne conectat​</string>
-    <string name="greenguard_child_des_title">Am nevoie de ajutor din partea prietenilor și a familiei</string>
-    <string name="greenguard_parent_des">"Descărcați aplicația noastră și adăugați dispozitivele altor persoane"</string>
-    <string name="greenguard_parent_des_title">Trebuie să îmi ajut prietenii și familia</string>
+    <string name="greenguard_child_des">Gestionați dispozitivele prietenilor și ale familiei​</string>
+    <string name="greenguard_child_des_title">Scanați codul QR pentru a adăuga un dispozitiv</string>
+    <string name="greenguard_functional_description">"Gestionați dispozitive de la distanță, vedeți informații despre localizare,
+controlați aplicațiile instalate și restricționați utilizarea"</string>
+    <string name="greenguard_parent_des">Gestionați dispozitivele prietenilor și ale familiei​</string>
+    <string name="greenguard_parent_des_title">Utilizați Kite Guard pentru a adăuga dispozitive</string>
     <string name="guide_contact_sub_title_desc">"Contactele adăugate în Spațiul Secundar vor fi private.
 Mesajele vor fi vizibile doar în Spațiul Secundar."</string>
     <string name="guide_contact_suc_sub_title_desc">Doar contactele și mesajele private vor fi vizibile în Spațiul Secundar</string>

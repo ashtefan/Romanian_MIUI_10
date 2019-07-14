@@ -348,7 +348,7 @@
     <string name="news_change">Modificați</string>
     <string name="no_network">"Nu se poate conecta la rețea, încercați mai târziu"</string>
     <string name="no_network_btn">Reîncercați</string>
-    <string name="notification_garbage_cleanup_summary">Coșul de gunoi a atins %s</string>
+    <string name="notification_garbage_cleanup_summary">Goliți coșul de gunoi (%s) pentru a crește viteza telefonului</string>
     <string name="notification_garbage_cleanup_title">Curățați fișierele inutile</string>
     <string name="notification_low_memory_cache_summary">Mai puțin de 1,5 GB spațiu de stocare disponibil</string>
     <string name="notification_low_memory_cache_title">Goliți memoria cache</string>

@@ -26,11 +26,11 @@
         <item>"Ieri (date mobile) "</item>
         <item>"Astăzi (date mobile) "</item>
         <item>"Luna trecută (date mobile) "</item>
-        <item>"Această lună (date mobile) "</item>
+        <item>"Luna aceasta (date mobile) "</item>
         <item>"Ieri (Wi-Fi) "</item>
         <item>"Astăzi (Wi-Fi) "</item>
         <item>"Luna trecută (Wi-Fi) "</item>
-        <item>"Această lună (Wi-Fi) "</item>
+        <item>"Luna aceasta (Wi-Fi) "</item>
     </string-array>
     <string-array name="traffic_type">
         <item>"Utilizare date mobile "</item>

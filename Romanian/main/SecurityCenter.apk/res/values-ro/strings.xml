@@ -401,6 +401,7 @@ Nu veți pierde datele aplicațiilor."</string>
     <string name="battery_charge_estimating">Se calculează</string>
     <string name="battery_charge_full">Complet încărcat</string>
     <string name="battery_charging_prompt">Se încarcă</string>
+    <string name="battery_desc_ambient_display">Energie consumată de către Afișajul ambiental</string>
     <string name="battery_desc_apps">Acumulator utilizat de aplicaţie</string>
     <string name="battery_desc_bluetooth">Acumulator utilizat de Bluetooth</string>
     <string name="battery_desc_display">Acumulator utilizat de afişaj şi iluminare</string>
@@ -1026,11 +1027,11 @@ Toate datele de pe telefon pot fi șterse iar parola pentru Blocarea ecranului p
     <string name="gb_description_image_button_answer">Răspundeți</string>
     <string name="gb_description_image_button_reject">Respingeți</string>
     <string name="gb_description_image_button_video_answer">Apel video</string>
-    <string name="gb_first_guide_function_shiled_title">Dezactivați funcțiile sistemului atunci când este activat Joc Turbo</string>
-    <string name="gb_first_guide_gamebox_des">Utilizaţi scurtături în timp ce jucați jocuri</string>
-    <string name="gb_first_guide_handsfree_des">Răspundeți la apeluri din fundal</string>
-    <string name="gb_first_guide_shortcut_des">A fost creată o scurtătură pe ecranul de pornire pentru Joc Turbo</string>
-    <string name="gb_first_guide_title">Ridicaţi viteza și performanța la nivel de sistem</string>
+    <string name="gb_first_guide_function_shiled_title">Dezactivați funcțiile sistemului atunci când este activat modul Joc Turbo</string>
+    <string name="gb_first_guide_gamebox_des">Utilizaţi scurtături în timp ce jucați</string>
+    <string name="gb_first_guide_handsfree_des">Răspundeți la apelurile din fundal</string>
+    <string name="gb_first_guide_shortcut_des">A fost creată o scurtătură pe ecranul principal pentru Joc Turbo</string>
+    <string name="gb_first_guide_title">Creșteți viteza și performanța la nivel de sistem</string>
     <string name="gb_first_window_antimsg_summary_quick_answer">Utilizați răspunsuri rapide</string>
     <string name="gb_first_window_antimsg_summary_transparent_show">Vedeți textul pe un fundal transparent</string>
     <string name="gb_first_window_antimsg_title">Notificări convenabile</string>
@@ -1652,6 +1653,7 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="pm_root_success_notification_infomation">Asigurați-vă că v-ați informat temeinic în legătură cu riscurile pe care le are accesul la root</string>
     <string name="pm_root_success_notification_title">Acces root permis</string>
     <string name="power_20s_shutdown">Dispozitivul se va închide peste 20 de secunde</string>
+    <string name="power_ambient_display">Afișaj ambiental</string>
     <string name="power_analysis_consume_title">Utilizare acumulator</string>
     <string name="power_analysis_suggestion_need_optimize">Au fost găsite probleme legate de utilizarea acumulatorului.</string>
     <string name="power_autorun_apps_empty">Nicio aplicație cu pornire automată</string>
@@ -2026,7 +2028,7 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="sms_service">Blocare serviciu SMS</string>
     <string name="sms_smart_engine_update">Actualizare automată a filtrului pentru mesaje</string>
     <string name="sms_smart_engine_update_now">Actualizați</string>
-    <string name="sms_stranger_block">Blocare SMS-uri de la persoane necunoscute</string>
+    <string name="sms_stranger_block">Blocat</string>
     <string name="sorted_dialog_title">Sortaţi după</string>
     <string name="sp_background_risk_dialog_summary">, analizați și remediați problemele referitoare la plăți.</string>
     <string name="sp_background_risk_dialog_summary_wifi_approve">Sunteți conectat la o rețea Wi-Fi publică, care poate fi nesigură. Asigurați-vă că plățile sunt securizate înainte de a le efectua.</string>
@@ -2090,6 +2092,7 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="st_antispam_title_contact_incoming">Apeluri de la Contacte</string>
     <string name="st_antispam_title_contact_sms">Mesaje de la Contacte</string>
     <string name="st_antispam_title_contactandanoy_group">Setări</string>
+    <string name="st_antispam_title_mms">MMS</string>
     <string name="st_antispam_title_null_incoming">Numere private</string>
     <string name="st_antispam_title_service_sms">Notificări serviciu</string>
     <string name="st_antispam_title_whitelist">Excepții</string>
@@ -2123,7 +2126,7 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="st_msg_keyword_white">Cuvinte excepții</string>
     <string name="st_msg_other_group">Altele</string>
     <string name="st_msg_settings">Listă blocări SMS-uri</string>
-    <string name="st_msg_stranger_group">Blocați SMS-urile de la necunoscuți</string>
+    <string name="st_msg_stranger_group">Blocați mesajele de la necunoscuți</string>
     <string name="st_settings_name">Setări listă blocare</string>
     <string name="st_share_settings">Utilizați setările SIM 1</string>
     <string name="st_sub_title_customize_mode_name">Nume</string>

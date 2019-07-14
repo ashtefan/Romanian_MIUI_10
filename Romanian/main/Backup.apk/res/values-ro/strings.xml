@@ -194,8 +194,8 @@ Nu modificați și nu redenumiți fișierele."</string>
     <string name="hsa_send_again_countdown">Trimite din nou (%ds)</string>
     <string name="hsa_send_failed">"Trimiterea codului de verificare a eșuat. Așteptați un minut sau două și încercați din nou."</string>
     <string name="hsa_sending">Se trimite…</string>
-    <string name="hsa_tip_message">"1. Un mesaj conținând codul de verificare va fi trimis pe telefonul asociat contului Apple
-2. Dezactivați autentificarea în doi pași dacă nu se poate verifica codul."</string>
+    <string name="hsa_tip_message">"1. Dacă nu primiți codul de verificare, asigurați-vă că v-ați conectat la iCloud de pe telefonul dumneavoastră Apple
+2. Dacă introducerea codului nu este de ajutor, dezactivați autentificarea în doi pași."</string>
     <string name="hsa_tip_message_shutdown_hsa">Cum să dezactivați autentificarea în doi pași</string>
     <string name="hsa_tip_message_with_device">"1.Un mesaj conținând codul de verificare a fost trimis către numărul de telefon %s asociat contului Apple.
 2. Dezactivați autentificarea în doi pași dacă nu se poate verifica codul."</string>
@@ -205,7 +205,7 @@ Nu modificați și nu redenumiți fișierele."</string>
     <string name="hsa_verify_failed_message">Autentificarea în doi pași a eșuat. Puteți reîncerca sau dezactiva autentificarea în doi pași.</string>
     <string name="hsa_verify_retry">Încercați din nou</string>
     <string name="hsa_verify_shutdown">Dezactivați</string>
-    <string name="iCloud_ID_verification_tip">"Introduceți codul de verificare prin SMS trimis la numărul de telefon asociat cu ID-ul dumneavoastră Apple. Ignorați codul pop-up afișat pe ecranul iPhone-ului."</string>
+    <string name="iCloud_ID_verification_tip">"Atingeți butonul \"Permiteți\" pe telefonul dumneavoastră Apple pentru a apărea codul de verificare. Introduceți codul de verificare aici."</string>
     <string name="icloud_backup_tip">Conectați-vă la iCloud utilizând vechiului telefon iOS</string>
     <string name="icloud_how_to_backup_tip_steps">"1. Accesați Setări din telefonul dvs. iOS și apoi alegeți iCloud.
 2. Comutați butoanele pentru contacte și alte elemente.
