@@ -462,6 +462,7 @@ Verificați setările de rețea și încercați din nou."</string>
   <string name="preferences_import_travel">bilete de tren</string>
     <string name="preferences_notification_ringtone_title">Sunet</string>
     <string name="preferences_popup_alert_smart_summary">MIUI va identifica în mod automatevenimentele relevante</string>
+    <string name="preferences_popup_alert_smart_summary_new">Evenimentele sensibile la timp sunt evenimentele cu dată fixă</string>
     <string name="preferences_popup_alert_smart_tips">"Înlocuiți notificările tradiționale cu alerte pop-up pentru a evita ratarea evenimentelor importante. Alertele pop-up alerts nu vor apărea când jucați jocuri, redați videoclipuri în modul ecran complet sau când utilizați modul Mașină."</string>
     <string name="preferences_popup_alert_title">Alerte pop-up</string>
     <string name="preferences_title">Calendar</string>
@@ -548,6 +549,7 @@ Verificați setările de rețea și încercați din nou."</string>
     <string name="setting_daysoff_update_net_err">"Nu s-au putut verifica actualizările. Așteptați un minut sau două și reîncercați."</string>
     <string name="setting_daysoff_update_schedule">Se actualizează…</string>
     <string name="setting_daysoff_update_success">Actualizate cu succes</string>
+    <string name="setting_desc_import_todo">Importați sarcinile programate din Notițe</string>
     <string name="setting_features_title">Setări specifice</string>
     <string name="setting_holiday_display_desc">Zilele libere apar sub agendă în pagina de pornire</string>
     <string name="setting_holiday_reminder">Arată zilele libere</string>
@@ -558,6 +560,7 @@ Verificați setările de rețea și încercați din nou."</string>
     <string name="setting_title_about">Despre</string>
   <string name="setting_title_debug">export jurnal</string>
   <string name="setting_title_holiday_display">Arată zilele libere</string>
+    <string name="setting_title_import_todo">Importați sarcini</string>
   <string name="setting_title_yiji_display">Almanac spectacol Taboo</string>
   <string name="setting_toast_dump_mylog_done">Construi reușește, jurnal în managerul de fișiere\"telefon/MIUI/debug_log/com.android.calendar/dump\"Dosar</string>
     <string name="share_not_install_wechat">Vă rugăm să instalați aplicația WeChat.</string>
@@ -608,6 +611,8 @@ Puteți adăuga, de asemenea, memento-uri pentru a nu rata nimic important."</st
     <string name="today_at_time_fmt">Astăzi la %s</string>
     <string name="today_icon_voice_contentdescription">Înapoi la ziua de astăzi</string>
     <string name="today_no_events">Niciun eveniment</string>
+    <string name="todo_audio_event">"[Sarcină vocală] "</string>
+    <string name="todo_event">Sarcini următoare</string>
     <string name="tomorrow">Mâine</string>
     <string name="tomorrow_at_time_fmt">Mâine la %s</string>
     <string name="too_long_content">Conținutul este prea lung</string>

@@ -2242,6 +2242,18 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="sys_title_gamebooster_unit_mb">Mb</string>
     <string name="system_app">Aplicaţii de sistem</string>
     <string name="system_application">Aplicații de sistem</string>
+    <string name="system_permission_declare_agree">De acord</string>
+    <string name="system_permission_declare_double_link">&lt;Data&gt;Citiți și acceptați &amp;lt;a href=\"%1$s\"&amp;gt;Acordul utilizatorului&amp;lt;/a&amp;gt; și &amp;lt;a href=\"%2$s\"&amp;gt;Politica de Confidențialitate&amp;lt;/a&amp;gt; înainte de a utiliza această caracteristică.&lt;/Data&gt;</string>
+    <string name="system_permission_declare_main_purpose" formatted="false">Bine ați venit la %1s! Această aplicație vă permite să utilizați următoarea funcție: %2s.</string>
+    <string name="system_permission_declare_no_say_no">"Dacă alegeți să nu acordați permisiunile solicitate sau nu ne permiteți să colectăm și să utilizăm datele personale, această aplicație nu va putea funcționa în mod normal."</string>
+    <string name="system_permission_declare_privacy_declare">"Vă respectăm și vă protejăm confidențialitatea.
+Luați în considerare faptul că %1s trebuie să colecteze datele personale și necesită următoarele permisiuni pentru a funcționa în mod normal:"</string>
+    <string name="system_permission_declare_revoke_path">Puteți dezinstala această aplicație, să vă deconectați din contul dvs. sau să gestionați permisiunile și autorizările din Securitate> Gestionare aplicații> Permisiuni> Alte permisiuni.</string>
+    <string name="system_permission_declare_use_network">Conectați-vă la rețea</string>
+    <string name="system_permission_perm_answer_call">Apeluri</string>
+    <string name="system_permission_perm_read_mms">Citire MMS-uri</string>
+    <string name="system_permission_perm_read_numbers">Citire numere de telefon</string>
+    <string name="system_permission_perm_send_mms">Trimitere MMS-uri</string>
     <string name="tab_blacklist">Lista blocărilor</string>
     <string name="tab_block_log_unKnowNumber">Număr privat</string>
     <string name="tab_call">Apeluri</string>

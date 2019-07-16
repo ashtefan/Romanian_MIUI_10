@@ -1504,11 +1504,13 @@ De asemenea, sunteți conectat la o rețea VPN, care vă poate monitoriza activi
     <string name="recents_accessibility_split_screen_top">Ecran scindat în sus</string>
     <string name="recents_app_info_button_label">Informații despre aplicație</string>
     <string name="recents_caption_resize">Selectați dispunerea noii sarcini</string>
+    <string name="recents_dimiss_task">Goliți</string>
     <string name="recents_drag_hint_message">Atingeți și mențineți apăsată o aplicație, apoi mutați-o aici.</string>
     <string name="recents_empty_message">Nu sunt elemente recente</string>
     <string name="recents_empty_message_dismissed_all">Ați eliminat toate elementele</string>
     <string name="recents_empty_message_multi_window">Deschideți aplicațiile din Ecranul principal</string>
     <string name="recents_exit_multi_window_mode">Ieșiți</string>
+    <string name="recents_forbid_dock_when_screening_toast_text">"Nu se poate utiliza modul Ecran scindat când se proiectează ecranul"</string>
     <string name="recents_incompatible_app_message">"Această aplicație nu suportă modul Ecran scindat"</string>
     <string name="recents_launch_disabled_message">"%s nu se poate lansa în modul Sigur"</string>
     <string name="recents_launch_error_message">"Nu s-a putut lansa %s"</string>
@@ -1519,6 +1521,7 @@ De asemenea, sunteți conectat la o rețea VPN, care vă poate monitoriza activi
     <string name="recents_multistack_add_stack_dialog_split_vertical">Scindare pe verticală</string>
     <string name="recents_search_bar_label">Căutați</string>
     <string name="recents_stack_action_button_label">Eliminați tot</string>
+    <string name="recents_task_screening">Proiectare</string>
     <string name="recents_title_app_manager">Gestionați aplicații</string>
     <string name="recents_title_game">Jocuri</string>
     <string name="recents_title_garbage_cleanup">Curățare</string>
