@@ -26,6 +26,8 @@
     <string name="ok">OK</string>
     <string name="save_content_tip">"Următoarele elemente vor fi salvate: "</string>
     <string name="search">Căutați</string>
+    <string name="settings_clear_data_confirmation_description">"Dacă eliminați parolele acum, va trebui să le introduceți în mod manual data viitoare când vă conectați.
+Eliminați parola?"</string>
     <string name="settings_clear_data_confirmation_title">Se elimină parolele</string>
     <string name="using_miui_autofill_message">Pentru a introduce parolele în mod automat, MIUI va salva informațiile contului și parola pe telefonul dumneavoastră.</string>
 </resources>

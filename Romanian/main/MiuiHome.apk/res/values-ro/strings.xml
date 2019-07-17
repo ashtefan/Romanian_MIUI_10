@@ -366,6 +366,7 @@
     <string name="uninstall_xspace_dialog_title_format">Dezinstalați aplicația clonată \"%s\"?</string>
     <string name="unknown_artist_name">Artist necunoscut</string>
     <string name="unnamed_folder_name">Dosar</string>
+    <string name="unstable_dialog_content">"Aceasta este o versiune de previzualizare a imaginii sistemului Android și poate fi modificată. Utilizarea imaginii acestui sistem este reglementată de Acordul de licență de previzualizare SDK Android. Imaginea sistemului de previzualizare Android nu este o versiune stabilă și poate conține erori și defecte care pot duce la deteriorarea sistemelor, dispozitivelor sau datelor computerului. Imaginea sistemului de previzualizare Android nu este supusă acelorlași teste ca și sistemul de operare din fabrică și poate cauza încetarea activității acestui dispozitiv, serviciilor sau aplicațiilor instalate."</string>
     <string name="wallpaper">Imagine de fundal</string>
     <string name="wallpaper_auto_change_title">Blocare ecran</string>
     <string name="wallpaper_failed_message">"Nu s-a putut aplica imaginea de fundal"</string>

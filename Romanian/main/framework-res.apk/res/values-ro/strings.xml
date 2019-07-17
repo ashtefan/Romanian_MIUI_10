@@ -63,7 +63,7 @@
      <string name="activitychooserview_choose_application">Alegeţi o aplicaţie</string>
      <string name="activitychooserview_choose_application_error">Nu s-a putut lansa %s</string>
      <string name="adb_active_notification_message">Atingeţi pentru a dezactiva depanarea USB.</string>
-     <string name="adb_active_notification_title">Depanarea USB este conectată</string>
+     <string name="adb_active_notification_title">Depanare USB activă</string>
      <string name="adb_debugging_notification_channel_tv">Depanare USB</string>
      <string name="addToDictionary">Adăugaţi în dicţionar</string>
      <string name="add_account_button_label">Adăugaţi un cont</string>
@@ -1513,15 +1513,15 @@ Ascultarea la volum ridicat pentru perioade lungi de timp vă poate afecta auzul
      <string name="usb_accessory_notification_title">Conectat la un accesoriu USB</string>
      <string name="usb_cd_installer_notification_title">Conectat ca program de instalare</string>
      <string name="usb_charging_notification_title">Dispozitivul se încarcă prin USB</string>
-     <string name="usb_midi_notification_title">Conexiune USB pentru MIDI</string>
+     <string name="usb_midi_notification_title">MIDI via USB activ</string>
      <string name="usb_midi_peripheral_manufacturer_name">Android</string>
      <string name="usb_midi_peripheral_name">Port USB Android periferic</string>
      <string name="usb_midi_peripheral_product_name">Port USB periferic</string>
      <string name="usb_mtp_launch_notification_description">Atingeți pentru a vedea fișierele</string>
      <string name="usb_mtp_launch_notification_title">Conectat la %1$s</string>
-     <string name="usb_mtp_notification_title">Conectat ca dispozitiv media</string>
+     <string name="usb_mtp_notification_title">Transferul de fișiere prin USB este activ</string>
      <string name="usb_notification_message">Atingeţi pentru alte opţiuni USB.</string>
-     <string name="usb_ptp_notification_title">Conectat ca aparat foto</string>
+     <string name="usb_ptp_notification_title">PTP via USB activ</string>
      <string name="usb_storage_activity_title">Stocare în masă USB</string>
      <string name="usb_storage_button_mount">Activați stocarea USB</string>
      <string name="usb_storage_error_message">"Este o problemă cu utilizarea cardului SD ca și stocare în masă."</string>
@@ -1536,6 +1536,9 @@ Ascultarea la volum ridicat pentru perioade lungi de timp vă poate afecta auzul
      <string name="usb_storage_stop_title">Stocare USB în uz</string>
      <string name="usb_storage_title">USB conectat</string>
      <string name="usb_supplying_notification_title">USB-ul alimentează dispozitivul atașat</string>
+     <string name="usb_tether_notification_title">Tethering prin USB activ</string>
+     <string name="usb_unsupported_audio_accessory_message">"Dispozitivul conectat nu este compatibil cu acest telefon. Atingeți pentru a afla mai multe."</string>
+     <string name="usb_unsupported_audio_accessory_title">A fost detectat un accesoriu audio analog</string>
      <string name="use_a_different_app">Folosiți altă aplicație</string>
      <string name="user_creation_account_exists">Permiteți %1$s să creeze un utilizator nou cu %2$s ?</string>
      <string name="user_creation_adding">Permiteți %1$s să creeze un nou utilizator cu %2$s (un utilizator cu acest cont există deja) ?</string>

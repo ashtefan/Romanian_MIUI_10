@@ -117,6 +117,7 @@ Aplicația Teme va detecta aplicațiile pe care le utilizați și va afișa imag
     <string name="component_title_wallpaper">Imagini de fundal</string>
     <string name="count_down_tip">%ds rămas</string>
     <string name="current_using_desktop_wallpaper_text">Ecranul principal</string>
+    <string name="current_using_float_wallpaper_text">Transparent</string>
     <string name="current_using_lockscreen_wallpaper_text">Blocarea ecranului</string>
     <string name="current_version">Versiunea curentă: %1$s</string>
     <string name="current_version_incompatible">Incompatibilă</string>
@@ -140,7 +141,9 @@ Aplicația Teme va detecta aplicațiile pe care le utilizați și va afișa imag
     <string name="dynamic_video_wallpaper">Imagine de fundal 24H</string>
     <string name="enable_accessibility">Sunt necesare permisiuni de accesibilitate</string>
     <string name="enable_accessibility_hint">"Puteți activa acest serviciu din aplicația Teme. După aceea, veți putea selecta aplicațiile în care să fie afișate fundalul transparent."</string>
+    <string name="enable_all_free_mode">Răscumpărați</string>
     <string name="enable_transparent_wallpaper">Utilizați imagini de fundal transparente</string>
+    <string name="enabling_all_free_mode">Se răscumpără…</string>
     <string name="exit_extreme_mode_dialog_agree">De acord</string>
     <string name="exit_extreme_mode_dialog_cancel">Renunț</string>
     <string name="exit_extreme_mode_dialog_title">Dezactivați modul Extrem</string>
@@ -218,8 +221,16 @@ Aplicația Teme va detecta aplicațiile pe care le utilizați și va afișa imag
     <string name="go_accessibility_setting">Selectați</string>
     <string name="goto_purchased_list">Vedeți istoricul achizițiilor</string>
     <string name="goto_wechat">Contul WeChat \"%1$s\" a fost copiat în clipboard. Deschideți WeChat acum?</string>
-    <string name="hide_free">Ascundeți %1$s gratuite</string>
+    <string name="has_mamual_hide_font">Ascuns</string>
+    <string name="has_mamual_hide_theme">Ascuns</string>
+    <string name="has_mamual_hide_wallpaper">Ascuns</string>
+    <string name="hide_free_font">Ascunde fonturile gratuite</string>
+    <string name="hide_free_theme">Ascunde temele gratuite</string>
+    <string name="hide_free_wallpaper">Ascunde imaginile de fundal gratuite</string>
     <string name="hide_incompatible">Ascundeți %1$s incompatibile</string>
+    <string name="hide_mamual_hide_font">"Nu afișa fonturile ascunse"</string>
+    <string name="hide_mamual_hide_theme">"Nu afișa temele ascunse"</string>
+    <string name="hide_mamual_hide_wallpaper">"Nu afișa imaginile de fundal ascunse"</string>
     <string name="hide_pull_down_message">Ascundeți brelocul?</string>
     <string name="hide_pull_down_negative">"Nu ascunde"</string>
     <string name="hide_pull_down_positive">Ascunde</string>
@@ -247,6 +258,8 @@ Pentru a dezactiva această funcție, mergeți la Setări &gt; Sunete și vibra�
     <string name="item_resource_audio_optional_color_ring">Ton notificare</string>
     <string name="item_resource_audio_optional_notification_ring">Notificări</string>
     <string name="item_resource_audio_optional_phone_ring">Sunet apel</string>
+    <string name="kuyin_user_agreement_content">Abonamentele pentru sunete de apel personalizate sunt furnizate de către iFlytek. Trebuie să acceptați %s înainte de a utiliza abonamentele pentru sunete de apel personalizate. Sunteți de acord?</string>
+    <string name="kuyin_user_agreement_content_href">Politica de Confidențialitate iFlytek</string>
     <string name="lab">Laborator Teme</string>
     <string name="like_list">Elemente care mi-au plăcut</string>
     <string name="live_wallpaper">Imagini de fundal live</string>
@@ -267,6 +280,7 @@ Pentru a dezactiva această funcție, mergeți la Setări &gt; Sunete și vibra�
     <string name="lockscreen_magazine_title">Ecrane de blocare zilnice</string>
     <string name="lockscreen_wallpaper">Blocare ecran</string>
     <string name="lockstyle_personal_settings">Personalizare</string>
+    <string name="long_click_can_hide_resource">Atingeți și mențineți apăsat pentru a ascunde elemente</string>
     <string name="loop_wallpaper_is_here">Diapozitivele cu imagini de fundal sunt disponibile acum</string>
     <string name="mi_wallpaper">Imagini de fundal MIUI</string>
     <string name="miuishare_account_activate_confirmation">Activați Contul Mi</string>
@@ -296,6 +310,7 @@ Pentru a dezactiva această funcție, mergeți la Setări &gt; Sunete și vibra�
     <string name="mix_icons_option_des">Pictograme Ecran principal. Debifați această căsuță pentru a folosi opțiunile implicite.</string>
     <string name="mix_lockscreen_option_des">Imagine de fundal și ceas. Debifați această căsuță pentru a folosi opțiunile implicite.</string>
     <string name="mix_tip">Componente ale temei</string>
+    <string name="more_sub_comment">Vedeți toate răspunsurile (%1$d)&gt;</string>
     <string name="mtrl_chip_close_icon_content_description">Eliminați %1$s</string>
     <string name="multi_sim_mms_ringtone_settings_dialog_message">Acest sunet de apel va fi aplicat pentru ambele cartele SIM.</string>
     <string name="multi_sim_ringtone_settings_dialog_message">Sunetul de apel este setat pentru ambele cartele SIM.</string>
@@ -459,6 +474,9 @@ Pentru a dezactiva această funcție, mergeți la Setări &gt; Sunete și vibra�
     <string name="resource_get_auth_not_official">Temele din surse terțe nu sunt acceptate</string>
     <string name="resource_get_auth_retrieving">Obţinere autorizare…</string>
     <string name="resource_has_been_downloaded">Ați descărcat deja această temă.</string>
+    <string name="resource_hide">Ascundeți</string>
+    <string name="resource_hide_fail">"Nu s-a putut ascunde"</string>
+    <string name="resource_hide_succ">Ascuns cu succes</string>
     <string name="resource_hint">Alertă</string>
     <string name="resource_import_failed">Import eşuat</string>
     <string name="resource_import_successful">Descărcare finalizată</string>
@@ -495,6 +513,9 @@ Pentru a dezactiva această funcție, mergeți la Setări &gt; Sunete și vibra�
     <string name="resource_ranking">Populare</string>
     <string name="resource_ranking_free">Gratuite</string>
     <string name="resource_ranking_purchase">Cu plată</string>
+    <string name="resource_restore">Restaurați</string>
+    <string name="resource_restore_fail">"Nu s-a putut restaura"</string>
+    <string name="resource_restore_succ">Restaurată cu succes</string>
     <string name="resource_ringtone_default">Tonuri de apel</string>
     <string name="resource_ringtone_playing_error">Eroare de redare</string>
     <string name="resource_ringtone_volume_mute">Modul Silenţios este activat</string>
@@ -573,8 +594,13 @@ Pentru a dezactiva această funcție, mergeți la Setări &gt; Sunete și vibra�
     <string name="shortcut_message">Adăugați o scurtătură pe Ecranul principal!</string>
     <string name="shortcut_show_tip">"Nu arăta din nou"</string>
     <string name="shortcut_title">Vă plac imaginile noastre de fundal?</string>
-    <string name="show_free">Afișează %1$s gratuite</string>
+    <string name="show_free_font">Afișează fonturile gratuite</string>
+    <string name="show_free_theme">Afișează temele gratuite</string>
+    <string name="show_free_wallpaper">Afișează imaginile de fundal gratuite</string>
     <string name="show_incompatible">Afișează %1$s incompatibile</string>
+    <string name="show_mamual_hide_font">Afișează fonturile ascunse</string>
+    <string name="show_mamual_hide_theme">Afișează temele ascunse</string>
+    <string name="show_mamual_hide_wallpaper">Afișează imaginile de fundal ascunse</string>
     <string name="swipe_find_more">Glisați în sus pentru a vedea mai mult</string>
     <string name="system_precust">Pre-instalate</string>
     <string name="tag_ad">Reclamă</string>
@@ -595,9 +621,13 @@ Pentru a dezactiva această funcție, mergeți la Setări &gt; Sunete și vibra�
     <string name="theme_changed_failed_message">Aplicare eşuată</string>
     <string name="theme_changed_message">Temă aplicată</string>
     <string name="theme_changing_dialog_title">Aplicare…</string>
+    <string name="theme_comment_detail_no_more">"Asta e tot până acum"</string>
+    <string name="theme_comment_detail_sub_comment_title">Toate răspunsurile</string>
+    <string name="theme_comment_detail_title">Detalii</string>
     <string name="theme_comment_dialog_cancel">Nu acum</string>
     <string name="theme_comment_dialog_message">"Vă place tema pe care o utilizați acum? Vom aprecia feedback-ul dumneavoastră!"</string>
     <string name="theme_comment_dialog_ok">Scrieți o recenzie</string>
+    <string name="theme_comment_sub_comment_bar_hint">Împărtășiți ideile comunității noastre</string>
     <string name="theme_component_title_alarm">Alarmă</string>
     <string name="theme_component_title_alarmstyle">Stil alarmă</string>
     <string name="theme_component_title_all">Teme</string>
@@ -684,6 +714,7 @@ Pentru a dezactiva această funcție, mergeți la Setări &gt; Sunete și vibra�
     <string name="transparent_wallpaper_filter_setting">Aplicații individuale</string>
     <string name="transparent_wallpaper_guide">Mergeți la Teme</string>
     <string name="transparent_wallpaper_guide_tip">Acum puteți selecta o imagine de fundal transparentă în Teme.</string>
+    <string name="transparent_wallpaper_is_running_in_background">Imaginea de fundal transparentă rulează în plan secund</string>
     <string name="transparent_wallpaper_pref_summary">Imagini de fundal cu opacitate redusă</string>
     <string name="transparent_wallpaper_white_wallpaper">Faceți fundalul alb</string>
     <string name="transparent_wallpaper_white_wallpaper_failed">"Nu s-a putut albi fundalul"</string>
@@ -699,6 +730,7 @@ Pentru a dezactiva această funcție, mergeți la Setări &gt; Sunete și vibra�
     <string name="uid_change_dialog_message">"Ați eliminat actualizările. Reporniți telefonul pentru a putea utiliza temele."</string>
     <string name="uid_change_dialog_ok">Am înțeles</string>
     <string name="uid_change_dialog_title">Reporniți telefonul</string>
+    <string name="unable_connect_network">"Nu s-a putut conecta la rețea"</string>
     <string name="up_to_the_end">"Asta e tot pentru acum. Reveniți mai târziu."</string>
     <string name="update_btn">ACTUALIZAȚI ACUM</string>
     <string name="update_check">Verificați actualizările</string>
@@ -724,10 +756,13 @@ Pentru a dezactiva această funcție, mergeți la Setări &gt; Sunete și vibra�
     <string name="video_data_tips_title">Avertisment utilizare date</string>
     <string name="video_silence_apply_success">Videoclip fără sunet configurat cu succes</string>
     <string name="video_wallpaper_import">Atingeți pentru a adăuga elemente</string>
+    <string name="wallpaper_24h">24 h</string>
     <string name="wallpaper_apply">Aplicați</string>
     <string name="wallpaper_crop">Decupaţi</string>
     <string name="wallpaper_decoded_error">Imposibil de încărcat imaginea de fundal</string>
+    <string name="wallpaper_delete_all">Ștergeți elementele selectate?</string>
     <string name="wallpaper_detail_load_page_no_network">Conectați-vă la rețea și încercați din nou.</string>
+    <string name="wallpaper_dynamic">Dinamică</string>
     <string name="wallpaper_loop_add_success">Adăugată cu succes</string>
     <string name="wallpaper_loop_add_to_loop_desk_wallpaper">Adăugați la diapozitivul pentru Ecranul principal</string>
     <string name="wallpaper_loop_add_to_loop_lock_wallpaper">Adăugați la diapozitivul pentru Blocarea ecranului</string>
@@ -750,6 +785,9 @@ Pentru a dezactiva această funcție, mergeți la Setări &gt; Sunete și vibra�
     <string name="wallpaper_loop_title">Diapozitiv cu imagini de fundal</string>
     <string name="wallpaper_loop_title_desk_wallpaper">Diapozitiv cu imagini de fundal pentru Ecranul principal</string>
     <string name="wallpaper_loop_title_lock_walpaper">Diapozitiv cu imagini de fundal pentru Blocarea ecranului</string>
+    <string name="wallpaper_online">Imagini de fundal online</string>
+    <string name="wallpaper_online_no_more">"Asta e tot pentru acum"</string>
+    <string name="wallpaper_online_tip">Conectați-vă la rețea pentru a vedea mai multe elemente</string>
     <string name="wallpaper_scroll_type_tips">Derulare imagini de fundal</string>
     <string name="wallpaper_set_as_both">Setaţi pt. ambele</string>
     <string name="wallpaper_set_as_desktop">Setaţi ca imagine de fundal</string>
@@ -760,6 +798,7 @@ Pentru a dezactiva această funcție, mergeți la Setări &gt; Sunete și vibra�
     <string name="wallpaper_settings_no_history">Nu există istoric</string>
     <string name="wallpaper_settings_pad_more_page_title">Mai multe imagini de fundal</string>
     <string name="wallpaper_settings_page_title">Imagine de fundal</string>
+    <string name="wallpaper_static">Statică</string>
     <string name="wechat_not_found">Instalați mai întâi WeChat</string>
     <string name="weibo">Weibo</string>
     <string name="wifi_check_cancel">Renunțați</string>

@@ -17,7 +17,7 @@
     <string name="list_title_disable_notification">"Nu se permit notificări"</string>
     <string name="loading">Doar o secundă…</string>
     <string name="lock_screen_display_rules">Format</string>
-    <string name="lock_screen_tip_toast">Acordați mai întâi permisiunea de afișare notificări din \"Notificările aplicațiilor\"</string>
+    <string name="lock_screen_tip_toast">Permiteți notificările în Blocarea ecranului în \"Format\"</string>
     <string name="lockscreen_notifications">Notificări în Blocarea ecranului</string>
     <string name="not_sent_recently">Nu au fost recent</string>
     <string name="notch_and_status_bar_setting">Breton și bara de stare</string>

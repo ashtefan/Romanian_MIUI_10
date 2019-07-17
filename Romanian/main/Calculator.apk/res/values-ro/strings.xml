@@ -22,6 +22,7 @@
     <string name="cancel">Renunțați</string>
     <string name="children_education">"Educația copilului"</string>
     <string name="choose_currency">Selectați moneda</string>
+    <string name="choose_radix">Selectați sistemul numeral</string>
     <string name="choose_unit">Select unitatea de măsură</string>
     <string name="city">Oraș</string>
     <string name="clear">C</string>
@@ -33,6 +34,7 @@
     <string name="convertion_unit">Convertor unități de măsură</string>
     <string name="convertion_unit_area">Convertor pentru arie</string>
     <string name="convertion_unit_length">Convertor unități de lungime</string>
+    <string name="convertion_unit_radix">Sistemul numeral</string>
     <string name="convertion_unit_temperature">Convertor temperatură</string>
     <string name="convertion_unit_time">Convertor unități de timp</string>
     <string name="convertion_unit_velocity">Convertor pentru viteză</string>
@@ -127,6 +129,7 @@
     <string name="item_title_dress_size">Mărimi de haine</string>
     <string name="item_title_length_conversion">Lungime</string>
     <string name="item_title_mortgage">Împrumut casnic</string>
+    <string name="item_title_radix">Sistemul numeral</string>
     <string name="item_title_relationship">Grade de rudenie</string>
     <string name="item_title_scientific_calculator">Științific</string>
     <string name="item_title_tax">Taxe</string>
@@ -138,6 +141,12 @@
     <string name="item_title_weight_conversion">Masă</string>
     <string name="leftParen">(</string>
     <string name="leftParenDesc">paranteză stânga</string>
+    <string name="letter_a">A</string>
+    <string name="letter_b">B</string>
+    <string name="letter_c">C</string>
+    <string name="letter_d">D</string>
+    <string name="letter_e">E</string>
+    <string name="letter_f">F</string>
     <string name="lg">log</string>
     <string name="lgDesc">logaritm</string>
     <string name="license_host_unreachable">"Nu s-a putut conecta la rețea. Verificați setările de rețea și încercați din nou."</string>
@@ -368,6 +377,7 @@
     <string name="unit_data_display_currency_aed">Dirham din Emiratele Arabe Unite</string>
     <string name="unit_data_display_currency_ars">Peso argentinian</string>
     <string name="unit_data_display_currency_aud">Dolar australian</string>
+    <string name="unit_data_display_currency_bdt">Taka Bangladesh</string>
     <string name="unit_data_display_currency_bgn">Leva bulgărească</string>
     <string name="unit_data_display_currency_bhd">Dinar din Bahrein</string>
     <string name="unit_data_display_currency_bnd">Dolar din Brunei</string>
@@ -458,6 +468,10 @@
     <string name="unit_data_display_length_um">Micrometru</string>
     <string name="unit_data_display_length_yd">Yard</string>
     <string name="unit_data_display_length_zhang">Zhang</string>
+    <string name="unit_data_display_radix_10">Zecimal</string>
+    <string name="unit_data_display_radix_16">Hexazecimal</string>
+    <string name="unit_data_display_radix_2">Binar</string>
+    <string name="unit_data_display_radix_8">Octal</string>
     <string name="unit_data_display_temperature_c">Celsius</string>
     <string name="unit_data_display_temperature_f">Fahrenheit</string>
     <string name="unit_data_display_temperature_k">Kelvin</string>
@@ -562,6 +576,10 @@
     <string name="unit_data_short_length_um">μm</string>
     <string name="unit_data_short_length_yd">yd</string>
     <string name="unit_data_short_length_zhang">zhang</string>
+    <string name="unit_data_short_radix_10">DEC</string>
+    <string name="unit_data_short_radix_16">HEX</string>
+    <string name="unit_data_short_radix_2">BIN</string>
+    <string name="unit_data_short_radix_8">OCT</string>
     <string name="unit_data_short_temperature_c">°C</string>
     <string name="unit_data_short_temperature_f">°F</string>
     <string name="unit_data_short_temperature_k">K</string>

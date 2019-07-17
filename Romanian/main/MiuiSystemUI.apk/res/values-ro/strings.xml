@@ -798,6 +798,7 @@ Odată ce se va răci îndeajuns, va rula în mod normal."</string>
     <string name="input_password_after_boot_msg">Introduceți parola pentru a debloca telefonul</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_calling">"Nu se poate comuta între cele două spații în timpul unui apel"</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">"Nu se poate comuta între spații când Controlul Parental este activ"</string>
+    <string name="input_password_after_boot_msg_can_not_switch_when_superpower_active">"Nu se pot comuta spațiile de lucru cât timp este activă Ultra economisirea acumulatorului"</string>
     <string name="input_password_after_boot_msg_must_enter_owner_space">Trebuie să accesați Spațiul principal după repornirea telefonului</string>
     <string name="input_password_hint_text">Introduceți parola</string>
     <string name="input_pattern_hint_text">Desenați modelul de deblocare</string>
@@ -1291,10 +1292,10 @@ De asemenea, sunteți conectat la o rețea VPN, care vă poate monitoriza activi
     <string name="oem_unlock_enable_summary">Permite deblocarea bootloader-ului</string>
     <string name="oldman_airplane_mode_text">Avion</string>
     <string name="oldman_incall_text">Reluare apel</string>
-    <string name="open_camera_hint_text">Glisați spre stânga pentru a accesa Camera</string>
+    <string name="open_camera_hint_text">Glisați pictograma pentru a deschide Camera</string>
     <string name="open_extreme_power_save_mode_title">Activați modul Extrem de economisire a acumulatorului</string>
-    <string name="open_lock_screen_magazine_hint_text">Glisați spre dreapta pentru mai multe opțiuni</string>
-    <string name="open_remote_center_hint_text">Glisați spre dreapta pentru a accesa scurtăturile</string>
+    <string name="open_lock_screen_magazine_hint_text">Glisați pictograma pentru a deschide Caruselul de imagini de fundal</string>
+    <string name="open_remote_center_hint_text">Glisați pictograma pentru a vedea controalele</string>
     <string name="other">Altele</string>
     <string name="overlay_display_devices_title">Simulare ecrane secundare</string>
     <string name="overview">Privire generală</string>
@@ -1504,11 +1505,13 @@ De asemenea, sunteți conectat la o rețea VPN, care vă poate monitoriza activi
     <string name="recents_accessibility_split_screen_top">Ecran scindat în sus</string>
     <string name="recents_app_info_button_label">Informații despre aplicație</string>
     <string name="recents_caption_resize">Selectați dispunerea noii sarcini</string>
+    <string name="recents_dimiss_task">Goliți</string>
     <string name="recents_drag_hint_message">Atingeți și mențineți apăsată o aplicație, apoi mutați-o aici.</string>
     <string name="recents_empty_message">Nu sunt elemente recente</string>
     <string name="recents_empty_message_dismissed_all">Ați eliminat toate elementele</string>
     <string name="recents_empty_message_multi_window">Deschideți aplicațiile din Ecranul principal</string>
     <string name="recents_exit_multi_window_mode">Ieșiți</string>
+    <string name="recents_forbid_dock_when_screening_toast_text">"Nu se poate utiliza modul Ecran scindat când se proiectează ecranul"</string>
     <string name="recents_incompatible_app_message">"Această aplicație nu suportă modul Ecran scindat"</string>
     <string name="recents_launch_disabled_message">"%s nu se poate lansa în modul Sigur"</string>
     <string name="recents_launch_error_message">"Nu s-a putut lansa %s"</string>
@@ -1519,6 +1522,7 @@ De asemenea, sunteți conectat la o rețea VPN, care vă poate monitoriza activi
     <string name="recents_multistack_add_stack_dialog_split_vertical">Scindare pe verticală</string>
     <string name="recents_search_bar_label">Căutați</string>
     <string name="recents_stack_action_button_label">Eliminați tot</string>
+    <string name="recents_task_screening">Proiectare</string>
     <string name="recents_title_app_manager">Gestionați aplicații</string>
     <string name="recents_title_game">Jocuri</string>
     <string name="recents_title_garbage_cleanup">Curățare</string>

@@ -35,6 +35,11 @@
     <string name="cancel_action">Revocare</string>
     <string name="close">Oprit</string>
     <string name="configure_input_methods">Selectați tastatura</string>
+    <string name="content_description_dial">Apel</string>
+    <string name="content_description_search">Căutare</string>
+    <string name="content_description_share">Partajare</string>
+    <string name="content_description_translate">Traducere</string>
+    <string name="content_description_web_url">Navigare</string>
     <string name="copy">Copiere</string>
     <string name="cut">Decupare</string>
     <string name="default_name">Implicit</string>
@@ -53,6 +58,7 @@
     <string name="fp_nav_center_action_choose_dlg_negative_btn_text">Nu acum</string>
     <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Activați</string>
     <string name="fp_nav_center_action_choose_dlg_title">Activați Apăsarea scurtă a butonului Acasă</string>
+    <string name="frequent_email">E-mailuri frecvente</string>
     <string name="frequent_phrases">Expresii frecvente</string>
     <string name="global_actions_airplane_mode">Modul Avion</string>
     <string name="global_actions_reboot">Repornire</string>
@@ -206,6 +212,8 @@
     <string name="turn_off">Opriți</string>
     <string name="twohours">1 oră</string>
     <string name="unknown_caller">Număr necunoscut</string>
+    <string name="user_switching_dialog_switch_into_kid_space">Se comută la spațiul de lucru al Copilului…</string>
+    <string name="user_switching_dialog_switch_out_kid_space">Se părăsește spațiul de lucru al Copilului…</string>
     <string name="user_switching_dialog_text">Comutare…</string>
     <string name="voice_assistant_tips">A fost setat ca apăsarea lungă a butonului de pornire să pornească asistentul vocal</string>
     <string name="voice_begin">Ce anume căutați?</string>
