@@ -212,6 +212,8 @@
     <string name="turn_off">Opriți</string>
     <string name="twohours">1 oră</string>
     <string name="unknown_caller">Număr necunoscut</string>
+    <string name="user_switching_dialog_switch_into_kid_space">Se comută la spațiul de lucru al Copilului…</string>
+    <string name="user_switching_dialog_switch_out_kid_space">Se părăsește spațiul de lucru al Copilului…</string>
     <string name="user_switching_dialog_text">Comutare…</string>
     <string name="voice_assistant_tips">A fost setat ca apăsarea lungă a butonului de pornire să pornească asistentul vocal</string>
     <string name="voice_begin">Ce anume căutați?</string>

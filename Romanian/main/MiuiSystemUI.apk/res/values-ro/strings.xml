@@ -798,6 +798,7 @@ Odată ce se va răci îndeajuns, va rula în mod normal."</string>
     <string name="input_password_after_boot_msg">Introduceți parola pentru a debloca telefonul</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_calling">"Nu se poate comuta între cele două spații în timpul unui apel"</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">"Nu se poate comuta între spații când Controlul Parental este activ"</string>
+    <string name="input_password_after_boot_msg_can_not_switch_when_superpower_active">"Nu se pot comuta spațiile de lucru cât timp este activă Ultra economisirea acumulatorului"</string>
     <string name="input_password_after_boot_msg_must_enter_owner_space">Trebuie să accesați Spațiul principal după repornirea telefonului</string>
     <string name="input_password_hint_text">Introduceți parola</string>
     <string name="input_pattern_hint_text">Desenați modelul de deblocare</string>
@@ -1291,10 +1292,10 @@ De asemenea, sunteți conectat la o rețea VPN, care vă poate monitoriza activi
     <string name="oem_unlock_enable_summary">Permite deblocarea bootloader-ului</string>
     <string name="oldman_airplane_mode_text">Avion</string>
     <string name="oldman_incall_text">Reluare apel</string>
-    <string name="open_camera_hint_text">Glisați spre stânga pentru a accesa Camera</string>
+    <string name="open_camera_hint_text">Glisați pictograma pentru a deschide Camera</string>
     <string name="open_extreme_power_save_mode_title">Activați modul Extrem de economisire a acumulatorului</string>
-    <string name="open_lock_screen_magazine_hint_text">Glisați spre dreapta pentru mai multe opțiuni</string>
-    <string name="open_remote_center_hint_text">Glisați spre dreapta pentru a accesa scurtăturile</string>
+    <string name="open_lock_screen_magazine_hint_text">Glisați pictograma pentru a deschide Caruselul de imagini de fundal</string>
+    <string name="open_remote_center_hint_text">Glisați pictograma pentru a vedea controalele</string>
     <string name="other">Altele</string>
     <string name="overlay_display_devices_title">Simulare ecrane secundare</string>
     <string name="overview">Privire generală</string>
