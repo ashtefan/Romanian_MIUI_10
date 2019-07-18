@@ -815,6 +815,11 @@ Ultima rulare pe %2$s"</string>
     <string name="bluetooth_device_name">Nume:</string>
     <string name="bluetooth_device_searchable">Detectare activată</string>
     <string name="bluetooth_devices">Dispozitive Bluetooth</string>
+    <string name="bluetooth_disable_a2dp_hw_offload">Dezactivați descărcarea prin hardware cu Bluetooth A2DP</string>
+    <string name="bluetooth_disable_a2dp_hw_offload_dialog_cancel">Anulați</string>
+    <string name="bluetooth_disable_a2dp_hw_offload_dialog_confirm">Reporniți</string>
+    <string name="bluetooth_disable_a2dp_hw_offload_dialog_message">Trebuie să reporniți dispozitivul pentru a modifica setarea.</string>
+    <string name="bluetooth_disable_a2dp_hw_offload_dialog_title">Reporniți dispozitivul?</string>
     <string name="bluetooth_disable_absolute_volume">Dezactivați volumul absolut</string>
     <string name="bluetooth_disable_absolute_volume_summary">Dezactivează caracteristica Bluetooth de volum absolut în cazul unor probleme cu volumul la unele dispozitive de la distanță cum ar fi volum foarte ridicat sau lipsa controlului.</string>
     <string name="bluetooth_disable_inband_ringing">Dezactivare sonerie</string>
@@ -6126,7 +6131,9 @@ Atingeți butonul (+) pentru a adăuga cuvinte"</string>
     <string name="wifi_connect_cmcc_dialog_content">Conectat la servicii de date de rețea CMCC.</string>
     <string name="wifi_connect_cmcc_dialog_not_remind">Nu se mai afişează</string>
     <string name="wifi_connect_cmcc_dialog_title">Notificare utilizare date</string>
-    <string name="wifi_connect_failed_message">"Nu s-a putut conecta la această reţea Wi-Fi"</string>
+    <string name="wifi_connect_failed_message">Nu s-a putut conecta la această reţea Wi-Fi</string>
+    <string name="wifi_connected_mac_randomization">Adresă MAC aleatoare</string>
+    <string name="wifi_connected_mac_randomization_summary">Adresă MAC aleatoare atunci când vă conectați la rețelele Wi-Fi</string>
     <string name="wifi_connected_no_internet">Conectat, fără acces la Internet</string>
     <string name="wifi_connection_management">Gestionați conexiunile Wi-Fi</string>
     <string name="wifi_context_menu_change_password">Modificaţi parola</string>
