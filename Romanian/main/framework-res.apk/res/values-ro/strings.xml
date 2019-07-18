@@ -973,6 +973,7 @@ Contactaţi furnizorul de servicii pentru a obţine o altă cartelă SIM."</stri
   <string name="peerTtyModeOff">Peer requested TTY Mode OFF</string>
   <string name="peerTtyModeVco">Peer requested TTY Mode VCO</string>
      <string name="perm_costs_money">aceasta poate să genereze costuri</string>
+     <string name="permdesc_acceptHandovers">Permite aplicației să continue un apel care a fost inițiat dintr-o altă aplicație.</string>
      <string name="permdesc_accessCoarseLocation">Această aplicaţie poate să obţină locaţia dvs. bazat pe resursele de rețeaa cum ar fi turnurile cu celule și rețelele Wi-Fi. Aceste servicii de localizare trebuie activate și puse la dispoziția aplicației.</string>
      <string name="permdesc_accessDrmCertificates">Permite aplicației să furnizeze și să utilizeze certificate DRM. Nu ar trebui să fie necesară pentru aplicaţiile normale.</string>
      <string name="permdesc_accessFineLocation">Această aplicație poate obține locația dumneavoastră bazat pe GPS sau resursele de rețea cum ar fi turnurile cu celule și rețelele Wi-Fi. Aceste servicii de localizare trebuie activate și puse la dispoziția aplicației. Acest lucru poate duce la creșterea consumului de energie.</string>
@@ -1097,10 +1098,22 @@ Contactaţi furnizorul de servicii pentru a obţine o altă cartelă SIM."</stri
      <string name="permgrouplab_sensors">Senzori corporali</string>
      <string name="permgrouplab_sms">SMS</string>
      <string name="permgrouplab_storage">Stocare</string>
+     <string name="permgrouprequest_calendar">Permiteți &lt;b&gt;%1$s&lt;/b&gt; să vă acceseze calendarul?</string>
+     <string name="permgrouprequest_calllog">Permiteți &lt;b&gt;%1$s&lt;/b&gt; să vă acceseze jurnalele de apeluri?</string>
+     <string name="permgrouprequest_camera">Permiteți &lt;b&gt;%1$s&lt;/b&gt; să facă fotografii și să înregistreze videoclipuri?</string>
+     <string name="permgrouprequest_contacts">Permiteți &lt;b&gt;%1$s&lt;/b&gt; să vă acceseze agenda?</string>
+     <string name="permgrouprequest_location">Permiteți &lt;b&gt;%1$s&lt;/b&gt; să acceseze locația acestui dispozitiv?</string>
+     <string name="permgrouprequest_microphone">Permiteți &lt;b&gt;%1$s&lt;/b&gt; să înregistreze conținut audio?</string>
+     <string name="permgrouprequest_phone">Permiteți &lt;b&gt;%1$s&lt;/b&gt; să inițieze și să gestioneze apeluri telefonice?</string>
+     <string name="permgrouprequest_sensors">Permiteți &lt;b&gt;%1$s&lt;/b&gt; să acceseze datele de la senzori despre semnele dvs. vitale?</string>
+     <string name="permgrouprequest_sms">Permiteți &lt;b&gt;%1$s&lt;/b&gt; să trimită și să vadă mesajele SMS?</string>
+     <string name="permgrouprequest_storage">Permiteți &lt;b&gt;%1$s&lt;/b&gt; să acceseze fotografiile, conținutul media și fișierele de pe dispozitiv?</string>
      <string name="permission">Permisiuni</string>
+     <string name="permission_remember_choice">Memorizare</string>
      <string name="permission_request_notification_title">Permisiune solicitată</string>
      <string name="permission_request_notification_with_subtitle">"Permisiune solicitată
 pentru contul %s."</string>
+     <string name="permlab_acceptHandover">să continue un apel dintr-o altă aplicație</string>
      <string name="permlab_accessCoarseLocation">acceseze locația aproximativă (bazată pe rețea)</string>
      <string name="permlab_accessDrmCertificates">accesare certificate DRM</string>
      <string name="permlab_accessFineLocation">acceseze locaţia exactă (bazată pe reţea şi GPS)</string>
@@ -1120,7 +1133,7 @@ pentru contul %s."</string>
      <string name="permlab_bindDreamService">atașare la un serviciu de ecran de veghe interactiv</string>
      <string name="permlab_bindNotificationListenerService">conectare la un serviciu de citire a notificărilor</string>
      <string name="permlab_bind_connection_service">interacționare cu serviciul de telefonie</string>
-     <string name="permlab_bind_incall_service">interacșiune cu ecranul de apel</string>
+     <string name="permlab_bind_incall_service">interacţiune cu ecranul de apel</string>
      <string name="permlab_bluetooth">conectare dispozitive Bluetooth</string>
      <string name="permlab_bluetoothAdmin">accesare setări Bluetooth</string>
      <string name="permlab_bodySensors">accesare senzori corporali(ca de ex. monitorizarea pulsului)</string>
