@@ -510,6 +510,7 @@ Nu veți pierde datele aplicațiilor."</string>
     <string name="call_blacklist">Blocare apeluri</string>
     <string name="call_cloud_block">Blocare în Cloud</string>
     <string name="call_contact_block">Blocare apeluri de la contacte</string>
+    <string name="call_delete_all_hint">Ștergeți toate apelurile blocate?</string>
     <string name="call_delete_hint">Ștergeți toate apelurile blocate provenite de la acest număr?</string>
     <string name="call_delete_title">Ștergeți istoricul de apelare</string>
     <string name="call_oversea_block">Blochează apelurile din străinătate</string>
