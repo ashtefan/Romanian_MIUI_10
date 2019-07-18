@@ -1123,12 +1123,12 @@ o captură de ecran derulantă"</string>
     <string name="miui_ringer_total">Nu deranjați</string>
     <string name="miui_ringer_total_description">Redu la tăcere sunetele și dezactivează vibrațiile pentru toate elementele, exceptând alarma</string>
     <string name="miui_screen_rotation_freeze_message">Rotire automată dezactivată.</string>
-    <string name="miui_toast_zen_dnd_to_off">Sunetele și vibrațiile au fost restabilite la Normal</string>
-    <string name="miui_toast_zen_standard_to_off">Sunetele de apel au fost restabilite la Normal</string>
-    <string name="miui_toast_zen_standard_to_off_when_shield_media">Sunetele de apel, ca și sunetele pentru notificări și cele multimedia, vor fi redate.</string>
-    <string name="miui_toast_zen_to_dnd">Sunete reduse la tăcere și vibrații dezactivate</string>
-    <string name="miui_toast_zen_to_standard">Sunetele de apel și pentru notificări reduse la tăcere</string>
-    <string name="miui_toast_zen_to_standard_when_shield_media">Sunetele de apel, ca și sunetele pentru notificări și cele multimedia, vor fi reduse la tăcere.</string>
+    <string name="miui_toast_zen_dnd_to_off">Modul Nu deranjați este dezactivat acum. Sunetele și vibrațiile au fost restabilite la normal</string>
+    <string name="miui_toast_zen_standard_to_off">Modul Nu deranjați este dezactivat acum. Sunetele de apel au fost restabilite la normal</string>
+    <string name="miui_toast_zen_standard_to_off_when_shield_media">Modul Nu deranjați este dezactivat acum. Sunetele de apel, ca și sunetele pentru notificări și cele multimedia, vor fi redate.</string>
+    <string name="miui_toast_zen_to_dnd">S-a comutat la modul Nu deranjați. Sunetele sunt reduse la tăcere și vibrațiile dezactivate.</string>
+    <string name="miui_toast_zen_to_standard">S-a comutat la modul Nu deranjați. Sunetele de apel și cele pentru notificări sunt reduse la tăcere</string>
+    <string name="miui_toast_zen_to_standard_when_shield_media">S-a comutat la modul Nu deranjați. Sunetele de apel, ca și sunetele pentru notificări și cele multimedia, vor fi reduse la tăcere.</string>
     <string name="mland">Marshmallow Land</string>
     <string name="mobile_data">Date mobile</string>
     <string name="mobile_data_always_on">Date mobile active permanent</string>
@@ -1295,7 +1295,7 @@ De asemenea, sunteți conectat la o rețea VPN, care vă poate monitoriza activi
     <string name="open_camera_hint_text">Glisați pictograma pentru a deschide Camera</string>
     <string name="open_extreme_power_save_mode_title">Activați modul Extrem de economisire a acumulatorului</string>
     <string name="open_lock_screen_magazine_hint_text">Glisați pictograma pentru a deschide Caruselul de imagini de fundal</string>
-    <string name="open_remote_center_hint_text">Glisați pictograma pentru a vedea controalele</string>
+    <string name="open_remote_center_hint_text">Glisați pictograma pentru a vedea scurtăturile</string>
     <string name="other">Altele</string>
     <string name="overlay_display_devices_title">Simulare ecrane secundare</string>
     <string name="overview">Privire generală</string>

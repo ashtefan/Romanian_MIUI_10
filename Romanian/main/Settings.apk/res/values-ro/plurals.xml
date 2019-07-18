@@ -128,6 +128,14 @@
         <item quantity="other">Parola trebuie să conţină cel puţin %d majuscule.</item>
         <item quantity="one">Parola trebuie să conţină cel puţin o majusculă.</item>
     </plurals>
+    <plurals name="lockpassword_password_too_long">
+        <item quantity="other">Puteți introduce cel mult %d caractere</item>
+        <item quantity="one">Puteți introduce cel mult %d caracter</item>
+    </plurals>
+    <plurals name="lockpassword_password_too_short">
+        <item quantity="other">Introduceți cel puțin %d caractere</item>
+        <item quantity="one">Introduceți cel puțin %d caractere</item>
+    </plurals>
     <plurals name="lockpassword_pin_fixed_length">
         <item quantity="other">Codul PIN trebuie să conțină %d cifre</item>
         <item quantity="one">Codul PIN trebuie să conțină %d cifră</item>

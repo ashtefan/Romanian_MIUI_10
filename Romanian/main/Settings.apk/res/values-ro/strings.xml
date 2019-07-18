@@ -2606,6 +2606,7 @@ Puteți modifica acest lucru mai târziu în Setări &gt; Aplicații și notific
     <string name="keywords_wifi">wifi;wi-fi;WLAN;WLAN;wlan;WLAN</string>
     <string name="keywords_wifi_calling">wifi, wi-fi, apel, apelare</string>
     <string name="keywords_write_settings">modificare setări de sistem</string>
+    <string name="kid_space_settings">Spațiul de lucru al Copilului</string>
     <string name="kilobyteShort">KB</string>
     <string name="kilobyte_per_second">KB/s</string>
     <string name="label_mi_stats">Mi analytics</string>
