@@ -512,6 +512,8 @@ Sample Rate"</string>
   <string name="china_mobile_palm_title">CMCC Online Service Hall</string>
     <string name="choose_profile">Selectați profilul</string>
     <string name="clear_adb_keys">Revocați autorizările de depanare prin USB</string>
+    <string name="clear_all_set_button">ștergeți setarea</string>
+    <string name="clear_all_set_title">acest buton șterge toate setările</string>
     <string name="clir_choices_hide_number">Ascundeţi numărul</string>
     <string name="clir_choices_network_default">Prestabilit de rețea</string>
     <string name="clir_choices_show_number">Se afişează numărul</string>
@@ -766,6 +768,8 @@ Sample Rate"</string>
     <string name="entertainment_news_settings">Știri de divertisment</string>
     <string name="eo_disable">Oportunităţi de angajare dezactivate</string>
     <string name="eo_enable">Oportunităţi de angajare activate</string>
+    <string name="eps_only_set_button">setați doar eps</string>
+    <string name="eps_only_set_title">acest buton este doar pentru setarea eps</string>
     <string name="error_updating_title">Eroare în setările de apel</string>
     <string name="exception_error">Eroare de reţea sau de cartelă SIM.</string>
     <string name="external_source_trusted">Permis</string>
@@ -825,6 +829,7 @@ Sample Rate"</string>
     <string name="force_resizable_activities_summary">Face toate aplicațiile redimensionabile pentru ecran multiplu, fără a se ține cont de valorile atribuite.</string>
     <string name="force_rtl_layout_all_locales">Forțează direcția de dispunere RTL</string>
     <string name="force_rtl_layout_all_locales_summary">Forțează dispunerea RTL pentru toate setările regionale</string>
+    <string name="frequecy_num">nr. canal lte</string>
     <string name="fw_change_failed">"Nu s-a putut schimba numărul de redirecţionare.
 Contactaţi operatorul dvs. în cazul în care această problemă persistă."</string>
     <string name="fw_get_in_vm_failed">"Nu s-au putut prelua şi salva setările actuale ale numărului de redirecţionare.
@@ -955,6 +960,9 @@ Doriţi să comutaţi oricum către un nou furnizor de servicii?"</string>
     <string name="local_weather_enable">Previziuni meteo locale activate</string>
     <string name="lodgings_disable">Cazare dezactivată</string>
     <string name="lodgings_enable">Cazare activată</string>
+    <string name="lte_band_sel_setting">lista benzilor</string>
+    <string name="lte_band_set_status">setare bandă lte</string>
+    <string name="lte_freq_set_button">setați frecv. și pci</string>
     <string name="maintenance_disable">Întreţinere dezactivată</string>
     <string name="maintenance_enable">Întreţinere activată</string>
     <string name="manageConferenceLabel">Gestionaţi teleconferinţa</string>
@@ -1003,6 +1011,10 @@ Doriţi să comutaţi oricum către un nou furnizor de servicii?"</string>
     <string name="mock_location_app_set">Aplicația cu locație fictivă: %1$s</string>
     <string name="modem_dialog_body">Rețeaua mobilă este instabilă, cauzând întreruperi și probleme de rețea. Trimiteți jurnalul cu erori către Mi pentru analizare? Acest raport poate conține informații de identificare personală. Raportul va fi utilizat pentru a ne ajuta să reparăm această problemă și nu va fi utilizat în scopuri comerciale.</string>
     <string name="modem_dialog_title">Rețeaua mobilă este instabilă</string>
+    <string name="modem_set_title">SETARE MODEM</string>
+    <string name="modem_setting_button_title">Accesați meniul de setare</string>
+    <string name="modem_setting_info">INFORMAȚII SETĂRI MODEM</string>
+    <string name="modem_setting_text_title">testare proprietăți setare modem</string>
     <string name="msim_apn_not_set">Nesetat</string>
     <string name="msim_cmcc_dds_switch_not_support">"Nu se pot schimba cartelele SIM datorită restricțiilor operatorului."</string>
     <string name="msim_default_setting">Setări prestabilite</string>
@@ -1196,6 +1208,7 @@ Pentru mai multe opţiuni, încercaţi din nou sau apelaţi Serviciul Clienţi."
 "</string>
     <string name="pause_prompt_yes">Da</string>
     <string name="payphone">Telefon public</string>
+    <string name="pci_num">nr lte pci</string>
     <string name="phoneAppLabel">Telefon</string>
     <string name="phoneIconLabel">Telefon</string>
     <string name="phone_account_settings">Conturi apelare</string>
@@ -1716,10 +1729,10 @@ Această tabletă nu are difuzor. Puteți comuta la modul mâini-libere sau util
     <string name="volte_provision_title">Activare apeluri VoLTE</string>
     <string name="volte_switch_not_support_summary">"Apelurile VoLTE nu sunt suportate de către datele mobile ale cartelei SIM."</string>
     <string name="volte_switch_not_support_summary2">"Apelurile VoLTE nu sunt suportate de către operator."</string>
-    <string name="volte_switch_summary">Utilizați VoLTE pentru îmbunătățirea calității apelurilor video și vocale</string>
+    <string name="volte_switch_summary">Utilizați VoLTE pentru îmbunătățirea calității apelurilor vocale</string>
     <string name="volte_switch_summary2">Confirmați că operatorul dumneavoastră suportă această caracteristică înainte de a o activa. Altfel, apelurile obișnuite pot fi afectate.</string>
-    <string name="volte_switch_title">VoLTE activat</string>
-    <string name="volte_switch_title_ct">VoLTE activat</string>
+    <string name="volte_switch_title">Utilizați VoLTE</string>
+    <string name="volte_switch_title_ct">VoLTE</string>
     <string name="volte_tips_when_turn_on">Serviciile VoLTE China Telecom sunt oferite doar în zonele cu acoperire LTE.</string>
     <string name="vowifi_emergency_notification_channel">Avertisment Apelare de urgență prin Wi-Fi</string>
     <string name="vowifi_emergency_notification_content">Apelurile de urgență sunt posibile în zonele cu acoperire a rețelei mobile</string>

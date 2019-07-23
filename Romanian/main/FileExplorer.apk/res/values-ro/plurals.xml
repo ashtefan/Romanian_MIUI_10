@@ -164,6 +164,11 @@
         <item quantity="few">Fișiere asociate cu eticheta %1$s (%2$d elemente)</item>
         <item quantity="many">Fișiere asociate cu eticheta %1$s (%2$d elemente)</item>
     </plurals>
+    <plurals name="text_group_count">
+        <item quantity="other">%d elemente</item>
+        <item quantity="zero"> %1$d elemente</item>
+        <item quantity="one">%d element</item>
+    </plurals>
     <plurals name="total_topic_num">
         <item quantity="other">%1$s topicuri</item>
         <item quantity="one">%1$s topic</item>

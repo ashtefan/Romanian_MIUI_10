@@ -86,6 +86,7 @@
     <string name="after_the_lock_screen">Blochează aplicațiile odată cu blocarea ecranului.</string>
     <string name="alert_back_diving_mode_summary">Dezactivați modul Imersiv acum?</string>
     <string name="alert_back_diving_mode_title">Modul Imersiv</string>
+    <string name="alert_back_milink_hangup_tips_content">"Proiectarea nu va fi înteruptă cât timp încheiați un apel. Puteți apăsa butonul Pornire pentru a trezi ecranul."</string>
     <string name="all_address_choose_hint">Toate numerele din acest județ</string>
     <string name="already_close_gamebooster">Creșterea vitezei în jocuri este dezactivată</string>
     <string name="anti_disturb_msg_detail">Dezactivați toate notificările cu excepția apelurilor primite</string>
@@ -114,7 +115,7 @@
     <string name="antivirus_privacy_dialog_cloudscan_description">Se încarcă și se scanează numele și detaliile aplicațiilor, utilizând definiții de viruși on-line.</string>
     <string name="antivirus_privacy_dialog_ok">OK</string>
     <string name="antivirus_privacy_dialog_summary">"Această funcţie criptează și încarcă ID-ul dispozitivului dvs. pe serverele Avast, AVL şi Tencent (%s)."</string>
-    <string name="antivirus_privacy_dialog_summary_link">Vizualizaţi Politica de confidențialitate</string>
+    <string name="antivirus_privacy_dialog_summary_link">Politica de confidențialitate</string>
     <string name="antivirus_privacy_dialog_title">Politica de confidențialitate</string>
     <string name="antivirus_sec_network_unavailable">"Aplicația de Securitate nu se poate actualiza deoarece ați restricționat accesul la internet. Permiteți aplicației de Securitate să se conecteze la internet?"</string>
     <string name="antivirus_toast_already_update">La zi</string>
@@ -986,6 +987,7 @@ Toate datele de pe telefon pot fi șterse iar parola pentru Blocarea ecranului p
     <string name="gamebox_immersion_tips_content">Modul Imersiv restricționează toate funcțiile cartelei SIM, cu excepția conexiunii de date mobile. You will neither be interrupted by calls nor receive notifications about missed calls. All SIM card features will be restored when Immersive mode is turned off. Turn on Immersive mode?</string>
     <string name="gamebox_immersion_tips_title">Atenție</string>
     <string name="gamebox_immerson_open">"Se activează modul Imersiv; nu schimbați rețelele…"</string>
+    <string name="gamebox_milink">Proiectați</string>
     <string name="gamebox_positive_button_text">OK (%1$ds)</string>
     <string name="gamebox_qq_not_find">Instalați mai întâi QQ și încercați din nou.</string>
     <string name="gamebox_recent_task_expand_fail">"Aplicațiile care funcționează cu aceste scurtături nu sunt instalate"</string>
@@ -1585,6 +1587,7 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="other">Alte setări</string>
     <string name="other_exception_summary">Nu aveți o conexiune la internet</string>
     <string name="other_exception_title">Verificarea pentru alte probleme</string>
+    <string name="other_milink_connect">"Nu se poate proiecta. Altă funcție este proiectată acum."</string>
     <string name="package_change_notification_summary">Apăsați pentru a afla mai multe.</string>
     <string name="package_change_notification_title">Se ajustează limita datelor în mod automat</string>
     <string name="package_setted_error_notification_summary">Apăsați pentru a vizualiza detaliile utilizării datelor.</string>
@@ -2186,6 +2189,7 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="status_bar_network_flow_purchase">"   Cumpărați &gt;"</string>
     <string name="status_bar_network_flow_setup_data_plan">"   Setați planul de date &gt;"</string>
     <string name="still_retain_btn">Păstrați</string>
+    <string name="stop_milink_connect">S-a oprit proiectarea</string>
     <string name="suggest_app_tolock">Sugestii</string>
     <string name="suggest_app_tolock_masked">Ascunse</string>
     <string name="suggest_app_tolock_unmasked">Notificări vizibile</string>
@@ -2271,13 +2275,20 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="system_app">Aplicaţii de sistem</string>
     <string name="system_application">Aplicații de sistem</string>
     <string name="system_permission_declare_agree">De acord</string>
+    <string name="system_permission_declare_disagree">Nu sunt de acord</string>
     <string name="system_permission_declare_double_link">&lt;Data&gt;Citiți și acceptați &amp;lt;a href=\"%1$s\"&amp;gt;Acordul utilizatorului&amp;lt;/a&amp;gt; și &amp;lt;a href=\"%2$s\"&amp;gt;Politica de Confidențialitate&amp;lt;/a&amp;gt; înainte de a utiliza această caracteristică.&lt;/Data&gt;</string>
     <string name="system_permission_declare_main_purpose" formatted="false">Bine ați venit la %1s! Această aplicație vă permite să utilizați următoarea funcție: %2s.</string>
     <string name="system_permission_declare_no_say_no">"Dacă alegeți să nu acordați permisiunile solicitate sau nu ne permiteți să colectăm și să utilizăm datele personale, această aplicație nu va putea funcționa în mod normal."</string>
     <string name="system_permission_declare_privacy_declare">"Vă respectăm și vă protejăm confidențialitatea.
 Luați în considerare faptul că %1s trebuie să colecteze datele personale și necesită următoarele permisiuni pentru a funcționa în mod normal:"</string>
-    <string name="system_permission_declare_revoke_path">Puteți dezinstala această aplicație, să vă deconectați din contul dvs. sau să gestionați permisiunile și autorizările din Securitate> Gestionare aplicații> Permisiuni> Alte permisiuni.</string>
+    <string name="system_permission_declare_privacy_no_permission">"Luați în considerare faptul că %1s trebuie să colecteze date pentru a funcționa în mod normal.
+Vă respectăm și vă protejăm confidențialitatea."</string>
+    <string name="system_permission_declare_privacy_policy">&lt;Data&gt;Citiți și acceptați &amp;lt;a href=\"%1$s\"&amp;gt;Politica noastră de Confidențialitate&amp;lt;/a&amp;gt; înainte de a utiliza această funcție.&lt;/Data&gt;</string>
+    <string name="system_permission_declare_revoke_system">Puteți părăsi această aplicație.</string>
+    <string name="system_permission_declare_revoke_uninstallable">Puteți dezinstala această aplicație sau gestiona permisiunile și autorizările în Securitate> Gestionare aplicații> Permisiuni> Alte permisiuni.</string>
     <string name="system_permission_declare_use_network">Conectați-vă la rețea</string>
+    <string name="system_permission_declare_use_network_no_permission">Conectați-vă la rețea</string>
+    <string name="system_permission_declare_user_agreement">&lt;Data&gt;Citiți și acceptați &amp;lt;a href=\"%1$s\"&amp;gt;Acordul Utilizatorului&amp;lt;/a&amp;gt; înainte de a utiliza această funcție.&lt;/Data&gt;</string>
     <string name="system_permission_perm_answer_call">Apeluri</string>
     <string name="system_permission_perm_read_mms">Citire MMS-uri</string>
     <string name="system_permission_perm_read_numbers">Citire numere de telefon</string>

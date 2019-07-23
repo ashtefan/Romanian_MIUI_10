@@ -243,6 +243,7 @@ Sample Rate"</string>
     <string name="local_backup_password_toast_validation_failure">Setarea parolei pentru copia de rezervă a eșuat</string>
     <string name="managed_user_title">Toate aplicațiile de Servici</string>
     <string name="media_category">Multimedia</string>
+    <string name="missedcall_notification_public_version_title">Telefon</string>
     <string name="mobile_data_always_on">Date mobile active permanent</string>
     <string name="mobile_data_always_on_summary">Menține întotdeauna datele mobile active, chiar dacă Wi-Fi-ul este activ (pentru comutarea rapidă a rețelelor).</string>
     <string name="mock_location_app">Selectați aplicația cu locație fictivă</string>

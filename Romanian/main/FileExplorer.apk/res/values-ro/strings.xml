@@ -74,7 +74,9 @@
     <string name="category_photo">Fotografii</string>
     <string name="category_picture">Imagini</string>
     <string name="category_recent">Recente</string>
+    <string name="category_source">Sursa</string>
     <string name="category_theme">Teme</string>
+    <string name="category_time">Dată</string>
     <string name="category_type_document">Documente</string>
     <string name="category_type_meida">Media</string>
     <string name="category_type_other">Altele</string>
@@ -107,7 +109,7 @@
     <string name="copy_failed">"Nu s-a putut copia"</string>
     <string name="copy_text">Copiați textul</string>
     <string name="copy_to">Copiați în…</string>
-    <string name="count_down">Numărătoare inversă: %1$s</string>
+    <string name="create_folder">Creați</string>
     <string name="create_shortcut_success">Scurtătură adăugată cu succes</string>
     <string name="data_consumption_cancel">"Nu sunt de acord"</string>
     <string name="data_consumption_checkbox_hint">"Nu se afişează din nou"</string>
@@ -156,6 +158,14 @@
     <string name="disk_total">Total: </string>
     <string name="dislike_toast">"Asemenea videoclipuri nu vă vor fi recomandate."</string>
     <string name="dislike_video">"Nu mă interesează"</string>
+    <string name="doc_all">Toate</string>
+    <string name="doc_epub">EPUB</string>
+    <string name="doc_pdf">PDF</string>
+    <string name="doc_ppt">PPT</string>
+    <string name="doc_txt">TXT</string>
+    <string name="doc_word">DOC</string>
+    <string name="doc_wps">WPS</string>
+    <string name="doc_xls">XLS</string>
     <string name="download">Descărcați</string>
     <string name="download_fail">"Nu s-a putut descărca"</string>
     <string name="downloaded_sticker_str">Descărcat</string>
@@ -237,6 +247,7 @@
     <string name="homepage_tab_category">Categorii</string>
     <string name="homepage_tab_file_view_phone">Stocare</string>
     <string name="homepage_tab_recent">Recente</string>
+    <string name="home_title">Fișiere</string>
     <string name="hot_comments">Comentarii populare</string>
     <string name="hot_sticker">Stickere</string>
     <string name="hot_topic_str">Subiecte populare</string>
@@ -306,12 +317,13 @@
     <string name="midrop_msg_1">Porniți Mi Drop pe celălalt telefon</string>
     <string name="midrop_msg_2">Când Mi Drop este pornit, puteți căuta alte dispozitive din apropiere și trimite fișiere</string>
     <string name="midrop_send_files">Selectați fișierele de trimis</string>
+    <string name="mi_share">MiShare</string>
     <string name="mobile_network_dialog_cancle">Renunțați</string>
     <string name="mobile_network_dialog_confirm">OK</string>
     <string name="mobile_network_dialog_tip">Utilizarea datelor mobile pentru vizionarea de videoclipuri poate genera costuri ridicate.</string>
     <string name="mobile_network_dialog_title">Avertizare utilizare date mobile</string>
     <string name="month_day_format">dd MMMM</string>
-    <string name="move_failed">"Mutare eşuată"</string>
+    <string name="move_failed">"Nu s-au putut muta fișierele"</string>
     <string name="move_icon_to_desktop_hint">Creați un widget pe ecranul principal pentru ca Exploratorul de fișiere să administreze fișierele mai eficient.</string>
     <string name="move_icon_to_desktop_success">Acum veți putea găsi widgetul Explorator fișiere pe ecranul principal.</string>
     <string name="move_to">Mutaţi în…</string>
@@ -378,7 +390,7 @@
     <string name="operation_hide_sys">Nu se afişează fişierele ascunse</string>
     <string name="operation_info">Detalii</string>
     <string name="operation_like">Favorite</string>
-    <string name="operation_move">Decupaţi</string>
+    <string name="operation_move">Mutați</string>
     <string name="operation_moving">Mutare…</string>
     <string name="operation_other_apps">Deschideți cu altă aplicație</string>
     <string name="operation_paste">Lipiţi</string>
@@ -397,6 +409,9 @@
     <string name="original_user_signal">Talent team</string>
     <string name="original_user_title">Felicitări pentru că ați devenit membru al echipei Talent team!</string>
     <string name="original_user_verify">• Vă mulțumim pentru că sunteți alături de noi!</string>
+    <string name="otg_file_security_confirm">copiați în telefon</string>
+    <string name="otg_file_security_details">Vă rugăm copiați în telefon</string>
+    <string name="otg_file_security_note">Securitate OGT</string>
     <string name="other_user_follow_tab">Urmăritori</string>
     <string name="other_user_liked_topic_tip">Niciun subiect</string>
     <string name="other_user_no_follow_tip">"Nu ați urmărit pe nimeni până acum."</string>
@@ -447,7 +462,7 @@
     <string name="popup_msg_wb">Vă place videoclipul? Partajați-l prietenilor de pe Weibo!</string>
     <string name="popup_msg_wx">Partajați acest videoclip prietenilor din WeChat.</string>
     <string name="port_range">Portul trebuie să fie cuprins între 1024 şi 65535</string>
-    <string name="pretty_girl">Feminin</string>
+    <string name="privacy_policy">Politica de Confidențialitate</string>
     <string name="private_files">Ascunse</string>
     <string name="private_folder">Dosare ascunse</string>
     <string name="private_folder_no_file_hints">Apăsați și țineți apăsat un fișier sau un dosar pentru a-l ascunde.</string>
@@ -565,6 +580,8 @@
     <string name="smb_loading">Doar o secundă…</string>
     <string name="sort_size_asc">De la mic la mare</string>
     <string name="sort_size_desc">De la mare la mic</string>
+    <string name="start_doc">Fișiere</string>
+    <string name="start_phone">Stocare</string>
     <string name="start_server">Porniţi serverul</string>
     <string name="stay_awake_summary">Ecranul va fi activ permanent atunci când utilizaţi FTP</string>
     <string name="stay_awake_title">Mențineți ecranul activ</string>
@@ -579,6 +596,7 @@
     <string name="swap_tip_1">Glisați spre stânga sau spre dreapta</string>
     <string name="swap_tip_2">pentru a vedea alte videoclipuri</string>
     <string name="sys_size_enable">" disponibil"</string>
+    <string name="tab_app">Mai multe</string>
     <string name="tab_category">Categorii</string>
     <string name="tab_common_app">Aplicații și dosare</string>
     <string name="tab_discover">Descoperiți</string>
@@ -594,6 +612,8 @@
     <string name="tab_ranking_list">Lista de evaluări</string>
     <string name="tab_source">APLICAŢII</string>
     <string name="terabyteShort">TB</string>
+    <string name="text_select_all">Selectați tot</string>
+    <string name="text_select_nothing">Deselectați tot</string>
     <string name="tip">Atenție</string>
     <string name="title_album">Albume</string>
     <string name="title_app_tags">Aplicații</string>
