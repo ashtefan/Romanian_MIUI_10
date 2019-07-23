@@ -1940,6 +1940,8 @@ Orice utilizator poate actualiza aplicații pentru toți ceilalți utilizatori."
     <string name="wifi_allow_scan_with_traffic">Permite întotdeauna scanarea rețelelor Wi-Fi</string>
     <string name="wifi_allow_scan_with_traffic_summary">Permite/Refuză scanarea rețelelor Wi-Fi bazat pe traficul de date prezent în interfață</string>
     <string name="wifi_connected_no_internet">Conectat, fără Internet</string>
+    <string name="wifi_coverage_extend">Activați extinderea acoperirii Wi-Fi</string>
+    <string name="wifi_coverage_extend_summary">Extindeți acoperirea Wi-Fi prin hotspot</string>
     <string name="wifi_disabled_by_recommendation_provider">Neconectat datorită calității slabe a rețelei</string>
     <string name="wifi_disabled_generic">Dezactivat</string>
     <string name="wifi_disabled_network_failure">"Nu s-a putut configura IP-ul"</string>
