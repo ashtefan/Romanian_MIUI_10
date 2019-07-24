@@ -21,7 +21,7 @@
     <string name="ac_pre_notification_contentText">Protejați-vă informațiile personale</string>
     <string name="ac_pre_notification_contentTitle">Încercați Blocarea Aplicațiilor</string>
     <string name="ac_summaryOff">Dacă este dezactivată nu este necesară parola pentru accesarea aplicațiilor</string>
-    <string name="ac_summaryOn">Dacă este activată se va solicita parola de deblocare pentru accesarea aplicațiilor</string>
+    <string name="ac_summaryOn">Introduceți parola pentru a accesa aplicațiile protejate</string>
     <string name="ac_unmask_all_apps">Afișați pentru toate aplicațiile</string>
     <string name="access_control_app_is_launching">Aplicația pornește</string>
     <string name="access_control_failed_need_to_unlock_nofingerprint">Introduceți parola înainte de a debloca cu o nouă amprentă</string>
@@ -1488,8 +1488,8 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="notification_battery_scan_consume_abnormal_title_set">%s descarcă acumulatorul</string>
     <string name="notification_exit_power_save_mode">Economisirea acumulatorului este dezactivată</string>
     <string name="notification_exit_power_save_mode_subtitle">Acumulator încărcat %s.</string>
-    <string name="notification_mask_summary">Ascunde conținutul notificărilor din Blocarea ecranului și din Perdeaua de notificări</string>
-    <string name="notification_mask_title">Ascundeți conținutul</string>
+    <string name="notification_mask_summary">Nu afișa conținutul notificărilor pentru aplicațiile protejate</string>
+    <string name="notification_mask_title">Ascundeți conținutul notificărilor</string>
     <string name="notification_masked_item">Ascunde notificările</string>
     <string name="notification_masked_subtitle">Ascunde notificările din aplicațiile protejate cu Blocarea aplicațiilor</string>
     <string name="notification_summary_cmcc_app_check">Atingeți pentru a vizualiza detalii.</string>
@@ -1842,6 +1842,8 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="preferred_app_entries_messaging">Mesagerie</string>
     <string name="preferred_app_entries_music">Muzică</string>
     <string name="privacy_apps">Aplicații ascunse</string>
+    <string name="privacy_apps_begin_use">Începeți</string>
+    <string name="privacy_apps_button_know">Am înțeles</string>
     <string name="privacy_apps_category_title">Aplicații ascunse</string>
     <string name="privacy_apps_checkbox_remind_choice">"Nu arăta din nou"</string>
     <string name="privacy_apps_close">Închideți</string>
@@ -1850,7 +1852,11 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="privacy_apps_manage">Gestionați aplicațiile ascunse</string>
     <string name="privacy_apps_manage_dialog_title">Despre aplicațiile ascunse</string>
     <string name="privacy_apps_manager_dialog_message">"Pictograma acestei aplicații nu va mai fi afișată pe Ecranul principal după ce o veți ascunde. Ascundeți această aplicație acum?"</string>
+    <string name="privacy_apps_next_stup">Următorul</string>
+    <string name="privacy_apps_shield_message_summary">"Nu afișa notificări pentru aplicațiile protejate"</string>
+    <string name="privacy_apps_shield_message_title">"Nu afișa notificări"</string>
     <string name="privacy_apps_tutorial">Tutorial</string>
+    <string name="privacy_apps_tutorial_dlg_title">Cum găsiți aplicațiile ascunse</string>
     <string name="privacy_apps_tutorial_prompt_pageone">Această caracteristică vă permite să ascundeți pictogramele aplicațiilor astfel încât să nu mai apară pe Ecranul principal.</string>
     <string name="privacy_apps_tutorial_prompt_pagethree">După ce introduceți parola, dosarul ce conține aplicațiile ascunse va fi afișat.</string>
     <string name="privacy_apps_tutorial_prompt_pagetwo">"Glisați cu două degete pe ecran. Veți vedea un mesaj care vă cere să introduceți parola pentru Blocarea aplicațiilor."</string>
