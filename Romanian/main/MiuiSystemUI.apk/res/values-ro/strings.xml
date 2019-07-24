@@ -1292,10 +1292,10 @@ De asemenea, sunteți conectat la o rețea VPN, care vă poate monitoriza activi
     <string name="oem_unlock_enable_summary">Permite deblocarea bootloader-ului</string>
     <string name="oldman_airplane_mode_text">Avion</string>
     <string name="oldman_incall_text">Reluare apel</string>
-    <string name="open_camera_hint_text">Glisați pictograma pentru a deschide Camera</string>
+    <string name="open_camera_hint_text">Glisați spre stânga pentru a deschide Camera</string>
     <string name="open_extreme_power_save_mode_title">Activați modul Extrem de economisire a acumulatorului</string>
     <string name="open_lock_screen_magazine_hint_text">Glisați pictograma pentru a deschide Caruselul de imagini de fundal</string>
-    <string name="open_remote_center_hint_text">Glisați pictograma pentru a vedea scurtăturile</string>
+    <string name="open_remote_center_hint_text">Glisați spre dreapta pentru a vedea scurtăturile</string>
     <string name="other">Altele</string>
     <string name="overlay_display_devices_title">Simulare ecrane secundare</string>
     <string name="overview">Privire generală</string>

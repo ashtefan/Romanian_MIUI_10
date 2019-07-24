@@ -2313,6 +2313,7 @@ Când activați crearea automată a copiei de rezervă, datele dispozitivului ș
     <string name="google_title">Google</string>
     <string name="got_it">Am înțeles</string>
     <string name="gsm_to_wifi_connect_type_title">Celular -> Wi-Fi</string>
+    <string name="gxzw_add_fingerprint_area">Scanner pentru amprentă</string>
     <string name="gxzw_add_fingerprint_continue">Continuați</string>
     <string name="gxzw_add_fingerprint_edge_message">Mișcați degetul pentru a înregistra toate particularitățile amprentei.</string>
     <string name="gxzw_add_fingerprint_edge_title">Ajustați modul de atingere</string>
