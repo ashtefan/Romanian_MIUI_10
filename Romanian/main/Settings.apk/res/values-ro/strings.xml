@@ -824,6 +824,8 @@ Ultima rulare pe %2$s"</string>
     <string name="bluetooth_disable_absolute_volume_summary">Dezactivează caracteristica Bluetooth de volum absolut în cazul unor probleme cu volumul la unele dispozitive de la distanță cum ar fi volum foarte ridicat sau lipsa controlului.</string>
     <string name="bluetooth_disable_inband_ringing">Dezactivare sonerie</string>
     <string name="bluetooth_disable_inband_ringing_summary">Nu se redau tonurile de apel în căștile Bluetooth</string>
+    <string name="bluetooth_disable_mi_fast_connect">Dezactivare conectare rapidă Mi</string>
+    <string name="bluetooth_disable_mi_fast_connect_summary">Dezactivați funcția de conectare rapidă Mi</string>
     <string name="bluetooth_disable_profile_message">Această acţiune va dezactiva:<b>%1$s</b> de pe:<b>%2$s</b></string>
     <string name="bluetooth_disable_profile_title">Dezactivaţi profilul?</string>
     <string name="bluetooth_disabled">Invizibil pentru alte dispozitive</string>
@@ -956,9 +958,15 @@ Mod canal"</string>
     <string name="bluetooth_select_a2dp_codec_ldac_playback_quality">Codec Bluetooth Audio LDAC: Calitate redare</string>
     <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">"Selectați codecul Bluetooth Audio LDAC:
 Calitate redare"</string>
-  <string name="bluetooth_select_a2dp_codec_sample_rate">Rata de eșantionare audio Bluetooth</string>
+    <string name="bluetooth_select_a2dp_codec_lhdc_latency">Codec Bluetooth Audio LHDC: Latență</string>
+    <string name="bluetooth_select_a2dp_codec_lhdc_latency_dialog_title">"Selectați codecul Bluetooth Audio LHDC:
+Latență"</string>
+    <string name="bluetooth_select_a2dp_codec_lhdc_playback_quality">Codec Bluetooth Audio LHDC: Calitate redare</string>
+    <string name="bluetooth_select_a2dp_codec_lhdc_playback_quality_dialog_title">"Selectați codecul Bluetooth Audio LHDC:
+Calitate redare"</string>
+    <string name="bluetooth_select_a2dp_codec_sample_rate">Rată de eșantionare audio Bluetooth</string>
     <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">"Selectați codecul Bluetooth Audio:
-Sample Rate"</string>
+Rată de eșantionare"</string>
     <string name="bluetooth_select_a2dp_codec_streaming_label">Redare online: %1$s</string>
     <string name="bluetooth_select_a2dp_codec_type">Codec Bluetooth Audio</string>
     <string name="bluetooth_select_a2dp_codec_type_dialog_title">Selectați codecul Bluetooth Audio</string>
@@ -1084,6 +1092,13 @@ Această caracteristică poate fi dezactivată din [Setări]"</string>
     <string name="bt_ldac_property">Atribute</string>
     <string name="bt_ldac_remember_choice">Reține alegerea</string>
     <string name="bt_ldac_settings">Setări</string>
+    <string name="bt_lhdc_declaration">Atunci când un dispozitiv Bluetooth suportă LHDC, el va fi conectat în mod implicit. LDAC furnizează o experiență audio de înaltă calitate dar aduce de asemenea și un consum crescut de energie. Redarea poate fi influențată de către limitările hardware Bluetooth.</string>
+    <string name="bt_lhdc_dialog_summary">"LHDC furnizează o experiență audio de înaltă calitate dar aduce de asemenea și un consum crescut de energie
+Această caracteristică poate fi dezactivată din [Setări]"</string>
+    <string name="bt_lhdc_dialog_title">Dispozitivul curent suportă LHDC, care a fost conectat în mod implicit:</string>
+    <string name="bt_lhdc_open_dialog_title">Activați LHDC?</string>
+    <string name="bt_lhdc_pre_title">LHDC</string>
+    <string name="bt_lhdc_property">Atribute</string>
     <string name="bt_rarely_used_device_title">Dispozitive rar utilizate (%d)</string>
     <string name="bt_trace_log">Activaţi jurnalul Bluetooth Trace</string>
     <string name="bt_trace_log_summary">Activaţi jurnalul Bluetooth Trace</string>
