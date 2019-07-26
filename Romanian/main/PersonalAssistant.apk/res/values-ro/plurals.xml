@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="agenda_count_down">
+        <item quantity="other">În %d minute</item>
+        <item quantity="one">În %d minut</item>
+    </plurals>
     <plurals name="assistant_day">
         <item quantity="other">În %d zile</item>
         <item quantity="one">În %d zi</item>
