@@ -3,6 +3,8 @@
     <string name="label_silent_mode">Silenţios</string>
     <string name="label_reboot">Repornire</string>
     <string name="label_shutdown">Oprire</string>
+    <string name="label_recovery">Recuperare</string>
+    <string name="label_fastboot">Fastboot</string>
     <string name="label_alert_reboot">Apăsați mai sus pentru a reporni telefonul</string>
     <string name="label_alert_shutdown">Apăsați mai sus pentru a închide telefonul</string>
 </resources>
