@@ -215,6 +215,7 @@
     <string name="app_manager_permission_power_saving_title">Economisire acumulator</string>
     <string name="app_manager_permission_startself_title">Pornire automată</string>
     <string name="app_manager_permission_summary_reject">Restricționați tot</string>
+    <string name="app_manager_power_consume">%.1f%%</string>
     <string name="app_manager_powerkeeper_miui_auto">Economisire acumulator MIUI</string>
     <string name="app_manager_powerkeeper_no_bg">Restricționați activitățile din fundal</string>
     <string name="app_manager_powerkeeper_no_restrict">Nicio restricție</string>
@@ -423,6 +424,7 @@ Nu veți pierde datele aplicațiilor."</string>
     <string name="battery_history_hours">%1$d h %2$d m şi %3$d s</string>
     <string name="battery_history_minutes">%1$d m şi %2$d s</string>
     <string name="battery_history_seconds">%1$d sec.</string>
+    <string name="battery_statistics_activity_title">Statistici utilizare acumulator</string>
     <string name="battery_stats_charging_label">Se încarcă</string>
     <string name="battery_stats_gps_on_label">GPS</string>
     <string name="battery_stats_on_battery">Pe acumulator: %1$s</string>
@@ -466,7 +468,7 @@ Nu veți pierde datele aplicațiilor."</string>
     <string name="btn_start_diagnostic">Testare reţea</string>
     <string name="btn_stop_diagnostic">Opriţi</string>
     <string name="btn_text_already_opened">Pornit</string>
-    <string name="btn_text_goto_power_rank">Vedeți starea acumulatorului</string>
+    <string name="btn_text_goto_power_rank">Vedeți toate statisticile</string>
     <string name="btn_text_goto_setup">Mergeți la Setări</string>
     <string name="btn_text_network_speed_detail">Conexiune</string>
     <string name="btn_text_open_now">Activați</string>
@@ -1613,6 +1615,12 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="pc_abnormal_scan_reason_use_GPS">Utilizează serviciile de localizare prea des</string>
     <string name="pc_abnormal_scan_reason_wake_system">Trezește sistemul prea des</string>
     <string name="pc_activity_title">Optimizați utilizarea acumulatorului</string>
+    <string name="pc_battery_detail_curve_reference_now">Acum</string>
+    <string name="pc_battery_detail_device_item_title">Statistici utilizare acumulator</string>
+    <string name="pc_battery_history_battery_detail_menu_item">Detalii</string>
+    <string name="pc_battery_history_consume_rank_menu_item">Evaluare</string>
+    <string name="pc_battery_history_rank_mha_menu_item">Miliamperi oră</string>
+    <string name="pc_battery_history_rank_percent_menu_item">Procent</string>
     <string name="pc_battery_history_show_imei">IMEI:</string>
     <string name="pc_install_manager">Instalare prin USB</string>
     <string name="pc_main_activity_back">Înapoi</string>
@@ -1626,6 +1634,10 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="pc_main_sub_battery_text_day_hour">%1$s z și %2$s h rămase</string>
     <string name="pc_main_sub_battery_text_hour_minute">%1$s h și %2$s m rămase</string>
     <string name="pc_settings_title">Setări optimizare acumulator</string>
+    <string name="pc_statistics_battery_last_hour_minute">%1$dh și %2$dm rămase</string>
+    <string name="pc_statistics_battery_use_hour_minute">%1$dh și %2$dm de la ultima încărcare</string>
+    <string name="pc_statistics_battery_use_summary">%s de la ultima încărcare</string>
+    <string name="pc_statistics_battery_use_title">Utilizare acumulator</string>
     <string name="pc_to_phone_install">Instalarea %s prin USB a fost blocată</string>
     <string name="per_month_pkg_traffic_settings">Setaţi limita de date</string>
     <string name="percent_formatted_text">%s%%</string>
@@ -2251,8 +2263,8 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="superpower_dialog_title">Ultra economisirea acumulatorului</string>
     <string name="superpower_notification_hint_enter">Activați</string>
     <string name="superpower_notification_summary">Activați Ultra economisirea acumulatorului</string>
-    <string name="superpower_notification_time_12">dd MMMM, EEEE</string>
-    <string name="superpower_notification_time_24">dd MMMM, EEEE</string>
+    <string name="superpower_notification_time_12">EEEE, dd MMMM</string>
+    <string name="superpower_notification_time_24">EEEE, dd MMMM</string>
     <string name="superpower_notification_title">Mai puțin de 10% acumulator disponibil</string>
     <string name="superpower_progress_content">Se activează Ultra economisirea acumulatorului…</string>
     <string name="superpower_progress_left_time">%1$dh și %2$dm</string>
@@ -2285,6 +2297,7 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="system_permission_declare_double_link">&lt;Data&gt;Citiți și acceptați &amp;lt;a href=\"%1$s\"&amp;gt;Acordul utilizatorului&amp;lt;/a&amp;gt; și &amp;lt;a href=\"%2$s\"&amp;gt;Politica de Confidențialitate&amp;lt;/a&amp;gt; înainte de a utiliza această caracteristică.&lt;/Data&gt;</string>
     <string name="system_permission_declare_main_purpose" formatted="false">Bine ați venit la %1s! Această aplicație vă permite să utilizați următoarea funcție: %2s.</string>
     <string name="system_permission_declare_no_say_no">"Dacă alegeți să nu acordați permisiunile solicitate sau nu ne permiteți să colectăm și să utilizăm datele personale, această aplicație nu va putea funcționa în mod normal."</string>
+    <string name="system_permission_declare_no_say_no_non_mandatory">"Dacă ați ales să nu acordați permisiunile necesare sau nu doriți să ne permiteți să colectăm și să utilizăm datele dvs., această aplicație nu va putea rula parțial."</string>
     <string name="system_permission_declare_privacy_declare">"Vă respectăm și vă protejăm confidențialitatea.
 Luați în considerare faptul că %1s trebuie să colecteze datele personale și necesită următoarele permisiuni pentru a funcționa în mod normal:"</string>
     <string name="system_permission_declare_privacy_no_permission">"Luați în considerare faptul că %1s trebuie să colecteze date pentru a funcționa în mod normal.

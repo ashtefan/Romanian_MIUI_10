@@ -299,7 +299,10 @@
     <string name="dialog_insufficient_space_on_cache">"Nu s-a putut finaliza descărcarea; nu există spațiu suficient în stocarea internă."</string>
     <string name="dialog_insufficient_space_on_external">"Nu s-a putut finaliza descărcarea; nu există spațiu suficient pe cardul SD."</string>
     <string name="dialog_media_not_found">"Nu se poate descărca. Cardul SD nu este disponibil."</string>
-    <string name="dialog_not_show_again">"Nu arăta din nou"</string>
+    <string name="dialog_my_playlist_online_changed_merge">Păstrați</string>
+    <string name="dialog_my_playlist_online_changed_message">Se pare că această listă de redare s-a modificat. O puteți înlocui cu noua versiune sau o puteți păstra pe cea veche.</string>
+    <string name="dialog_my_playlist_online_changed_replace">Înlocuiți-o</string>
+    <string name="dialog_my_playlist_set_to_public">Partajați această listă de redare cu Muzica Mi</string>
     <string name="dialog_queued_body">Acest fișier este în coada de așteptare pentru descărcarea ulterioară.</string>
     <string name="dialog_renew_failure">Ne pare rău; acțiunea a eșuat</string>
     <string name="dialog_renew_free_end">Perioada de încercare a expirat. Vă înregistrați la Hungama PRO?​</string>
@@ -572,10 +575,10 @@
     <string name="hot_icon_in_fast_indexer">H</string>
     <string name="hungama">Hungama</string>
     <string name="hungama_batch_download_alert_summary">Doar membrii PRO pot descărca mai multe melodii. Vreți să deveniți membru PRO acum?</string>
-    <string name="hungama_category_chart">Top</string>
-    <string name="hungama_category_playlist">Listă de redare</string>
+    <string name="hungama_category_chart">Topuri muzicale</string>
+    <string name="hungama_category_playlist">Liste de redare</string>
     <string name="hungama_category_radio">Radio</string>
-    <string name="hungama_category_video">Video</string>
+    <string name="hungama_category_video">Videoclipuri</string>
     <string name="hungama_free_download_out_summary">"Nu mai puteți descărca melodii în mod gratuit. Vreți să obțineți titlu de membru PRO pentru a descărca nelimitat melodii?"</string>
     <string name="hungama_playlist_category">Categorie listă de redare</string>
     <string name="hungama_privacy_desc">Politica de Confidențialitate Hungama (opțional)</string>
@@ -723,15 +726,10 @@
     <string name="my_account">Cont Mi</string>
     <string name="my_music_empty">Lista de redare este goală.</string>
     <string name="my_music_empty_goto_online">Nu au fost găsite melodii</string>
-    <string name="my_playlist">Liste de redare</string>
-    <string name="name_online_personal_radio">Radio</string>
-    <string name="nav_local_all">Toate</string>
-    <string name="nav_local_artist">Artişti favoriţi</string>
-    <string name="nav_local_favorite">Favorite</string>
-    <string name="nav_local_song">Descărcate</string>
-    <string name="nav_online_artist">Artişti</string>
-    <string name="nav_online_billboard">Topuri muzicale</string>
-    <string name="nav_online_fm">Radio</string>
+    <string name="my_playlist_add_song">Adăugați melodii</string>
+    <string name="my_playlist_create_self_playlist">Creați liste de redare cu melodiile dvs. preferate</string>
+    <string name="my_playlist_set_to_private">Faceți privată</string>
+    <string name="my_playlist_set_to_public">Faceți publică</string>
     <string name="network_error_and_retry">"Nu s-a putut conecta; atingeți pentru a reîncerca"</string>
     <string name="network_request_error">"Nu se poate conecta la rețea"</string>
     <string name="network_settings_error">"Nu se poate conecta la rețea"</string>
@@ -842,6 +840,8 @@
     <string name="permission_declaration_negative_text">Mai târziu</string>
     <string name="permission_declaration_positive_text">Mergeți la Securitate</string>
     <string name="permission_declaration_title">Permiteți accesul</string>
+    <string name="permission_open">Permiteți</string>
+    <string name="permission_required">Sunt necesare permisiuni</string>
     <string name="pick_favorite_song">Favorite</string>
     <string name="pick_local_song">Melodii locale</string>
     <string name="pick_recent_song">Redate recent</string>
@@ -935,6 +935,7 @@
 Be Happy"</string>
     <string name="repeat_all_notif">Se repetă toate melodiile.</string>
     <string name="repeat_current_notif">Se repetă melodia actuală.</string>
+    <string name="request_overlay_permission_desc">Permiteți aplicației Muzică Mi să afișeze ferestre plutitoare pentru a putea utiliza această caracteristică.</string>
     <string name="request_share_info">Doar o secundă…</string>
     <string name="request_subscription_status">Doar o secundă…</string>
     <string name="restart_download">Reporniți</string>
@@ -969,6 +970,7 @@ Be Happy"</string>
     <string name="search_hint_online">Căutați artiști, albume, melodii, liste de redare și videoclipuri online</string>
     <string name="search_history_clear_all">Goliți</string>
     <string name="search_history_delete_all_dialog_titile">Ștergeți istoricul de căutare acum?</string>
+    <string name="search_in_youtube">Căutați pe YouTube</string>
     <string name="search_instant_online_music">Online</string>
     <string name="search_menu_title">Căutați</string>
     <string name="search_result_local_songs">Local</string>
@@ -1029,6 +1031,7 @@ Be Happy"</string>
     <string name="share_image_error">"Nu s-a putut partaja imaginea datorită unei erori de descărcare"</string>
     <string name="share_text_list">"Listă de redare din Muzică Mi: "</string>
     <string name="share_text_song">"Melodie în Muzică Mi: "</string>
+    <string name="show_float_first_hint">Minimizați playerul</string>
     <string name="show_more">Arătați %s în plus</string>
     <string name="shuffle_music">Amestecați lista de redare</string>
     <string name="shuffle_off_notif">Amestecare melodii dezactivată.</string>
@@ -1123,6 +1126,9 @@ Be Happy"</string>
     <string name="toast_download_error_by_vip_required">Obțineți un pachet de Melodii Premium pentru a descărca această melodie.</string>
     <string name="toast_download_in_process">Descărcare în curs</string>
     <string name="toast_is_pro">"Sunteți deja membru PRO."</string>
+    <string name="toast_my_playlist_illegal_name">"Titlul acestei liste de redare nu este valid. Redenumiți-o."</string>
+    <string name="toast_my_playlist_set_to_private">"Această listă de redare este acum privată. Alte persoane nu o pot vedea."</string>
+    <string name="toast_my_playlist_set_to_public">Această listă de redare este acum publică. Alte persoane o pot vedea.</string>
     <string name="toast_new_playlist_name_no_enter">"Nu se poate crea un nou paragraf"</string>
     <string name="toast_new_playlist_name_too_long">Numele listei de redare este prea lung</string>
     <string name="toast_normal_songs_for_download">Calitatea melodiilor descărcate a fost stabilită la Standard</string>

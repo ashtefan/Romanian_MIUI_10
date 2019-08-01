@@ -3082,6 +3082,7 @@ Sunt alți utilizatori pe acest dispozitiv.
     <string name="mi_service">Servici Mi</string>
     <string name="mi_service_app_detail">Detalii utilizare date</string>
     <string name="mi_shopping_mall">Magazin Mi</string>
+    <string name="mi_transfer">Transferuri Mi</string>
     <string name="mi_upi_settings">Cont Mi Pay</string>
     <string name="mipush_fake_channel_group_name">Mi Push</string>
     <string name="misc_files">Fişiere diverse</string>
@@ -4998,6 +4999,7 @@ Acest lucru este posibil datorită unui certificat de încredere instalat pe dis
     <string name="status_bar_settings_notification_use_app_icon">Utilizați pictogramele aplicației pentru notificări</string>
     <string name="status_bar_settings_qs_layout">Dispunere setări rapide</string>
     <string name="status_bar_settings_show_lte_for_4g">Afișează pictograma LTE pentru 4G</string>
+    <string name="status_bar_settings_show_weather">Afișează starea vremii în perdeaua de notificări</string>
     <string name="status_bar_settings_status_bar">Bară de stare</string>
     <string name="status_bar_title">Bara de stare</string>
     <string name="status_bt_address">Adresă Bluetooth</string>

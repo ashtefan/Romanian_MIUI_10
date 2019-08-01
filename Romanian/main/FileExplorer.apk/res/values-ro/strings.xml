@@ -12,7 +12,8 @@
     <string name="album_name">Selecția zilnică: %s</string>
     <string name="all_topic">Toate subiectele</string>
     <string name="already_liked">"Ați adăugat deja la favorite"</string>
-    <string name="app_name">Explorator fişiere</string>
+    <string name="app_function">Gestionați fișierele din telefon</string>
+    <string name="app_name">Fişiere</string>
     <string name="app_name_bluetooth">Bluetooth</string>
     <string name="app_name_camera">Cameră</string>
     <string name="app_name_downloadedrom">Pachete</string>
@@ -184,6 +185,7 @@
     <string name="error_create_dir">"Nu s-a putut crea dosarul"</string>
     <string name="error_create_file">"Nu s-a putut crea fișierul"</string>
     <string name="error_delete_failed">"Nu s-a putut șterge fișierul"</string>
+    <string name="error_file_already_exists">Acest fișier există deja</string>
     <string name="error_filename_too_long">Numele fișierului introdus este prea lung</string>
     <string name="error_folder_already_exists">Acest fișier există deja</string>
     <string name="error_info_cant_send_folder">"Imposibil de trimis acest tip de fișiere."</string>
@@ -228,7 +230,9 @@
     <string name="ftp_transfer_secure">Securitate</string>
     <string name="ftp_username_and_passworld">Conectare</string>
     <string name="ftp_username_hint">Nume utilizator</string>
-    <string name="full_gems">Valorificați bijuteriile</string>
+    <string name="function_file_operation">"Pentru accesarea și deschiderea fișierelor; "</string>
+    <string name="function_set_private">"Pentru vizualizarea și criptarea fișierelor; "</string>
+    <string name="function_use_imei">"Pentru accesarea IMEI-ului și criptarea fișierelor; "</string>
     <string name="gbk_summary">Codare prestabilită în Chineză Simplificată Windows</string>
     <string name="gbk_title">GBK</string>
     <string name="gender_choose_sub_tile">Obțineți conținut personalizat​</string>
@@ -247,7 +251,7 @@
     <string name="homepage_tab_category">Categorii</string>
     <string name="homepage_tab_file_view_phone">Stocare</string>
     <string name="homepage_tab_recent">Recente</string>
-    <string name="home_title">Fișiere</string>
+    <string name="home_title">Manager fișiere</string>
     <string name="hot_comments">Comentarii populare</string>
     <string name="hot_sticker">Stickere</string>
     <string name="hot_topic_str">Subiecte populare</string>

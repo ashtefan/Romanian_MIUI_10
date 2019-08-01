@@ -276,7 +276,6 @@ Permiteți aplicației Note să înregistreze sunete."</string>
     <string name="todo_schedule_time_mdhm">dd/MM HH:mm</string>
     <string name="todo_schedule_time_today">Astăzi</string>
     <string name="todo_schedule_time_tomorrow">Mâine</string>
-    <string name="todo_schedule_time_y">yyyy/</string>
     <string name="todo_schedule_time_yesterday">Ieri</string>
     <string name="todo_schedule_time_ymdhm">dd/MM/yyyy HH:mm</string>
     <string name="todo_search_hint">Căutați sarcini</string>
