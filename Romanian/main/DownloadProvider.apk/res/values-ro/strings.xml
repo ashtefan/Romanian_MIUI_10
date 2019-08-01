@@ -85,7 +85,7 @@
     <string name="warning_tip_ok">Întrerupeţi</string>
     <string name="warning_tip_title">Avertisment de utilizare a datelor</string>
     <string name="wifi_recommended_body" formatted="false">"Pornind descărcarea %s acum poate duce la utilizarea excesivă a conexiunii de date mobile, ceea ce poate genera costuri suplimentare, în funcție de planul de date pe care îl dețineți.
- Apăsați %s pentru a porni descărcarea data viitoare când veți fi conectat la Wi-Fi."</string>
+Apăsați %s pentru a porni descărcarea data viitoare când veți fi conectat la Wi-Fi."</string>
     <string name="wifi_recommended_title">Adăugați pentru descărcarea ulterioară?</string>
     <string name="wifi_required_body" formatted="false">"Conectați-vă la Wi-Fi pentru a finaliza descărcarea %s.
     

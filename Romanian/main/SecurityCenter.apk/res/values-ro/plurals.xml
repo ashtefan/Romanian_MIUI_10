@@ -172,6 +172,22 @@ Dacă activați din nou datele mobile, operatorul vă poate taxa pentru trafic s
         <item quantity="other">%s minute până la încărcarea completă</item>
         <item quantity="one">%s minut până la încărcarea completă</item>
     </plurals>
+    <plurals name="pc_statistics_battery_use_minute">
+        <item quantity="other">%d minute de la ultima încărcare</item>
+        <item quantity="one">%d minut de la ultima încărcare</item>
+    </plurals>
+    <plurals name="pc_statistics_battery_use_second">
+        <item quantity="other">%d secunde de la ultima încărcare</item>
+        <item quantity="one">%d secundă de la ultima încărcare</item>
+    </plurals>
+    <plurals name="pc_statistics_battery_last_minute">
+        <item quantity="other">%d minute rămase</item>
+        <item quantity="one">%d minut rămas</item>
+    </plurals>
+    <plurals name="pc_statistics_battery_last_hour">
+        <item quantity="other">%d ore rămase</item>
+        <item quantity="one">%d oră rămasă</item>
+    </plurals>
     <plurals name="notification_battery_scan_consume_abnormal_title_split">
         <item quantity="other">%2$d alicații, inclusiv %1$s, descarcă acumulatorul</item>
         <item quantity="one">%2$d aplicație, inclusiv %1$s, descarcă acumulatorul</item>
@@ -425,12 +441,12 @@ Dacă activați din nou datele mobile, operatorul vă poate taxa pentru trafic s
         <item quantity="one">    încă +%1$d caracter</item>
     </plurals>
     <plurals name="privacy_apps_enable_header_title">
-        <item quantity="other">Pictograme pe Ecranul principal ascunse pentru %d aplicații</item>
-        <item quantity="one">Pictograme pe Ecranul principal ascunse pentru %d aplicație</item>
+        <item quantity="other">"%d pictograme ale aplicațiilor nu sunt ascunse"</item>
+        <item quantity="one">"%d pictogramă a aplicației nu este ascunsă"</item>
     </plurals>
     <plurals name="privacy_apps_disable_header_title">
-        <item quantity="other">Pictograma de pe Ecranul principal nu este ascunsă pentru %d aplicații</item>
-        <item quantity="one">Pictograma de pe Ecranul principal nu este ascunsă pentru %d aplicație</item>
+        <item quantity="other">%d pictograme ale aplicațiilor sunt ascunse</item>
+        <item quantity="one">%d pictogramă a aplicației este ascunsă</item>
     </plurals>
     <plurals name="first_aid_result_summary_exception">
         <item quantity="other">%1$d probleme necesită optimizare</item>
