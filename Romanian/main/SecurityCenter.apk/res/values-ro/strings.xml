@@ -2074,7 +2074,7 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="sp_settings_check_item_title_root">ROOT</string>
     <string name="sp_settings_check_item_title_sign_exception">Excepții de semnătură</string>
     <string name="sp_settings_check_item_title_update">Actualizări de sistem</string>
-    <string name="sp_settings_check_item_title_virus_exception">Excepții pentru viruși</string>
+    <string name="sp_settings_check_item_title_virus_exception">Excepții</string>
     <string name="sp_settings_check_item_title_wifi">Wi-Fi</string>
     <string name="sp_settings_exception_count_zero">Niciun element</string>
     <string name="sp_settings_group_title_check_item">Elemente multiple</string>
