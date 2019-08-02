@@ -283,6 +283,28 @@
         <item>Optimizat pentru calitatea conexiunii (330kbps/303kbps)</item>
         <item>Cea mai bună (Bit Rate adaptiv)</item>
     </string-array>
+    <string-array name="bluetooth_a2dp_codec_lhdc_latency_summaries">
+        <item>Latență scurtă</item>
+        <item>Latență medie</item>
+        <item>Latență lungă</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_lhdc_latency_titles">
+        <item>Latență scurtă (50~100ms)</item>
+        <item>Latență medie (150~200ms)</item>
+        <item>Latență lungă (300~500ms)</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_summaries">
+        <item>Optimizat pentru calitate conexiune</item>
+        <item>Calitate echilibrată audio și conexiune</item>
+        <item>Optimizat pentru calitate audio</item>
+        <item>Cea mai bună (Bit Rate automat)</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_titles">
+        <item>Optimizat pentru calitate conexiune (400kbps)</item>
+        <item>Calitate echilibrată audio și conexiune (500/560kbps)</item>
+        <item>Optimizat pentru calitate audio (900kbps)</item>
+        <item>Cea mai bună (Bit Rate automat)</item>
+    </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
         <item>Utilizați selecția sistemului (Implicit)</item>
         <item>44,1 kHz</item>
