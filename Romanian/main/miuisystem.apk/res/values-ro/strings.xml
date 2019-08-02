@@ -24,9 +24,9 @@
     <string name="chord">Coardă</string>
     <string name="citylight">Luminile orașului</string>
     <string name="clank">Zăngănit</string>
-    <string name="cloud_state_disabled">Sincronizarea în Cloud este dezactivată</string>
-    <string name="cloud_state_finished">Sincronizat în Cloud</string>
-    <string name="cloud_state_syncing">Sincronizat în Cloud</string>
+    <string name="cloud_state_disabled">Sincronizarea în cloud este dezactivată</string>
+    <string name="cloud_state_finished">Sincronizat în cloud</string>
+    <string name="cloud_state_syncing">Sincronizat în cloud</string>
     <string name="country">Country</string>
     <string name="countryside">La țară</string>
     <string name="cowboy">Cowboy</string>
