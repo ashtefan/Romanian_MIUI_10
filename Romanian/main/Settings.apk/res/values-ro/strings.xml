@@ -1726,6 +1726,7 @@ Această setare afectează toți utilizatorii telefonului."</string>
     <string name="dialog_title_login">Conectaţi-vă la contul dvs. Mi</string>
     <string name="dialog_yes">Da</string>
     <string name="direct_boot_unaware_dialog_message">"Notă: După o repornire, această aplicație nu poate porni până nu deblocați telefonul"</string>
+    <string name="directory_access">Acces la director</string>
     <string name="disableNetwork">dezactivați rețeaua</string>
     <string name="disable_overlays">Dezactivați suprascrierile HW</string>
     <string name="disable_overlays_summary">Utilizați GPU întotdeauna pentru compunerea imaginii ecranului</string>
@@ -2459,6 +2460,7 @@ Puteți modifica acest lucru mai târziu în Setări &gt; Aplicații și notific
     <string name="ime_security_warning">%1$s poate înregistra tot ce tastați, inclusiv parolele, datele cardurilor de credit și alte date personale.</string>
     <string name="imei_information_summary">Informații referitoare la IMEI</string>
     <string name="imei_information_title">Informații IMEI</string>
+    <string name="imei_multi_sim">IMEI (SIM %1$d)</string>
     <string name="immediately_destroy_activities">Nu păstraţi activităţile</string>
     <string name="immediately_destroy_activities_summary">Opreşte orice activitate de îndată ce utilizatorul o părăseşte</string>
     <string name="importance_default">Implicit</string>
@@ -2581,6 +2583,7 @@ Puteți modifica acest lucru mai târziu în Setări &gt; Aplicații și notific
     <string name="keywords_date_and_time">ceas, militar</string>
     <string name="keywords_default_apps">aplicații, implicit</string>
     <string name="keywords_default_phone_app">telefon, apelare, implicit</string>
+    <string name="keywords_directory_access">acces la director</string>
     <string name="keywords_display">ecran, ecran tactil</string>
     <string name="keywords_display_auto_brightness">reduceți luminozitatea ecranului, ecran tactil, acumulator</string>
     <string name="keywords_display_brightness_level">reduceți luminozitatea ecranului, ecran tactil, acumulator</string>
@@ -4910,6 +4913,7 @@ Codul PIN poate fi incorect."</string>
     <string name="sim_signal_strength">%1$d dBm %2$d asu</string>
     <string name="sim_slot_empty">Nu există cartelă SIM</string>
     <string name="sim_status_title">Stare SIM</string>
+    <string name="sim_status_title_sim_slot">Stare SIM (SIM %1$d)</string>
     <string name="simulate_color_space">Simulați spațiul de culori</string>
     <string name="single_key_use">Buton unic</string>
     <string name="single_key_use_summary">Utilizați butonul Acasă pentru funcțiile celorlalte 2 butoane</string>
@@ -5003,6 +5007,7 @@ Acest lucru este posibil datorită unui certificat de încredere instalat pe dis
     <string name="status_bar_settings_status_bar">Bară de stare</string>
     <string name="status_bar_title">Bara de stare</string>
     <string name="status_bt_address">Adresă Bluetooth</string>
+    <string name="status_data_network_type">Tipul rețelei de date mobile</string>
     <string name="status_data_state">Starea reţelei mobile</string>
     <string name="status_failed_to_write">Nu se poate modifica eticheta NFC. Dacă problema persistă, încercați cu o altă etichetă</string>
     <string name="status_icc_id">ICCID</string>
@@ -5016,6 +5021,8 @@ Acest lucru este posibil datorită unui certificat de încredere instalat pe dis
     <string name="status_msid_number">MSID</string>
     <string name="status_network_type">Tip de reţea mobilă</string>
     <string name="status_number">Numărul meu de telefon</string>
+    <string name="status_number_sim_slot">Număr de telefon (SIM %1$d)</string>
+    <string name="status_number_sim_status">Număr de telefon pe SIM</string>
     <string name="status_operator">Reţea</string>
     <string name="status_prl_version">Versiune PRL</string>
     <string name="status_roaming">Roaming</string>
@@ -5030,6 +5037,7 @@ Acest lucru este posibil datorită unui certificat de încredere instalat pe dis
     <string name="status_tag_not_writable">Eticheta NFC nu este editabilă. Utilizați altă etichetă.</string>
     <string name="status_unavailable">Indisponibilă</string>
     <string name="status_up_time">Durată de funcţionare</string>
+    <string name="status_voice_network_type">Tipul rețelei mobile de voce</string>
     <string name="status_wifi_mac_address">Adresă MAC Wi-Fi</string>
     <string name="status_wimax_mac_address">Adresă MAC 4G</string>
     <string name="status_write_success">Succes!</string>
