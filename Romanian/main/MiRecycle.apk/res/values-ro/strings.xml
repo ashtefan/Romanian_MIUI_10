@@ -67,6 +67,7 @@ de oriunde din lume"</string>
     <string name="buy_title_two">V-ați săturat să vizitați centrele de service?</string>
     <string name="buy_top_summary">"Nu vă mai faceți griji despre 
 deteriorările accidentale ale telefonului"</string>
+    <string name="cs_go_check_order">Vedeți în Cashify</string>
     <string name="cd_charger_test_image">charger_test_imagine</string>
     <string name="cd_charger_test_status">test stare incărcător</string>
     <string name="cd_dead_pixel_test_image">Imagine de test pentru pixeli deteriorați</string>
@@ -86,8 +87,11 @@ deteriorările accidentale ale telefonului"</string>
     <string name="device_processor">Procesorul</string>
     <string name="device_resolution">Rezoluția</string>
     <string name="dialog_button_update">Actualizați</string>
+    <string name="dialog_content_cs">"Serviciile de reciclare nu mai sunt disponibile. Dacă ați creat comenzi aici, contactați OneAssist înainte de 31 August. Puteți ignora acest mesaj dacă nu ați aplicat pentru serviciile de reciclare."</string>
+    <string name="dialog_content_oa">"Serviciile de garanție extinsă nu mai sunt disponibile. Dacă ați creat comenzi aici, contactați Cashify înainte de 31 August. Puteți ignora acest mesaj dacă nu ați aplicat pentru garanția extinsă."</string>
     <string name="dialog_content_stop">"Opriți testul hardware înainte de a fi finalizat?"</string>
     <string name="dialog_content_update">Vă rugăm să încercați din nou după actualizare.</string>
+    <string name="dialog_title_attention">Atenție</string>
     <string name="done_claim_ps">*Clientul trebuie să achite taxele suplimentare, după cum se precizează și în Termeni și Condiții</string>
     <string name="done_download_invoice">&lt;u&gt;Descărcați factura&lt;/u&gt;</string>
     <string name="done_how_claim">Cum să fac o reclamație?</string>
@@ -138,7 +142,7 @@ Dispozitivul Deteriorat de la ușa dumneavoastră"</string>
     <string name="instant_bank_transfer">Transfer bancar instantaneu</string>
     <string name="insurance_button">Asigurare</string>
     <string name="insurance_description">Asigurarea OneAssist vă oferă protecție suplimentară pentru reparare</string>
-    <string name="insurance_entrance">Protejați-vă telefonul nou</string>
+    <string name="insurance_entrance">Vedeți comenzile pentru garanție</string>
     <string name="item_name_battery">Acumulator</string>
     <string name="item_name_bluetooth">Bluetooth</string>
     <string name="item_name_frontcamera">Camera frontală</string>
@@ -155,7 +159,7 @@ Dispozitivul Deteriorat de la ușa dumneavoastră"</string>
     <string name="label_my_order">Comanda Mea</string>
     <string name="landmark">Reper</string>
     <string name="loading">Se încarcă…</string>
-    <string name="main_entrance">Vindeți telefonul</string>
+    <string name="main_entrance">Vedeți comenzile de reciclare</string>
     <string name="main_overall_test">START</string>
     <string name="msg_coupon_applied">Cupon aplicat cu succes.</string>
     <string name="msg_empty_cancel_reason">Vă rugăm să selectați motivul renunțării</string>
@@ -164,6 +168,7 @@ Dispozitivul Deteriorat de la ușa dumneavoastră"</string>
     <string name="oa_buy_privacy_content">Xiaomi va trimite data activării telefonului către OneAssist pentru a obține cea mai bună ofertă. Serviciul este asigurat de către OneAssist. Toată răspunderea cade în sarcina OneAssist. Contactați OneAssist dacă aveți întrebări.</string>
     <string name="oa_buy_privacy_description">Atingând Continui înseamnă că sunteți de acord cu Termenii și Condițiile furnizate de către &lt;a href="http://www.miui.com/res/doc/privacy/en.html"&gt;&lt;font color="#3F87EA"&gt;&lt;u&gt;Xiaomi&lt;/u&gt;&lt;/font&gt;&lt;/a&gt; și &lt;a href="https://oneassist.in/privacypolicy/"&gt;&lt;font color="#3F87EA"&gt;&lt;u&gt;OneAssist&lt;/u&gt;&lt;/font&gt;&lt;/a&gt;.</string>
     <string name="oa_buy_unsupport_content">Dispozitivul a depășit data de achiziție acceptată sau tipul telefonului nu este suportat.</string>
+    <string name="oa_go_check_order">Vedeți în OneAssist</string>
     <string name="oainfo_buynow">Cumpărați Acum</string>
     <string name="oainfo_guard">Garantat</string>
     <string name="oainfo_wait_activation">Se așteaptă Activarea</string>
