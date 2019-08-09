@@ -144,6 +144,7 @@
     <string name="superpower_date">EEEE, dd MMMM</string>
     <string name="superpower_dialog_app_select_content">Aplicațiile terțe consumă în general mai multă energie decât aplicațiile de sistem. Adăugați oricum?</string>
     <string name="superpower_dialog_app_select_title">Atenție</string>
+    <string name="superpower_exit_hint">Se dezactivează Ultra economisirea acumulatorului…</string>
     <string name="superpower_incharging">Se încarcă</string>
     <string name="superpower_progress_battery_last">%s rămas</string>
     <string name="superpower_progress_left_time">%1$dh și %2$dm</string>

@@ -1633,6 +1633,11 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="pc_main_power_manager_hour_minute">%1$s h și %2$s m până la încărcarea completă</string>
     <string name="pc_main_sub_battery_text_day_hour">%1$s z și %2$s h rămase</string>
     <string name="pc_main_sub_battery_text_hour_minute">%1$s h și %2$s m rămase</string>
+    <string name="pc_search_keywords_battery">Acumulator</string>
+    <string name="pc_search_keywords_battery_save">Economisirea acumulatorului</string>
+    <string name="pc_search_keywords_battery_use">Utilizarea acumulatorului</string>
+    <string name="pc_search_keywords_capacity">Capacitatea acumulatorului</string>
+    <string name="pc_search_keywords_property">Performanță</string>
     <string name="pc_settings_title">Setări optimizare acumulator</string>
     <string name="pc_statistics_battery_last_hour_minute">%1$dh și %2$dm rămase</string>
     <string name="pc_statistics_battery_use_hour_minute">%1$dh și %2$dm de la ultima încărcare</string>

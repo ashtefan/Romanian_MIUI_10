@@ -45,6 +45,7 @@
     <string name="cut">Decupare</string>
     <string name="default_name">Implicit</string>
     <string name="description_title">Silențios</string>
+    <string name="device_type_pc">PC</string>
     <string name="eighthours">8 ore</string>
     <string name="enable_livetalk_summary">0.05 lei/minut pentru apelurile locale</string>
     <string name="enable_livetalk_title">Porniți livetalk</string>
@@ -70,6 +71,11 @@
     <string name="handy_mode_summary">Pentru a închide, apăsați pe zona întunecată</string>
     <string name="handy_mode_title">Modul Operare cu o mână</string>
     <string name="ignore_home_when_fingerprint_enrolling_msg">Plasați degetul pe butonul Acasă</string>
+    <string name="input_method_edit_phrase_text">Editați expresiile frecvente</string>
+    <string name="input_method_no_content_text">Niciun element aici</string>
+    <string name="input_method_switch_settings_text">Setările tastaturii</string>
+    <string name="input_method_tab_clipboard_text">Clipboard</string>
+    <string name="input_method_tab_phrase_text">Expresii frecvente</string>
     <string name="internal_livetalk_enable">Utilizați pachete de suplinire pentru apeluri naționale</string>
     <string name="international_livetalk_enable">Utilizați pachete de suplinire pentru apeluri internaționale</string>
     <string name="key_btn_ok">OK</string>
@@ -95,7 +101,10 @@
     <string name="miui_warning_button_cancel">Renunțați</string>
     <string name="miui_warning_button_ok">OK</string>
     <string name="miui_warning_tip_info">A apărut o eroare în %1$s. Închideți această aplicație acum?</string>
+    <string name="multi_file_name">%1$s，%2$s</string>
+    <string name="name_with_ellipsize">%1$s…%2$s</string>
     <string name="onehour">30 de minute</string>
+    <string name="oppo">OPPO</string>
     <string name="package_delete_confirm_step_1">Dezinstalați %s?</string>
     <string name="package_delete_confirm_step_2">Dezinstalarea acestei aplicații poate face sistemul instabil.</string>
     <string name="package_delete_confirm_step_3">"Nu veți mai putea deschide această aplicație după ce o veți dezinstala."</string>
@@ -164,6 +173,10 @@
     <string name="sim_added_reboot_title">Cartela SIM se va activa după ce reporniți dispozitivul.</string>
     <string name="sim_lock_non_ais_msg">"Cartela dvs. SIM nu este complet operațională cu acest telefon deoarece nu respectă termenii și condițiile abonamentului dumneavoastră. Dacă aveți întrebări sau aveți nevoie de mai multe informații referitoare la această problemă, vă rugăm să contactați centrele de servicii Xiaomi sau magazinul de unde ați achiziționat produsele."</string>
     <string name="sim_lock_now_ais_title">SIM %1$d</string>
+    <string name="slavewifi">Wi-Fi dual band</string>
+    <string name="slavewifi_disconnect">Deconectați</string>
+    <string name="slavewifi_notification_title">Se utilizează Wi-Fi dual band</string>
+    <string name="slavewifi_settings">Atingeți pentru a modifica setările</string>
     <string name="softap_notifif_summary">%d conectat</string>
     <string name="softap_notifif_title">Hotspot-ul \"%s\" este pornit</string>
     <string name="standard">Silențios</string>
@@ -216,7 +229,7 @@
     <string name="user_switching_dialog_switch_into_kid_space">Se comută la spațiul de lucru al Copilului…</string>
     <string name="user_switching_dialog_switch_out_kid_space">Se părăsește spațiul de lucru al Copilului…</string>
     <string name="user_switching_dialog_text">Comutare…</string>
-    <string name="voice_assistant_tips">A fost setat ca apăsarea lungă a butonului de pornire să pornească asistentul vocal</string>
+    <string name="vivo">vivo</string>
     <string name="voice_begin">Ce anume căutați?</string>
     <string name="voice_button_action_down">Eliberați pentru a căuta</string>
     <string name="voice_button_action_up">Atingeți pentru a vorbi</string>
