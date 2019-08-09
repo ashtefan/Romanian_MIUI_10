@@ -70,8 +70,6 @@
     <string name="game_net_text2">"Creșteți viteza de conectare a jocului și limitați viteza de descărcare în fundal pentru a reduce lagul datorat vitezei rețelei</string>
     <string name="game_net_title">Optimizați viteza de conectare</string>
     <string name="game_setting">Setări jocuri</string>
-    <string name="gamebooster_network_dialog_message">Permiteți aplicației de Securitate să se conecteze la rețea pentru a utiliza toate caracteristicile de Creștere a vitezei în jocuri?</string>
-    <string name="gamebooster_network_dialog_title">"Unele caracteristici nu sunt disponibile"</string>
     <string name="gb_alipays_can_not_complete">"Nu s-a putut finaliza plata. Instalați pentru a continua."</string>
     <string name="gb_weixinpay_can_not_complete">"Nu s-a putut finaliza plata. Instalați pentru a continua."</string>
     <string name="gdpr_msg">&lt;Data&gt;"Pentru a putea utiliza funcțiile de bază ale aplicației de Securitate, trebuie să acceptați ca Xiaomi să poată colecta, procesa și utiliza datele dvs. personale, inclusiv informații despre modul în care utilizați funcțiile aplicației de Securitate (de ex. statistici despre utilizarea datelor mobile, informații despre malware, dar și informații de bază despre dispozitivul dvs.) și alte tipuri de informații specificate în &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Politica noastră de Confidențialitate&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
