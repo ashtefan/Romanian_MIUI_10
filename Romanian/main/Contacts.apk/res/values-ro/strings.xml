@@ -183,11 +183,11 @@
     <string name="cloud_antispam_mark">Marcaţi ca spam</string>
     <string name="cloud_antispam_marked">Marcat</string>
     <string name="cloud_antispam_title">Identificarea numerelor necunoscute</string>
-    <string name="cloud_recommend_msg">Atingeți pentru a sincroniza contactele cu Mi Cloud.</string>
-    <string name="cloud_state_disabled">Sincronizați contactele în Mi Cloud</string>
+    <string name="cloud_recommend_msg">Atingeți pentru a sincroniza contactele în cloud.</string>
+    <string name="cloud_state_disabled">Sincronizați contactele în cloud</string>
     <string name="cloud_state_loading">Doar o secundă…</string>
-    <string name="cloud_state_sync_finished">Sincronizat cu Mi Cloud</string>
-    <string name="cloud_state_syncing">Sincronizat cu Mi Cloud</string>
+    <string name="cloud_state_sync_finished">Sincronizat în cloud</string>
+    <string name="cloud_state_syncing">Sincronizat în cloud</string>
     <string name="combined_title_and_miprofile_swaped">%1$s, %2$s</string>
     <string name="combined_title_and_miprofile_swaped_huge_mode">"%1$s
 %2$s"</string>

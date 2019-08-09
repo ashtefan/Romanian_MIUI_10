@@ -958,6 +958,7 @@ Doriţi să comutaţi oricum către un nou furnizor de servicii?"</string>
     <string name="local_enable">Știri locale activate</string>
     <string name="local_weather_disable">Previziuni meteo locale dezactivate</string>
     <string name="local_weather_enable">Previziuni meteo locale activate</string>
+    <string name="location">Aria</string>
     <string name="lodgings_disable">Cazare dezactivată</string>
     <string name="lodgings_enable">Cazare activată</string>
     <string name="lte_band_sel_setting">lista benzilor</string>
@@ -1133,6 +1134,7 @@ Se va utiliza rețeaua preferată."</string>
     <string name="open_miui">Deschideţi</string>
     <string name="opened_dual_4g_confirm_prompt">Se pare că aveți o cartelă care funcționează doar în modul 4G. Modul 4G Dual a fost activat în mod automat.</string>
     <string name="opened_dual_4g_confirm_prompt_with_sim">Cartela SIM %1$s suportă doar modul 4G. Pentru a vă asigura că aceasta funcționează în mod normal, modul 4G Dual a fost activat.</string>
+    <string name="operator">Operator</string>
     <string name="optional_summary">&lt;Opţional&gt;</string>
     <string name="ota_activate">Activaţi</string>
     <string name="ota_call_end">Înapoi</string>
@@ -1498,6 +1500,7 @@ Cartela SIM va fi blocată după o altă încercare greşită."</string>
     <string name="sip_system_decide">Automat</string>
     <string name="smart_divert_summary">Setări CFNRc</string>
     <string name="smart_divert_title">Redirecționare inteligentă</string>
+    <string name="smsc_dialog_message">"Asigurați-vă că numărul introdus este corect. Altfel, nu veți putea trimite sau primi SMS-uri. Contactați operatorul dvs. pentru a confirma numărul SMSC."</string>
     <string name="sports_news_settings">Știri din sport</string>
     <string name="srvcc_message">Apelul vocal 4G este retrogradat la apel vocal 2G/3G, deoarece rețeaua 4G nu este disponibilă.</string>
     <string name="srvcc_video_message">Apelul video este retrogradat la apel vocal 2G/3G, deoarece rețeaua 4G nu este disponibilă.</string>

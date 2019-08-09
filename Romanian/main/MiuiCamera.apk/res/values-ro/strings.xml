@@ -561,6 +561,7 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="pref_camera_show_gender_age_title">Vârstă și sex</string>
     <string name="pref_camera_snap_enable_title">Mod captură instantanee</string>
     <string name="pref_camera_snap_entry_off">Oprit</string>
+    <string name="pref_camera_snap_entry_summary">Atingeți și mențineți apăsat butonul de scădere Volum când ecranul este blocat pentru a face o fotografie</string>
     <string name="pref_camera_snap_entry_take_movie">Mod captură rapidă(videoclip).</string>
     <string name="pref_camera_snap_entry_take_picture">Mod captură rapidă(fotografie).</string>
     <string name="pref_camera_snap_label_take_movie">Videoclip</string>

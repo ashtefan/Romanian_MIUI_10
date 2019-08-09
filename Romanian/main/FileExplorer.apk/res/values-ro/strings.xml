@@ -247,6 +247,8 @@
     <string name="group_title_extra_new">Nou</string>
     <string name="handsome_boy">Masculin</string>
     <string name="has_installed">Instalată</string>
+    <string name="hint_switch_to_grid_mode">S-a comutat la vederea tip grilă</string>
+    <string name="hint_switch_to_list_mode">S-a comutat la vederea tip listă</string>
     <string name="home_action_up">Înapoi</string>
     <string name="homepage_tab_category">Categorii</string>
     <string name="homepage_tab_file_view_phone">Stocare</string>
