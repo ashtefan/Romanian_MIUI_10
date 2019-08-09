@@ -113,7 +113,7 @@ Acum vă puteți conecta la contul dvs. Mi utilizând %s."</string>
     <string name="change_email_address">Schimbaţi adresa de e-mail</string>
     <string name="change_password">Schimbați parola</string>
     <string name="change_phone_number">Schimbaţi numărul de telefon</string>
-    <string name="cloud_service">Mi Cloud</string>
+    <string name="cloud_service">Xiaomi Cloud</string>
     <string name="collect_diagnosis_log">Generați un raport de diagnoză</string>
     <string name="com_facebook_device_auth_instructions">Vizitați &lt;b&gt;facebook.com/device&lt;/b&gt; și introduceți codul de mai jos.</string>
     <string name="com_facebook_image_download_unknown_error">Eroare neașteptată la descărcarea unei imagini.</string>
@@ -230,7 +230,7 @@ Trimmiteți acest cod supervizorului."</string>
     <string name="input_new_pwd">Introduceți noua parolă</string>
     <string name="io_error_title">Confirmați rețeaua personală</string>
     <string name="just_a_second">Doar o secundă…</string>
-    <string name="kr_license_desc">Trebuie să acceptați Acordul Utilizatorului și Politica de Confidențialitate înainte de a utiliza serviciile Cont Mi și Mi Cloud.</string>
+    <string name="kr_license_desc">Trebuie să acceptați Acordul Utilizatorului și Politica de Confidențialitate înainte de a utiliza serviciile Cont Mi și Xiaomi Cloud.</string>
     <string name="kr_permission_contacts_desc">Pentru accesarea informațiilor despre contacte</string>
     <string name="kr_permission_desc">Permisiuni necesare</string>
     <string name="kr_permission_phone_desc">Pentru protejarea contului dvs.</string>
@@ -255,8 +255,8 @@ Trimmiteți acest cod supervizorului."</string>
     <string name="mipay_others">Altele</string>
     <string name="mipay_transit_card">Cartele de transport</string>
     <string name="multi_user_not_show_sync_activity_message_1">"Se pare că utilizați contul Mi din spațiul principal."</string>
-    <string name="multi_user_not_show_sync_activity_message_2">"În acest caz, toate datele vor fi sincronizate cu cele din spațiul secundar. Pentru a evita acest lucru, nu activați sincronizarea cu Mi Cloud"</string>
-    <string name="multi_user_not_show_sync_activity_title">"Nu activați sincronizarea cu Mi Cloud"</string>
+    <string name="multi_user_not_show_sync_activity_message_2">"În acest caz, toate datele vor fi sincronizate cu cele din spațiul secundar. Pentru a evita acest lucru, nu activați sincronizarea cu Xiaomi Cloud"</string>
+    <string name="multi_user_not_show_sync_activity_title">"Nu activați sincronizarea cu Xiaomi Cloud"</string>
     <string name="my_device_title">Dispozitiv actual</string>
     <string name="need_install_wechat">Instalați mai întâi WeChat</string>
     <string name="no_network_btn">Reîmprospătaţi</string>
@@ -458,7 +458,7 @@ link-ul din e-mailul pe care vi l-am trimis."</string>
     <string name="passport_skip_login">Omiteţi conectarea</string>
     <string name="passport_skip_register">Omiteţi conectarea</string>
     <string name="passport_skip_setup_account_msg">Puteți configura un cont Mi mai târziu în Setări.</string>
-    <string name="passport_skip_setup_account_title">"Nu utilizați Mi Cloud?"</string>
+    <string name="passport_skip_setup_account_title">"Nu utilizați Xiaomi Cloud?"</string>
     <string name="passport_sms_send_success">Trimis</string>
     <string name="passport_sms_verification_code_login">Autentificare prin cod SMS</string>
     <string name="passport_sms_verification_code_login_or_register">Autentificați-vă sau creați un cont utilizând SMS-urile</string>
@@ -535,7 +535,7 @@ link-ul din e-mailul pe care vi l-am trimis."</string>
     <string name="search_menu_title">Căutați</string>
     <string name="search_mi_account">Contul Mi</string>
     <string name="search_mi_account_desc">Contul Mi</string>
-    <string name="search_mi_account_key_words">Mi Cloud,Setare cont,Informații Plăți Mi,Deconectare</string>
+    <string name="search_mi_account_key_words">Xiaomi Cloud,Setări cont,Informații Plăți Mi,Deconectare</string>
     <string name="search_mi_account_path">Setări/Contul Mi</string>
     <string name="search_user_detail">Informaţii personale</string>
     <string name="search_user_detail_bottom_key_words">Modificare venit, Modificare nivel educație, Modificare locație, Modificare regiune</string>
