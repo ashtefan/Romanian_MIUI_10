@@ -271,9 +271,9 @@
     <string name="wifi_details">Wi-Fi:</string>
     <string name="wifi_exist_fail">Hotspotul Wi-Fi \"%1$s\" există deja. Ștergeți-l și încercați din nou.</string>
     <string name="wifi_open_fail">"Nu se poate activa Wi-Fi-ul"</string>
-    <string name="wifi_psd_toolong">Parola este prea lungă; vă rugăm să o introduceți manual</string>
+    <string name="wifi_psd_toolong">Parola este prea lungă. Introduceți-o manual.</string>
     <string name="wifi_pwd">Parola:</string>
     <string name="wifi_security">Securitate:</string>
     <string name="wifi_ssid">SSID:</string>
-    <string name="wx_not_installed_toast">Această caracteristică trebuie să deschidă WeChat; vă rugăm să instalați WeChat</string>
+    <string name="wx_not_installed_toast">Această caracteristică trebuie să utilizeze WeChat. Instalați WeChat mai întâi.</string>
 </resources>
