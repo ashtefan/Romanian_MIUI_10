@@ -399,6 +399,7 @@ Nu veți pierde datele aplicațiilor."</string>
     <string name="background_restrict_app_dialog_message">Restricționarea accesului la rețea în fundal pentru această aplicație poate împiedica funcționarea corectă a acesteia, primirea mesajelor, descărcarea conținutului, etc. Restricționați oricum?</string>
     <string name="background_traffic">În fundal: %s</string>
     <string name="backsound_set_hint">Setați mesajul pentru perioada cât sunteți plecat ca %s?</string>
+    <string name="battery_and_property">Acumulator și performanță</string>
     <string name="battery_capacity_title">Capacitatea acumulatorului</string>
     <string name="battery_charge_estimating">Se calculează</string>
     <string name="battery_charge_full">Complet încărcat</string>
@@ -1638,7 +1639,7 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="pc_search_keywords_battery_use">Utilizarea acumulatorului</string>
     <string name="pc_search_keywords_capacity">Capacitatea acumulatorului</string>
     <string name="pc_search_keywords_property">Performanță</string>
-    <string name="pc_settings_title">Setări optimizare acumulator</string>
+    <string name="pc_settings_title">Setări acumulator și performanță</string>
     <string name="pc_statistics_battery_last_hour_minute">%1$dh și %2$dm rămase</string>
     <string name="pc_statistics_battery_use_hour_minute">%1$dh și %2$dm de la ultima încărcare</string>
     <string name="pc_statistics_battery_use_summary">%s de la ultima încărcare</string>
@@ -1719,7 +1720,7 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="power_center_super_save_title_text">Ultra economisire acumulator</string>
     <string name="power_center_time_to_boot">Ora de pornire</string>
     <string name="power_center_time_to_shutdown">Ora de oprire</string>
-    <string name="power_center_title">Optimizare acumulator</string>
+    <string name="power_center_title">Acumulator și performanță</string>
     <string name="power_consume_hardware_total_format">Hardware: %s</string>
     <string name="power_consume_other">Alte aplicaţii</string>
     <string name="power_consume_rank_hardware">Hardware</string>
@@ -1771,8 +1772,16 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="power_setting_background_app_save_summary">Limitați activitatea în fundal a aplicațiilor fără a afecta funcționalitatea</string>
     <string name="power_setting_background_app_save_title">Economisire acumulator în fundal</string>
     <string name="power_setting_category_other">Setări adiționale</string>
+    <string name="power_setting_config_scenario_policies_title">Scenarii</string>
+    <string name="power_setting_features">Funcții speciale</string>
+    <string name="power_setting_important_warning">Atenție</string>
     <string name="power_setting_power_save_summary_text">Optimizați setările de sistem pentru a economisi acumulatorul</string>
+    <string name="power_setting_scenario_policies_summary">Identificați diverse scenarii pentru a comuta modurile de economisire a acumulatorului în mod automat</string>
     <string name="power_setting_super_save_summary_text">Restricționați majoritatea funcțiilor de sistem pentru a economisi acumulatorul</string>
+    <string name="power_setting_warm_configure">Controlul temperaturii</string>
+    <string name="power_setting_warm_performance_tip">Scenariile care presupun consum crescut al energiei vor crește temperatura telefonului peste limita implicită a modului de control al temperaturii.</string>
+    <string name="power_setting_wireless_reverse_charging_summary">Încărcați dispozitivele compatibile wireless</string>
+    <string name="power_setting_wireless_reverse_charging_title">Încărcare wireless inversă</string>
     <string name="power_settings_category_title">Indicator energie acumulator</string>
     <string name="power_settings_lock_screen_saver_title">Setări pentru blocarea ecranului</string>
     <string name="power_settings_number">Procent</string>

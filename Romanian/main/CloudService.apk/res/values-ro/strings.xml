@@ -467,10 +467,12 @@ Această caracteristică criptează și trimite ID-ul dispozitivului dvs. pe ser
     <string name="password">Introduceţi parola dvs.</string>
     <string name="phone_number_may_required_dspt_provision">"Acest serviciu poate solicita numărul dvs. de telefon. "</string>
     <string name="phone_number_required_dspt_provision">"Acest serviciu solicită numărul dvs. de telefon. "</string>
-    <string name="photo">Fotografii</string>
+    <string name="pre_privacy_policy">Politica de Confidențialitate</string>
+    <string name="pre_user_agreement">Acordul utilizatorului</string>
     <string name="pref_summary_sync_display_photo_on_wifi_only">Sincronizați fotografiile contactelor doar atunci când sunteți conectat la o rețea Wi-Fi</string>
     <string name="pref_title_sync_contacts_title">Sincronizare contacte</string>
     <string name="pref_title_sync_display_photo_on_wifi_only">Se utilizează doar Wi-Fi pentru sincronizarea fotografiilor</string>
+    <string name="privacy_and_agreement">Confidențialitate și Acord</string>
     <string name="privacy_policy">Politica de confidențialitate</string>
     <string name="provision_sync_items_loading">Se pregătește sincronizarea elementelor</string>
     <string name="reading_status">Încărcare stare…</string>
@@ -535,6 +537,8 @@ Această caracteristică criptează și trimite ID-ul dispozitivului dvs. pe ser
     <string name="sync_item_sms_summary">Sincronizaţi mesajele expediate şi recepţionate de pe aceste telefon</string>
     <string name="sync_item_sms_title">Sincronizare mesaje</string>
     <string name="sync_item_title">Sincronizează datele aplicațiilor</string>
+    <string name="sync_normal_summary">"Unele elemente din lista de mai jos nu s-au putut sincroniza"</string>
+    <string name="sync_normal_title">"Nu s-a putut finaliza sincronizarea"</string>
     <string name="sync_off">Dezactivat</string>
     <string name="sync_on">Activat</string>
     <string name="sync_setting_title">Setări pentru sincronizare</string>
