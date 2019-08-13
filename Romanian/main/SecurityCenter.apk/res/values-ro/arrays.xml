@@ -100,4 +100,12 @@
         <item>Zilele săptămânii</item>
         <item>Personalizat</item>
     </string-array>
+    <string-array name="pc_settings_thermal_entries">
+        <item>Implicit</item>
+        <item>Cu prioritate pentru performanță</item>
+    </string-array>
+    <string-array name="pc_settings_thermal_summaries">
+        <item>Se utilizează modul implicit de control al temperaturii</item>
+        <item>Se prioritizează performanța</item>
+    </string-array>
 </resources>
