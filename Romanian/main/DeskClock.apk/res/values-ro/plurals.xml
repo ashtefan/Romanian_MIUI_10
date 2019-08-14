@@ -36,9 +36,17 @@
         <item quantity="other">S-a modificat intervalul de amânare la %d minute</item>
         <item quantity="one">S-a modificat intervalul de amânare la %d minut</item>
     </plurals>
+    <plurals name="snooze_duration_count">
+        <item quantity="other">Declanșată de %1$s ori</item>
+        <item quantity="one">Declanșată %1$s dată</item>
+    </plurals>
     <plurals name="snooze_duration_desc">
         <item quantity="other">La fiecare %1$s min, s-a declanșat de %2$s ori</item>
         <item quantity="one">La fiecare %1$s min, s-a declanșat %2$s dată</item>
+    </plurals>
+    <plurals name="snooze_duration_min">
+        <item quantity="other">La fiecare %1$s min</item>
+        <item quantity="one">La fiecare %1$s min</item>
     </plurals>
     <plurals name="snooze_duration_summary">
         <item quantity="other">Alarma se va opri de %2$s ori (câte %1$s min. fiecare)</item>
