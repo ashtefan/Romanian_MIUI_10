@@ -57,8 +57,8 @@
     <string name="enable_midrop">Activați</string>
     <string name="fc_dialog_body">Trimiteţi un raport de probleme către Mi pentru analiză? Acest raport poate să conțină informații de identificare personală. Raportul dvs. va fi folosit pentru a ajuta la rezolvarea acestei probleme și nu va fi niciodată partajat în scop comercial.</string>
     <string name="fc_dialog_jump_to_preview">Vizualizare sumar</string>
-    <string name="file_cannot_print">"Nu se poate proiecta acest element."</string>
-    <string name="file_cannot_screen_throw">"Nu se poate tipări acest element."</string>
+    <string name="file_cannot_print">"Nu se poate tipări acest element."</string>
+    <string name="file_cannot_screen_throw">"Nu se poate proiecta acest element."</string>
     <string name="file_sending">Se transferă fișierele…</string>
     <string name="first_back_long_press_message">Pentru a personaliza apăsarea și menținerea apăsată a butoanelor de navigare accesaţi Setări > Setări adiționale > Butoane</string>
     <string name="fm_record_smaple_prefix_miui">Înregistrare FM</string>
@@ -252,12 +252,12 @@
     <string name="turn_off">Opriți</string>
     <string name="twohours">1 oră</string>
     <string name="unknown_caller">Număr necunoscut</string>
-    <string name="unrecognized_manufacture">Dispozitiv necunoscut</string>
+    <string name="unrecognized_manufacture">Necunoscut</string>
     <string name="unrecognized_model">Dispozitiv necunoscut</string>
     <string name="user_switching_dialog_switch_into_kid_space">Se comută la spațiul de lucru al Copilului…</string>
     <string name="user_switching_dialog_switch_out_kid_space">Se părăsește spațiul de lucru al Copilului…</string>
     <string name="user_switching_dialog_text">Comutare…</string>
-    <string name="vivo">Vivo</string>
+    <string name="vivo">vivo</string>
     <string name="voice_begin">Ce anume căutați?</string>
     <string name="voice_button_action_down">Eliberați pentru a căuta</string>
     <string name="voice_button_action_up">Atingeți pentru a vorbi</string>
@@ -285,7 +285,7 @@
     <string name="xiaomi_mix_2">Mi MIX 2</string>
     <string name="xiaomi_mix_2s">Mi MIX 2S</string>
     <string name="xiaomi_mix_3">Mi MIX 3</string>
-    <string name="xiaomi_mix_3_5g">Mi MIX3 5G</string>
+    <string name="xiaomi_mix_3_5g">Mi MIX 3 5G</string>
     <string name="xiaomi_note_3">Mi Note 3</string>
     <string name="xiaomi_poco_f1">POCO F1</string>
     <string name="xspace_head">Aplicație clonată</string>
