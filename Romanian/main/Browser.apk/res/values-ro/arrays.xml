@@ -17,11 +17,17 @@
         <item>Pagina de pornire implicită</item>
         <item>Personalizată</item>
     </string-array>
+    <string-array name="pref_homepage_choices_with_simplehome">
+        <item>Pagina de pornire implicită</item>
+        <item>Pagină de pornire goală</item>
+        <item>Personalizată</item>
+    </string-array>
     <string-array name="pref_nav_mode_summary">
         <item>Telefon</item>
         <item>Tabletă</item>
     </string-array>
     <string-array name="pref_navscreen_layoutstate_choices">
+        <item>Vizualizare tip dale</item>
         <item>Vizualizare verticală</item>
         <item>Vizualizare orizontală</item>
     </string-array>

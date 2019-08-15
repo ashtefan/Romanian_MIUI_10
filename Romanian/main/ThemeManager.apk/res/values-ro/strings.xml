@@ -83,6 +83,11 @@ Aplicația Teme va detecta aplicațiile pe care le utilizați și va afișa imag
     <string name="audio_duration_minutes_format">%1$d minute</string>
     <string name="audio_duration_seconds_format">%1$d secunde</string>
     <string name="audition_ringtone">Redați</string>
+    <string name="author_attention">Urmăriți</string>
+    <string name="author_attention_success">Urmărit cu succes</string>
+    <string name="author_dialog_message">Anulați urmărirea acestui cont acum?</string>
+    <string name="author_dynamic">Stare</string>
+    <string name="author_dynamic_no_resource">"Nu s-au găsit rezultate"</string>
     <string name="automatically_update_using_theme_tips">Actualizați în mod automat data viitoare</string>
     <string name="backup_theme_dialog_message">Creaţi o copie de rezervă a temei actuale?</string>
     <string name="backup_theme_dialog_ok">Copie de rezervă</string>
@@ -132,6 +137,9 @@ Aplicația Teme va detecta aplicațiile pe care le utilizați și va afișa imag
     <string name="description_version_szie">Versiune: %1$s Dimensiune: %2$s</string>
     <string name="desktop_effects">Efecte Ecran principal</string>
     <string name="desktop_wallpaper">Ecran principal</string>
+    <string name="detail_author_attention_head">Urmăriți pe unii dintre cei mai de seamă designeri</string>
+    <string name="detail_author_fans">"Urmăritori: "</string>
+    <string name="detail_author_works">"Elemente: "</string>
     <string name="detail_recommend_title">V-ar putea place</string>
     <string name="dev_options">Opțiuni dezvoltator</string>
     <string name="dev_options_summary">Resurse Web</string>
@@ -373,6 +381,7 @@ Pentru a dezactiva această funcție, mergeți la Setări &gt; Sunete și vibra�
     <string name="resource_alarm_default">Alarmă</string>
     <string name="resource_app_name">Vedeți resursele</string>
     <string name="resource_apply">Aplicaţi</string>
+    <string name="resource_apply_trial">Aplicați</string>
     <string name="resource_back">Înapoi</string>
     <string name="resource_buy">Cumpăraţi</string>
     <string name="resource_can_not_selected">%1$s nu poate fi selectat</string>
@@ -444,6 +453,7 @@ Pentru a dezactiva această funcție, mergeți la Setări &gt; Sunete și vibra�
     <string name="resource_download">Descărcaţi</string>
     <string name="resource_download_notification_title_many">%1$s teme descărcate</string>
     <string name="resource_download_notification_title_one">Temă descărcată</string>
+    <string name="resource_download_trial">Încercați</string>
     <string name="resource_downloaded_title">Resurse descărcate</string>
     <string name="resource_downloading">Descărcare…</string>
     <string name="resource_exchange">Valorificaţi</string>
@@ -785,6 +795,8 @@ Pentru a dezactiva această funcție, mergeți la Setări &gt; Sunete și vibra�
     <string name="wallpaper_loop_title">Diapozitiv cu imagini de fundal</string>
     <string name="wallpaper_loop_title_desk_wallpaper">Diapozitiv cu imagini de fundal pentru Ecranul principal</string>
     <string name="wallpaper_loop_title_lock_walpaper">Diapozitiv cu imagini de fundal pentru Blocarea ecranului</string>
+    <string name="wallpaper_no_favorite">Niciun element aici deocamdată.</string>
+    <string name="wallpaper_no_record">Niciun element aici deocamdată.</string>
     <string name="wallpaper_online">Imagini de fundal online</string>
     <string name="wallpaper_online_no_more">"Asta e tot pentru acum"</string>
     <string name="wallpaper_online_tip">Conectați-vă la rețea pentru a vedea mai multe elemente</string>

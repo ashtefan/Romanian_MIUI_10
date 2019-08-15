@@ -147,7 +147,7 @@ Dacă veţi schimba cartela SIM, un alt SMS va fi trimis automat pentru a reacti
     <string name="license_host_unreachable">Nu se poate conecta la rețea. Pentru a vedea aceste informații acum, mergeţi la %s.</string>
     <string name="loading">Doar o secundă…</string>
     <string name="loading_hint">Încărcare</string>
-    <string name="master_alert_notif_content">datele nu s-au sincronizat</string>
+    <string name="master_alert_notif_content">Faceți în mod regulat copii de rezervă pentru a nu pierde datele importante</string>
     <string name="master_alert_notif_dspt_add">Elemente care așteaptã sincronizarea: %s</string>
     <string name="master_alert_notif_dspt_no">Sincronizat</string>
     <string name="master_alert_notif_title">Activați Xiaomi Cloud</string>
@@ -217,7 +217,8 @@ la contul dvs. Mi pentru a reactiva Xiaomi Cloud."</string>
     <string name="micloud_detail_fail">"Nu s-a putut sincroniza"</string>
     <string name="micloud_detail_not_syncable">"Nu se poate sincroniza"</string>
     <string name="micloud_detail_query_error">"Nu s-au putut obține informații despre progresul sincronizării"</string>
-    <string name="micloud_dspt">Utilizaţi Xiaomi Cloud pentru a sincroniza datele, pentru a localiza dispozitivul,</string>
+    <string name="micloud_dspt">"Sincronizați-vă contactele, mesajele, istoricul de apelare și alte elemente între toate dispozitivele.
+Localizați dispozitivul în caz că îl pierdeți."</string>
     <string name="micloud_dspt_provision">Utilizaţi Xiaomi Cloud pentru a sincroniza datele, localiza dispozitivul și pentru a partaja lucruri prietenilor.</string>
     <string name="micloud_dspt_provision_xms">Utilizaţi Xiaomi Cloud pentru a sincroniza datele.</string>
     <string name="micloud_find_device_close_alert_content">"Dacă dezactivați Localizarea dispozitivului, nu veți mai putea localiza telefonul utilizând această funcție. Dacă telefonul dvs. suportă funcționalitatea NFC, toate cardurile bancare și cartelele vor fi șterse din Mi Pay."</string>
@@ -371,7 +372,6 @@ Pentru a rezolva acest lucru, fie puteți şterge unele fișierele vechi, fie pu
     <string name="micloud_request_permission_content">Xiaomi Cloud necesită acordarea unor permisiuni pentru sincronizarea datelor. Permiteți Xiaomi Cloud să acceseze Calendarul, Contactele, Contul Mi, starea cartelei SIM, istoricul apelurilor și al mesajelor.</string>
     <string name="micloud_request_permission_title">Xiaomi Cloud necesită acordarea unor permisiuni</string>
     <string name="micloud_request_sync_too_frequent">Prea multe solicitări. Așteptați un minut sau două și încercați din nou.</string>
-    <string name="micloud_sec_dspt">și pentru a partaja lucruri prietenilor.</string>
     <string name="micloud_setting_antispam_summary">Excepții și numere de telefon blocate</string>
     <string name="micloud_setting_browser_summary">Marcaje, istoric şi file</string>
     <string name="micloud_setting_contact_summary">Contacte şi fotografii de profil</string>

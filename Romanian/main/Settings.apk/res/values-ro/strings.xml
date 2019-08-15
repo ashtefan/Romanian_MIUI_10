@@ -3108,6 +3108,8 @@ Sunt alți utilizatori pe acest dispozitiv.
     <string name="miui_lab_ai_cloud_closed">"Preîncărcarea AI nu este încă disponibilă."</string>
     <string name="miui_lab_ai_preload_desc">Preîncărcarea AI crește viteza de lansare a aplicațiilor</string>
     <string name="miui_lab_ai_preload_title">Preîncărcare AI</string>
+  <string name="miui_lab_aiasst_call_screen_desc">Conectare După Sfaturi</string>
+  <string name="miui_lab_aiasst_call_screen_title">Apel Sfaturi</string>
     <string name="miui_lab_drive_mode_desc">Utilizați controlul vocal și ascultați mesajele WeChat</string>
     <string name="miui_lab_drive_mode_title">Mod În Mașină</string>
     <string name="miui_lab_feature_applied">Aplicat</string>

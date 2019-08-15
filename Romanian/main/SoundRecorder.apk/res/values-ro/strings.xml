@@ -2,7 +2,7 @@
 <resources>
     <string name="alert_message_clear_records">Ștergeți înregistrările selectate?</string>
     <string name="alert_message_delete_local_record">Ștergeți această înregistrare?</string>
-    <string name="alert_message_delete_record">Dacă ștergeți înregistrarea de pe telefon, aceasta va fi ștearsă și din Mi Cloud. Ştergeți înregistrările selectate oricum?</string>
+    <string name="alert_message_delete_record">Dacă ștergeți înregistrarea de pe telefon, aceasta va fi ștearsă și din Xiaomi Cloud. Ştergeți înregistrările selectate oricum?</string>
     <string name="alert_message_delete_record_title">Ştergeţi înregistrarea?</string>
     <string name="app_name">Înregistrare</string>
     <string name="back">Înapoi</string>
@@ -14,12 +14,12 @@
     <string name="call_record_list_group_unconnected">Neconectate</string>
     <string name="clear_records">Ștergeți înregistrările sincronizate</string>
     <string name="cloud_record_open">Sincronizare înregistrări</string>
-    <string name="cloud_record_tip">Sincronizare înregistrări cu Mi Cloud.</string>
-    <string name="cloud_service_state_open_reminder">Activați sincronizarea cu Mi Cloud pentru a sincroniza înregistrările.</string>
+    <string name="cloud_record_tip">Sincronizare înregistrări cu Xiaomi Cloud.</string>
+    <string name="cloud_service_state_open_reminder">Activați sincronizarea cu Xiaomi Cloud pentru a sincroniza înregistrările.</string>
     <string name="cloud_status_full_dialog_cancel">Nu acum</string>
     <string name="cloud_status_full_dialog_msg">Stocarea în cloud este plină, înregistrările nu se pot sincroniza. Actualizaţi contul dvs. pentru a obține mai mult spațiu de stocare.</string>
     <string name="cloud_status_full_dialog_ok">Actualizaţi</string>
-    <string name="cloud_status_full_dialog_title">Stocarea Mi Cloud este plină</string>
+    <string name="cloud_status_full_dialog_title">Stocarea Xiaomi Cloud este plină</string>
     <string name="data_connection_body">Utilizarea conexiunii de date mobile pentru descărcarea acestui fișier va crește utilizarea datelor. Dacă treceţi de limita de utilizare a datelor din planul dvs., operatorul ar putea percepe taxe suplimentare.</string>
     <string name="data_connection_button_text">OK</string>
     <string name="data_connection_title">Avertizare utilizare date</string>
@@ -28,7 +28,7 @@
     <string name="deleting_message">Ştergere…</string>
     <string name="details">Detalii</string>
     <string name="dialog_content_storage_full">"Înregistrarea a fost oprită deoarece nu există spațiu de stocare suficient în memoria telefonului."</string>
-    <string name="dialog_privacy_revoke_tips">"După ce veți revoca autorizarea, aplicația nu va mai colecta date, iar toate datele vor fi șterse de pe servere. Acest lucru poate face aplicația virtual inutilizabilă. Revocați autorizarea oricum? Pentru a vă asigura securitatea contului, conectați-vă la to i.mi.com înainte de a revoca autorizarea pentru serviciile Mi Cloud."</string>
+    <string name="dialog_privacy_revoke_tips">"După ce veți revoca autorizarea, aplicația nu va mai colecta date, iar toate datele vor fi șterse de pe servere. Acest lucru poate face aplicația virtual inutilizabilă. Revocați autorizarea oricum? Pentru a vă asigura securitatea contului, conectați-vă la to i.mi.com înainte de a revoca autorizarea pentru serviciile Xiaomi Cloud."</string>
     <string name="dialog_title_storage_full">Spaţiu insuficient</string>
     <string name="download">Descărcați</string>
     <string name="duration_format_hour">%s h</string>
@@ -180,7 +180,7 @@
     <string name="recognize_extra_price_desp">(Ofertă exclusivă pentru utilizatorii Mi)</string>
     <string name="record">Înregistrați</string>
     <string name="record_back_pressed_hint">Pentru a opri înregistrarea, atingeţi Înapoi din nou</string>
-    <string name="record_download">Descărcaţi din Mi Cloud</string>
+    <string name="record_download">Descărcaţi din Xiaomi Cloud</string>
     <string name="record_download_complete">Descărcat</string>
     <string name="record_download_msg">Înregistrările pot fi redate numai după ce vor fi descărcate.</string>
     <string name="record_download_msg_reload">Această înregistrare nu există</string>

@@ -559,6 +559,13 @@ link-ul din e-mailul pe care vi l-am trimis."</string>
     <string name="temporary_not_available">"Această funcție nu este disponibilă încă."</string>
     <string name="turn_off_find_device_failed_title">"Nu se poate dezactiva Localizarea dispozitivului"</string>
     <string name="turning_off_find_device">Se dezactivează Localizarea dispozitivului…</string>
+    <string name="two_factor_auth">Autentificare în doi pași</string>
+    <string name="two_factor_auth_click_confirm">Confirmați pentru a vă conecta</string>
+    <string name="two_factor_auth_click_confirm_summary">"Veți vedea o notificare pe alte dispozitive Mi conectate. Atingeți notificarea pentru a permite conectarea pe un dispozitiv nou."</string>
+    <string name="two_factor_auth_method">Metoda de autentificare</string>
+    <string name="two_factor_auth_need_code">Introduceți codul</string>
+    <string name="two_factor_auth_need_code_summary">"Veți vedea un cod pe alte dispozitive Mi conectate. Introduceți acest cod pe un dispozitiv nou pentru a vă conecta."</string>
+    <string name="two_factor_auth_summary">"Când încercați să vă conectați pe un dispozitiv nou sau dintr-o locație nouă, veți fi notificat despre acest lucru pe alte dispozitive conectate. Va trebui să confirmați dacă aceste încercări de conectare sunt autorizate de dvs."</string>
     <string name="unbind_sns_description">"După ce vă veți deconecta de la acest cont, nu veți putea utiliza %s pentru a vă accesa contul dvs. Mi."</string>
     <string name="unlock_help_notice">"Ajutor:
 1. Dacă v-ați uitat parola, accesați id.mi.com pentru a o reseta.
