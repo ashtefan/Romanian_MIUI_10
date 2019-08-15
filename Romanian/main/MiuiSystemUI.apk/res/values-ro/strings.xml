@@ -539,6 +539,7 @@ Dacă reactivaţi datele, puteţi fi taxat de către operator."</string>
     <string name="description_direction_left">Glisaţi în stânga pt. %s</string>
     <string name="description_direction_up">Glisaţi în sus pt. %s</string>
     <string name="description_image_button_answer">Răspundeți</string>
+    <string name="description_image_button_bubble_answer">Difuzor</string>
     <string name="description_image_button_reject">Respingeți</string>
     <string name="description_image_icon_sim_card">SIM %1$d</string>
     <string name="description_target_search">Căutaţi</string>

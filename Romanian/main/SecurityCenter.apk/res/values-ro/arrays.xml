@@ -87,6 +87,16 @@
         <item>Plan de date zilnic</item>
         <item>Plan de date nelimitat</item>
     </string-array>
+    <string-array name="ew_emergency_blood_type_arrays">
+        <item>A</item>
+        <item>B</item>
+        <item>AB</item>
+        <item>O</item>
+    </string-array>
+    <string-array name="ew_emergency_organ_donation_arrays">
+        <item>Da</item>
+        <item>Nu</item>
+    </string-array>
     <string-array name="alarm_repeat_type">
         <item>O dată</item>
         <item>În fiecare zi</item>

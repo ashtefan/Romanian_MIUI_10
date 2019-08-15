@@ -8,6 +8,7 @@
     <string name="asend">Trimiteți</string>
     <string name="beep">Beep</string>
     <string name="bells">Clopoței</string>
+    <string name="birdcicada_preview">Sunete din natură 2</string>
     <string name="blues">Blues</string>
     <string name="bottle">Sticlă</string>
     <string name="breeze">Adiere</string>
@@ -113,6 +114,7 @@
     <string name="vip_login">Apăsați pentru a vă autentifica</string>
     <string name="vip_not_login">Neconectat</string>
     <string name="vip_sign">Semnătură:</string>
+    <string name="waterdrop_preview">Sunete din natură 1</string>
     <string name="yellow_page_module_sms_sent">SMS trimis</string>
     <string name="yellow_page_sms_disabled_in_privacy_mode">"Nu se pot trimite mesaje în modul Vizitator"</string>
     <string name="yellow_page_sms_send_failed">"Nu s-a putut trimite mesajul SMS"</string>

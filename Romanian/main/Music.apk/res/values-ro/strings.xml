@@ -267,6 +267,7 @@
     <string name="delete_downloads_records">Ștergeți descărcările</string>
     <string name="delete_file_as_well">Ştergeţi definitiv această melodie</string>
     <string name="delete_file_end">Ștergeți definitiv</string>
+    <string name="delete_file_error">"Nu s-a putut șterge fișierul"</string>
     <string name="delete_file_start">Ștergeți fișierele selectate</string>
     <string name="delete_the_downloaded_file">Fișierele descărcate vor fi șterse.</string>
     <string name="desc_online_personal_radio">Doar pentru dvs.</string>
@@ -302,7 +303,7 @@
     <string name="dialog_my_playlist_online_changed_merge">Păstrați</string>
     <string name="dialog_my_playlist_online_changed_message">Se pare că această listă de redare s-a modificat. O puteți înlocui cu noua versiune sau o puteți păstra pe cea veche.</string>
     <string name="dialog_my_playlist_online_changed_replace">Înlocuiți-o</string>
-    <string name="dialog_my_playlist_set_to_public">Partajați această listă de redare cu Muzica Mi</string>
+    <string name="dialog_my_playlist_set_to_public">Partajați această listă de redare cu toți utilizatorii Muzica Mi și Muzică Hungama</string>
     <string name="dialog_queued_body">Acest fișier este în coada de așteptare pentru descărcarea ulterioară.</string>
     <string name="dialog_renew_failure">Ne pare rău; acțiunea a eșuat</string>
     <string name="dialog_renew_free_end">Perioada de încercare a expirat. Vă înregistrați la Hungama PRO?​</string>
@@ -451,6 +452,7 @@
     <string name="equalizer">Egalizator</string>
     <string name="error_forbidden">Sincronizarea a fost oprită din cauza unor probleme legate de contul dvs.</string>
     <string name="error_not_acceptable">Sincronizarea este oprită.</string>
+    <string name="error_not_support">Nesuportat</string>
     <string name="error_title">"Nu se poate sincroniza cu contul Mi"</string>
     <string name="error_unauthorized">Sincronizarea a fost oprită din cauza prea multor încercări de conectare.</string>
     <string name="exo_controls_fastforward_description">Repede înainte</string>
@@ -488,6 +490,8 @@
     <string name="expires">Expiră în această lună:</string>
     <string name="fail_to_fetch_payment_page_url">"Nu s-au putut obține informațiile despre plată"</string>
     <string name="fail_to_play">"Nu se poate reda melodia"</string>
+    <string name="failed_not_access_sd_card">Permiteți mai întâi accesul la cardul SD</string>
+    <string name="failed_obtain_permissions">"Nu s-au putut obține permisiunile"</string>
     <string name="fav_login_msg">Conectați-vă la contul Mi pentru a descărca melodiile</string>
     <string name="favorite_canceled">Eliminat din favorite</string>
     <string name="favorite_playlist">Favorite</string>
@@ -513,6 +517,10 @@
     <string name="filter_by_size_summary">Se ascund fişierele audio mici</string>
     <string name="filter_size_unit">%d KB</string>
     <string name="find_music">Descoperiţi melodii</string>
+    <string name="floating_view_dialog_desc">Muzica va opri redarea dacă părăsiți această pagină acum. Părăsiți pagina oricum?</string>
+    <string name="floating_view_dialog_leave">Ieșiți</string>
+    <string name="floating_view_dialog_stay">Rămâneți</string>
+    <string name="floating_view_dialog_title">Părăsiți această pagină?</string>
     <string name="follow">Urmăriți</string>
     <string name="followed">Urmărit</string>
     <string name="font_family">miui</string>
@@ -568,10 +576,13 @@
     <string name="hide_lyric">Ascundeți versurile</string>
     <string name="higher_quality_music">Muzică la calitate superioară</string>
     <string name="higher_quality_music_summary">Ascultaţi şi descărcaţi muzică la calitate superioară</string>
+    <string name="home_tab_home">Acasă</string>
     <string name="home_tab_joox">Muzică JOOX</string>
     <string name="home_tab_local">Muzica mea</string>
+    <string name="home_tab_more_music">Mai multă muzică</string>
     <string name="home_tab_online">Muzică online</string>
-    <string name="home_tab_yandex">Muzică Yandex</string>
+    <string name="home_tab_search">Căutați</string>
+    <string name="home_tab_yandex">Yandex.Music</string>
     <string name="hot_icon_in_fast_indexer">H</string>
     <string name="hungama">Hungama</string>
     <string name="hungama_batch_download_alert_summary">Doar membrii PRO pot descărca mai multe melodii. Vreți să deveniți membru PRO acum?</string>
@@ -757,7 +768,7 @@
     <string name="not_login">Neconectat</string>
     <string name="not_now">Nu acum</string>
     <string name="not_selected">Selectaţi o melodie</string>
-    <string name="notif_text_engine_off">Acceleratorul Xunlei este dezactivat.</string>
+    <string name="not_support_documentui">"DocumentUI nu este suportat pe acest dispozitiv"</string>
     <string name="notif_text_engine_on">Accelerare…</string>
     <string name="notif_title_file_size">%1$d în total</string>
     <string name="notif_title_single_downloading">Se descarcă %1$s</string>
@@ -973,6 +984,7 @@ Be Happy"</string>
     <string name="search_in_youtube">Căutați pe YouTube</string>
     <string name="search_instant_online_music">Online</string>
     <string name="search_menu_title">Căutați</string>
+    <string name="search_more">Mai multe</string>
     <string name="search_result_local_songs">Local</string>
     <string name="search_result_online_songs">Online</string>
     <string name="search_songs">Căutați melodii</string>
@@ -1045,8 +1057,10 @@ Be Happy"</string>
     <string name="sleep_mode_summary">Se opreşte redarea după un anumit timp</string>
     <string name="sleep_mode_title">Temporizator</string>
     <string name="sliding_pro_center">Centrul PRO</string>
+    <string name="song_already_in_playlist">Această melodie este deja în listă</string>
     <string name="song_exist_in_playlist">Melodia există deja în lista de redare</string>
     <string name="song_info">Detalii melodie</string>
+    <string name="song_is_added_to_playlist">Adăugată la redare</string>
     <string name="song_is_empty">Numele melodiei nu poate fi necompletat.</string>
     <string name="song_name">Melodie</string>
     <string name="song_not_find">"Această melodie nu este disponibilă."</string>
@@ -1066,6 +1080,7 @@ Be Happy"</string>
     <string name="start_update">Actualizați aplicația Muzică la cea mai recentă versiune.</string>
     <string name="stop">Stop</string>
     <string name="stop_backup">Stop</string>
+    <string name="storage_cloned_app">Stocare pentru aplicații clonate</string>
     <string name="storage_internal">Stocare internă</string>
     <string name="storage_sd_card">Card SD</string>
     <string name="storage_usb">Stocare USB</string>
@@ -1198,6 +1213,7 @@ Be Happy"</string>
 
 Atingeți %s pentru a porni descărcarea când veți fi conectat la Wi-Fi."</string>
     <string name="wifi_required_title">Ar trebui să fiți conectat la o rețea Wi-Fi pentru a descărca acest fișier</string>
+    <string name="xiaomi_privacy_policy_url">https://privacy.mi.com/all/</string>
     <string name="xiaomi_update_sdk_connect_download_manager_fail">Nu s-a putut conecta Managerul de descărcare; vă rugăm să verificați starea Managerului de descărcare din meniul de Gestionare a aplicațiilor.</string>
     <string name="xiaomi_update_sdk_dialog_message">"Vă prezentăm versiunea %1$s
 Dimensiune: %2$s"</string>

@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="detail_update_time_hour">
+        <item quantity="other">Cu %d ore în urmă</item>
+        <item quantity="one">Cu %d oră în urmă</item>
+    </plurals>
+    <plurals name="detail_update_time_minute">
+        <item quantity="other">Cu %d minute în urmă</item>
+        <item quantity="one">Cu %d minut în urmă</item>
+    </plurals>
     <plurals name="guide_used_number">
         <item quantity="other">Aplicat pe %1$d dispozitive</item>
         <item quantity="one">Aplicat pe %1$d dispozitiv</item>
@@ -43,6 +51,10 @@
     <plurals name="try_3_day">
         <item quantity="other">Încercare gratuită timp de 3 zile (%1$d elemente rămase pentru astăzi)</item>
         <item quantity="one">Încercare gratuită timp de 3 zile (%1$d element rămas pentru astăzi)</item>
+    </plurals>
+    <plurals name="wallpaper_quantity">
+        <item quantity="other">%1$d imagini</item>
+        <item quantity="one">%1$d imagine</item>
     </plurals>
     <plurals name="wallpaper_staggered_item_text">
         <item quantity="other">%1$s | %2$d imagini</item>

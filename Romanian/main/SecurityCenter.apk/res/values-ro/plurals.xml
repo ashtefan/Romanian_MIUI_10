@@ -24,6 +24,10 @@
         <item quantity="other">%d numere</item>
         <item quantity="one">%d număr</item>
     </plurals>
+    <plurals name="ew_alert_second_after">
+        <item quantity="other">În %d secunde</item>
+        <item quantity="one">În %d secundă</item>
+    </plurals>
     <plurals name="hints_traffic_enable_title">
         <item quantity="other">Nu se urmăreşte utilizarea datelor pentru %d aplicaţii</item>
         <item quantity="one">Nu se urmăreşte utilizarea datelor pentru %d aplicaţie</item>
