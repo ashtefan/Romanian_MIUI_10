@@ -1249,10 +1249,10 @@ Această caracteristică poate fi dezactivată din [Setări]"</string>
     <string name="close_optimization_message">Dispunerea textului, conturile și alte componente ale MIUI pot fi afectate după ce veți dezactiva această caracteristică.</string>
     <string name="close_optimization_option">Dezactivați</string>
     <string name="close_privacy_thumbnail_blur_title">"Previzualizările nu sunt blurate"</string>
-    <string name="cloud_backup_section_title">Copie de rezervă în cloud</string>
+    <string name="cloud_backup_section_title">Copie de rezervă în Xiaomi cloud</string>
     <string name="cloud_backup_settings_section_title">Setări copie de rezervă</string>
     <string name="cloud_restore_section_summary">Restaurați setările de sistem, dispunerea Ecranului principal și aplicațiile</string>
-    <string name="cloud_restore_section_title">Restaurați din Cloud</string>
+    <string name="cloud_restore_section_title">Restaurați din Xiaomi Cloud</string>
     <string name="cmcc_hardware_version">Versiune hardware</string>
     <string name="color_black">Negru</string>
     <string name="color_blue">Albastru</string>
@@ -2909,7 +2909,7 @@ cât cel pentru Spațiul principal"</string>
     <string name="lockscreen_magazine_title">Caruselul de imagini de fundal</string>
     <string name="lockscreen_remote_input">Dacă dispozitivul este blocat, previne tastarea de răspunsuri sau alte texte în notificări</string>
     <string name="lockscreen_settings_title">Preferințe blocare ecran</string>
-    <string name="login_account_dialog_message">Conectați-vă la contul Mi și activați sincronizarea în Cloud.</string>
+    <string name="login_account_dialog_message">Conectați-vă folosind contul Mi și activați sincronizarea în cloud.</string>
     <string name="login_account_dialog_title">Conectați-vă la contul Mi</string>
     <string name="login_account_summary">Gestionați conturile, serviciile cloud, plățile și multe altele</string>
     <string name="login_action">Conectați-vă</string>
@@ -4767,7 +4767,7 @@ Notă: Nu puteți utiliza amprenta pentru a debloca acest dispozitiv. Pentru mai
     <string name="settings_manual_activity_title">Manual</string>
     <string name="settings_manual_activity_unavailable">A apărut o problemă la încărcarea manuală.</string>
     <string name="settings_new_version_btn">Actualizați</string>
-    <string name="settings_notify_need_backup">Faceți o copie de rezervă a setărilor în Cloud pentru a le accesa după ce vă schimbați telefonul.</string>
+    <string name="settings_notify_need_backup">Faceți o copie de rezervă a setărilor în Xiaomi Cloud pentru a le accesa după ce vă schimbați telefonul.</string>
     <string name="settings_notify_new_version">Este disponibilă o actualizare. Atingeți pentru a vedea detaliile.</string>
     <string name="settings_notify_phone_recycled">Numărul dvs. de telefon a fost eliminat. Atingeți pentru a adăuga un alt număr de telefon.</string>
     <string name="settings_safetylegal_activity_loading">Se încarcă…</string>
@@ -6575,10 +6575,9 @@ puteţi utiliza, de asemenea, reţelele altor utilizatori"</string>
     <string name="write_tag">Scrieți</string>
     <string name="wrong_pin_code_pukked">Cod PIN incorect. Contactaţi operatorul pentru deblocarea dispozitivului.</string>
     <string name="xiaomi_account">Contul Mi</string>
-    <string name="xiaomi_cloud_service">Cloud</string>
-    <string name="xiaomi_cloud_service_description">Cloud-ul sincronizează contactele și fotografiile, creează copii de rezervă pentru aplicații și setări  și vă ajută să vă găsiți telefonul utilizând Localizarea telefonului.</string>
-    <string name="xiaomi_cloud_service_description_contact">contactele și</string>
-    <string name="xiaomi_cloud_service_description_without_contacts">Cloud vă sincronizează fotografiile, face copie de rezervă pentru aplicații și setări și vă ajută să vă găsiți telefonul utilizând Localizarea dispozitivului.</string>
+    <string name="xiaomi_cloud_service">Xiaomi Cloud</string>
+    <string name="xiaomi_cloud_service_description">Xiaomi Cloud sincronizează contactele și fotografiile, creează copii de rezervă pentru aplicații și setări și vă ajută să vă găsiți telefonul utilizând Localizarea telefonului.</string>
+    <string name="xiaomi_cloud_service_description_without_contacts">Xiaomi Cloud vă sincronizează fotografiile, face copie de rezervă pentru aplicații și setări și vă ajută să vă găsiți telefonul utilizând Localizarea dispozitivului.</string>
     <string name="xiaomi_cloud_service_disabled">Dezactivat</string>
     <string name="xiaomi_cloud_service_unknown">Necunoscut</string>
     <string name="xiaomi_money_service">Mi Credit</string>

@@ -241,6 +241,7 @@
     <string name="get_user_info_err">"Nu s-au putut obține informații despre această persoană"</string>
     <string name="get_verification_code_fail">"Nu s-a putut obține codul de verificare"</string>
     <string name="gigabyteShort">GB</string>
+    <string name="grid_mode">Vizualizare tip grilă</string>
     <string name="group_title">%2$s din %1$s</string>
     <string name="group_title_extra_backup">Copii de rezervă</string>
     <string name="group_title_extra_expire">Expiră în curând</string>
@@ -277,6 +278,7 @@
     <string name="like_toast_1">Asemenea videoclipuri vă vor fi recomandate mai des.</string>
     <string name="like_toast_2">Vizualizați videoclipurile pe care le-ați apreciat.</string>
     <string name="like_toast_3">Conectați-vă pentru a vizualiza videoclipurile pe care le-ați apreciat.</string>
+    <string name="list_mode">Vizualizare tip listă</string>
     <string name="load_more">Vizualizaţi mai multe</string>
     <string name="load_sticker_fail">"Nu s-a putut încărca stickerul"</string>
     <string name="loading">Încărcare…</string>
@@ -601,6 +603,7 @@
     <string name="storage_warning">Imposibil de utilizat stocarea externă</string>
     <string name="swap_tip_1">Glisați spre stânga sau spre dreapta</string>
     <string name="swap_tip_2">pentru a vedea alte videoclipuri</string>
+    <string name="switch_doc_type">Selectați formatul</string>
     <string name="sys_size_enable">" disponibil"</string>
     <string name="tab_app">Mai multe</string>
     <string name="tab_category">Categorii</string>

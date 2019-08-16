@@ -759,7 +759,7 @@ Unele comenzi trimise prin SF Express de către vânzători din afara Taobao, Tm
     <string name="locations">Locaţii frecventate</string>
     <string name="locations_preferences">Locații și preferințe frecvente</string>
     <string name="login_before_use">Trebuie să vă conectați mai întâi</string>
-    <string name="login_dialog_body">Activați sincronizarea cu Mi Cloud pentru a vă accesa datele de pe mai multe dispozitive. Vă conectați și activați acum?</string>
+    <string name="login_dialog_body">Activați sincronizarea în cloud pentru a vă accesa datele de pe mai multe dispozitive. Vă conectați și activați acum?</string>
     <string name="login_dialog_negative">Nu acum</string>
     <string name="login_dialog_positive">Conectați-vă și activați</string>
     <string name="login_dialog_title">Activați sincronizarea</string>

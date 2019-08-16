@@ -1010,6 +1010,7 @@ Apăsaţi pictograma Îmbinare de mai jos pentru a începe.</string>
     <string name="scan_bussiness_card_merge_tip">Date în conflict au fost înlocuite</string>
     <string name="scan_duplicate_message">%1$d contacte cu date identice</string>
     <string name="scan_merge">Căutare contacte dublate…</string>
+    <string name="scan_not_installed">Instalați mai întâi aplicația Scaner</string>
     <string name="scan_qrcode_card_hint1">Scanaţi codul QR de mai sus</string>
     <string name="scan_qrcode_card_hint2" />
     <string name="scanning_sdcard_failed_message">Motivul: „%s”</string>
