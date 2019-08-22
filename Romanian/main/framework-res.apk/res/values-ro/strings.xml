@@ -1088,7 +1088,7 @@ Contactaţi furnizorul de servicii pentru a obţine o altă cartelă SIM."</stri
      <string name="permgroupdesc_phone">efectueze și să gestioneze apelurile</string>
      <string name="permgroupdesc_sensors">acceseze date despre semnele dvs. vitale de la senzori</string>
      <string name="permgroupdesc_sms">trimită și să citească SMS-uri</string>
-     <string name="permgroupdesc_storage">acceseze cardul SD</string>
+     <string name="permgroupdesc_storage">accesare card SD</string>
      <string name="permgrouplab_calendar">Calendar</string>
      <string name="permgrouplab_camera">Cameră foto</string>
      <string name="permgrouplab_contacts">Contacte</string>
@@ -1175,7 +1175,7 @@ pentru contul %s."</string>
      <string name="permlab_readInstallSessions">citirea sesiunilor de instalare</string>
      <string name="permlab_readNetworkUsageHistory">citirea utilizării statistice a reţelei</string>
     <string name="permlab_readPhoneNumbers">citire numere de telefon</string>
-     <string name="permlab_readPhoneState">citire stare şi identitate telefon</string>
+     <string name="permlab_readPhoneState">citească starea şi identitatea telefonului</string>
      <string name="permlab_readSms">citire mesajele text (SMS sau MMS)</string>
      <string name="permlab_readSyncSettings">citire setări sincronizare</string>
      <string name="permlab_readSyncStats">citire statistici privind sincronizarea</string>

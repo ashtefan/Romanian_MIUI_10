@@ -644,8 +644,8 @@ Sample Rate"</string>
     <string name="dialpad_4_letters">GHI</string>
     <string name="dialpad_5_letters">JKL</string>
     <string name="dialpad_6_letters">MNO</string>
-    <string name="dialpad_7_letters">PQRS</string>
-    <string name="dialpad_8_letters">TUV</string>
+    <string name="dialpad_7_letters">PQRSȘ</string>
+    <string name="dialpad_8_letters">TȚUV</string>
     <string name="dialpad_9_letters">WXYZ</string>
     <string name="dialpad_abc">ABC</string>
     <string name="dialpad_def">DEF</string>
@@ -659,13 +659,13 @@ Sample Rate"</string>
     <string name="dialpad_one">1</string>
     <string name="dialpad_pound_letters"/>
     <string name="dialpad_pound_number">\#</string>
-    <string name="dialpad_pqrs">PQRS</string>
+    <string name="dialpad_pqrs">PQRSȘ</string>
     <string name="dialpad_seven">7</string>
     <string name="dialpad_six">6</string>
     <string name="dialpad_star_letters"/>
     <string name="dialpad_star_number">*</string>
     <string name="dialpad_three">3</string>
-    <string name="dialpad_tuv">TUV</string>
+    <string name="dialpad_tuv">TȚUV</string>
     <string name="dialpad_two">2</string>
     <string name="dialpad_wxyz">WXYZ</string>
     <string name="dialpad_zero">0</string>

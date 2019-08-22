@@ -54,6 +54,7 @@ Ultima copie de rezervă a fost creată la %2$s"</string>
     <string name="cloud_storage_already_used">Ocupat: %1$s/%2$s</string>
     <string name="cloud_storage_info_type_others">Altele</string>
     <string name="cloud_storage_manage_title">Gestionați spațiul de stocare</string>
+    <string name="cloud_storage_no_data">Niciun element în cloud încă</string>
     <string name="cloudservice_new_sync">Sincronizaţi %s cu Xiaomi Cloud</string>
     <string name="cmcc_micloud_dspt">Utilizaţi Mi Cloud pentru a sincroniza datele, pentru a localiza dispozitivul dvs. și pentru a partaja lucruri prietenilor</string>
     <string name="confirm_delete">Ștergeți</string>
@@ -465,6 +466,9 @@ Această caracteristică criptează și trimite ID-ul dispozitivului dvs. pe ser
     <string name="passed_synced_time_min">Sincronizat cu %d min în urmă</string>
     <string name="passed_synced_time_sec">Sincronizat cu %d sec în urmă</string>
     <string name="password">Introduceţi parola dvs.</string>
+    <string name="pay_info_dialog_confirm_to_pay">Plătiți %s</string>
+    <string name="pay_info_dialog_mibi_balance_prefix">Utilizați Creditele Mi rămase: %s</string>
+    <string name="pay_info_dialog_title">Selectați metoda de plată</string>
     <string name="phone_number_may_required_dspt_provision">"Acest serviciu poate solicita numărul dvs. de telefon. "</string>
     <string name="phone_number_required_dspt_provision">"Acest serviciu solicită numărul dvs. de telefon. "</string>
     <string name="pre_privacy_policy">Politica de Confidențialitate</string>
@@ -472,7 +476,7 @@ Această caracteristică criptează și trimite ID-ul dispozitivului dvs. pe ser
     <string name="pref_summary_sync_display_photo_on_wifi_only">Sincronizați fotografiile contactelor doar atunci când sunteți conectat la o rețea Wi-Fi</string>
     <string name="pref_title_sync_contacts_title">Sincronizare contacte</string>
     <string name="pref_title_sync_display_photo_on_wifi_only">Se utilizează doar Wi-Fi pentru sincronizarea fotografiilor</string>
-    <string name="privacy_and_agreement">Confidențialitate și Acord</string>
+    <string name="privacy_and_agreement">Termeni și Condiții</string>
     <string name="privacy_policy">Politica de confidențialitate</string>
     <string name="provision_sync_items_loading">Se pregătește sincronizarea elementelor</string>
     <string name="reading_status">Încărcare stare…</string>

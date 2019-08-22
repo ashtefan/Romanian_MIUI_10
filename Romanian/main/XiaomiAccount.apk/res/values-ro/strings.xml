@@ -189,6 +189,7 @@ Acum vă puteți conecta la contul dvs. Mi utilizând %s."</string>
 ID:%s
 Trimmiteți acest cod supervizorului."</string>
     <string name="empty_device_list_notice">Niciun dispozitiv</string>
+    <string name="ep_unsupported">Telefonul dvs. nu suportă conectarea la contul Xiaomi</string>
     <string name="error_dup_binded_email">Această adresă de e-mail este deja asociată cu un alt cont Mi.</string>
     <string name="error_invalid_bind_address">Adresa de e-mail introdusă este incorectă.</string>
     <string name="exceed_binded_phone_times_notice">Acest număr de telefon este asociat deja cu un alt cont Mi.</string>

@@ -33,6 +33,7 @@
     <string name="app_name">Extensie serviciu de sistem</string>
     <string name="app_select_title">Adăugați aplicații utilizate frecvent</string>
     <string name="cancel_button">Renunță</string>
+    <string name="cta_main_purpose">Bine ați venit la Jocuri Turbo!</string>
     <string name="dialog_market_score_cancel">Renunțați</string>
     <string name="dialog_market_score_dislike">Comentați</string>
     <string name="dialog_market_score_like">5 stele!</string>
@@ -72,7 +73,7 @@
     <string name="game_setting">Setări jocuri</string>
     <string name="gb_alipays_can_not_complete">"Nu s-a putut finaliza plata. Instalați pentru a continua."</string>
     <string name="gb_weixinpay_can_not_complete">"Nu s-a putut finaliza plata. Instalați pentru a continua."</string>
-    <string name="gdpr_msg">&lt;Data&gt;"Pentru a putea utiliza funcțiile de bază ale aplicației de Securitate, trebuie să acceptați ca Xiaomi să poată colecta, procesa și utiliza datele dvs. personale, inclusiv informații despre modul în care utilizați funcțiile aplicației de Securitate (de ex. statistici despre utilizarea datelor mobile, informații despre malware, dar și informații de bază despre dispozitivul dvs.) și alte tipuri de informații specificate în &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Politica noastră de Confidențialitate&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
+    <string name="gdpr_msg">&lt;Data&gt;"Pentru a putea utiliza funcțiile de bază ale aplicației de Securitate, trebuie să acceptați ca Xiaomi să poată colecta, procesa și utiliza datele dvs. personale, inclusiv informații despre modul în care utilizați funcțiile aplicației de Securitate (de ex. statistici despre utilizarea datelor mobile, informații despre malware, dar și informații de bază despre dispozitivul dvs.) și alte tipuri de informații specificate în &amp;lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&amp;gt;Politica Noastră de Confidențialitate&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
     <string name="get_sys_info">Obținere informații…</string>
     <string name="gs_anto_clean_memory_whitelist">Excepții</string>
     <string name="gs_app_back_self_start">Economisire acumulator</string>

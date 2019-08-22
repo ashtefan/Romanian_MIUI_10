@@ -399,6 +399,9 @@ Nu veți pierde datele aplicațiilor."</string>
     <string name="background_restrict_app_dialog_message">Restricționarea accesului la rețea în fundal pentru această aplicație poate împiedica funcționarea corectă a acesteia, primirea mesajelor, descărcarea conținutului, etc. Restricționați oricum?</string>
     <string name="background_traffic">În fundal: %s</string>
     <string name="backsound_set_hint">Setați mesajul pentru perioada cât sunteți plecat ca %s?</string>
+    <string name="banner_optimizemanage_summary">Eliberați memoria</string>
+    <string name="banner_red_money_assist_button">Activați</string>
+    <string name="banner_red_money_assist_summary">Deschideți plicurile roșii mai rapid</string>
     <string name="battery_and_property">Acumulator și performanță</string>
     <string name="battery_capacity_title">Capacitatea acumulatorului</string>
     <string name="battery_charge_estimating">Se calculează</string>
@@ -599,7 +602,7 @@ Nu veți pierde datele aplicațiilor."</string>
     <string name="cpu_usage_view_action_btn_text">Atingeți pentru a vizualiza</string>
     <string name="create_gamebooster_destop">Scurtătură creată pe Ecranul principal cu succes</string>
     <string name="create_shortcut">Creați o scurtătură pe Ecranul principal pentru Creșterea vitezei în jocuri</string>
-    <string name="cta_dialog_msg">&lt;Data&gt;Trebuie să acceptați&amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Politica de Confidențialitate&amp;lt;/a&amp;gt; înainte de a utiliza aplicația de Securitate. Aplicația de Securitate trebuie de asemenea să se conecteze la internet și să vă acceseze locația pentru a funcționa în mod normal și a păstra definițiile antivirus actualizate la zi. Sunteți de acord?&lt;/Data&gt;</string>
+    <string name="cta_dialog_msg">&lt;Data&gt;Trebuie să acceptați&amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Politica noastră de confidențialitate&amp;lt;/a&amp;gt; înainte de a utiliza aplicația de Securitate. Aplicația de Securitate trebuie de asemenea să se conecteze la internet și să vă acceseze locația pentru a funcționa în mod normal și a păstra definițiile antivirus actualizate la zi. Sunteți de acord?&lt;/Data&gt;</string>
     <string name="cta_dialog_negative">Ieșiți</string>
     <string name="cta_dialog_positive">De acord</string>
     <string name="cta_dialog_title">Conexiune la Internet</string>
@@ -648,7 +651,7 @@ Operatorul vă poate taxa suplimentar dacă activați din nou datele mobile."</s
     <string name="deep_clean_never_memory_clean">Niciodată</string>
     <string name="deep_power_save_item_summary_auto_brightness">Ajustați în mod automat iluminarea ecranului pentru a conserva energia acumulatorului</string>
     <string name="deep_power_save_item_summary_bluetooth">Dezactivați Bluetooth-ul pentru a conserva energia acumulatorului</string>
-    <string name="deep_power_save_item_summary_lock_screen_time">Puneți ecranul în stand-by după 30 de secunde de inactivitate pentru a conserva energia acumulatorului</string>
+    <string name="deep_power_save_item_summary_lock_screen_time">Puneți ecranul în stand-by după 15 secunde de inactivitate pentru a conserva energia acumulatorului</string>
     <string name="deep_power_save_item_title_auto_brightness">Activați iluminarea automată</string>
     <string name="deep_power_save_item_title_bluetooth">Dezactivați Bluetooth-ul</string>
     <string name="deep_power_save_item_title_lock_screen_time">Puneți ecranul în stand-by</string>
@@ -1018,6 +1021,12 @@ cardul de sănătate"</string>
     <string name="free_time_traffic_title">Introduceţi limita de date în afara orelor de vârf</string>
     <string name="free_traffic_settings">Setări utilizare date în afara orelor de vârf</string>
     <string name="function_close">Oprit</string>
+    <string name="function_gwsd_detail">"Despre această caracteristică:
+ 1. Apelurile primite prin cartela SIM de date nu vor întrerupe conexiunea de date. Conexiunea va fi întreruptă doar când preluați un apel.
+ 2. Atunci când această funcție este activată, apelantul nu va auzi sunetele de apel în așteptare. Apelurile primite vor fi încheiate dacă nu răspundeți în 6 secunde.
+ 3. Această caracteristică funcționează doar pentru cartelele SIM de date. Apelurile de pe cartela principală vor întrerupe conexiunea de date mobile.
+ 4. Această funcție este suportată doar de către China Mobile și China Unicom."</string>
+    <string name="function_gwsd_title">"Nu permiteți apelurilor primite să întrerupă datele mobile"</string>
     <string name="function_shield_auto_bright">Dezactivați iluminarea automată</string>
     <string name="function_shield_eye_shield">Dezactivați Modul Lectură</string>
     <string name="function_shield_pull_notification_bar">"Nu deschide Perdeaua de notificări"</string>
@@ -1049,7 +1058,7 @@ cardul de sănătate"</string>
     <string name="gamebooster_lowbattery_notification_summary">Încărcați acumulatorul telefonului înainte de a se închide.</string>
     <string name="gamebooster_lowbattery_notification_title">Nivelul acumulatorului este sub 5%%</string>
     <string name="gamebooster_main_activity_back">Înapoi</string>
-    <string name="gamebooster_network_dialog_message">Permiteți aplicației de Securitate să se conecteze la rețea pentru a utiliza toate caracteristicile Creșterii vitezei în jocuri?</string>
+    <string name="gamebooster_network_dialog_message">Permiteți aplicației de Securitate să se conecteze la rețea pentru a utiliza toate caracteristicile Jocurilor Turbo?</string>
     <string name="gamebooster_network_dialog_title">"Unele caracteristici nu sunt disponibile"</string>
     <string name="gamebox_app_not_find">Instalați mai întâi aplicația.</string>
     <string name="gamebox_browser_not_find">Instalați browser-ul Mi mai întâi</string>
@@ -1442,15 +1451,10 @@ răspunsul operatorului"</string>
     <string name="menu_setting_traffic">Setați manual</string>
     <string name="menu_sms">Trimiteți mesaj</string>
     <string name="menu_summary_antispam">Blochează apelurile și mesajele</string>
-    <string name="menu_summary_antispam_2">S-au blocat apelurile și mesajele</string>
-    <string name="menu_summary_antivirus">Scanați dispozitivul pentru viruși</string>
-    <string name="menu_summary_antivirus_2">Au fost găsite riscuri potențiale</string>
-    <string name="menu_summary_antivirus_3">"Nu s-a scanat dispozitivul"</string>
+    <string name="menu_summary_antivirus">Căutați viruși în dispozitiv</string>
     <string name="menu_summary_app_manager">Actualizați și dezinstalați aplicațiile</string>
-    <string name="menu_summary_app_manager_2">Sunt disponibile actualizări</string>
     <string name="menu_summary_garbage_cleanup">Nu s-a găsit nimic de curățat</string>
-    <string name="menu_summary_garbage_cleanup_2">Dimensiunea coșului de gunoi</string>
-    <string name="menu_summary_garbage_cleanup_3">Goliți coșul de gunoi acum</string>
+    <string name="menu_summary_garbage_cleanup_ex">Goliți %s gunoi</string>
     <string name="menu_summary_networkassistants">Gestionați planul de date</string>
     <string name="menu_summary_networkassistants_2">Ați depășit limita</string>
     <string name="menu_summary_networkassistants_3">Suficiente date rămase</string>
@@ -1472,7 +1476,7 @@ răspunsul operatorului"</string>
     <string name="menu_text_networkassistants_unit_kb">KB</string>
     <string name="menu_text_networkassistants_unit_mb">MB</string>
     <string name="menu_text_optimize_manage">Creștere viteză</string>
-    <string name="menu_text_power_manager">Optimizare acumulator</string>
+    <string name="menu_text_power_manager">Acumulator și performanță</string>
     <string name="menu_text_power_percent">%s</string>
     <string name="menu_wh_remove">Eliminați din lista excepțiilor</string>
     <string name="menu_white">Adăugați în lista excepțiilor</string>
@@ -1737,6 +1741,8 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="perfermance_optimization_summary">Evitați supraîncălzirea și problemele legate de partea hardware</string>
     <string name="perfermance_optimization_title">Optimizarea performanței</string>
     <string name="permission_action_accept">Acceptaţi</string>
+    <string name="permission_action_always">Permiteți întotdeauna</string>
+    <string name="permission_action_foreground">Cât timp se utilizează aplicația</string>
     <string name="permission_action_prompt">Notificare</string>
     <string name="permission_action_reject">Refuzaţi</string>
     <string name="permission_close_permission_control_dialog_msg">Atunci când Gestionare permisiuni este oprită, aplicațiile nu vor cere permisiunea înainte de a citi contactele, de a vizualiza istoricul apelurilor, de a modifica setările de sistem sau de a accesa camera foto și alte resurse de pe dispozitiv.</string>
@@ -1749,6 +1755,16 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="permit_running_network">Date în fundal</string>
     <string name="person_hotpot">Hotspot-uri mobile</string>
     <string name="phone">Telefon</string>
+    <string name="phone_manage">Utilitare</string>
+    <string name="phone_manage_app_manager_summary">Gestionați aplicațiile din telefon</string>
+    <string name="phone_manage_clean_summary">Eliberați spațiu de stocare</string>
+    <string name="phone_manage_clean_title">Curățare</string>
+    <string name="phone_manage_electric_summary">Optimizați dispozitivul pentru a economisi acumulatorul</string>
+    <string name="phone_manage_electric_title">Acumulator</string>
+    <string name="phone_manage_special_summary">Explorați funcțiile noastre suplimentare</string>
+    <string name="phone_manage_special_title">Caracteristici speciale</string>
+    <string name="phone_manage_system_tool_summary">Unelte utile la nivel de sistem</string>
+    <string name="phone_manage_system_tool_title">Unelte</string>
     <string name="pkg_traffic">Setaţi limita de utilizare a datelor</string>
     <string name="pm_auto_start_by_other">Declanșare pornire</string>
     <string name="pm_auto_start_by_other_app">Permite aplicației să fie lansată de către alte aplicații</string>
@@ -1834,6 +1850,7 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="power_optimize_save_mode_not_opened">Economisirea acumulatorului este dezactivată</string>
     <string name="power_optimize_save_on_lockscreen">Economisiți energia atunci când telefonul este blocat</string>
     <string name="power_phone">Apeluri vocale</string>
+    <string name="power_save_mode">Economisire acumulator</string>
     <string name="power_save_mode_auto_exit_summary">Dezactivați când acumulatorul are peste 60% sau este încărcat complet​</string>
     <string name="power_save_mode_auto_exit_title">Dezactivați când este încărcat</string>
     <string name="power_save_mode_close_warn_text">Economisirea acumulatorului restricționează activitățile din fundal și sincronizarea. Dacă alegeți să o utilizați când acumulatorul este încărcat, unele catacteristici pot funcționa necorespunzător. Păstrați Economisirea acumulatorului activă când telefonul este încărcat?</string>
@@ -1849,6 +1866,7 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="power_save_ps_close_setting">Se dezactivează serviciile de fundal (sincronizare, GPS) pentru a economisi acumulatorul</string>
     <string name="power_save_ps_freeze">Se opresc aplicațiile ce rulează în fundal</string>
     <string name="power_save_ps_limit">Se restricționează activitatea aplicațiilor de sistem</string>
+    <string name="power_save_settings">Setări pentru acumulator</string>
     <string name="power_save_started_summary_text">"Economisirea acumulatorului este activă. Aceasta reduce activitățile din fundal ale aplicațiilor, oprește sincronizarea și reduce animațiile de sistem."</string>
     <string name="power_save_summary_text">"Activați Economisirea acumulatorului pentru a reduce activitatea în fundal a aplicațiilor, opriți sincronizarea și ascundeți animațiile de sistem."</string>
     <string name="power_save_title_text">Economisire acumulator</string>
@@ -2085,13 +2103,14 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="section_title_clear_acc">Goliți cache-ul</string>
     <string name="section_title_security_defend">Securitate</string>
     <string name="section_title_system">Securitatea sistemului</string>
-    <string name="security_center_slogan">Securitate. Întotdeauna de pază.</string>
+    <string name="security_center_slogan">Mențineți telefonul sigur și rapid în execuție</string>
     <string name="security_scan_optimizing">Optimizare…</string>
     <string name="securityadd_install_fail">"Nu s-a putut actualiza extensia. Încercați din nou."</string>
     <string name="securityadd_update_tips_cancle">Nu acum</string>
     <string name="securityadd_update_tips_message">Actualizați extensia serviciului de Securitate pentru a avea acces la cele mai recente caracteristici pentru jocuri. %1$dMB will be downloaded.</string>
     <string name="securityadd_update_tips_now">Actualizați</string>
     <string name="securityadd_update_tips_title">Actualizați</string>
+    <string name="securitycenter_tab_title">Securitate</string>
     <string name="see_detail">Detalii</string>
     <string name="see_more_content">Actualizați aplicația de Jocuri pentru a vedea mai multe noutăți</string>
     <string name="set_applock_password">Setați parola</string>
@@ -2404,7 +2423,7 @@ Luați în considerare faptul că %1s trebuie să colecteze datele personale și
 Vă respectăm și vă protejăm confidențialitatea."</string>
     <string name="system_permission_declare_privacy_policy">&lt;Data&gt;Citiți și acceptați &amp;lt;a href=\"%1$s\"&amp;gt;Politica noastră de Confidențialitate&amp;lt;/a&amp;gt; înainte de a utiliza această funcție.&lt;/Data&gt;</string>
     <string name="system_permission_declare_revoke_system">Puteți părăsi această aplicație.</string>
-    <string name="system_permission_declare_revoke_uninstallable">Puteți dezinstala această aplicație sau gestiona permisiunile și autorizările în Securitate> Gestionare aplicații> Permisiuni> Alte permisiuni.</string>
+    <string name="system_permission_declare_revoke_uninstallable">Vă puteți deconecta, puteți dezinstala această aplicație sau revoca autorizarea în Securitate> Gestionare aplicații> Permisiuni> Permisiuni.</string>
     <string name="system_permission_declare_use_network">Conectați-vă la rețea</string>
     <string name="system_permission_declare_use_network_no_permission">Conectați-vă la rețea</string>
     <string name="system_permission_declare_user_agreement">&lt;Data&gt;Citiți și acceptați &amp;lt;a href=\"%1$s\"&amp;gt;Acordul Utilizatorului&amp;lt;/a&amp;gt; înainte de a utiliza această funcție.&lt;/Data&gt;</string>
@@ -2412,6 +2431,8 @@ Vă respectăm și vă protejăm confidențialitatea."</string>
     <string name="system_permission_perm_read_mms">Citire MMS-uri</string>
     <string name="system_permission_perm_read_numbers">Citire numere de telefon</string>
     <string name="system_permission_perm_send_mms">Trimitere MMS-uri</string>
+    <string name="system_tool_green_guard">Protecție familie</string>
+    <string name="system_tool_sos">Mesaj de urgență SOS</string>
     <string name="tab_blacklist">Lista blocărilor</string>
     <string name="tab_block_log_unKnowNumber">Număr privat</string>
     <string name="tab_call">Apeluri</string>
@@ -2534,7 +2555,7 @@ Vă respectăm și vă protejăm confidențialitatea."</string>
     <string name="title_chain_start">Restricționați bucla de start</string>
     <string name="title_cleaner_cloudscan">Scanare coș de gunoi din Cloud</string>
     <string name="title_cloud_account">Cont Mi</string>
-    <string name="title_cloud_service">Mi Cloud</string>
+    <string name="title_cloud_service">Xiaomi Cloud</string>
     <string name="title_cloud_space_almost_full">Stocarea Cloud este aproape plină; este posibil ca unele elemente să nu fie sincronizate</string>
     <string name="title_cloud_space_full">Stocarea Cloud este plină</string>
     <string name="title_cmcc_app_check">Verificarea nu este completă</string>
