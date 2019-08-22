@@ -1316,6 +1316,7 @@ Telefonul dvs. se va bloca automat după o altă încercare greşită!"</string>
     <string name="preferred_network_type_pref_entries_3g_preferred_lm_cr">WCDMA/GSM automat</string>
     <string name="preferred_network_type_pref_entries_4g_preferred">De preferat LTE</string>
     <string name="preferred_network_type_pref_entries_4g_preferred_cdma">De preferat 4G (CDMA)</string>
+    <string name="preferred_network_type_pref_entries_4g_preferred_custom">De preferat 4G</string>
     <string name="preferred_network_type_pref_entries_4g_preferred_lm_cr">LTE/WCDMA/GSM automat</string>
     <string name="preferred_network_type_pref_entries_5g_preferred">De preferat 5G</string>
     <string name="preferred_network_type_pref_entries_auto">Automat</string>

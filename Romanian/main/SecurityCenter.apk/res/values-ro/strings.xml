@@ -602,10 +602,10 @@ Nu veți pierde datele aplicațiilor."</string>
     <string name="cpu_usage_view_action_btn_text">Atingeți pentru a vizualiza</string>
     <string name="create_gamebooster_destop">Scurtătură creată pe Ecranul principal cu succes</string>
     <string name="create_shortcut">Creați o scurtătură pe Ecranul principal pentru Creșterea vitezei în jocuri</string>
-    <string name="cta_dialog_msg">&lt;Data&gt;Trebuie să acceptați&amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Politica noastră de confidențialitate&amp;lt;/a&amp;gt; înainte de a utiliza aplicația de Securitate. Aplicația de Securitate trebuie de asemenea să se conecteze la internet și să vă acceseze locația pentru a funcționa în mod normal și a păstra definițiile antivirus actualizate la zi. Sunteți de acord?&lt;/Data&gt;</string>
     <string name="cta_dialog_negative">Ieșiți</string>
     <string name="cta_dialog_positive">De acord</string>
     <string name="cta_dialog_title">Conexiune la Internet</string>
+    <string name="cta_main_purpose">Bine ați venit în aplicația de Securitate! Puteți utiliza această aplicație pentru a goli datele inutile din telefon, găsi și neutraliza viruși, optimiza performanța în jocuri, economisi acumulatorul, gestiona aplicațiile și multe altele.</string>
     <string name="cta_settings">Permiteți conexiunea la internet</string>
     <string name="current_network_state_not_need_diagnose">Conexiunea la internet este normală.</string>
     <string name="customize_limit_pkg">%s (personalizat)</string>
@@ -1164,7 +1164,7 @@ cardul de sănătate"</string>
     <string name="gb_xunyou_gift_type_one">O zi de accelerare Xunyou</string>
     <string name="gb_xunyou_gift_type_three">3 zile de accelerare Xunyou</string>
     <string name="gb_xunyou_gift_type_two">2 zile de accelerare Xunyou</string>
-    <string name="gdpr_msg">&lt;Data&gt;"Pentru a utiliza caracteristicile de bază ale aplicației de Securitate, trebuie să fiți de acord ca Xiaomi să colecteze, să proceseze și să utilizeze datele dvs. personale, inclusiv informații despre modul în care utilizați caracteristicile aplicației(e.g., utilizarea datelor, informații despre viruși, ca și informațiile de bază despre dispozitivul dvs.) și alte tipuri de informații stipulate în &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Privacy Policy&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
+    <string name="gdpr_msg">&lt;Data&gt;"Pentru a utiliza caracteristicile de bază ale aplicației de Securitate, trebuie să fiți de acord ca Xiaomi să colecteze, să proceseze și să utilizeze datele dvs. personale, inclusiv informații despre modul în care utilizați caracteristicile aplicației(e.g., utilizarea datelor, informații despre viruși, ca și informațiile de bază despre dispozitivul dvs.) și alte tipuri de informații stipulate în &amp;lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&amp;gt;Politica noastră de Confidențialitate&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
     <string name="get_sys_info">Obținere informații…</string>
     <string name="gigabyteShort">GB</string>
     <string name="gmscore_support_remind">Activați această caracteristică dacă întâmpinați probleme în utilizarea Gmail, Hărți Google și în alte aplicații Google. Acest lucru va reduce durata de viață a acumulatorului.</string>
