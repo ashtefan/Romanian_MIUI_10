@@ -508,7 +508,6 @@ Actualizați mai întâi Mi Video la cea mai recentă versiune."</string>
     <string name="ovp_video_plugin_installation_failure">Nu se poate instala %1$s</string>
     <string name="ovp_video_plugin_installation_two">Doar o secundă…</string>
     <string name="page_title_language">Preferințe lingvistice pentru videoclipuri</string>
-    <string name="partner_id">3041</string>
     <string name="passport_activate_token_expired">Verificarea a expirat. Vă rugăm să încercați din nou.</string>
     <string name="passport_auth_title"/>
     <string name="passport_bad_authentication">Nume de utilizator sau parolă invalide</string>
@@ -654,7 +653,6 @@ Spori securitatea contului dvs."</string>
     <string name="plus_sort_type_time">Dată</string>
     <string name="plus_tab_gallery">Dosare</string>
     <string name="plus_tab_time">Cronologie</string>
-    <string name="product_key">xl!f@e0GwR!7GRsm</string>
     <string name="psw_hint">Parolă</string>
     <string name="psw_sign_in">Conectați-vă utilizând parola</string>
     <string name="pull_to_refresh_from_bottom_pull_label">Glisați în sus pentru a reîmprospăta…</string>
