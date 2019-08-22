@@ -831,8 +831,6 @@ Verificați alte videoclipuri!"</string>
     <string name="user_id_hint">E-mail/Telefon</string>
     <string name="v_agree">De acord</string>
     <string name="v_app_check_failed">"Nu s-a putut verifica aplicația"</string>
-    <string name="today">Astăzi</string>
-    <string name="tuesday">Marți</string>
     <string name="v_app_click_to_install">Atingeți pentru a instala.</string>
     <string name="v_app_download_failed">"Nu s-a putut descărca aplicația; atingeți pentru a reîncerca."</string>
     <string name="v_app_downloaded">Mi Video a fost descărcată cu succes</string>
