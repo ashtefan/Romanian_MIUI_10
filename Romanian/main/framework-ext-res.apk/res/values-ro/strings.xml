@@ -3,7 +3,7 @@
     <string name="activity_package_delete_confirm_title">Atenție</string>
     <string name="add_frequent_phrases">Adăugare expresii frecvente</string>
     <string name="all_call_livetalk_enable">Utilizați pachete de suplinire pentru apeluri naționale și internaționale</string>
-    <string name="all_call_livetalk_remain_mins">Minute rămase: (%1$s naţionale) | (%2$s %3$s)</string>
+    <string name="all_call_livetalk_remain_mins">Minute rămase: %1$s naţionale sau %2$s internaționale</string>
     <string name="always">Întotdeauna</string>
     <string name="alwaysUsePrompt">Se memorează această alegere</string>
     <string name="apply_password_action">OK</string>

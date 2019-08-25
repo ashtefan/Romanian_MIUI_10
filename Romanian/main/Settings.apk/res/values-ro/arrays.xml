@@ -1431,28 +1431,6 @@ Notă: Doar pentru Ubuntu 8.04!"</item>
         <item>Nu permiteţi niciodată</item>
         <item>Permiteţi întotdeauna</item>
     </string-array>
-    <string-array name="select_logd_size_lowram_titles">
-        <item>Oprit</item>
-        <item>64 KB</item>
-        <item>256 KB</item>
-        <item>1 MB</item>
-    </string-array>
-    <string-array name="select_logd_size_summaries">
-        <item>Oprit</item>
-        <item>64 KB per jurnal tampon</item>
-        <item>256 KB per jurnal tampon</item>
-        <item>1 MB per jurnal tampon</item>
-        <item>4 MB per jurnal tampon</item>
-        <item>16 MB per jurnal tampon</item>
-    </string-array>
-    <string-array name="select_logd_size_titles">
-        <item>Oprit</item>
-        <item>64 KB</item>
-        <item>256 KB</item>
-        <item>1 MB</item>
-        <item>4 MB</item>
-        <item>16 MB</item>
-    </string-array>
     <string-array name="select_logd_system_levels">
         <item>Oprit</item>
         <item>Eroare</item>
@@ -1503,11 +1481,6 @@ Notă: Doar pentru Ubuntu 8.04!"</item>
         <item>12-ore 1:00 PM</item>
         <item>24-ore 13:00</item>
         <item>Automat (bazat pe limba sistemului)</item>
-    </string-array>
-    <string-array name="standard_configuration_version">
-        <item>3 GB</item>
-        <item>16 GB</item>
-        <item>Quad-core Max de 2,5 GHz</item>
     </string-array>
     <string-array name="startup_hips_action">
         <item>Permiteţi</item>
