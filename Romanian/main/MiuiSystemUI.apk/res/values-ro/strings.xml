@@ -1402,7 +1402,7 @@ De asemenea, sunteți conectat la o rețea VPN, care vă poate monitoriza activi
     <string name="quick_settings_cast_detail_empty_text">Niciun dispozitiv disponibil</string>
     <string name="quick_settings_cast_device_default_description">Pregătit de proiecție</string>
     <string name="quick_settings_cast_device_default_name">Dispozitiv fără nume</string>
-    <string name="quick_settings_cast_title">Proiectare</string>
+    <string name="quick_settings_cast_title">Proiectați</string>
     <string name="quick_settings_casting">Se proiectează</string>
     <string name="quick_settings_cellular_detail_data_limit">%s limită</string>
     <string name="quick_settings_cellular_detail_data_usage">Utilizare date</string>

@@ -1730,7 +1730,7 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="pc_settings_title">Setări acumulator și performanță</string>
     <string name="pc_statistics_battery_last_hour_minute">%1$dh și %2$dm rămase</string>
     <string name="pc_statistics_battery_use_hour_minute">%1$dh și %2$dm de la ultima încărcare</string>
-    <string name="pc_statistics_battery_use_summary">%s de la ultima încărcare completă</string>
+    <string name="pc_statistics_battery_use_summary">%s de la ultima încărcare</string>
     <string name="pc_statistics_battery_use_title">Utilizare acumulator</string>
     <string name="pc_to_phone_install">Instalarea %s prin USB a fost blocată</string>
     <string name="per_month_pkg_traffic_settings">Setaţi limita de date</string>

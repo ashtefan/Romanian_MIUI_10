@@ -37,6 +37,7 @@
     <string name="account_settings_incoming_summary">Nume utilizator, parolă şi alte setări pt. serverul de primire</string>
     <string name="account_settings_login_dialog_content_fmt">"Numele de utilizator sau parola pentru %s sunt incorecte.
 Actualizaţi acum?"</string>
+    <string name="account_settings_login_dialog_reason_fmt">"Nu s-a putut conecta la %1$s. Răspunsul serverului: %2$s"</string>
     <string name="account_settings_login_dialog_title">"Nu s-a putut conecta"</string>
     <string name="account_settings_mail_check_frequency_dialog_title">Trebuie să reîmprospătați manual E-mailurile pentru a sincroniza mesajele</string>
     <string name="account_settings_mail_check_frequency_dialog_title_eas">"Va trebui să reîmprospătați în mod manual pentru a sincroniza mesajele și evenimentele din Calendar"</string>
@@ -242,6 +243,7 @@ Actualizaţi acum?"</string>
     <string name="bill_center_setting">Setări pentru plată</string>
     <string name="bill_center_setting_head">Importați din aceste conturi</string>
     <string name="bill_cycle_text">Ciclu de plată</string>
+    <string name="bill_list_card_name_fmt">%1$s | %2$s</string>
     <string name="bill_list_card_num_fmt">**** **** **** %s</string>
     <string name="bill_remind">Memento plată programată</string>
     <string name="bill_remind_due">O plată este programată pe %s, atingeți pentru a vedea detalii</string>
@@ -849,6 +851,7 @@ Actualizaţi acum?"</string>
     <string name="permission_tip">Configurarea a eșuat, vă rugăm să permiteți efectuarea de apeluri și trimiterea de mesaje SMS în timpul configurării</string>
     <string name="phone">telefon</string>
     <string name="photo_load_failed">Imaginea nu s-a putut încărca</string>
+    <string name="photo_view_count">%1$d din %2$d</string>
     <string name="please_fill_in_your_mailbox_information2">Introduceţi datele căsuţei poştale.</string>
     <string name="pls_parse_bill_discribe">"Analizați facturile și informațiile despre deplasări din e-mail
 pentru a primi notificări despre plăți și călătorii"</string>
@@ -1024,6 +1027,7 @@ Așteptați până se finalizează sincronizarea sau citiți mesajul pe computer
     <string name="reply">Răspundeţi</string>
     <string name="reply_add_bodycontent">Adăugați răspunsul in conținutul mesajului?</string>
     <string name="reply_all">Răs. tuturor</string>
+    <string name="reply_attribution">Pe %1$s, %2$s a scris:</string>
     <string name="report_phishing">Raportaţi phishing</string>
     <string name="report_rendering_improvement">Arată bine</string>
     <string name="report_rendering_improvement_desc">Acest mesaj arată bine.</string>
@@ -1122,6 +1126,7 @@ Așteptați până se finalizează sincronizarea sau citiți mesajul pe computer
     <string name="storage">Stocare</string>
     <string name="str_select_all">Selectaţi tot</string>
     <string name="str_select_none">Deselectaţi tot</string>
+    <string name="subject_and_snippet">%1$s — %2$s</string>
     <string name="subject_hint">Subiect</string>
     <string name="sync_contacts_fail_per_content">Atingeți pentru a permite accesul la contacte</string>
     <string name="sync_contacts_fail_per_title">"Nu s-au putut sincroniza contactele"</string>

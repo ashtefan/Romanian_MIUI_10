@@ -75,6 +75,7 @@
         <item>Zimbabwe</item>
         <item>Africa de Sud</item>
         <item>Uganda</item>
+        <item>Republica Sudan</item>
         <item>Rwanda</item>
         <item>Republica Democrată Congo</item>
         <item>Nigeria</item>
@@ -87,6 +88,7 @@
         <item>Tunisia</item>
         <item>Statele Unite</item>
         <item>Argentina</item>
+        <item>Aruba</item>
         <item>Paraguay</item>
         <item>Barbados</item>
         <item>Belize</item>
@@ -105,6 +107,7 @@
         <item>Canada</item>
         <item>El Salvador</item>
         <item>Brazilia</item>
+        <item>Insulele Turks și Caicos</item>
         <item>Grenada</item>
         <item>Guatemala</item>
         <item>Guiana</item>
@@ -139,6 +142,8 @@
         <item>Statele Unite</item>
         <item>Trinidad și Tobago</item>
         <item>Haiti</item>
+        <item>Puerto Rico</item>
+        <item>Republica Dominicană</item>
         <item>Brazilia</item>
         <item>Canada</item>
         <item>Saint Kitts și Nevis</item>
@@ -148,6 +153,7 @@
         <item>Canada</item>
         <item>Canada</item>
         <item>Canada</item>
+        <item>Antarctica</item>
         <item>Svalbard și Jan Mayen</item>
         <item>Kazahstan</item>
         <item>Iordania</item>
@@ -181,6 +187,7 @@
         <item>Katar</item>
         <item>Myanmar</item>
         <item>Arabia Saudită</item>
+        <item>China</item>
         <item>Coreea de Sud</item>
         <item>China</item>
         <item>Singapore</item>
@@ -237,9 +244,9 @@
         <item>Cehia</item>
         <item>Letonia</item>
         <item>Italia</item>
-        <item></item>
+        <item>San Marino</item>
         <item>Bosnia și Herzegovina</item>
-        <item></item>
+        <item>Ucraina</item>
         <item>Macedonia</item>
         <item>Bulgaria</item>
         <item>Suedia</item>
@@ -257,8 +264,11 @@
         <item>Fiji</item>
         <item>Guam</item>
         <item>Statele Unite</item>
+        <item>Australia</item>
         <item>Noua Caledonie</item>
+        <item>Samoa</item>
         <item>Polinezia Franceză</item>
+        <item>Antigua și Barbuda</item>
         <item>Statele Unite</item>
         <item>Statele Unite</item>
         <item>Canada</item>

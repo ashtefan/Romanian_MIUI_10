@@ -25,7 +25,7 @@
     <string name="label_destination">Destinație</string>
     <string name="label_duplex">Duplex</string>
     <string name="label_orientation">Orientare</string>
-    <string name="label_pages">Pagini</string>
+    <string name="label_pages">Pagini (%1$s)</string>
     <string name="label_paper_size">Formatul hârtiei</string>
     <string name="label_paper_size_summary">Dimensiunea hârtiei:</string>
     <string name="mediasize_standard_china">3</string>
