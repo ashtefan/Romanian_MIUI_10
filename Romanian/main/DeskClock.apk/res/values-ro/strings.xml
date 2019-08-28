@@ -109,7 +109,7 @@
     <string name="edit_alarm">Editați alarma</string>
     <string name="edit_systemtime">Editaţi data şi ora sistemului</string>
     <string name="edit_systemtime_setting_summary">Data, ora și ceasul dual</string>
-    <string name="elapsed_time_format">+%s</string>
+    <string name="elapsed_time_format">+</string>
     <string name="every_day">În fiecare zi</string>
     <string name="expired_timers_dismissed">Temporizator oprit cu succes</string>
     <string name="force_touch_add_alarm">Adăugați o alarmă</string>
@@ -148,7 +148,7 @@
     <string name="life_post_setting_close_title">Închideți rapoartele matinale</string>
     <string name="life_post_setting_open_background_subtitle">Afișează imaginile de fundal pentru alarmele înrudite</string>
     <string name="life_post_setting_open_background_title">Afișează imaginile de fundal</string>
-    <string name="life_post_setting_open_desc">Dezactivați alarmele repetitive între 04:00 și 10:00 AM pentru a asculta raportul meteo curent</string>
+    <string name="life_post_setting_open_desc">Dezactivați alarmele repetitive între orele 04:00 și 10:00 pentru a asculta raportul meteo curent</string>
     <string name="life_post_setting_open_subtitle">Primiți informații despre starea vremii atunci când opriți alarma între orele 4:00-9:30</string>
     <string name="life_post_setting_open_summary">Include datele meteo în prima alarmă dezactivată între orele 4:00 și 10:00</string>
     <string name="life_post_setting_open_title">Primiți un raport dimineața</string>

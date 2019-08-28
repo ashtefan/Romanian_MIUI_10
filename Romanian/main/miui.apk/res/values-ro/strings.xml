@@ -416,7 +416,7 @@
     <string name="heavenly_stems_wu">戊</string>
     <string name="heavenly_stems_xin">辛</string>
     <string name="heavenly_stems_yi">乙</string>
-    <string name="hybrid_provider">Furnizată de %1$s .</string>
+    <string name="hybrid_provider">Furnizată de %1$s.</string>
     <string name="im">IM</string>
     <string name="immersion_button_close_description">Închideți</string>
     <string name="instruction">Informații importante de securitate</string>
