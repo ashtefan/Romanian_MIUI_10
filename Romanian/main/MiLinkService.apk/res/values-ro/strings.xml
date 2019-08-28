@@ -107,6 +107,7 @@ Dacă trebuie să activați manual funcția Miracast, puteți apăsa butonul [Me
 　　•După accesarea sunetului, redați-l pe dispozitivul cu ecran mare.
 　　•Permisiuni de direcționare. Localizare și descoperire a dispozitivelor din proximitate."</string>
     <string name="private_protect">Protejarea confidențialității</string>
+    <string name="sdk_name">lebo</string>
     <string name="service_name">Serviciul UniPlay</string>
     <string name="small_window">Minimizați fereastra</string>
     <string name="status_bar_in_casting">Proiectare</string>

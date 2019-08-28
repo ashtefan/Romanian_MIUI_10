@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+    <string name="about_weather_setting">Despre aplicația Meteo</string>
+    <string name="about_weather_setting_feedback">Feedback</string>
+    <string name="abrupt_weather_settings_summary_type">Primiți alerte despre furtunile previzionate, modificările calității aerului și despre alte modificări semnificative</string>
     <string name="abrupt_weather_settings_summary_type_a">Comutator Avertizare Vreme Neobișnuită</string>
     <string name="abrupt_weather_settings_summary_type_b">Comutator Avertizare Vreme Neobișnuită</string>
     <string name="abrupt_weather_settings_title">Avertizare Vreme Neobișnuită</string>
@@ -32,6 +35,8 @@
     <string name="add_city">Adăugaţi</string>
     <string name="alert_detail_title">Detalii alertă</string>
     <string name="alert_warning">Avertizări meteo</string>
+    <string name="alert_weather_enable_settings_summary">Primiți avertizări oficiale despre starea vremii</string>
+    <string name="alert_weather_enable_settings_title">Avertizări despre starea vremii</string>
     <string name="already_voted_toast">"Ați votat deja astăzi"</string>
     <string name="app_name">Meteo</string>
     <string name="aqi_data_source">Oferit de Colorful Clouds</string>
@@ -97,7 +102,7 @@
     <string name="content_desc_close_button">Închideți</string>
     <string name="daily_forcast_no_stable_direction">Adiere</string>
     <string name="daily_forcast_no_wind">0</string>
-    <string name="daily_forcast_temperature_transfer">%1$s°C / %2$s°C</string>
+    <string name="daily_forcast_temperature_transfer">"%1$s° /  %2$s°"</string>
     <string name="daily_forcast_temperature_transfer_C">%1$s / %2$s℃</string>
     <string name="daily_forcast_temperature_transfer_F">%1$s / %2$s℉</string>
     <string name="daily_forcast_weather_transfer">%1$s. %2$s mai târziu.</string>
@@ -116,6 +121,7 @@ Glisați în jos pentru a actualiza sau verificați setările de rețea"</string
     <string name="empty_view_net_unavailable">"Nu s-a putut conecta la rețea"</string>
     <string name="empty_view_refresh">Încercați din nou</string>
     <string name="eu_region_version_first_start_network_msg">"Utilizând acest produs, sunteți de acord ca acesta să se conecteze la rețea, să colecteze, să proceseze și să utilizeze informațiile personale, inclusiv coordonatele orașelor pe care le căutați și alte tipuri de date specificate în Politica noastră de Confidențialitate. Consultați Politica de Confidențialitate pentru a afla cum colectăm și procesăm informațiile. Apăsând \"Sunt de acord\", acceptați %1$s și %2$s Xiaomi."</string>
+    <string name="feedback">Raportați informațiile incorecte despre vreme</string>
     <string name="feedback_cloudy">Înnorat</string>
     <string name="feedback_foggy">Cețos</string>
     <string name="feedback_haze">Ceață</string>
@@ -177,7 +183,7 @@ Apăsați pe ecran pentru a adăuga manual sau pentru a repoziționa orașul"</s
     <string name="more_details">Mai multe detalii</string>
     <string name="network_not_available">"Nu se poate conecta la rețea"</string>
     <string name="network_unavailable">"Nu se poate conecta la rețea."</string>
-    <string name="night_not_disturb_settings_summary">Nu se vor primi notificări despre vreme între 23:00 și 07:00</string>
+    <string name="night_not_disturb_settings_summary">Blochează alertele între 23:00 și 07:00</string>
     <string name="night_not_disturb_settings_title">"Nu deranja peste noapte"</string>
     <string name="no_data">Nu există date</string>
     <string name="no_network_btn">Reîncercați</string>
@@ -286,6 +292,8 @@ Apăsați pe ecran pentru a adăuga manual sau pentru a repoziționa orașul"</s
     <string name="view_forecast_item_yesterday">Ieri</string>
     <string name="view_indexes_item_today">Astăzi</string>
     <string name="view_indexes_item_tommorrow">Mâine</string>
+    <string name="warning_weather_day_and_night_settings_summary">Primiți zilnic rapoarte conținând informații meteo la orele 07:00 și 19:00</string>
+    <string name="warning_weather_day_and_night_settings_title">Rapoarte zilnice</string>
     <string name="weather_alert_channel_name">Alerte</string>
     <string name="weather_introduce">Întotdeauna alături, pe ploaie sau soare.</string>
     <string name="weather_permission_agree">Accept</string>

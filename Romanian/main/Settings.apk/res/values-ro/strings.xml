@@ -1629,7 +1629,7 @@ Această setare afectează toți utilizatorii telefonului."</string>
     <string name="delete_or_keep_legacy_passwords_confirm_msg">Eliminați această amprentă?</string>
     <string name="delete_rule">Ștergeți regulile</string>
     <string name="delete_saved_network">Ștergeți rețelele salvate</string>
-    <string name="delete_sound_effect">Sunetul \"Ștergere\"</string>
+    <string name="delete_sound_effect">Sunet ștergere elemente</string>
     <string name="deleted_apps">Aplicații șterse</string>
     <string name="deletion_helper_automatic_title">Automat</string>
     <string name="deletion_helper_manual_title">Manual</string>
@@ -3909,7 +3909,7 @@ OTG se dezactivează în mod automat după 10 minute de inactivitate."</string>
     <string name="priority_storage_title">Setări stocare</string>
     <string name="priority_summary">Afișează notificările în partea de sus a listei</string>
     <string name="priority_title">Prioritate</string>
-    <string name="privacy_authorize_cloud_msg">"Pentru a asigura securitatea contului, conectați-vă la i.mi.com dacă doriți să revocați autorizarea pentru serviciile Mi Cloud (inclusiv sincronizarea și copiile de rezervă)."</string>
+    <string name="privacy_authorize_cloud_msg">"Pentru a asigura securitatea contului, conectați-vă la i.mi.com dacă doriți să revocați autorizarea pentru serviciile Xiaomi Cloud (inclusiv sincronizarea și copiile de rezervă)."</string>
     <string name="privacy_authorize_dialog_agree">De acord</string>
     <string name="privacy_authorize_dialog_exit">Ieșiți</string>
     <string name="privacy_authorize_dialog_message">&lt;Data&gt;"Pentru a putea utiliza caracteristicile de bază ale serviciilor Mi Cloud, trebuie să fiți de acord ca Xiaomi să poată colecta, procesa și utiliza datele dvs. personale. Citiți Politica noastră de Confidențialitate pentru a afla cum colectăm și cum procesăm datele personale. Selectând \"De acord\" înseamnă că ați citit și că sunteți de acord cu &amp;lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&amp;gt;Politica de Confidențialitate&amp;lt;/a&amp;gt; și &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;Acordul utilizatorului&amp;lt;/a&amp;gt;."&lt;/Data&gt; ale Xiaomi</string>
@@ -4832,7 +4832,7 @@ Notă: Nu puteți utiliza amprenta pentru a debloca acest dispozitiv. Pentru mai
     <string name="show_password">Faceţi parolele vizibile</string>
     <string name="show_password_summary">Afișează caracterele pe măsură ce sunt tastate</string>
     <string name="show_profile_info_on_lockscreen_label">Afișați informații profil la blocarea ecranului</string>
-    <string name="show_rounded_corners">Afişarea colţurilor rotunjite</string>
+    <string name="show_rounded_corners">Afişare colţuri rotunjite</string>
     <string name="show_running_services">Afişaţi serv. care funcţ.</string>
     <string name="show_screen_updates">Afiş. actualiz. suprafeţe</string>
     <string name="show_screen_updates_summary">Iluminare suprafeţe pe toată fereastra la actualizare</string>
