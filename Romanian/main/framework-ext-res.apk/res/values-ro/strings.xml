@@ -121,6 +121,7 @@
     <string name="name_with_ellipsize">%1$s…%2$s</string>
     <string name="onehour">30 de minute</string>
     <string name="oppo">OPPO</string>
+    <string name="oppo_phone">OPPO</string>
     <string name="package_delete_confirm_step_1">Dezinstalați %s?</string>
     <string name="package_delete_confirm_step_2">Dezinstalarea acestei aplicații poate face sistemul instabil.</string>
     <string name="package_delete_confirm_step_3">"Nu veți mai putea deschide această aplicație după ce o veți dezinstala."</string>
@@ -191,6 +192,7 @@
     <string name="select">Selectaţi</string>
     <string name="select_all">Selectaţi tot</string>
     <string name="send_files_to">Trimiteți elementele către</string>
+    <string name="service_not_subscribed">FĂRĂ ABONAMENT LA SERVICIU -33-</string>
     <string name="set_password_action">Stabiliți parola</string>
     <string name="set_password_message">Stabiliți o parolă pentru a putea utiliza această caracteristică</string>
     <string name="set_password_title">Stabiliți o parolă</string>
@@ -259,10 +261,12 @@
     <string name="unknown_caller">Număr necunoscut</string>
     <string name="unrecognized_manufacture">Necunoscut</string>
     <string name="unrecognized_model">Dispozitiv necunoscut</string>
+    <string name="user_authentication_failed">EROARE DE AUTENTIFICARE -29-</string>
     <string name="user_switching_dialog_switch_into_kid_space">Se comută la spațiul de lucru al Copilului…</string>
     <string name="user_switching_dialog_switch_out_kid_space">Se părăsește spațiul de lucru al Copilului…</string>
     <string name="user_switching_dialog_text">Comutare…</string>
     <string name="vivo">vivo</string>
+    <string name="vivo_phone">vivo</string>
     <string name="voice_begin">Ce anume căutați?</string>
     <string name="voice_button_action_down">Eliberați pentru a căuta</string>
     <string name="voice_button_action_up">Atingeți pentru a vorbi</string>
@@ -292,6 +296,7 @@
     <string name="xiaomi_mix_3">Mi MIX 3</string>
     <string name="xiaomi_mix_3_5g">Mi MIX 3 5G</string>
     <string name="xiaomi_note_3">Mi Note 3</string>
+    <string name="xiaomi_phone">Xiaomi</string>
     <string name="xiaomi_poco_f1">POCO F1</string>
     <string name="xspace_head">Aplicație clonată</string>
     <string name="xspace_resolver_activity_title">Selectați aplicația</string>

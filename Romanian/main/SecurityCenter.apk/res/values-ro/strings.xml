@@ -602,6 +602,7 @@ Nu veți pierde datele aplicațiilor."</string>
     <string name="cpu_usage_view_action_btn_text">Atingeți pentru a vizualiza</string>
     <string name="create_gamebooster_destop">Scurtătură creată pe Ecranul principal cu succes</string>
     <string name="create_shortcut">Creați o scurtătură pe Ecranul principal pentru Creșterea vitezei în jocuri</string>
+    <string name="cta_HIPS_Perm_Location_Desc">obținere locație precisă (bazată pe GPS și rețea)</string>
     <string name="cta_dialog_negative">Ieșiți</string>
     <string name="cta_dialog_positive">De acord</string>
     <string name="cta_dialog_title">Conexiune la Internet</string>

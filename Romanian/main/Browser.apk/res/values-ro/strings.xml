@@ -36,7 +36,7 @@
     <string name="action">Conectaţi-vă</string>
     <string name="action_imme_open">Deschide imediat</string>
     <string name="action_menu_account_not_login">Nu sunteți conectat</string>
-    <string name="action_menu_account_not_login_hint">Conectați-vă pentru a sincroniza cu Mi Cloud</string>
+    <string name="action_menu_account_not_login_hint">Conectați-vă pentru a sincroniza în cloud</string>
     <string name="action_menu_bookshelf">Raftul cu cărți</string>
     <string name="action_menu_current_version">Versiune curentă</string>
     <string name="action_menu_download">Descărcați</string>
@@ -275,8 +275,9 @@
     <string name="data_monitor_dialog_message">Se pare că ceva vă crește traficul de date mobile. Deschideți pagina de pornire pentru a opri acest lucru.</string>
     <string name="data_traffic_continue">Continuați</string>
     <string name="data_traffic_download_cancel">Renunțați</string>
-    <string name="data_traffic_download_prompt">Videoclipul curent poate fi descărcat doar prin Wi-Fi</string>
+    <string name="data_traffic_download_prompt">În prezent se utilizează traficul de date; doriți să continuați să încărcați videoclipul?</string>
     <string name="data_traffic_download_setting">Setări</string>
+    <string name="data_traffic_download_toast_msg">În prezent se utilizează traficul de date pentru încărcarea videoclipului</string>
     <string name="data_traffic_prompt_free_data">Utilizarea datelor mobile pentru a urmări videoclipuri va crește utilizarea datelor mobile. Vă rugăm să obțineți un plan gratuit de date.</string>
     <string name="data_traffic_prompt_message">Utilizarea datelor mobile pentru a urmări videoclipuri va crește utilizarea datelor mobile. Dacă depășiți limita de date, operatorul vă poate taxa suplimentar.</string>
     <string name="data_traffic_prompt_title">Utilizez datele mobile</string>
@@ -718,8 +719,8 @@ Rețineți că fișierele pe care le descărcați și marcajele vor fi totuși s
     <string name="novel_toast_hint">Acest site a fost adăugat în raft</string>
     <string name="ok">OK</string>
     <string name="open_app_confirm_message">Permiteți acestei pagini să deschidă %s?</string>
-    <string name="open_cloud_sync">Activați sincronizarea cu Mi Cloud</string>
-    <string name="open_cloud_sync_desc">Semn de carte adăugat. Activați sincronizarea cu Mi Cloud și semnele de carte adăugate pe alte dispozitive vor fi sincronizate. Vă autentificați și activați?</string>
+    <string name="open_cloud_sync">Activați sincronizarea în cloud</string>
+    <string name="open_cloud_sync_desc">Semn de carte adăugat. Activați sincronizarea în cloud și semnele de carte adăugate pe alte dispozitive vor fi sincronizate. Vă autentificați și activați?</string>
     <string name="open_file_explorer_failed">"Nu s-a putut deschide Exploratorul de fișiere"</string>
     <string name="open_voice_permission">Permiteți microfonului să se conecteze la internet</string>
     <string name="page_hang_message">Pagina curentă este blocată și trebuie să reporniți browser-ul.</string>
@@ -1144,6 +1145,8 @@ Aplicația Browser trebuie să se conecteze la internet pentru a funcționa în 
     <string name="video_download_unknown_name">Nume necunoscut</string>
     <string name="video_download_unknown_size">Dimensiune necunoscută</string>
     <string name="video_download_unsupport">Nu este suportat</string>
+    <string name="video_download_wait_for_caching">Se așteaptă încărcarea</string>
+    <string name="video_download_wait_for_network">Se așteaptă rețeaua</string>
     <string name="video_download_wait_for_wifi">Se așteaptă rețeaua Wi-Fi</string>
     <string name="video_downloaded_group">Descărcat</string>
     <string name="video_downloading_group">Descărcare</string>

@@ -41,7 +41,6 @@ Pentru mai multe întrebări, vă rugăm să accesați secțiunea Ajutor."</stri
     <string name="help_page_text_05">Pasul 1</string>
     <string name="help_page_text_06">"1. Utilizați telefonul mic pentru a vă conecta la TV, puteți stabili o conexiune verticală a ecranului fără a avea nevoie de o rețea.
 2. La unele televizoare Xiaomi sau din alte mărci care nu suportă proiectarea inteligentă, trebuie să conectați televizorul (sau alt dispozitiv cu ecran mare) la telefonul mobil prin aceeași rețea wireless."</string>
-    <string name="help_page_text_07">3. Unele televizoare Xiaomi sau din alte mărci care nu suportă proiectarea inteligentă. Dacă nu există rețea wireless, sau dacă televizorul și telefonul nu se pot conecta la aceeași rețea, trebuie să activați pe televizor (sau pe dispozitivul cu ecran mare) butonul [Miracast] Oglindire ecran]. Acest nume poate diferi în funcție de producător; puteți glisa către partea de sus a ecranului pentru a afla mai multe.</string>
     <string name="help_page_text_08">Pasul 2</string>
     <string name="help_page_text_09">"Atingeți comutatorul \"Proiectare\" din perdeaua de notificări a telefonului. Activați atât Wi-Fi-ul cât și Bluetooth-ul pentru a avea o conexiune mai stabilă."</string>
     <string name="help_page_text_10">Dacă doriți să proiectați elemente din Galerie sau din Videoclipuri Mi, puteți utiliza funcțiile integrate de proiectare.</string>
@@ -50,8 +49,7 @@ Pentru mai multe întrebări, vă rugăm să accesați secțiunea Ajutor."</stri
     <string name="help_page_text_13">"Nu vă puteți conecta la un dispozitiv extern?"</string>
     <string name="help_page_text_14">"1. Proiectare ecran Millet TV, vă rugăm să actualizați aplicația Ecran Wireless din lista de aplicații la cea mai recentă versiune. 
 2. Puteți încerca să conectați telefonul la televizor prin aceeași rețea Wi-Fi pentru a crește rata de succes a conectării. Cu toate acestea, este posibil ca unele routere să nu poată oferi un mediu de conexiune stabil pentru ecran, ceea ce determină o conexiune instabilă sau cu întreruperi frecvente.
-3. Dacă folosiți un televizor Mi, activarea Bluetooth-ului poate îmbunătăți conexiunea. 
-4. Dacă nu sunt rețele Wi-Fi disponibile, asigurați-vă că dispozitivul extern (de ex. televizoul) suportă funcția Miracast. Numele funcției poate diferi în funcție de producător. Citiți informațiile de mai jos pentru a afla mai multe despre funcția Miracast pe diverse dispozitive."</string>
+3. Dacă folosiți un televizor Mi, activarea Bluetooth-ului poate îmbunătăți conexiunea."</string>
     <string name="help_page_text_15">Funcția Miracast pe diverse dispozitive</string>
     <string name="help_page_text_16">Mi TV/Proiector Mi</string>
     <string name="help_page_text_17">"Telefoanele Xiaomi se pot conecta în mod direct la majoritatea televizoarelor Xiaomi cu Bluetooth, în loc de a deschide manual funcția Miracast.
@@ -93,6 +91,8 @@ Dacă trebuie să activați manual funcția Miracast, puteți apăsa butonul [Me
     <string name="help_page_text_51">LeTV</string>
     <string name="help_page_text_52">Vă rugăm să vă asigurați că modelul dvs. cu ecran mare suportă protocolul Miracast. La unele model, puteți selecta Setări &gt; Rețea &gt; Ecrane multiple interactive &gt; Ecran Wireless.</string>
     <string name="help_page_text_53">Numărul de telefon pentru suport LeTV: 10109000</string>
+    <string name="help_page_text_55">"Dacă nu există rețele Wi-Fi disponibile, asigurați-vă că dispozitivul extern (de ex. televizorul) suportă funcția Miracast. Numele funcției de proiectare a dispozitivului extern poate diferi în funcție de marca acestuia. Citiți informațiile de mai jos pentru a învăța despre funcția Miracast pe diverse dispozitive.
+4. În cazul în care întâmpinați probleme, puteți trimite întrebările și sugestiile dumneavoastră prin intermediul aplicației de Feedback Utilizator."</string>
     <string name="help_page_text_end">"Dacă modelul dispozitivului dvs. nu este listat aici, contactați producătorul pentru a afla mai multe despre funcția de proiectare."</string>
     <string name="notification_rc_desc">Cel mai bun Asistent TV pentru mobil pentru proiectarea videoclipurilor, fotografiilor și a aplicațiilor pe XiaoMi Box (sau TV); trebuie doar să-l încercați!</string>
     <string name="notification_rc_title">Asistent TV XiaoMi</string>
