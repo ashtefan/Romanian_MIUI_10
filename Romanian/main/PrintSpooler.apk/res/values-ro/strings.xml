@@ -71,6 +71,7 @@
     <string name="search">Căutați</string>
     <string name="select_to_add_printers">Selectați pentru a adăuga o imprimantă</string>
     <string name="summary_template">Sumar:%1$s copii, dimensiunea hârtiei %2$s</string>
+    <string name="system_print_service_help">Despre tipărire</string>
     <string name="template_all_pages">Toate %1$s</string>
     <string name="template_page_range">Intervalul %1$s</string>
     <string name="uri_package_details">market://details?id=%1$s</string>
