@@ -117,8 +117,8 @@ Porniți această caracteristică și atingeți butonul Accesibilitate din parte
     <string name="accessibility_screen_magnification_navbar_short_summary">Atingeți un buton pentru a mări</string>
     <string name="accessibility_screen_magnification_navbar_summary">"Când magnificarea este activată, utilizați butonul de Accesibilitate din partea inferioară a ecranului pentru a mări rapid.
 
-"&lt;b&gt;Pentru a mări&lt;/b&gt;", atingeți butonul Accesibilitate, apoi atingeți oriunde pe ecran.
-"&lt;ul&gt;&lt;li&gt;Trageți cu 2 sau mai multe degete pentru a derula&lt;/li&gt;"
+"<b>Pentru a mări</b>, atingeți butonul Accesibilitate, apoi atingeți oriunde pe ecran.
+"<b>Trageți cu 2 sau mai multe degete pentru a derula</b>"
 "&lt;li&gt;Ciupiți cu 2 sau mai multe degete pentru a seta gradul de magnificare&lt;/li&gt;&lt;/ul&gt;"
 
 "&lt;b&gt;Pentru a mări temporar&lt;/b&gt;", atingeți butonul de Accesibilitate, apoi atingeți și mențineți apăsat oriunde pe ecran.

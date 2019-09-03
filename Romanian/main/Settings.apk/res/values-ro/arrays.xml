@@ -1133,9 +1133,9 @@
         <item>Notificările vor apărea într-un dosar separat</item>
     </string-array>
     <string-array name="handy_mode_size_text_entries">
-        <item>4,5 inci\u2033</item>
-        <item>4,0 inci\u2033</item>
-        <item>3,5 inci\u2033</item>
+        <item>4,5 inci</item>
+        <item>4,0 inci</0item>
+        <item>3,5 inci</item>
     </string-array>
     <string-array name="haptic_feedback_level_texts">
         <item>Oprită</item>

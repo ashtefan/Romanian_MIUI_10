@@ -56,6 +56,7 @@
   <string name="alipay_template_month_dialog_cancel">Renunțați</string>
     <string name="all_function_title">Toate scurtăturile</string>
     <string name="alphabet_and_number">aăâbcdefghiîjklmnopqrsștțuvwxyzAĂÂBCDEFGHIJKLMNOPQRSȘTȚUVWXYZ0123456789</string>
+    <string name="already">Finalizat:</string>
     <string name="announce_for_drag">Se mută un element</string>
     <string name="app_label">Asistent inteligent</string>
     <string name="app_setting">Setări Asistent inteligent</string>
@@ -97,7 +98,7 @@
     <string name="ball_basketball_rank_state">Stare</string>
     <string name="ball_basketball_title">Baschet</string>
     <string name="ball_dialog_confirm">Instalați</string>
-    <string name="ball_dialog_content">Instalați HuPu Sports pentru a utiliza această caracteristică. Instalați acum?</string>
+    <string name="ball_dialog_content">Instalați %s pentru a utiliza această caracteristică. Instalați acum?</string>
     <string name="ball_dialog_tip">"Nu arăta din nou"</string>
     <string name="ball_dialog_title">Instalați aplicația mai întâi.</string>
     <string name="ball_football_news">Știri</string>
@@ -121,7 +122,7 @@
     <string name="ball_football_total_rank">Clasamente</string>
     <string name="ball_football_total_rank_worldcup">Program</string>
     <string name="ball_football_world_cup">Cupa Mondială</string>
-    <string name="ball_hupu">HuPu Sports</string>
+    <string name="ball_hupu">HuPu</string>
     <string name="ball_net_errot">"Nu s-a putut conecta la rețea."</string>
     <string name="ball_recent_no_data">Nicio informație despre meciurile viitoare.</string>
     <string name="battery_history">Acumulator</string>
@@ -611,7 +612,7 @@ Unele comenzi trimise prin SF Express de către vânzători din afara Taobao, Tm
     <string name="fav_support_more">Toate aplicațiile suportate</string>
     <string name="fav_support_not_title">"Favoritele nu vor apărea în listă"</string>
     <string name="fav_support_title">Favoritele vor apărea în listă</string>
-    <string name="fav_tab_all">Taote</string>
+    <string name="fav_tab_all">Toate</string>
     <string name="fav_tab_article">Articole</string>
     <string name="fav_tab_new">Nou</string>
     <string name="fav_tab_shopping">Produse</string>
@@ -814,7 +815,7 @@ Unele comenzi trimise prin SF Express de către vânzători din afara Taobao, Tm
     <string name="mi_payment">Plățile mele</string>
     <string name="mi_payment_setting_brief">Obțineți informații despre plățile dumneavoastră aici.</string>
     <string name="mi_payment_setting_brief_detail">Obțineți informații despre plățile dumneavoastră din Mesaje și din alte aplicații.</string>
-    <string name="mi_sport">Mi Fit</string>
+    <string name="mi_sport">Numărare pași</string>
     <string name="mi_sport_go_install">Descărcați</string>
     <string name="mi_wallet">Portofel Mi</string>
     <string name="midrop_parent">Mi Drop</string>
