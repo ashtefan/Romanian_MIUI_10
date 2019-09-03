@@ -1338,6 +1338,7 @@ Această caracteristică poate fi dezactivată din [Setări]"</string>
     <string name="connected_via_passpoint">Conectat prin %1$s</string>
     <string name="connected_wifi">Conectat</string>
     <string name="connecting_to_vpn">Se conectează la VPN</string>
+    <string name="connection_and_sharing">Conexiune și partajare</string>
     <string name="content_description_menu_button">Meniu</string>
     <string name="contributors_title">Colaboratori</string>
     <string name="controls_label">Comenzi</string>
@@ -1918,6 +1919,7 @@ Puteți vizualiza rapoartele generate în Managerul de Fișiere."</string>
     <string name="enable_mobile_data_when_opening_hotspot">Activaţi, de asemenea, conexiunea de date mobile?</string>
     <string name="enable_opengl_traces_title">Activați monitorizarea OpenGL</string>
     <string name="enable_quick_setting">Arată în Setările Rapide</string>
+    <string name="enable_screen_projection_summary">Proiectați conținutul ecranului pe un monitor extern</string>
     <string name="enable_service_encryption_warning">Dacă activați %1$s, dispozitivul nu va folosi modalitatea dumneavoastră de blocare a ecranului pentru a cripta datele.</string>
     <string name="enable_service_password_reason">Deoarece activarea %1$s afectează criptarea datelor, va trebui să vă confirmați parola.</string>
     <string name="enable_service_pattern_reason">Deoarece activarea %1$s afectează criptarea datelor, va trebui să vă confirmați modelul de deblocare.</string>
@@ -3606,6 +3608,7 @@ Acest lucru va permite aplicației să comute modul Nu deranjați și să modifi
     <string name="onscreen_keyboard_settings_summary">Setări pentru tastatura de pe ecran</string>
     <string name="open_demo_mode">Activați</string>
     <string name="open_demo_mode_warning_message">Când modul Demo este activat, ceasul din bara de stare se va opri iar pictogramele pentru acumulator și semnal vor fi afișate ca pline. Puteți dezactiva modul Demo sau reporni telefonul pentru a modifica acest lucru.</string>
+    <string name="open_game_accelerate">Activați Jocuri Turbo</string>
     <string name="open_miui_optimization_title">Activați optimizarea MIUI</string>
     <string name="open_optimization_message">Activați optimizarea pentru a vă bucura de o interfață rapidă și fluentă.</string>
     <string name="open_optimization_option">Activați</string>
@@ -3624,6 +3627,7 @@ Acest lucru va permite aplicației să comute modul Nu deranjați și să modifi
     <string name="otg_tip">"USB On-The-Go permite stikurilor USB și tastaturilor portabile să se conecteze la telefon și să facă schimb de date.
 
 OTG se dezactivează în mod automat după 10 minute de inactivitate."</string>
+    <string name="other">Altele</string>
     <string name="other_advanced_settings">Setări adiţionale</string>
     <string name="other_device_info">Altele</string>
     <string name="other_personal_settings">Setări personale</string>
@@ -4282,6 +4286,9 @@ Această setare afectează toţi utilizatorii acestui telefon."</string>
     <string name="screen_color_temperature_and_saturation">Temperatură de culoare şi saturaţie</string>
     <string name="screen_compatibility_label">Compatibilitate ecran</string>
     <string name="screen_compatibility_text">Este posibil ca această aplicaţie să nu fie proiectată pentru ecranul dvs. Aici puteţi stabili modul în care aceasta se adaptează ecranului dvs.</string>
+    <string name="screen_confirm">Porniți</string>
+    <string name="screen_dark_mode_select_time_error_summary">Ora de început și ora de sfârșit nu pot fi aceleași</string>
+    <string name="screen_dark_mode_time_title">Program</string>
     <string name="screen_effect">Contrast şi culori</string>
     <string name="screen_key_long_press">Apăsarea lungă a tastelor</string>
     <string name="screen_key_long_press_action">Funcția de declanșare</string>
@@ -4346,6 +4353,24 @@ Pentru a utiliza fixarea ecranului:
     <string name="screen_pinning_unlock_password">Solicită parola înainte de anularea fixării</string>
     <string name="screen_pinning_unlock_pattern">Solicită modelul de deblocare înainte de anularea fixării</string>
     <string name="screen_pinning_unlock_pin">Solicită codul PIN înainte de anularea fixării</string>
+    <string name="screen_projection">Proiectare</string>
+    <string name="screen_projection_characteristics">Funcții speciale</string>
+    <string name="screen_projection_characteristics_off_screen_summary">Puteți continua proiectarea atunci când ecranul dispozitivului este oprit. Această funcție reduce consumul de energie.</string>
+    <string name="screen_projection_characteristics_off_screen_title">Partajare cu ecranul dezactivat</string>
+    <string name="screen_projection_characteristics_privacy_protect_summary">Nu se afișează notificările plutitoare, apelurile primite și alte elemente private pe monitoare externe.</string>
+    <string name="screen_projection_characteristics_privacy_protect_title">Ascundeți elementele private</string>
+    <string name="screen_projection_characteristics_small_window_summary">Minimizați fereastra care este proiectată pentru a putea utiliza alte funcții ale telefonului.</string>
+    <string name="screen_projection_characteristics_small_window_title">Minimizare fereastră</string>
+    <string name="screen_projection_example_document_summary">Afișați prezentări pe un monitor extern în timp ce utilizați telefonul pentru a comuta între diapozitive și pentru a vizualiza note. Accesați Fișiere &gt; Documente pentru a încerca această funcție.</string>
+    <string name="screen_projection_example_document_title">Documente</string>
+    <string name="screen_projection_example_gallery_summary">Atingeți butonul Proiectare sub un element din Galerie pentru a-l afișa pe un monitor extern.</string>
+    <string name="screen_projection_example_gallery_title">Fotografii și videoclipuri</string>
+    <string name="screen_projection_example_game_summary">Jocuri Turbo vă permite să proiectați jocuri pe un monitor extern. Utilizați comanda rapidă din setările Jocuri Turbo pentru a activa această funcție.</string>
+    <string name="screen_projection_example_game_title">Jocuri</string>
+    <string name="screen_projection_help">Ajutor</string>
+    <string name="screen_projection_sample_summary">Partajare documente, jocuri, fotografii și videoclipuri</string>
+    <string name="screen_projection_sample_title">Demonstrații</string>
+    <string name="screen_projection_title">Proiectare</string>
     <string name="screen_reader_category_title">Cititoare de ecran</string>
     <string name="screen_resolution_dialog_title">Schimbați rezoluția</string>
     <string name="screen_resolution_high_format">Înaltă (%1$s)</string>
@@ -4469,6 +4494,7 @@ Pentru a utiliza fixarea ecranului:
     <string name="search_children_mode_title">Modul Copil;Blocare sms;Control parental;Mod control parental pentru copii;Restricționare trimitere SMS</string>
     <string name="search_choose_timezone">Selectați fusul orar</string>
     <string name="search_cloud_backup_settings_section_title">Setări Copii de rezervă pentru aplicații</string>
+    <string name="search_connection_and_sharing">Mai multe;Wireless</string>
     <string name="search_cloud_restore_section_title">Restaurare din Mi Cloud</string>
     <string name="search_copyright_title">Drepturi de autor</string>
     <string name="search_credentials_install">Instalați din stocare</string>
@@ -4549,7 +4575,6 @@ Pentru a utiliza fixarea ecranului:
     <string name="search_preferred_network_type_title">Tipul de rețea preferat;Rețele preferate;Tipul rețelei</string>
     <string name="search_privacy_policy">Politica de confidențialitate</string>
     <string name="search_privacy_settings">Creare copie de rezervă și resetare;Copie de rezervă;Resetare;Creare copie de rezervă</string>
-    <string name="search_radio_controls_title">Mai multe;Wireless</string>
     <string name="search_results_title">Setări</string>
     <string name="search_ring_volume_option_title">Volume;volum;Ton de apel și notificări;ton de apel;tonuri de apel;Alarmă;Muzică</string>
     <string name="search_ringtone_title">Ton de apel telefon;ton de apel;tonuri de apel</string>
@@ -4973,6 +4998,7 @@ Codul PIN poate fi incorect."</string>
     <string name="sound_title">Sunet</string>
     <string name="sound_vibrate_settings">Sunet şi vibrare</string>
     <string name="sound_work_settings">Sunete profil de servici</string>
+    <string name="speaker">Difuzor</string>
     <string name="special_access">Aplicații cu acces special</string>
     <string name="spell_checker_not_selected">Neselectat</string>
     <string name="spellchecker_language">Limbă</string>
@@ -5309,6 +5335,7 @@ O abordare Google asupra sincronizării datelor, care vă permite accesul la age
     <string name="system_dashboard_summary">Limbă, oră, copie de rezervă, actualizări</string>
     <string name="system_default_app">(Implicit de sistem)</string>
     <string name="system_package">Actualizările de sistem nu pot fi instalate pe suportul extern.</string>
+    <string name="system_print_service_help">Despre tipărire</string>
     <string name="system_shortcut_wake">Trezește utilizând scurtături de butoane</string>
     <string name="system_storage">Stocare internă</string>
     <string name="system_ui_settings">Afișează personalizarea SystemUI</string>
@@ -6585,6 +6612,7 @@ puteţi utiliza, de asemenea, reţelele altor utilizatori"</string>
     <string name="xiaomi_router_available_notif_title">Mi Router disponibil</string>
     <string name="xiaomi_router_notif_summary">Anunță-mă când un Mi Router este disponibil</string>
     <string name="xiaomi_router_notif_title">Notificare Mi Router</string>
+    <string name="xiaomi_transfer">Partajare Mi</string>
     <string name="xspace">Aplicații clonate</string>
     <string name="yes">Da</string>
     <string name="zen_access_disabled_package_warning">Trebuie pornit deoarece accesul la notificări este activ</string>

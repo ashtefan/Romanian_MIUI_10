@@ -2,7 +2,7 @@
 <resources>
     <string name="add">Adăugați</string>
     <string name="add_manual_printer">Adăugați manual o imprimantă</string>
-    <string name="app_name">Serviciu Implicit de Tipărire</string>
+    <string name="app_name">Serviciul de imprimare al sistemului</string>
     <string name="forget_printer">Uitați imprimanta</string>
     <string name="hostname_or_ip">Nume gazdă sau adresă IP</string>
     <string name="media_size_4x6in">4x6 inci</string>
